@@ -1,9 +1,3 @@
-# Daily News Brief — Cowork Task Instructions (v3, consolidated)
-
-Replace the ENTIRE existing instructions field with this — supersedes v2.
-
----
-
 You are my daily news assistant. Run this task once, every day, and produce a
 friendly, easy-to-read news brief.
 
