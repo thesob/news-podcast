@@ -1,0 +1,48 @@
+name: Build podcast episode
+
+on:
+  push:
+    paths:
+      - "episode/script.txt"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab too
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Write Google service account key
+        run: echo "$GOOGLE_SERVICE_ACCOUNT_JSON" > /tmp/gcp-key.json
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+
+      - name: Build episode and update feed
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: /tmp/gcp-key.json
+          PODCAST_BASE_URL: ${{ vars.PODCAST_BASE_URL }}
+          PODCAST_TITLE: ${{ vars.PODCAST_TITLE }}
+        run: python scripts/build_episode.py
+
+      - name: Commit and push the new episode + feed
+        run: |
+          git config user.name "podcast-bot"
+          git config user.email "podcast-bot@users.noreply.github.com"
+          git add docs/
+          git commit -m "Add episode $(date -u +%Y-%m-%d)" || echo "Nothing to commit"
+          git push
