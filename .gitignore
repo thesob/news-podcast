@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Local environment / secrets (GOOGLE_APPLICATION_CREDENTIALS points here)
+.env
+*.key.json
+service-account*.json
+credentials*.json
+credentials/
+
+# OS / editor
+.DS_Store
+Thumbs.db
