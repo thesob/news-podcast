@@ -25,6 +25,7 @@ Outputs:
   docs/feed.xml  (updated, newest episode first)
 """
 
+import calendar
 import os
 import re
 import sys
@@ -34,6 +35,7 @@ from pathlib import Path
 from google.cloud import texttospeech
 from pydub import AudioSegment
 from feedgen.feed import FeedGenerator
+import feedparser
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SCRIPT_PATH = REPO_ROOT / "episode" / "script.txt"
@@ -116,6 +118,7 @@ def build_audio(segments) -> AudioSegment:
 def update_feed(mp3_path: Path, episode_date: str, duration_seconds: int):
     base_url = os.environ["PODCAST_BASE_URL"].rstrip("/")
     title = os.environ.get("PODCAST_TITLE", "Daily News Brief")
+    new_entry_id = f"{base_url}/episodes/{episode_date}.mp3"
 
     fg = FeedGenerator()
     fg.load_extension("podcast")
@@ -125,37 +128,50 @@ def update_feed(mp3_path: Path, episode_date: str, duration_seconds: int):
     fg.description(f"{title} — automatically generated multilingual news brief")
     fg.language("en")
 
-    # Re-add existing episodes (newest first) if a feed already exists,
-    # so we accumulate history instead of overwriting it.
-    existing_entries = []
-    if FEED_PATH.exists():
-        old_fg = FeedGenerator()
-        old_fg.load_extension("podcast")
-        old_fg.parse(str(FEED_PATH))
-        for e in old_fg.entry():
-            if e.id() != f"{base_url}/episodes/{episode_date}.mp3":
-                existing_entries.append(e)
-
+    # Today's episode
+    today_dt = datetime.now(timezone.utc)
     fe = fg.add_entry()
-    fe.id(f"{base_url}/episodes/{episode_date}.mp3")
+    fe.id(new_entry_id)
     fe.title(f"{title} — {episode_date}")
-    fe.enclosure(
-        f"{base_url}/episodes/{episode_date}.mp3",
-        str(mp3_path.stat().st_size),
-        "audio/mpeg",
-    )
-    fe.pubDate(datetime.now(timezone.utc))
+    fe.enclosure(new_entry_id, str(mp3_path.stat().st_size), "audio/mpeg")
+    fe.pubDate(today_dt)
     fe.podcast.itunes_duration(str(duration_seconds))
 
-    for old_e in existing_entries:
-        new_e = fg.add_entry()
-        new_e.id(old_e.id())
-        new_e.title(old_e.title())
-        enc = old_e.enclosure()
-        if enc:
-            new_e.enclosure(enc.get("url"), enc.get("length"), enc.get("type"))
-        if old_e.pubDate():
-            new_e.pubDate(old_e.pubDate())
+    # Re-add previous episodes (read via feedparser — feedgen itself can only
+    # write feeds, not parse them) so we accumulate history instead of
+    # overwriting it. Skip any old entry with today's id in case this is a
+    # re-run for the same day.
+    if FEED_PATH.exists():
+        parsed = feedparser.parse(str(FEED_PATH))
+        for old_entry in parsed.entries:
+            old_id = old_entry.get("id") or old_entry.get("link")
+            if not old_id or old_id == new_entry_id:
+                continue
+
+            enclosures = old_entry.get("enclosures") or []
+            if not enclosures:
+                continue  # skip anything malformed rather than fail the whole run
+
+            old_fe = fg.add_entry()
+            old_fe.id(old_id)
+            old_fe.title(old_entry.get("title", old_id))
+            enc = enclosures[0]
+            old_fe.enclosure(
+                enc.get("href", old_id),
+                str(enc.get("length", "0")),
+                enc.get("type", "audio/mpeg"),
+            )
+            if old_entry.get("published_parsed"):
+                ts = calendar.timegm(old_entry["published_parsed"])
+                old_fe.pubDate(datetime.fromtimestamp(ts, tz=timezone.utc))
+            else:
+                old_fe.pubDate(today_dt)  # fallback, shouldn't normally happen
+
+    # Sort newest-first explicitly, rather than depending on the order
+    # entries happened to be added in.
+    all_entries = fg.entry()
+    all_entries.sort(key=lambda e: e.pubDate(), reverse=True)
+    fg.entry(all_entries, replace=True)
 
     DOCS_DIR.mkdir(parents=True, exist_ok=True)
     fg.rss_file(str(FEED_PATH))
