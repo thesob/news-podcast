@@ -19,7 +19,7 @@ Your Cowork task's only new job each day is to write a correctly-tagged
 1. Go to https://console.cloud.google.com/ and create a project (or use an existing one).
 2. Enable the **Cloud Text-to-Speech API** for that project.
 3. Go to **IAM & Admin → Service Accounts → Create Service Account**.
-   Give it the role **Cloud Text-to-Speech User** (or Editor, for simplicity).
+   Give it the role **Editor**, for simplicity.
 4. Create a **JSON key** for that service account and download it. Keep this file private — it's a credential.
 5. Free tier: 4 million characters/month on Standard voices (the default in this repo). A daily 3–5k character brief uses a tiny fraction of that.
 
