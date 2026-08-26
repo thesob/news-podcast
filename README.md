@@ -4,7 +4,7 @@
 End to end, a day looks like this:
 
 1. A daily Cowork/Claude agent task (prompt lives in
-   [`.github/workflows/prompts/agent-prompt.md`](.github/workflows/prompts/agent-prompt.md))
+   [`/prompts/agent-prompt.md`](/prompts/agent-prompt.md))
    researches the news, writes the brief, and emails it to you as HTML —
    with a plain-text, language-tagged version attached as `script.txt`.
    That task explicitly does **not** touch GitHub itself.
@@ -23,8 +23,7 @@ End to end, a day looks like this:
      then commit and push that back to the repo.
 4. GitHub Pages serves `docs/` publicly, so the feed is a stable URL you can subscribe to.
 
-Your only manual involvement, day to day, is whatever it takes to get the
-Cowork task to run and send that email — everything after that is automatic.
+The Cowork task is scheduled to run daily and send that email. Everything after that is automatic.
 
 ---
 
@@ -88,7 +87,7 @@ your inbox instead and does the commit for it. Set it up once:
 
 ### 7. Set up the daily Cowork task
 Give your daily Cowork/Claude task the instructions in
-[`.github/workflows/prompts/agent-prompt.md`](.github/workflows/prompts/agent-prompt.md).
+[`/prompts/agent-prompt.md`](/prompts/agent-prompt.md) and schedule daily triggering.
 In short, it needs to: research and write the brief, send it as an HTML email
 to yourself, and attach a plain-text `script.txt` version with every
 paragraph preceded by a `[EN]`/`[ES]`/`[SV]` language tag on its own line —
