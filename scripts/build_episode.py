@@ -22,6 +22,7 @@ Requires env vars:
 
 Outputs:
   docs/episodes/<date>.mp3
+  docs/transcripts/<date>.txt  (raw script, linked from the feed as a transcript)
   docs/feed.xml  (updated, newest episode first)
 """
 
@@ -35,22 +36,56 @@ from pathlib import Path
 from google.cloud import texttospeech
 from pydub import AudioSegment
 from feedgen.feed import FeedGenerator
+from feedgen.ext.base import BaseExtension, BaseEntryExtension
+from feedgen.util import xml_elem
 import feedparser
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SCRIPT_PATH = REPO_ROOT / "episode" / "script.txt"
 DOCS_DIR = REPO_ROOT / "docs"
 EPISODES_DIR = DOCS_DIR / "episodes"
+TRANSCRIPTS_DIR = DOCS_DIR / "transcripts"
 FEED_PATH = DOCS_DIR / "feed.xml"
+
+# Podcasting 2.0 <podcast:transcript> tag (https://podcastindex.org/namespace/1.0).
+# feedgen's own "podcast" extension only covers the older iTunes tags, so this
+# adds just enough of the newer namespace for one element.
+PODCAST_NS = "https://podcastindex.org/namespace/1.0"
+EPISODE_DATE_RE = re.compile(r"/episodes/(\d{4}-\d{2}-\d{2})\.mp3$")
+
+
+class TranscriptExtension(BaseExtension):
+    def extend_ns(self):
+        return {"podcast": PODCAST_NS}
+
+
+class TranscriptEntryExtension(BaseEntryExtension):
+    def __init__(self):
+        self.__url = None
+        self.__mime_type = "text/plain"
+
+    def transcript(self, url=None, mime_type=None):
+        if url is not None:
+            self.__url = url
+        if mime_type is not None:
+            self.__mime_type = mime_type
+        return self.__url
+
+    def extend_rss(self, entry):
+        if self.__url:
+            tag = xml_elem("{%s}transcript" % PODCAST_NS, entry)
+            tag.attrib["url"] = self.__url
+            tag.attrib["type"] = self.__mime_type
+        return entry
 
 # Map tags to Google Cloud TTS language codes + voice names.
 # Standard voices are used by default to maximize free-tier headroom.
 # Swap in WaveNet/Neural2 voice names later if you want higher quality
 # and don't mind smaller monthly free allowance.
 VOICE_MAP = {
-    "EN": {"language_code": "en-US", "name": "en-US-Standard-C"},
-    "ES": {"language_code": "es-ES", "name": "es-ES-Standard-A"},
-    "SV": {"language_code": "sv-SE", "name": "sv-SE-Standard-A"},
+    "EN": {"language_code": "en-US", "name": "en-US-Chirp3-HD-Algenib"},
+    "ES": {"language_code": "es-ES", "name": "es-US-Chirp3-HD-Sulafat"},
+    "SV": {"language_code": "sv-SE", "name": "sv-SE-Chirp3-HD-Enceladus"},
 }
 
 TAG_RE = re.compile(r"^\[(EN|ES|SV)\]\s*$")
@@ -122,6 +157,9 @@ def update_feed(mp3_path: Path, episode_date: str, duration_seconds: int):
 
     fg = FeedGenerator()
     fg.load_extension("podcast")
+    fg.register_extension(
+        "transcript", TranscriptExtension, TranscriptEntryExtension, atom=False
+    )
     fg.title(title)
     fg.link(href=f"{base_url}/feed.xml", rel="self")
     fg.link(href=base_url, rel="alternate")
@@ -136,6 +174,8 @@ def update_feed(mp3_path: Path, episode_date: str, duration_seconds: int):
     fe.enclosure(new_entry_id, str(mp3_path.stat().st_size), "audio/mpeg")
     fe.pubDate(today_dt)
     fe.podcast.itunes_duration(str(duration_seconds))
+    if (TRANSCRIPTS_DIR / f"{episode_date}.txt").exists():
+        fe.transcript.transcript(f"{base_url}/transcripts/{episode_date}.txt")
 
     # Re-add previous episodes (read via feedparser — feedgen itself can only
     # write feeds, not parse them) so we accumulate history instead of
@@ -166,6 +206,18 @@ def update_feed(mp3_path: Path, episode_date: str, duration_seconds: int):
                 old_fe.pubDate(datetime.fromtimestamp(ts, tz=timezone.utc))
             else:
                 old_fe.pubDate(today_dt)  # fallback, shouldn't normally happen
+            if old_entry.get("itunes_duration"):
+                old_fe.podcast.itunes_duration(old_entry["itunes_duration"])
+            # Match the transcript by date rather than round-tripping it
+            # through feedparser, which doesn't know the podcast namespace
+            # and would silently drop it on every rebuild.
+            old_date_match = EPISODE_DATE_RE.search(enc.get("href", ""))
+            if old_date_match:
+                old_date = old_date_match.group(1)
+                if (TRANSCRIPTS_DIR / f"{old_date}.txt").exists():
+                    old_fe.transcript.transcript(
+                        f"{base_url}/transcripts/{old_date}.txt"
+                    )
 
     # Sort newest-first explicitly, rather than depending on the order
     # entries happened to be added in.
@@ -190,6 +242,9 @@ def main():
     EPISODES_DIR.mkdir(parents=True, exist_ok=True)
     mp3_path = EPISODES_DIR / f"{episode_date}.mp3"
     audio.export(mp3_path, format="mp3", bitrate="96k")
+
+    TRANSCRIPTS_DIR.mkdir(parents=True, exist_ok=True)
+    (TRANSCRIPTS_DIR / f"{episode_date}.txt").write_text(text, encoding="utf-8")
 
     duration_seconds = int(len(audio) / 1000)
     update_feed(mp3_path, episode_date, duration_seconds)
