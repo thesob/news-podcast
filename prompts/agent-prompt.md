@@ -135,13 +135,27 @@ C. Also produce a second, separate text block: the same story content and
    Hypothesis Watch are always `[EN]`. Content originally from DW, NRK, or
    any other non-EN/ES/SV source should also be tagged `[EN]` once
    translated, since the podcast only has EN/ES/SV voices.
-   Attach this as a file named `script.txt` to the same email from step B —
-   an actual file attachment, not pasted into the body.
+   Do NOT send this as a file attachment — the Gmail tool's attachment
+   encoding corrupts non-ASCII characters (accented Spanish/Swedish letters
+   get silently mangled, dashes get replaced with "?"). Instead, embed it in
+   the PLAIN-TEXT `body` field of the exact same email from step B (not the
+   `htmlBody` field — that stays the nicely formatted brief for me to read),
+   wrapped between these exact marker lines, each alone on its own line and
+   with nothing else on those lines:
+   `<<<PODCAST_SCRIPT_START>>>`
+   `<<<PODCAST_SCRIPT_END>>>`
+   Most email clients render the HTML part and hide the plain-text
+   alternative, so this won't clutter what I see when I open the email — but
+   don't shorten or omit it for that reason; it still needs the full script
+   text between the markers, verbatim.
 
 **Explicitly do NOT do any of the following:**
 - Do not attempt to connect to or push anything via GitHub.
 - Do not attempt to publish, update, or create any Claude Artifact page.
 - Do not use NewsAPI.org.
 - Do not include urls in the script.txt
-- Delivery is complete once the email in step B (with the script.txt
-  attachment) has been sent. Nothing else is needed.
+- Do not send the script as a file attachment (see step C — known encoding
+  bug in the Gmail tool's attachment handling).
+- Delivery is complete once the email in step B has been sent, with the
+  HTML brief as the visible body and the delimited script block in the
+  plain-text body. Nothing else is needed.

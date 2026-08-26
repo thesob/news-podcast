@@ -2,10 +2,16 @@
  * Daily News Podcast — Gmail → GitHub bridge
  *
  * Reads today's "Daily News Brief" email, extracts the tagged podcast script
- * (either from a script.txt attachment, or from a delimited block in the
- * email body as a fallback), and commits it to GitHub as episode/script.txt.
- * That commit triggers the existing GitHub Actions workflow which builds the
- * MP3 and updates the podcast RSS feed.
+ * from a delimited block in the email's plain-text body, and commits it to
+ * GitHub as episode/script.txt. That commit triggers the existing GitHub
+ * Actions workflow which builds the MP3 and updates the podcast RSS feed.
+ *
+ * NOTE: this used to read the script from a script.txt attachment instead.
+ * That was switched to a delimited plain-text body block because the Gmail
+ * attachment tool used to compose the source email silently corrupts
+ * non-ASCII characters (see prompts/agent-prompt.md step C for the details) —
+ * the plain-text body path does not go through that broken code path and
+ * round-trips UTF-8 correctly.
  *
  * SETUP:
  * 1. script.google.com -> New project -> paste this in.
@@ -28,7 +34,9 @@ const CONFIG = {
   GITHUB_REPO: 'thesob/news-podcast',   // owner/repo
   GITHUB_BRANCH: 'main',
   FILE_PATH: 'episode/script.txt',
-  GMAIL_SEARCH: 'subject:"Daily News Brief" newer_than:1d has:attachment',
+  GMAIL_SEARCH: 'subject:"Daily News Brief" newer_than:1d',
+  SCRIPT_START_MARKER: '<<<PODCAST_SCRIPT_START>>>',
+  SCRIPT_END_MARKER: '<<<PODCAST_SCRIPT_END>>>',
 };
 
 /**
@@ -67,8 +75,9 @@ function pushDailyScriptToGithub() {
 }
 
 /**
- * Looks for today's brief email and extracts the script.txt attachment.
- * Returns { messageId, scriptText } or null if nothing found yet.
+ * Looks for today's brief email and extracts the delimited script block from
+ * its plain-text body. Returns { messageId, scriptText } or null if nothing
+ * found yet.
  */
 function findTodaysScript_() {
   const threads = GmailApp.search(CONFIG.GMAIL_SEARCH, 0, 5);
@@ -81,18 +90,28 @@ function findTodaysScript_() {
   const message = messages[messages.length - 1];
   const messageId = message.getId();
 
-  const attachments = message.getAttachments();
-  const scriptAttachment = attachments.find(function (a) {
-    return a.getName().toLowerCase() === 'script.txt';
-  });
-  if (!scriptAttachment) {
-    return null; // matching email found but no attachment yet — retry next poll
+  const scriptText = extractDelimitedScript_(message.getPlainBody());
+  if (!scriptText) {
+    return null; // matching email found but script block not present yet — retry next poll
   }
 
-  return {
-    messageId: messageId,
-    scriptText: scriptAttachment.getDataAsString('UTF-8'),
-  };
+  return { messageId: messageId, scriptText: scriptText };
+}
+
+/**
+ * Pulls the text between CONFIG.SCRIPT_START_MARKER and
+ * CONFIG.SCRIPT_END_MARKER out of a plain-text email body. Returns null if
+ * the markers aren't both present (or are out of order).
+ */
+function extractDelimitedScript_(plainBody) {
+  const startIdx = plainBody.indexOf(CONFIG.SCRIPT_START_MARKER);
+  const endIdx = plainBody.indexOf(CONFIG.SCRIPT_END_MARKER);
+  if (startIdx === -1 || endIdx === -1 || endIdx <= startIdx) {
+    return null;
+  }
+  return plainBody
+    .substring(startIdx + CONFIG.SCRIPT_START_MARKER.length, endIdx)
+    .trim();
 }
 
 /**
