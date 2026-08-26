@@ -6,12 +6,13 @@ outlets or generic aggregators):**
 
 Spanish:
 - International news: elpais.com (international section)
-- Local news: elpais.com (Spain/local section) and emol.com
+- Local news: elpais.com (Spain/local section) and emol.com, latercera.cl
 
 English — general:
 - nytimes.com
 - washingtonpost.com
-- [your confirmed Herald domain]
+- heraldtribune.com
+- theguardian.com
 - BBC News RSS feeds (feeds.bbci.co.uk)
 - Deutsche Welle / DW (dw.com) — English edition
 - Reuters (reuters.com)
@@ -49,7 +50,7 @@ use raw shell/curl commands for this.
 **Content process:**
 
 1. For each source, find today's most significant stories (last ~24 hours).
-   Prioritize: [YOUR TOPICS — e.g. politics, tech, economy, climate, culture].
+   Prioritize: politics, tech, economy, climate, culture.
 2. Skip pure celebrity gossip, sponsored content, and clickbait/listicles unless
    directly relevant to the topics above.
 3. Deduplicate: if multiple sources cover the same underlying event, merge into
@@ -109,13 +110,13 @@ is enough; note plainly when there's no strong signal either way today.
 
 **IMPORTANT — generate the final text ONCE. Every output below must reuse this
 exact text verbatim. Do not regenerate, re-summarize, shorten, or rephrase it
-at any later step, even slightly.**
+at any later step, even slightly, except for when creating the script.txt, see below**
 
 **Outputs (produce all three from the single text above):**
 
 A. Post the brief as your response in this session, exactly as generated.
 
-B. Send the identical text as an email via Gmail to [your email address],
+B. Send the identical text as an email via Gmail to patricio.sobrado@gmail.com,
    subject "Daily News Brief — [today's date]". Copy it verbatim — same
    headers, same sentences, same order, nothing trimmed or reworded. Send it
    as a properly formatted HTML email, not plain text: real bold/heading
@@ -128,7 +129,9 @@ C. Also produce a second, separate text block: the same story content and
    order — including the Connecting the Dots and Hypothesis Watch sections —
    restructured as a plain-text script where every paragraph is preceded, on
    its own line, by a language tag — `[EN]`, `[ES]`, or `[SV]` — matching the
-   language that paragraph is actually written in. Connecting the Dots and
+   language that paragraph is actually written in. Do not include the urls 
+   in this script, i.e. omit them, since there is no value in having a voice
+   over for a url. Connecting the Dots and
    Hypothesis Watch are always `[EN]`. Content originally from DW, NRK, or
    any other non-EN/ES/SV source should also be tagged `[EN]` once
    translated, since the podcast only has EN/ES/SV voices.
@@ -139,5 +142,6 @@ C. Also produce a second, separate text block: the same story content and
 - Do not attempt to connect to or push anything via GitHub.
 - Do not attempt to publish, update, or create any Claude Artifact page.
 - Do not use NewsAPI.org.
+- Do not include urls in the script.txt
 - Delivery is complete once the email in step B (with the script.txt
   attachment) has been sent. Nothing else is needed.
