@@ -1,0 +1,26 @@
+# Template for `gcloud run deploy --flags-file=...` (see proxy/README.md,
+# "Deploy" step). Copy this to deploy-flags.local.yaml and fill in real
+# values there — deploy-flags.local.yaml is gitignored; this .example file
+# is the only version meant to be committed, so keep it placeholder-only.
+#
+# This file exists to work around a Windows PowerShell issue: passing
+# --set-env-vars/--set-secrets directly on the command line gets mangled by
+# a second round of parsing inside gcloud's .cmd wrapper, which treats
+# unquoted commas and embedded "=" characters as argument separators. A
+# --flags-file sidesteps that entirely since these values never touch the
+# shell's own argument parser.
+#
+# --source: . assumes `gcloud run deploy` is run from inside this proxy/
+# folder (matching the README) — change it to "proxy" instead if you run
+# the deploy command from the repo root.
+--source: .
+--function: headlinesProxy
+--base-image: nodejs22
+--region: YOUR_REGION
+--allow-unauthenticated:
+--set-env-vars:
+  RECIPIENT_EMAIL: you@example.com
+--set-secrets:
+  GUARDIAN_API_KEY: GUARDIAN_API_KEY:latest
+  GNEWS_API_KEY: GNEWS_API_KEY:latest
+  PROXY_TOKEN: PROXY_TOKEN:latest

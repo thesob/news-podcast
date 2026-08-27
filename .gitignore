@@ -13,6 +13,10 @@ service-account*.json
 credentials*.json
 credentials/
 
+# gcloud deploy flags file with real secret values (see proxy/README.md) —
+# the .example.yaml template is the only version meant to be committed
+proxy/deploy-flags.local.yaml
+
 # OS / editor
 .DS_Store
 Thumbs.db

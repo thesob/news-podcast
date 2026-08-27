@@ -42,16 +42,28 @@ The Cowork task is scheduled to run daily and send that email. Everything after 
    3–5k character brief is effectively free; swap `VOICE_MAP` back to
    `*-Standard-*` voice names if you want to stay comfortably inside the free tier.
 
-### 2. Create the GitHub repo
-1. Create a new **public** repository (it needs to be public for the free GitHub Pages hosting to serve the feed without extra setup — the content is just public news, so this is low-risk).
+### 2. Headlines proxy (Cloud Run function)
+The Guardian and GNews API keys, and your podcast recipient email, are never
+written into `prompts/agent-prompt.md` — that file lives in a **public**
+repo (see step 3), and the Cowork task itself has no secret storage of its
+own. Instead, a small Cloud Run function (Google's current name for what
+used to be called Cloud Functions) in [`/proxy`](/proxy) holds those two
+keys and that email server-side, in the same GCP project as step 1, and
+exposes a narrow, token-gated `GET /headlines` and `GET /config`. Follow
+[`proxy/README.md`](proxy/README.md) to deploy it — you'll come out of that
+with a proxy URL and a bearer token to paste into the *live* Cowork task
+prompt in step 8 (not into this repo).
+
+### 3. Create the GitHub repo
+1. Create a new **public** repository (it needs to be public for the free GitHub Pages hosting to serve the feed without extra setup — the content is just public news, so this is low-risk). Since the repo is public, double-check `prompts/agent-prompt.md` still has the `[YOUR PROXY URL]` / `[YOUR PROXY TOKEN]` placeholders rather than real values before you push.
 2. Push the contents of this folder to that repo (or upload the files via GitHub's web UI).
 
-### 3. Enable GitHub Pages
+### 4. Enable GitHub Pages
 1. In the repo: **Settings → Pages**.
 2. Source: **Deploy from a branch**. Branch: `main`, folder: `/docs`.
 3. Save. GitHub will give you a URL like `https://<your-username>.github.io/<repo-name>/`.
 
-### 4. Add secrets and variables
+### 5. Add secrets and variables
 In the repo: **Settings → Secrets and variables → Actions**.
 
 - Under **Secrets**, add:
@@ -60,13 +72,13 @@ In the repo: **Settings → Secrets and variables → Actions**.
   - `PODCAST_BASE_URL` — e.g. `https://yourusername.github.io/your-repo`
   - `PODCAST_TITLE` — e.g. `My Daily News Brief`
 
-### 5. Test the build manually
+### 6. Test the build manually
 1. Edit `episode/script.txt` with a short test in each language (a template is already there).
 2. Commit and push to `main`.
 3. Go to the **Actions** tab in GitHub — you should see "Build podcast episode" running.
 4. When it finishes, check `https://<your PODCAST_BASE_URL>/feed.xml` in a browser — you should see valid XML with one episode.
 
-### 6. Set up the Gmail → GitHub bridge
+### 7. Set up the Gmail → GitHub bridge
 The Cowork task never talks to GitHub directly — a Google Apps Script watches
 your inbox instead and does the commit for it. Set it up once:
 1. Go to https://script.google.com → **New project**, and paste in the contents
@@ -85,16 +97,21 @@ your inbox instead and does the commit for it. Set it up once:
    ever commits once per email, no matter how often it polls and finds
    nothing new.)
 
-### 7. Set up the daily Cowork task
+### 8. Set up the daily Cowork task
 Give your daily Cowork/Claude task the instructions in
 [`/prompts/agent-prompt.md`](/prompts/agent-prompt.md) and schedule daily triggering.
-In short, it needs to: research and write the brief, send it as an HTML email
-to yourself, and attach a plain-text `script.txt` version with every
-paragraph preceded by a `[EN]`/`[ES]`/`[SV]` language tag on its own line —
-and explicitly *not* attempt to push anything to GitHub itself (that's the
-Apps Script's job, from step 6).
+Before pasting the prompt into the Cowork task UI, fill in the two
+placeholders left blank in the committed file — `[YOUR PROXY URL]` and
+`[YOUR PROXY TOKEN]`, from step 2 — in that *live* copy only; never commit
+the real values back to this repo.
+In short, the task needs to: research and write the brief, call the proxy
+for supplementary headlines and the recipient email, send the brief as an
+HTML email to that address, and attach a plain-text `script.txt` version with
+every paragraph preceded by a `[EN]`/`[ES]`/`[SV]` language tag on its own
+line — and explicitly *not* attempt to push anything to GitHub itself (that's
+the Apps Script's job, from step 7).
 
-### 8. Subscribe in a podcast app
+### 9. Subscribe in a podcast app
 Apple Podcasts doesn't reliably support private feed URLs. Use **Overcast** (free, App Store) instead:
 1. Open Overcast → tap **+** → **Add URL**.
 2. Paste your feed URL: `https://<your PODCAST_BASE_URL>/feed.xml`.

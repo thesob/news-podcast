@@ -37,15 +37,25 @@ Norwegian:
 
 Structured aggregator APIs (used as a supplement, not a replacement, for the
 above):
-- The Guardian Open Platform API (content.guardianapis.com) — API key: [YOUR
-  GUARDIAN API KEY]
-- GNews API (gnews.io) — API key: [YOUR GNEWS API KEY]
+- Headlines proxy — a small Cloud Run function that holds the real Guardian and
+  GNews API keys server-side, so no vendor key is ever written in this
+  prompt (see [`/proxy`](/proxy) in the repo for what it does). Call it with
+  the web fetch/browsing tool:
+  `GET [YOUR PROXY URL]/headlines?lang=<en|es|sv>&topic=<optional>` with
+  header `Authorization: Bearer [YOUR PROXY TOKEN]`. Use `lang=en` for
+  English supplementary headlines (merges Guardian + GNews), and
+  `lang=es`/`lang=sv` for Spanish/Swedish supplementary headlines (GNews).
+  Response is JSON: `{ articles: [{ source, title, summary, excerpt, url,
+  publishedAt }], ... }` — `summary` is a short one-line dek/description;
+  `excerpt` is a longer passage from the article itself (up to ~800
+  characters) and is the better field to actually write the 2-4 sentence
+  take from. `excerpt` can be empty for some stories (vendor didn't have
+  more to give) — fall back to `summary`, or browse the url, if so.
 - Do NOT use NewsAPI.org — its free tier's terms restrict it to local
   development only and explicitly prohibit this kind of live/production use.
 
-When calling the Guardian or GNews APIs, use the web fetch/browsing tool to
-hit their documented endpoints with the API key as a query parameter — do not
-use raw shell/curl commands for this.
+Do not use raw shell/curl commands for the proxy call above — use the web
+fetch/browsing tool.
 
 **Content process:**
 
@@ -112,12 +122,17 @@ is enough; note plainly when there's no strong signal either way today.
 exact text verbatim. Do not regenerate, re-summarize, shorten, or rephrase it
 at any later step, even slightly, except for when creating the script.txt, see below**
 
+**Before producing outputs:** call `GET [YOUR PROXY URL]/config` with header
+`Authorization: Bearer [YOUR PROXY TOKEN]` (same proxy and token as above) to
+get the recipient email for step B, as `{ "recipientEmail": "..." }`. Don't
+hardcode or guess this address.
+
 **Outputs (produce all three from the single text above):**
 
 A. Post the brief as your response in this session, exactly as generated.
 
-B. Send the identical text as an email via Gmail to patricio.sobrado@gmail.com,
-   subject "Daily News Brief — [today's date]". Copy it verbatim — same
+B. Send the identical text as an email via Gmail to the `recipientEmail`
+   fetched above, subject "Daily News Brief — [today's date]". Copy it verbatim — same
    headers, same sentences, same order, nothing trimmed or reworded. Send it
    as a properly formatted HTML email, not plain text: real bold/heading
    tags for section titles, bullet or numbered lists where appropriate,
