@@ -144,9 +144,9 @@ C. Also produce a second, separate text block: the same story content and
    order — including the Connecting the Dots and Hypothesis Watch sections —
    restructured as a plain-text script where every paragraph is preceded, on
    its own line, by a language tag — `[EN]`, `[ES]`, or `[SV]` — matching the
-   language that paragraph is actually written in. Do not include the urls 
-   in this script, i.e. omit them, since there is no value in having a voice
-   over for a url. Connecting the Dots and
+   language that paragraph is actually written in. Do not include any url 
+   in this script, i.e. skip the url lins, since there is no value in having a voice
+   over read out loud the content of a url. Connecting the Dots and
    Hypothesis Watch are always `[EN]`. Content originally from DW, NRK, or
    any other non-EN/ES/SV source should also be tagged `[EN]` once
    translated, since the podcast only has EN/ES/SV voices.
@@ -168,7 +168,7 @@ C. Also produce a second, separate text block: the same story content and
 - Do not attempt to connect to or push anything via GitHub.
 - Do not attempt to publish, update, or create any Claude Artifact page.
 - Do not use NewsAPI.org.
-- Do not include urls in the script.txt
+- Do not include url links in the script.txt
 - Do not send the script as a file attachment (see step C — known encoding
   bug in the Gmail tool's attachment handling).
 - Delivery is complete once the email in step B has been sent, with the
