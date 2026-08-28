@@ -3,14 +3,14 @@
 Builds one podcast episode from a language-tagged script, and updates feed.xml.
 
 INPUT FORMAT (episode/script.txt):
-  Each paragraph starts with a language tag on its own line: [EN], [ES], or [SV]
-  followed by one or more lines of text in that language. Example:
+  Each paragraph starts with a language tag, [EN], [ES], or [SV], followed by
+  one or more lines of text in that language. The tag may sit alone on its
+  own line or share the line with the start of the paragraph text. Example:
 
     [EN]
     Good morning. Here are today's top stories.
 
-    [ES]
-    Los mercados bursátiles cerraron con fuertes ganancias hoy.
+    [ES] Los mercados bursátiles cerraron con fuertes ganancias hoy.
 
     [SV]
     Vädret idag väntas vara soligt över hela landet.
@@ -88,11 +88,21 @@ VOICE_MAP = {
     "SV": {"language_code": "sv-SE", "name": "sv-SE-Chirp3-HD-Enceladus"},
 }
 
-TAG_RE = re.compile(r"^\[(EN|ES|SV)\]\s*$")
+TAG_RE = re.compile(r"^\[(EN|ES|SV)\]\s*(.*)$")
 
 
 def parse_segments(text: str):
-    """Split the tagged script into a list of (lang, text) segments."""
+    """Split the tagged script into a list of (lang, text) segments.
+
+    Accepts the tag either alone on its own line, with the paragraph text
+    following on subsequent lines, or with the paragraph text starting
+    right after the tag on the same line:
+
+        [EN]
+        Good morning.
+
+        [EN] Good morning.
+    """
     lines = text.splitlines()
     segments = []
     current_lang = None
@@ -109,7 +119,7 @@ def parse_segments(text: str):
         if m:
             flush()
             current_lang = m.group(1)
-            current_lines = []
+            current_lines = [m.group(2)] if m.group(2) else []
         else:
             current_lines.append(line)
     flush()
