@@ -150,6 +150,15 @@ C. Also produce a second, separate text block: the same story content and
    Hypothesis Watch are always `[EN]`. Content originally from DW, NRK, or
    any other non-EN/ES/SV source should also be tagged `[EN]` once
    translated, since the podcast only has EN/ES/SV voices.
+   Also emit a section marker line — alone on its own line, nothing else on it,
+   not spoken — immediately before the first paragraph of each major section, so
+   the podcast can switch its background music: `[SECTION news]` before the Top
+   Stories paragraph, `[SECTION connecting_dots]` before Connecting the Dots,
+   and `[SECTION hypothesis_watch]` before Hypothesis Watch. (An optional
+   `[SECTION intro]` may lead the greeting.) These are the only four ids; every
+   news subsection — Spain & Latin America, US & International, Tech & Niche,
+   Sweden — stays under the single `[SECTION news]`, no marker of its own. The
+   marker is in addition to, not a replacement for, the spoken heading line.
    Do NOT send this as a file attachment — the Gmail tool's attachment
    encoding corrupts non-ASCII characters (accented Spanish/Swedish letters
    get silently mangled, dashes get replaced with "?"). Instead, embed it in

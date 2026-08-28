@@ -15,6 +15,13 @@ INPUT FORMAT (episode/script.txt):
     [SV]
     Vädret idag väntas vara soligt över hela landet.
 
+  An optional section marker on its own line, one of
+  [SECTION news], [SECTION connecting_dots], [SECTION hypothesis_watch],
+  [SECTION intro], switches the background bed for the paragraphs that follow.
+  Markers are never spoken and are stripped from the archived transcript. When
+  absent, sections are detected heuristically from the spoken heading lines
+  ("Top Stories.", "Connecting the Dots.", "Hypothesis Watch.", ...).
+
 Requires env vars:
   GOOGLE_APPLICATION_CREDENTIALS - path to a Google service account JSON key
   PODCAST_BASE_URL - e.g. https://username.github.io/reponame
@@ -30,6 +37,8 @@ import calendar
 import os
 import re
 import sys
+import unicodedata
+from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -90,32 +99,134 @@ VOICE_MAP = {
 
 TAG_RE = re.compile(r"^\[(EN|ES|SV)\]\s*(.*)$")
 
+# ---------------------------------------------------------------------------
+# Audio production: opening jingle, per-section background beds, section
+# stingers and inter-item plings. Every asset below is optional; a missing
+# file just disables that one layer (see build_audio).
+# ---------------------------------------------------------------------------
+ASSETS_DIR = REPO_ROOT / "assets" / "audio"
+INTRO_JINGLE = ASSETS_DIR / "intro_jingle.mp3"
+SECTION_STINGER = ASSETS_DIR / "section_stinger.mp3"
+ITEM_PLING = ASSETS_DIR / "item_pling.mp3"
+BED_FILES = {
+    "intro": ASSETS_DIR / "bed_intro.mp3",
+    "news": ASSETS_DIR / "bed_news.mp3",
+    "connecting_dots": ASSETS_DIR / "bed_connecting_dots.mp3",
+    "hypothesis_watch": ASSETS_DIR / "bed_hypothesis_watch.mp3",
+}
+
+BED_GAIN_DB = -22          # looping bed level relative to the voice
+STINGER_GAIN_DB = 0        # trim the section stinger without re-rendering it
+PLING_GAIN_DB = 0          # trim the item pling without re-rendering it
+BED_FADE_MS = 800          # fade in/out at each bed span boundary
+BED_LOOP_CROSSFADE_MS = 200  # seam crossfade when tiling a short loop
+INTRO_JINGLE_LEAD_MS = 4000   # jingle plays solo before the first words
+INTRO_JINGLE_DUCK_MS = 2500   # jingle fades down into the bed under first words
+STINGER_GAP_MS = 350         # silence after a section stinger, before speech
+PLING_GAP_MS = 250           # silence after an item pling, before speech
+SEGMENT_PAUSE_MS = 500       # pause between spoken paragraphs
+OUTPUT_FRAME_RATE = 44100
+OUTPUT_CHANNELS = 2
+OUTPUT_BITRATE = "128k"
+
+# Explicit section marker, e.g. a line reading "[SECTION connecting_dots]".
+SECTION_RE = re.compile(r"^\[SECTION\s+([a-z_]+)\]\s*$", re.I)
+SECTION_LINE_RE = re.compile(r"(?m)^\[SECTION\s+\S+\]\s*\n?")
+SECTIONS = ("intro", "news", "connecting_dots", "hypothesis_watch")
+
+# Heuristic fallback: normalized spoken heading -> section id. Used only when
+# the script carries no explicit [SECTION ...] markers for that boundary.
+HEADING_SECTIONS = {
+    "top stories": "news",
+    "espana y latinoamerica": "news",
+    "us and international": "news",
+    "tech and niche": "news",
+    "sverige": "news",
+    "sweden": "news",
+    "connecting the dots": "connecting_dots",
+    "hypothesis watch": "hypothesis_watch",
+}
+
+# Spoken sub-dividers inside the news block. They keep the news bed but should
+# not get an inter-item pling in front of them.
+NEWS_SUBHEADINGS = {h for h, s in HEADING_SECTIONS.items() if s == "news"}
+
+
+@dataclass
+class Segment:
+    lang: str
+    text: str
+    section: str = "intro"
+    is_section_start: bool = False
+
+
+def _normalize_heading(text: str) -> str:
+    """Lowercase, strip accents, drop trailing period, collapse whitespace."""
+    stripped = "".join(
+        c for c in unicodedata.normalize("NFKD", text) if not unicodedata.combining(c)
+    )
+    return re.sub(r"\s+", " ", stripped.strip().rstrip(".").lower())
+
 
 def parse_segments(text: str):
-    """Split the tagged script into a list of (lang, text) segments.
+    """Split the tagged script into a list of Segment objects.
 
-    Accepts the tag either alone on its own line, with the paragraph text
-    following on subsequent lines, or with the paragraph text starting
+    Accepts the language tag either alone on its own line, with the paragraph
+    text following on subsequent lines, or with the paragraph text starting
     right after the tag on the same line:
 
         [EN]
         Good morning.
 
         [EN] Good morning.
+
+    An optional "[SECTION <id>]" line on its own switches the section (and
+    background bed) for the paragraphs that follow. When no marker precedes a
+    section, the section is inferred from the spoken heading line via
+    HEADING_SECTIONS.
     """
     lines = text.splitlines()
-    segments = []
+    segments: list[Segment] = []
     current_lang = None
-    current_lines = []
+    current_lines: list[str] = []
+    current_section = "intro"
+    pending_section_start = False
 
     def flush():
-        if current_lang and current_lines:
-            body = "\n".join(current_lines).strip()
-            if body:
-                segments.append((current_lang, body))
+        nonlocal pending_section_start, current_section, current_lines
+        if not (current_lang and current_lines):
+            return
+        body = "\n".join(current_lines).strip()
+        current_lines = []  # consumed - don't re-emit on the next flush()
+        if not body:
+            return
+        section = current_section
+        is_start = pending_section_start
+        heading = HEADING_SECTIONS.get(_normalize_heading(body))
+        if heading and heading != section:
+            section = heading
+            is_start = True
+        segments.append(Segment(current_lang, body, section, is_start))
+        # keep the heuristic-derived section for following paragraphs
+        current_section = section
+        pending_section_start = False
 
     for line in lines:
-        m = TAG_RE.match(line.strip())
+        stripped = line.strip()
+        sec_m = SECTION_RE.match(stripped)
+        if sec_m:
+            flush()
+            sec = sec_m.group(1).lower()
+            if sec in SECTIONS:
+                current_section = sec
+                pending_section_start = True
+            else:
+                print(
+                    f"[audio] unknown [SECTION {sec}] marker, ignoring", file=sys.stderr
+                )
+            continue
+
+        m = TAG_RE.match(stripped)
         if m:
             flush()
             current_lang = m.group(1)
@@ -132,7 +243,41 @@ def parse_segments(text: str):
     return segments
 
 
+def _silence(ms: int) -> AudioSegment:
+    """Silence at the module's output format, so nothing depends on pydub's
+    default 11025 Hz mono when other layers are absent."""
+    return AudioSegment.silent(
+        duration=max(0, ms), frame_rate=OUTPUT_FRAME_RATE
+    ).set_channels(OUTPUT_CHANNELS)
+
+
+def _load_asset(path: Path):
+    """Load an optional audio asset, or return None (with a note) if missing."""
+    if not path.exists():
+        print(f"[audio] optional asset missing, skipping: {path}", file=sys.stderr)
+        return None
+    seg = AudioSegment.from_file(path)
+    return seg.set_frame_rate(OUTPUT_FRAME_RATE).set_channels(OUTPUT_CHANNELS)
+
+
+def _loop_to_length(seg, length_ms: int) -> AudioSegment:
+    """Tile a short loop to cover length_ms, joining repeats with a short seam
+    crossfade so a slightly imperfect loop trim doesn't tick, then fade the
+    span in and out at its boundaries."""
+    if seg is None or length_ms <= 0:
+        return _silence(length_ms)
+    xfade = min(BED_LOOP_CROSSFADE_MS, len(seg) // 4)
+    out = seg
+    while len(out) < length_ms:
+        out = out.append(seg, crossfade=xfade)
+    edge = min(BED_FADE_MS, length_ms // 2)
+    return out[:length_ms].fade_in(edge).fade_out(edge)
+
+
 def synthesize_segment(client, lang: str, text: str) -> AudioSegment:
+    if os.environ.get("MOCK_TTS"):
+        # Offline mix testing: stand-in speech, roughly length-proportional.
+        return _silence(max(1200, len(text) * 55))
     voice_cfg = VOICE_MAP[lang]
     synthesis_input = texttospeech.SynthesisInput(text=text)
     voice = texttospeech.VoiceSelectionParams(
@@ -152,12 +297,70 @@ def synthesize_segment(client, lang: str, text: str) -> AudioSegment:
 
 
 def build_audio(segments) -> AudioSegment:
-    client = texttospeech.TextToSpeechClient()
-    combined = AudioSegment.empty()
-    pause = AudioSegment.silent(duration=500)  # brief pause between segments
-    for lang, text in segments:
-        combined += synthesize_segment(client, lang, text) + pause
-    return combined
+    """Assemble the episode: an opening jingle that settles into a low background
+    bed, per-section beds, a stinger at every section change and a soft pling
+    between news items. Every audio asset is optional - a missing one just
+    disables that layer, and with none present this returns the plain voice
+    concatenation (as before), only re-encoded at the output format."""
+    client = None if os.environ.get("MOCK_TTS") else texttospeech.TextToSpeechClient()
+
+    jingle = _load_asset(INTRO_JINGLE)
+    stinger = _load_asset(SECTION_STINGER)
+    pling = _load_asset(ITEM_PLING)
+    beds = {sec: _load_asset(path) for sec, path in BED_FILES.items()}
+
+    pause = _silence(SEGMENT_PAUSE_MS)
+    lead_ms = INTRO_JINGLE_LEAD_MS if jingle is not None else 0
+
+    # 1. Voice track: speech plus diegetic stingers/plings, pushed back by the
+    #    solo-jingle lead so the first words land after the intro.
+    voice = _silence(lead_ms)
+    spans: list[tuple[str, int, int]] = []
+    current_section = segments[0].section
+    span_start = len(voice)
+    news_item_seen = False
+
+    for seg in segments:
+        if seg.section != current_section:
+            spans.append((current_section, span_start, len(voice)))
+            current_section = seg.section
+            span_start = len(voice)
+            news_item_seen = False
+
+        is_news_item = (
+            seg.section == "news"
+            and not seg.is_section_start
+            and _normalize_heading(seg.text) not in NEWS_SUBHEADINGS
+        )
+
+        if seg.is_section_start and stinger is not None and len(voice) > lead_ms:
+            voice += stinger.apply_gain(STINGER_GAIN_DB) + _silence(STINGER_GAP_MS)
+        elif is_news_item and news_item_seen and pling is not None:
+            voice += pling.apply_gain(PLING_GAIN_DB) + _silence(PLING_GAP_MS)
+
+        voice += synthesize_segment(client, seg.lang, seg.text) + pause
+        if is_news_item:
+            news_item_seen = True
+
+    spans.append((current_section, span_start, len(voice)))
+    total_ms = len(voice)
+
+    # 2. Background bed: one looped bed per section span, each fading in/out at
+    #    its own boundaries so bed timing never drifts against the voice.
+    bed_track = _silence(total_ms)
+    for section, start, end in spans:
+        span_bed = _loop_to_length(beds.get(section), end - start)
+        bed_track = bed_track.overlay(span_bed.apply_gain(BED_GAIN_DB), position=start)
+
+    # 3. Opening jingle: solo for the lead, then fades down into the bed as the
+    #    first words come in.
+    if jingle is not None:
+        intro = jingle[: lead_ms + INTRO_JINGLE_DUCK_MS].fade_out(INTRO_JINGLE_DUCK_MS)
+        bed_track = bed_track.overlay(intro, position=0)
+
+    # 4. Mix voice over the bed.
+    final = bed_track.overlay(voice)
+    return final.set_frame_rate(OUTPUT_FRAME_RATE).set_channels(OUTPUT_CHANNELS)
 
 
 def update_feed(mp3_path: Path, episode_date: str, duration_seconds: int):
@@ -251,10 +454,11 @@ def main():
     episode_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     EPISODES_DIR.mkdir(parents=True, exist_ok=True)
     mp3_path = EPISODES_DIR / f"{episode_date}.mp3"
-    audio.export(mp3_path, format="mp3", bitrate="96k")
+    audio.export(mp3_path, format="mp3", bitrate=OUTPUT_BITRATE)
 
     TRANSCRIPTS_DIR.mkdir(parents=True, exist_ok=True)
-    (TRANSCRIPTS_DIR / f"{episode_date}.txt").write_text(text, encoding="utf-8")
+    transcript = SECTION_LINE_RE.sub("", text)  # drop [SECTION ...] marker lines
+    (TRANSCRIPTS_DIR / f"{episode_date}.txt").write_text(transcript, encoding="utf-8")
 
     duration_seconds = int(len(audio) / 1000)
     update_feed(mp3_path, episode_date, duration_seconds)
