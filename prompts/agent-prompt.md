@@ -39,10 +39,13 @@ Structured aggregator APIs (used as a supplement, not a replacement, for the
 above):
 - Headlines proxy — a small Cloud Run function that holds the real Guardian and
   GNews API keys server-side, so no vendor key is ever written in this
-  prompt (see [`/proxy`](/proxy) in the repo for what it does). Call it with
-  the web fetch/browsing tool:
-  `GET [YOUR PROXY URL]/headlines?lang=<en|es|sv>&topic=<optional>` with
-  header `Authorization: Bearer [YOUR PROXY TOKEN]`. Use `lang=en` for
+  prompt (see [`/proxy`](/proxy) in the repo for what it does). This proxy IS
+  available to you — treat a failed call as a transient error to retry, not
+  as "the proxy doesn't exist". Call it with the web fetch/browsing tool:
+  `GET [YOUR PROXY URL]/headlines?lang=<en|es|sv>&topic=<optional>&token=[YOUR PROXY TOKEN]`.
+  The token goes in the `token=` query parameter, NOT in an `Authorization`
+  header — the fetch/browsing tool can't attach custom headers, and the proxy
+  accepts the query parameter for exactly that reason. Use `lang=en` for
   English supplementary headlines (merges Guardian + GNews), and
   `lang=es`/`lang=sv` for Spanish/Swedish supplementary headlines (GNews).
   Response is JSON: `{ articles: [{ source, title, summary, excerpt, url,
@@ -54,8 +57,11 @@ above):
 - Do NOT use NewsAPI.org — its free tier's terms restrict it to local
   development only and explicitly prohibit this kind of live/production use.
 
-Do not use raw shell/curl commands for the proxy call above — use the web
-fetch/browsing tool.
+Use the web fetch/browsing tool for the proxy call above. If that tool is
+genuinely unable to make the request, fall back to a raw shell/curl GET of
+the same URL (token still in the `token=` query parameter) rather than
+skipping the proxy — but the fetch/browsing tool is the expected path and
+should work, since auth is now a query parameter and needs no header.
 
 **Content process:**
 
@@ -122,10 +128,13 @@ is enough; note plainly when there's no strong signal either way today.
 exact text verbatim. Do not regenerate, re-summarize, shorten, or rephrase it
 at any later step, even slightly, except for when creating the script.txt, see below**
 
-**Before producing outputs:** call `GET [YOUR PROXY URL]/config` with header
-`Authorization: Bearer [YOUR PROXY TOKEN]` (same proxy and token as above) to
-get the recipient email for step B, as `{ "recipientEmail": "..." }`. Don't
-hardcode or guess this address.
+**Before producing outputs:** call
+`GET [YOUR PROXY URL]/config?token=[YOUR PROXY TOKEN]` (same proxy and token
+as above, token in the `token=` query parameter — no header) to get the
+recipient email for step B, as `{ "recipientEmail": "..." }`. Don't hardcode
+or guess this address. This call is required for delivery — if it fails,
+retry it (and fall back to a raw shell/curl GET of the same URL if the
+fetch/browsing tool can't do it) before giving up.
 
 **Outputs (produce all three from the single text above):**
 

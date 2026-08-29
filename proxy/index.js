@@ -16,11 +16,15 @@
  *     -> { "recipientEmail": "..." } — the one non-secret "variable" the
  *        prompt used to hardcode.
  *
- * Every request must carry `Authorization: Bearer <PROXY_TOKEN>`. That token
- * is the ONE credential that still has to live in the live Cowork prompt
- * (never in the committed template) — but it's a token we mint ourselves,
- * scoped to nothing but this endpoint. If it leaks, the blast radius is
- * "someone can fetch public headlines through my quota", not "someone has my
+ * Every request must carry the PROXY_TOKEN, either as `Authorization: Bearer
+ * <PROXY_TOKEN>` or as a `?token=<PROXY_TOKEN>` query parameter. The query
+ * form exists because the daily agent calls this with a web fetch/browsing
+ * tool that can't attach a custom request header (the same reason the
+ * pre-proxy prompt passed vendor keys as query params). That token is the
+ * ONE credential that still has to live in the live Cowork prompt (never in
+ * the committed template) — but it's a token we mint ourselves, scoped to
+ * nothing but this endpoint. If it leaks, the blast radius is "someone can
+ * fetch public headlines through my quota", not "someone has my
  * Guardian/GNews vendor credentials". Rotating it is a redeploy, not a trip
  * to a vendor dashboard.
  *
@@ -58,10 +62,24 @@ function timingSafeEqual(a, b) {
   return crypto.timingSafeEqual(bufA, bufB);
 }
 
-function checkAuth(req) {
+// The token can arrive two ways. `Authorization: Bearer <token>` is preferred
+// (nothing that can send a header should use the query form). But the daily
+// agent's web fetch/browsing tool can't set request headers, so it passes
+// `?token=<token>` instead. That does land the token in Cloud Run's request
+// logs — acceptable here: it authorizes nothing but "call this endpoint
+// through my Guardian/GNews quota" and rotates with a redeploy (see the
+// PROXY_TOKEN rotation note in README.md).
+function extractToken(req) {
   const header = req.get('Authorization') || '';
-  const [scheme, token] = header.split(' ');
-  return scheme === 'Bearer' && Boolean(token) && timingSafeEqual(token, PROXY_TOKEN);
+  const [scheme, headerToken] = header.split(' ');
+  if (scheme === 'Bearer' && headerToken) return headerToken;
+  if (req.query.token) return String(req.query.token);
+  return '';
+}
+
+function checkAuth(req) {
+  const token = extractToken(req);
+  return Boolean(token) && timingSafeEqual(token, PROXY_TOKEN);
 }
 
 function checkRateLimit() {

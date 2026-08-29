@@ -21,7 +21,16 @@ recipient email) server-side, and exposes two narrow, token-gated routes:
 - `GET /config` — `{ "recipientEmail": "..." }`, the one non-secret variable
   that used to be hardcoded in `prompts/agent-prompt.md`.
 
-Both routes require `Authorization: Bearer <PROXY_TOKEN>`. See
+Both routes require the `PROXY_TOKEN`, passed **either** as
+`Authorization: Bearer <PROXY_TOKEN>` **or** as a `?token=<PROXY_TOKEN>`
+query parameter. The query form exists because the daily Cowork agent calls
+this with a web fetch/browsing tool that can't attach a custom request
+header — so the agent prompt uses `?token=`, while header-capable callers
+(the PowerShell test commands below, anything else) should prefer the
+header. The query form does write the token into Cloud Run's request logs;
+that's an accepted tradeoff here — the token authorizes nothing but "call
+this endpoint through my Guardian/GNews quota" and rotating it is a redeploy
+(see **Known limits** below). See
 [`/prompts/agent-prompt.md`](../prompts/agent-prompt.md) for how the Cowork
 task is instructed to call this.
 
@@ -263,6 +272,9 @@ $token = "paste the PROXY_TOKEN value from step 2 here"
 
 Invoke-RestMethod -Uri "$url/config" -Headers @{ Authorization = "Bearer $token" }
 Invoke-RestMethod -Uri "$url/headlines?lang=es&topic=business" -Headers @{ Authorization = "Bearer $token" }
+
+# The query-parameter form the daily agent uses (no header) should work too:
+Invoke-RestMethod -Uri "$url/config?token=$token"
 
 # Should fail with a 401:
 Invoke-RestMethod -Uri "$url/config"
