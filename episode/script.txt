@@ -1,67 +1,81 @@
 [SECTION intro]
-[EN] Good morning, Patricio. Here's your world for Tuesday, September first, twenty twenty-six. A quick heads-up before we start: a few outlets wouldn't load this morning, and NRK served stale content, so I leaned on The Guardian, La Tercera, the wire services and direct searches to cover the gaps.
+[EN]
+Good morning, Patricio. It's a heavy news day — war back on the boil in the Gulf, a global bond sell-off rattling markets, fresh Russia–Europe friction, and a genuinely brutal flood disaster in the Himalayas. Here's the rundown, kept as skimmable as a day like this allows.
+[EN]
+A quick note on sources before we start. A few outlets were unreachable today. El País, both its International and Spain sections, was blocked, so I leaned on Emol and La Tercera plus wire coverage for the Spanish-language and Chilean stories. The Washington Post was mostly inaccessible. Ars Technica, Dagens Nyheter, and Aftonbladet were blocked too, so I covered tech via TechCrunch and Hacker News, and Sweden via SVT, the public broadcaster. Everything here is from sources I actually reached.
 
 [SECTION news]
-[EN] Top stories first. The Nepal and Tibet glacier floods have turned into one of the year's worst disasters. Nepal now reports more than one thousand bodies recovered, around four thousand people still missing, and over eleven thousand rescued. Scientists say the warning signs were visible before the glacier collapsed, and that a better early-warning system could have saved lives.
-
-[EN] In markets, a global bond rout pushed Britain's thirty-year borrowing costs to a twenty-eight-year high, with the yield near five point nine percent. It's a worldwide move in long-dated debt, the kind of shift that quietly raises the cost of everything from government borrowing to mortgages.
-
-[EN] Apple is turning a page. Tim Cook is stepping down as chief executive after fifteen years, handing the reins to hardware chief John Ternus and moving to executive chairman, amid a broader wave of senior departures as the company leans into its AI transition.
-
-[EN] In Oslo, Norway swore in its new monarch, King Haakon the Eighth, following the death of his father Harald the Fifth last week. The monarchy remains broadly popular, with around seventy-two percent of Norwegians in support.
-
-[EN] And Iceland has narrowly voted against reopening European Union accession talks, in a referendum so close it came down to a sliver of votes, underscoring how divided even small nations are about deeper European integration.
-
-[ES] Vamos con España y América Latina. Italia extendió quince días más sus controles fronterizos con España por la crisis migratoria de Ceuta, tensionando la libre circulación del espacio Schengen y reabriendo el debate europeo sobre el reparto de cargas.
-
-[ES] En el fútbol, Lionel Messi anunció su retiro de la selección argentina. Campeón del mundo en dos mil veintidós y subcampeón en dos mil veintiséis, se despide de la albiceleste, aunque seguirá jugando en el Inter Miami. Llegó el momento, dijo. Es el fin de una era para el fútbol sudamericano.
-
-[ES] Andalucía arranca septiembre con calor persistente, hasta cuarenta y tres grados en algunos puntos, y polvo sahariano, justo cuando comienza el otoño meteorológico. Otro recordatorio de que los veranos se estiran año tras año.
-
-[ES] En Chile, el Senapred mantiene alerta roja en la Región de Antofagasta por vientos que podrían alcanzar los cien kilómetros por hora.
-
-[ES] La Comisión para el Mercado Financiero lanzó un paquete de propuestas para modernizar el mercado financiero chileno, incluyendo nuevos modelos de riesgo de crédito.
-
-[ES] Y una historia de fondo: avanza la internacionalización del peso chileno, con un uso creciente por parte de extranjeros y más medidas en camino, justo con el cobre cerca de máximos y el peso en torno a novecientos trece por dólar.
-
-[EN] Over to the United States and the wider English-speaking world. In Washington, the House is voting on a stopgap funding bill to keep the federal government open through November's midterms.
-
-[EN] In Britain, Andy Burnham gave his first Commons statement as prime minister, promising to unlock positivity and to bring more essential services back into public hands.
-
-[EN] On the environment, the head of the U.S. Forest Service is facing scrutiny over past ties to timber companies, as the Trump administration prepares to scrap the roadless rule that protects some forty-five million acres from logging and development.
-
-[EN] And on a lighter note: Trump's order to rename Lake Ontario Lake America drew open mockery from Canada, and the app MapQuest surged to number one in navigation after refusing to go along with the change.
-
-[EN] Now tech and niche. Apple has gone public with what it calls shocking evidence against a former employee accused of stealing company data for OpenAI.
-
-[EN] In health tech, Israeli researchers showed that artificial intelligence can read routine mammograms to flag heart disease in women, identifying stroke risk with around eighty-six percent reliability, potentially a free bonus from scans women already get.
-
-[EN] Research integrity got a jolt too: the forensic blog Data Colada laid out detailed evidence of fraud in an influential, much-cited study about procrastination.
-
-[EN] And from Hacker News, the fun stuff: a hobbyist turned his home security cameras into an automatic bird-identification system, someone built a walkable ASCII cyberpunk city inside a single HTML file, and a quirky project called Playa Phone climbed the charts.
-
-[SV] Nu till Sverige. Bonnier köper en stor strömningstjänst för böcker, ett steg som stärker förlagsjättens grepp om den digitala bokmarknaden.
-
-[SV] SVT rapporterar om Rysslands nya jetdrivna drönare i Ukraina, som beskrivs som ovanligt svår att skjuta ner, en oroande utveckling i kriget.
-
-[SV] Swedish House Mafia spelade för nästan sextiosextusen personer på Ullevi i Göteborg, en av sommarens största konserter.
-
-[SV] Cykelstjärnan Tadej Pogacar opereras efter en vurpa i Vuelta a España, där han ledde med nästan fyra minuter när han föll och ådrog sig bland annat en fraktur på en halskota och en hjärnskakning.
-
-[SV] Och vädret vänder: upp till tio dagars regn väntar i Stockholm när flera lågtryck drar in över landet.
+[EN]
+Top stories.
+[EN]
+First, the US–Iran war roars back after a month-long lull. Overnight, US forces struck targets across Iran, and Iran responded by firing missiles and drones at its Gulf neighbors, with explosions reported around the Strait of Hormuz and at an airport in southern Iran. Trump said the strikes answered Iranian attempts to mine the strait and vowed more if Tehran retaliates. Grimly, Iranian outlets report one US strike hit a wedding, killing several people including a four-year-old, and the Iranian Red Crescent has called for an international investigation. This is one of the sharpest escalations since July.
+[EN]
+Second, global markets wobbled as a worldwide bond sell-off intensified. Stocks slid and government bond yields climbed as the renewed Iran war pushed oil prices up and stoked inflation fears. UK ten-year borrowing costs hit fresh highs, and the sell-off is rippling across debt markets everywhere. Investors are weighing rising government debt against renewed inflation risk. Nervous markets plus higher oil is exactly the combination emerging economies dislike most.
+[EN]
+Third, Europe and Russia are trading blows over the Leipzig drone attack. The EU is summoning Russian envoys and preparing a response after a failed drone attack near Leipzig that Kaja Kallas said had all the hallmarks of state-sponsored terrorism, while Germany separately probes suspected sabotage of its power infrastructure. Putin called Germany's decision to blame Russia a grave mistake. Meanwhile, Ukraine's drone campaign has escalated to the point that Zelensky is warning airlines and insurers that Russian airspace is now completely unsafe.
+[EN]
+Fourth, catastrophic floods on the Nepal–Tibet border. More than one thousand people have died and thousands remain missing after flash floods, with survivors depending on airlifted supplies as recovery crews push in. Aid experts sharply criticized the initial US response — a five-hundred-thousand-dollar emergency contribution — as pitiful. It's shaping up to be one of the year's deadliest natural disasters.
+[EN]
+And fifth, the UN says warming will overshoot one-and-a-half degrees Celsius, but maps a way back. A new UN report concludes the world will breach the one-point-five limit, but lays out a pathway to bring temperatures back below the danger threshold through rapid emissions cuts and carbon removal. The framing matters: overshoot is now the working assumption, not a worst case.
+[ES]
+España y América Latina.
+[ES]
+La economía de Chile sigue en amarillo. Tras el Imacec de julio, que cayó un uno coma cinco por ciento, los analistas advierten que el tercer trimestre podría volver a ser negativo, y ya recortan las expectativas de crecimiento para 2026 por debajo del uno por ciento. Aparte, la confianza del consumidor cayó aún más y deja a Chile como el peor ubicado de América Latina en ese indicador. No es una crisis, pero sí un telón de fondo tercamente sombrío.
+[ES]
+Las reformas de pensiones y del mercado de capitales toman forma concreta. El regulador chileno emitió el esperado régimen de inversión para el nuevo sistema de fondos generacionales, que define cómo podrá invertirse el dinero de los ahorrantes bajo la reforma previsional. En paralelo, la reforma al mercado de capitales incluirá un subsidio para incentivar el ahorro destinado al pie de un crédito hipotecario, un guiño a lo difícil que se ha vuelto comprar vivienda para los más jóvenes.
+[ES]
+Se endurecen las líneas del año electoral en Chile. Con la carrera presidencial en marcha, la oposición organiza Democracia Siempre, una muestra de unidad progresista con los expresidentes Boric y Bachelet, planteada explícitamente como contrapunto al Foro Madrid de José Antonio Kast en la derecha. La coreografía de quién comparte escenario con quién se está convirtiendo en noticia por sí sola.
+[ES]
+En España, la banca mantuvo a flote a Correos. Nueva información revela que los bancos españoles prestaron dos mil quinientos millones de euros a la operadora postal estatal para pagar nóminas y facturas en plena espiral de pérdidas, antes del rescate de la SEPI del año pasado; la empresa paga ahora unos veinticinco millones al año por esa deuda. Un recordatorio de cuánta infraestructura pública se sostiene sobre líneas de crédito invisibles.
+[ES]
+Y una buena noticia para los amantes de la ciencia: la sonda europea BepiColombo comienza esta semana su tensa aproximación a Mercurio, ocho años después de su lanzamiento, en una de las maniobras planetarias más complejas jamás intentadas por una nave europea.
+[EN]
+US and international.
+[EN]
+Xi Jinping visited Egypt for the first time in a decade, part of a deliberate push to expand Beijing's influence across a Middle East being reshaped by the US–Iran war. Watch this as a quiet counter-move while Washington is absorbed in the fighting.
+[EN]
+Hong Kong activist Joshua Wong pleaded guilty to collusion with foreign entities and faces a lengthy prison term — another marker in the steady closing of Hong Kong's political space.
+[EN]
+A US data story worth flagging: the EEOC plans to stop collecting the demographic workforce data it has gathered for sixty years, information long used to detect and fight workplace discrimination. Critics say ending the collection will make enforcement far harder.
+[EN]
+And from Norway, via NRK, translated: the country is in official mourning after the death of King Harald the Fifth, and his state funeral has been set for September ninth in Oslo. Police are mounting a huge security operation, drawing cross-border help including bomb-detection dogs from Sweden, as heads of state and royalty confirm attendance.
+[EN]
+Tech and niche.
+[EN]
+Anthropic released Claude Fable five-point-one and Mythos five-point-one, and it rocketed to the top of Hacker News with more than eleven hundred points and a thousand comments — a sign of just how closely this crowd now tracks frontier-model releases.
+[EN]
+OpenAI's forthcoming Astra model is reportedly very good at breaking into computer systems — a capability that cuts both ways, useful for defenders and dangerous in the wrong hands. The report follows OpenAI's earlier disclosure that it slowed Astra's development over security worries.
+[EN]
+The FBI is probing a service that was selling more than one hundred fifty-three million US driver's licenses — an eye-watering identity-data breach that KrebsOnSecurity dug into. If you've ever wondered how much of your ID is already floating around, this is a sobering data point.
+[EN]
+A couple of quicker hits. X warned that attackers are targeting user accounts right after the launch of its X Money payments product. GoPro is being acquired for two hundred eighty-five million dollars in an unusual deal that keeps it publicly traded. And Google is reportedly paying studios like Disney up to forty million dollars per character to license content for AI training. The run-your-own-model-locally movement also keeps growing, with a well-shared write-up on a local model setup on an M4 Pro Mac Mini making the Hacker News front page.
+[SV]
+Sverige.
+[SV]
+Valet blir allt jämnare. Nya opinionsmätningar visar att Socialdemokraterna tappar omkring fyra procentenheter — en siffra partiet självt kallade en väckarklocka — samtidigt som Liberalerna ökar och närmar sig fyraprocentsspärren. En Novus och TV4-mätning visar att gapet mellan blocken bara är två komma sex procentenheter; det här ser ut att bli ett riktigt jämnt val.
+[SV]
+En dold inspelning från SVT avslöjar att jobbcoacher som anlitats av Arbetsförmedlingen är villiga att hjälpa klienter att dölja fusk och svartarbete — vilket väcker skarpa frågor om tillsynen av de offentligt finansierade coachningsuppdragen.
 
 [SECTION connecting_dots]
-[EN] Connecting the dots. And remember, Patricio, this part is me thinking out loud, not reported news. Today reads like a split screen for anyone standing in Chile. On one side, the cost of money is climbing, with the UK's thirty-year yield at a twenty-eight-year high in a sell-off that's genuinely global. On the other, copper has been sitting near record territory, and estimates put Chile's twenty twenty-six fiscal windfall somewhere between roughly eight and nine point seven billion dollars. That windfall is precisely the cushion that lets a copper exporter absorb a global tightening that would hurt many other emerging economies more.
-
-[EN] The currency angle touches you most directly. La Tercera flags a quietly structural story, the internationalization of the peso, with rising foreign use, landing the same week the peso trades near nine hundred thirteen to the dollar with copper revenue flowing in. A stronger fiscal position plus more external peso demand could firm the currency: good for anything dollar-priced you buy, but a squeeze on exporters and on anyone earning in dollars. If your income or savings lean toward the dollar, the drift is subtly against you right now.
-
-[EN] There's also a striking texture of eras ending all at once: Cook out at Apple, Burnham stepping up as UK prime minister, Norway crowning a new king, Messi walking away from Argentina. None are causally linked, but together they paint a day of stewards handing over mid-stream, often under pressure. For Chile the relevance is mostly mood music heading into its own electoral cycle: publics almost everywhere seem restless for renewal.
-
-[EN] Finally, climate is the quiet through-line connecting stories that look unrelated on the surface: the Nepal and Tibet glacial flood past a thousand dead, a red alert for hundred-kilometer-an-hour winds in Antofagasta, and intensifying rains straining Santiago's drainage. The same warming system melting Himalayan ice is loading Chile's north with wind and its center with unfamiliar rain. Worth holding as a pattern: infrastructure resilience is quietly becoming the most important boring topic in Chilean policy.
+[EN]
+Connecting the dots.
+[EN]
+Quick disclaimer: this section is interpretation and informed speculation, not reported news — me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN]
+Patricio, the thread that ties today together for you sits at the intersection of the Gulf war and the bond market. When US–Iran fighting flares around the Strait of Hormuz, oil rises; when oil rises at the same moment government debt is being dumped worldwide and inflation fears are back, you get exactly the risk-off mood that pulls capital out of emerging markets and toward the safety of the dollar. For Chile that usually shows up in two places at once: a softer peso and more expensive imported fuel. With domestic activity already contracting — that minus one-and-a-half percent July Imacec — and growth being marked down below one percent, a weaker peso is a double-edged thing. It cushions exporters but feeds the very inflation that's kept Chilean consumer confidence the gloomiest in the region. Worth watching, not a confident prediction, but the external and internal pressures are pointing the same unhelpful direction this week.
+[EN]
+The one piece of genuinely good news buried in the macro gloom is copper's likely behavior in this scenario. A war premium on energy and a nervous market don't automatically hurt copper — if anything, supply anxiety and a weaker dollar can firm up metal prices, and copper remains Chile's fiscal shock absorber. If the Gulf conflict drags on, the question for Chile is whether copper strength can offset weaker domestic demand and a higher import bill. That's the balance I'd keep an eye on over the coming weeks; it's the difference between a soft patch and something that constrains the next government's budget.
+[EN]
+Which brings me to the politics. The Democracia Siempre versus Foro Madrid staging isn't just theater — it's both camps pre-positioning for an election that will be fought largely on the economy you're living through. A stagnant economy tends to punish incumbents and reward whoever most convincingly promises order and growth, which is part of why Kast's framing has room to run. But the reforms quietly landing this week — generational pension funds, a mortgage down-payment subsidy — are the establishment's attempt to show it can still deliver tangible things. How voters weigh steady delivery against time for a change is the whole ballgame, and today's weak-confidence numbers tilt the table.
+[EN]
+Zooming out, notice how many of today's stories are really about the erosion of trust in shared systems: markets doubting government debt, the EU accusing Russia of sabotaging the physical infrastructure of energy, the FBI chasing one hundred fifty-three million stolen identities, the US dismantling the very data it uses to police discrimination, and even Sweden filming its own employment agency's contractors gaming the system. From Chile — a small, open, trade-dependent economy — the practical lesson is that resilience increasingly means not being overexposed to any single fragile system, whether that's one export market, one currency, or one data broker holding your identity. That's not doom; it's an argument for the boring virtues of diversification and redundancy, at both the national and personal level.
 
 [SECTION hypothesis_watch]
-[EN] Hypothesis watch. A quick daily scan of your standing hypothesis about AI, shrinking authority cycles and social cohesion, not a full re-argument. As a reminder, it breaks into four sub-claims: a, authority and thought-leadership cycles keep shrinking, with AI accelerating rather than causing it; b, that pushes individuals to strengthen and act on their internal voice; c, which pushes people away from individualism; and d, leading to more collaboration and greater social cohesion.
-
-[EN] Today leans toward sub-claim a. The sheer density of handovers, Cook exiting Apple, Burnham arriving, a royal succession in Norway, Messi's international retirement, is a striking cluster of figureheads cycling out on a single day. That's texture, not proof, since a monarchy and a football career aren't thought leadership in your sense, but it fits the picture of authority tenures feeling shorter and more fluid.
-
-[EN] There's mild support for sub-claim b too: Data Colada's fraud exposé is individuals auditing the experts rather than deferring to them, and the do-it-yourself bird-ID camera hack and the AI-in-mammograms story both push technical and diagnostic agency toward ordinary people. On sub-claims c and d, the signal is weak and even mixed today. Iceland's razor-thin referendum and Notting Hill's sixtieth-anniversary ritual gesture at shared identity, but the vote rejected a larger union and split the country nearly in half. So: modest evidence for a and b, and no strong movement on cohesion either way today.
+[EN]
+Hypothesis watch.
+[EN]
+A quick framing: this is an ongoing, lightweight daily scan of your standing hypothesis on AI, internal voice, and social cohesion — not a full re-argument, just today's evidence for or against.
+[EN]
+Your hypothesis breaks into four linked sub-claims. A: cycles of thought-leadership and authority keep shrinking, with AI accelerating rather than causing it. B: that shrinking pushes individuals to strengthen and act on their own internal voice. C: which in turn prompts a move away from individualism. And D: leading to more human collaboration and greater social cohesion.
+[EN]
+Today's signal is modest and mixed, leaning toward A. On A, two data points fit: the near-instant, saturating attention around Anthropic's Claude Fable and Mythos release — top of Hacker News within hours, then displaced by the next thing — is a near-perfect illustration of authority cycles compressing; no model or lab holds the spotlight for long. The Reuters piece on AI spurring a rethink of traditional market measures points the same way: even the yardsticks we use to judge expertise are being destabilized. On D, there's a faint supporting glimmer in the collaboration stories — the EU coordinating a collective response to the Leipzig attack, Norway drawing cross-border security help from Sweden for the royal funeral — but these are institutional cooperation under external threat, not the grassroots re-socialization your hypothesis predicts, so I'd call them weakly relevant at best. Nothing today speaks clearly to B or C, and there's an honest counter-current worth naming: the same stories show fragmentation and distrust — sabotage, stolen-identity markets, gamed institutions — as easily as they show cohesion. Net read for the day: a real but small tick for the shrinking-cycles claim, and no strong signal either way on the move from internal voice to collective cohesion.
