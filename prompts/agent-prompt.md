@@ -155,7 +155,8 @@ C. Also produce a second, separate text block: the same story content and
    its own line, by a language tag — `[EN]`, `[ES]`, or `[SV]` — matching the
    language that paragraph is actually written in. Do not include any url 
    in this script, i.e. skip the url lins, since there is no value in having a voice
-   over read out loud the content of a url. Connecting the Dots and
+   over read out loud the content of a url, but do keep the source name (or sources) 
+   of that piece of news. Connecting the Dots and
    Hypothesis Watch are always `[EN]`. Content originally from DW, NRK, or
    any other non-EN/ES/SV source should also be tagged `[EN]` once
    translated, since the podcast only has EN/ES/SV voices.
