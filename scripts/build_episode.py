@@ -49,6 +49,13 @@ from feedgen.ext.base import BaseExtension, BaseEntryExtension
 from feedgen.util import xml_elem
 import feedparser
 
+try:
+    import numpy as np
+    import pyloudnorm as pyln
+except ImportError:  # loudness normalization is an optional layer, like the assets
+    np = None
+    pyln = None
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SCRIPT_PATH = REPO_ROOT / "episode" / "script.txt"
 DOCS_DIR = REPO_ROOT / "docs"
@@ -125,6 +132,30 @@ INTRO_JINGLE_DUCK_MS = 2500   # jingle fades down into the bed under first words
 STINGER_GAP_MS = 350         # silence after a section stinger, before speech
 PLING_GAP_MS = 250           # silence after an item pling, before speech
 SEGMENT_PAUSE_MS = 500       # pause between spoken paragraphs
+
+# Loudness normalization (ITU-R BS.1770 integrated loudness, via pyloudnorm).
+# Two layers: every spoken segment is leveled to VOICE_TARGET_LUFS before the
+# mix, so the EN/ES/SV voices enter equally loud regardless of how hot each
+# language's TTS renders; the finished episode is then brought to
+# MASTER_TARGET_LUFS and pulled back below MASTER_PEAK_DBFS if a transient
+# still pokes above the ceiling. All of this no-ops if pyloudnorm is missing
+# or the audio is too short/quiet to measure.
+VOICE_TARGET_LUFS = -20.0    # per-segment speech level, pre-mix
+MASTER_TARGET_LUFS = -16.0   # finished-episode level (Apple Podcasts target)
+MASTER_PEAK_DBFS = -1.0      # peak ceiling applied after the master pass
+LOUDNORM_MIN_MS = 400        # BS.1770 needs at least one 400 ms block
+
+# Static assets are leveled on load too - a file dropped into assets/audio/ is
+# not trusted to already sit at the right level. jingle / beds / stinger are
+# brought to ASSET_TARGET_LUFS; this is the bed's *standalone* level, BED_GAIN_DB
+# is still applied on top to push it under the voice. The pling is a sub-second
+# one-shot with too little audio for BS.1770 gating, so it's peak-normalized
+# instead. If pyloudnorm is missing the jingle/beds/stinger fall back to the
+# same peak target.
+ASSET_TARGET_LUFS = -16.0        # ~4 LU above the -20 LUFS voice
+ASSET_PEAK_FALLBACK_DBFS = -2.0  # jingle/beds/stinger when LUFS can't be measured
+PLING_TARGET_PEAK_DBFS = -8.0    # mid of the -6..-10 dBFS guide in the assets README
+
 OUTPUT_FRAME_RATE = 44100
 OUTPUT_CHANNELS = 2
 OUTPUT_BITRATE = "128k"
@@ -251,13 +282,54 @@ def _silence(ms: int) -> AudioSegment:
     ).set_channels(OUTPUT_CHANNELS)
 
 
-def _load_asset(path: Path):
-    """Load an optional audio asset, or return None (with a note) if missing."""
+def _measure_lufs(seg: AudioSegment):
+    """Integrated loudness (LUFS, ITU-R BS.1770) of seg, or None when it can't be
+    measured: pyloudnorm not installed, segment shorter than one gating block, or
+    silent/near-silent (loudness -inf)."""
+    if pyln is None or len(seg) < LOUDNORM_MIN_MS:
+        return None
+    samples = np.array(seg.get_array_of_samples(), dtype=np.float64)
+    if seg.channels > 1:
+        samples = samples.reshape((-1, seg.channels))
+    samples /= 1 << (8 * seg.sample_width - 1)  # integer PCM -> [-1.0, 1.0)
+    loudness = pyln.Meter(seg.frame_rate).integrated_loudness(samples)
+    return float(loudness) if np.isfinite(loudness) else None
+
+
+def _normalize_loudness(seg: AudioSegment, target_lufs: float) -> AudioSegment:
+    """Gain-shift seg so its integrated loudness sits at target_lufs. No-op when
+    the loudness can't be measured (see _measure_lufs)."""
+    loudness = _measure_lufs(seg)
+    if loudness is None:
+        return seg
+    return seg.apply_gain(target_lufs - loudness)
+
+
+def _normalize_peak(seg: AudioSegment, target_dbfs: float) -> AudioSegment:
+    """Gain-shift seg so its peak sits at target_dbfs. For one-shots too short
+    for BS.1770 loudness gating, and as the fallback when pyloudnorm is absent."""
+    if seg.max_dBFS == float("-inf"):
+        return seg
+    return seg.apply_gain(target_dbfs - seg.max_dBFS)
+
+
+def _load_asset(path: Path, *, target_lufs=None, peak_dbfs=None):
+    """Load an optional audio asset, or return None (with a note) if missing.
+
+    A dropped-in file is not trusted to already sit at the right level: when
+    target_lufs is given the asset is leveled to it (integrated loudness), and
+    when it can't be measured - or only peak_dbfs is given - the asset is
+    peak-normalized to peak_dbfs instead."""
     if not path.exists():
         print(f"[audio] optional asset missing, skipping: {path}", file=sys.stderr)
         return None
     seg = AudioSegment.from_file(path)
-    return seg.set_frame_rate(OUTPUT_FRAME_RATE).set_channels(OUTPUT_CHANNELS)
+    seg = seg.set_frame_rate(OUTPUT_FRAME_RATE).set_channels(OUTPUT_CHANNELS)
+    if target_lufs is not None and _measure_lufs(seg) is not None:
+        return _normalize_loudness(seg, target_lufs)
+    if peak_dbfs is not None:
+        return _normalize_peak(seg, peak_dbfs)
+    return seg
 
 
 def _loop_to_length(seg, length_ms: int) -> AudioSegment:
@@ -301,13 +373,15 @@ def build_audio(segments) -> AudioSegment:
     bed, per-section beds, a stinger at every section change and a soft pling
     between news items. Every audio asset is optional - a missing one just
     disables that layer, and with none present this returns the plain voice
-    concatenation (as before), only re-encoded at the output format."""
+    concatenation, re-encoded at the output format and brought to the standard
+    episode loudness (MASTER_TARGET_LUFS)."""
     client = None if os.environ.get("MOCK_TTS") else texttospeech.TextToSpeechClient()
 
-    jingle = _load_asset(INTRO_JINGLE)
-    stinger = _load_asset(SECTION_STINGER)
-    pling = _load_asset(ITEM_PLING)
-    beds = {sec: _load_asset(path) for sec, path in BED_FILES.items()}
+    lvl = dict(target_lufs=ASSET_TARGET_LUFS, peak_dbfs=ASSET_PEAK_FALLBACK_DBFS)
+    jingle = _load_asset(INTRO_JINGLE, **lvl)
+    stinger = _load_asset(SECTION_STINGER, **lvl)
+    pling = _load_asset(ITEM_PLING, peak_dbfs=PLING_TARGET_PEAK_DBFS)
+    beds = {sec: _load_asset(path, **lvl) for sec, path in BED_FILES.items()}
 
     pause = _silence(SEGMENT_PAUSE_MS)
     lead_ms = INTRO_JINGLE_LEAD_MS if jingle is not None else 0
@@ -338,7 +412,10 @@ def build_audio(segments) -> AudioSegment:
         elif is_news_item and news_item_seen and pling is not None:
             voice += pling.apply_gain(PLING_GAIN_DB) + _silence(PLING_GAP_MS)
 
-        voice += synthesize_segment(client, seg.lang, seg.text) + pause
+        spoken = _normalize_loudness(
+            synthesize_segment(client, seg.lang, seg.text), VOICE_TARGET_LUFS
+        )
+        voice += spoken + pause
         if is_news_item:
             news_item_seen = True
 
@@ -360,7 +437,15 @@ def build_audio(segments) -> AudioSegment:
 
     # 4. Mix voice over the bed.
     final = bed_track.overlay(voice)
-    return final.set_frame_rate(OUTPUT_FRAME_RATE).set_channels(OUTPUT_CHANNELS)
+    final = final.set_frame_rate(OUTPUT_FRAME_RATE).set_channels(OUTPUT_CHANNELS)
+
+    # 5. Master: bring the whole episode to a standard podcast loudness, then
+    #    pull the level back if a transient still sits above the peak ceiling
+    #    (pyloudnorm sets loudness, not true peak, so guard the encode here).
+    final = _normalize_loudness(final, MASTER_TARGET_LUFS)
+    if final.max_dBFS > MASTER_PEAK_DBFS:
+        final = final.apply_gain(MASTER_PEAK_DBFS - final.max_dBFS)
+    return final
 
 
 def update_feed(mp3_path: Path, episode_date: str, duration_seconds: int):
