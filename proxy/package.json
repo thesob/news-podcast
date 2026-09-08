@@ -1,7 +1,7 @@
 {
   "name": "headlines-proxy",
-  "version": "1.0.0",
-  "description": "Cloud Run function that proxies Guardian/GNews headlines and the podcast recipient email, keeping all three out of the public agent-prompt.md.",
+  "version": "1.1.0",
+  "description": "Cloud Run function that proxies Guardian/GNews headlines and the podcast recipient email, keeping all three out of the public agent-prompt.md. Includes also extract endpoint to scrape urls.",
   "main": "index.js",
   "engines": {
     "node": ">=20"

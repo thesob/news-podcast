@@ -54,6 +54,28 @@ above):
   characters) and is the better field to actually write the 2-4 sentence
   take from. `excerpt` can be empty for some stories (vendor didn't have
   more to give) — fall back to `summary`, or browse the url, if so.
+- Article extraction fallback — the same Cloud Run proxy also exposes an
+  extraction endpoint, for when a direct fetch of one of the named sources
+  above is blocked (bot-detection, JS-rendering wall, etc.) rather than
+  genuinely unavailable. This proxy IS available to you — treat a failed
+  call as a transient error to retry, not as "the proxy doesn't exist".
+  Call it with the web fetch/browsing tool:
+  `GET [YOUR PROXY URL]/extract?url=<the specific article URL you were
+  trying to read>&token=[YOUR PROXY TOKEN]`. The token goes in the
+  `token=` query parameter, NOT in an `Authorization` header, same as the
+  other proxy calls. Response is JSON: `{ content, title, url }` — `content`
+  is the extracted article text/markdown; use it in place of a direct page
+  read when the direct read failed. Use this ONLY as a fallback for a
+  specific article you already identified via the named-source browsing
+  above — never as a way to discover new stories, and never as a
+  substitute for checking the named source list itself.
+  Known limit: this will not get past a genuine subscription paywall
+  (nytimes.com, washingtonpost.com specifically) — it only helps with
+  bot-detection or rendering blocks. If nytimes.com or washingtonpost.com
+  are paywalled today, don't retry the extraction endpoint on them; cover
+  that story via Reuters, AP, or DW instead if they have it, and note the
+  substitution in the sources note at the top rather than treating it as
+  a gap.
 - Do NOT use NewsAPI.org — its free tier's terms restrict it to local
   development only and explicitly prohibit this kind of live/production use.
 
@@ -80,7 +102,11 @@ should work, since auth is now a query parameter and needs no header.
    anything not already in Top Stories, and finally the two closing sections
    below (Connecting the Dots, Hypothesis Watch) — these two are written in
    English regardless of the rest of the brief's language mix.
-
+   If a source was reached only via the `/extract` fallback rather than a
+   direct read, that does NOT count as "unreachable" for the sources note —
+   only note a source as unreachable if both the direct read and the
+   `/extract` fallback failed (or the story was paywalled and covered via
+   a different outlet instead).
 6. Include the source name and a direct link for every story.
 7. Keep it skimmable — 3–5 minute read unless it's a heavy news day.
 8. Never fabricate sources, quotes, or links.
