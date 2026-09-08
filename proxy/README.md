@@ -20,8 +20,16 @@ recipient email) server-side, and exposes two narrow, token-gated routes:
   requested; Guardian defaults to 20 and can go up to 50.
 - `GET /config` — `{ "recipientEmail": "..." }`, the one non-secret variable
   that used to be hardcoded in `prompts/agent-prompt.md`.
+- `GET /extract?url=<article_url>` — `{ content, title, url }`, where
+  `content` is clean article markdown pulled server-side via Firecrawl's
+  `/v1/scrape`. This lets the daily agent read a page its own fetch/browsing
+  tool can't (bot-detection walls, JS-only renders) without the Firecrawl key
+  ever touching the prompt. Returns **422** when extraction comes back empty
+  (paywalled or unrenderable) — the agent's cue to drop that source rather
+  than retry. Does *not* defeat a real subscription paywall (nytimes.com,
+  washingtonpost.com).
 
-Both routes require the `PROXY_TOKEN`, passed **either** as
+All three routes require the `PROXY_TOKEN`, passed **either** as
 `Authorization: Bearer <PROXY_TOKEN>` **or** as a `?token=<PROXY_TOKEN>`
 query parameter. The query form exists because the daily Cowork agent calls
 this with a web fetch/browsing tool that can't attach a custom request
@@ -63,15 +71,18 @@ says so explicitly instead of guessing.
 
 ---
 
-## Before you start: get the two vendor keys
+## Before you start: get the vendor keys
 
 - **Guardian**: go to https://open-platform.theguardian.com/access/ and
   register with your email — a free "Developer" key is emailed to you
   instantly (500 calls/day, non-commercial use).
 - **GNews**: go to https://gnews.io/ → sign up → your API key is shown on
   your account dashboard (100 requests/day on the free plan).
+- **Firecrawl** (only needed for `/extract`): sign up at https://firecrawl.dev/
+  — the free tier gives a starting credit allotment (no card at signup); copy
+  the `fc-…` key from the dashboard. Each `/extract` call spends one credit.
 
-Keep both values somewhere private for now (a password manager, not a text
+Keep these values somewhere private for now (a password manager, not a text
 file in this repo) — you'll paste them into Secret Manager below.
 
 ---
@@ -84,9 +95,14 @@ per month. This function gets called a handful of times once a day — a few
 hundred invocations a month at most, each running for a second or two —
 which is a rounding error against those numbers. **Secret Manager is free
 here too**: its free tier is 6 active secret versions and 10,000 access
-operations per month; this uses 3 secrets, and Cloud Run only reads a
+operations per month; this uses 4 secrets, and Cloud Run only reads a
 `--set-secrets` value on cold start (not per request), so actual usage is a
 tiny fraction of either allowance.
+
+The one paid-ish dependency is **Firecrawl** (only exercised by `/extract`):
+its free tier bills one credit per scrape, so a heavy news day of 10–15
+blocked articles is the thing to watch against current limits on
+firecrawl.dev/pricing. Cloud Run and Secret Manager stay free regardless.
 
 An earlier version of this doc argued for skipping Secret Manager by saying
 it "mirrors" how the TTS service account key is handled — pasted into a
@@ -147,7 +163,7 @@ Copy the printed 64-character hex string — this is your `PROXY_TOKEN`. It
 doesn't go in this repo; you'll load it into Secret Manager next, and later
 paste it into the live Cowork task prompt.
 
-### 3. Create the three secrets
+### 3. Create the four secrets
 
 Writing to a temp file first (instead of piping a string through
 PowerShell's pipeline) avoids PowerShell silently adding a trailing newline
@@ -163,6 +179,9 @@ gcloud secrets create GNEWS_API_KEY --data-file="$env:TEMP\secret.txt"
 
 [System.IO.File]::WriteAllText("$env:TEMP\secret.txt", "YOUR_GENERATED_TOKEN_FROM_STEP_2")
 gcloud secrets create PROXY_TOKEN --data-file="$env:TEMP\secret.txt"
+
+[System.IO.File]::WriteAllText("$env:TEMP\secret.txt", "YOUR_REAL_FIRECRAWL_KEY")
+gcloud secrets create FIRECRAWL_API_KEY --data-file="$env:TEMP\secret.txt"
 
 Remove-Item "$env:TEMP\secret.txt"
 ```
@@ -190,10 +209,11 @@ $sa = "$projectNumber-compute@developer.gserviceaccount.com"
 gcloud secrets add-iam-policy-binding GUARDIAN_API_KEY --member="serviceAccount:$sa" --role="roles/secretmanager.secretAccessor"
 gcloud secrets add-iam-policy-binding GNEWS_API_KEY --member="serviceAccount:$sa" --role="roles/secretmanager.secretAccessor"
 gcloud secrets add-iam-policy-binding PROXY_TOKEN --member="serviceAccount:$sa" --role="roles/secretmanager.secretAccessor"
+gcloud secrets add-iam-policy-binding FIRECRAWL_API_KEY --member="serviceAccount:$sa" --role="roles/secretmanager.secretAccessor"
 ```
 
 This grants access per-secret (least privilege — that service account can
-read exactly these three secrets and nothing else in Secret Manager), rather
+read exactly these four secrets and nothing else in Secret Manager), rather
 than the broader project-level grant GCP's own error message would also
 accept.
 
@@ -272,6 +292,12 @@ $token = "paste the PROXY_TOKEN value from step 2 here"
 
 Invoke-RestMethod -Uri "$url/config" -Headers @{ Authorization = "Bearer $token" }
 Invoke-RestMethod -Uri "$url/headlines?lang=es&topic=business" -Headers @{ Authorization = "Bearer $token" }
+
+# /extract — pass one known-blocked source and one paywalled source (e.g. a
+# washingtonpost.com article) to confirm the 422 "no content" path works;
+# that 422 is the signal the agent uses to fall back to a different outlet.
+$article = "https://www.reuters.com/some-article"
+Invoke-RestMethod -Uri "$url/extract?url=$([uri]::EscapeDataString($article))" -Headers @{ Authorization = "Bearer $token" }
 
 # The query-parameter form the daily agent uses (no header) should work too:
 Invoke-RestMethod -Uri "$url/config?token=$token"
@@ -357,6 +383,9 @@ Cowork task** steps as the CLI path above.
 cd proxy
 npm install
 $env:GUARDIAN_API_KEY="test"; $env:GNEWS_API_KEY="test"; $env:PROXY_TOKEN="test"; $env:RECIPIENT_EMAIL="you@example.com"
+# /extract also needs a real Firecrawl key to return anything — a placeholder
+# is fine if you're only exercising /headlines and /config:
+$env:FIRECRAWL_API_KEY="fc-your-real-key-or-a-placeholder"
 npm start
 ```
 
@@ -373,6 +402,11 @@ Invoke-RestMethod -Uri "http://localhost:8080/config" -Headers @{ Authorization 
   guarantee — they protect against a single runaway loop or retry storm,
   not against determined abuse. If this ever needs to be a hard global cap,
   move that counter/cache into Firestore or Memorystore.
+- **`/extract` shares the 20-request/60s rate-limit window** with
+  `/headlines` and `/config`, and is not cached. A daily agent run that
+  scrapes ~10–15 blocked articles sits well under that ceiling; if a future
+  caller batches `/extract` harder, bump `RATE_LIMIT_MAX` or give `/extract`
+  its own window.
 - **No IAM-level access control on the HTTP endpoint** ("allow public
   access" above) — enforcement is entirely the app-level bearer check in
   `index.js`. To rotate `PROXY_TOKEN`: generate a new one (CLI step 2), add

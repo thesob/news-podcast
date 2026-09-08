@@ -39,6 +39,10 @@ const GUARDIAN_API_KEY = process.env.GUARDIAN_API_KEY;
 const GNEWS_API_KEY = process.env.GNEWS_API_KEY;
 const PROXY_TOKEN = process.env.PROXY_TOKEN;
 const RECIPIENT_EMAIL = process.env.RECIPIENT_EMAIL;
+// Firecrawl key for /extract. Unlike the four above it is NOT in the
+// top-level misconfig guard — a missing Firecrawl key fails only /extract
+// (checked in handleExtract), so /headlines and /config stay up regardless.
+const FIRECRAWL_API_KEY = process.env.FIRECRAWL_API_KEY;
 
 const ALLOWED_LANGS = new Set(['en', 'es', 'sv']);
 
@@ -135,6 +139,17 @@ function clampCount(value, fallback, max) {
   return Math.min(n, max);
 }
 
+// The daily agent waits synchronously on /extract, so cap the Firecrawl call
+// rather than letting a hung scrape ride until the caller's own timeout. 20s
+// leaves headroom over the 15s we ask Firecrawl for below.
+const FIRECRAWL_TIMEOUT_MS = 20 * 1000;
+
+function withTimeout(ms) {
+  const controller = new AbortController();
+  const id = setTimeout(() => controller.abort(), ms);
+  return { signal: controller.signal, cancel: () => clearTimeout(id) };
+}
+
 async function fetchGuardian(topic, q, count) {
   const params = new URLSearchParams({
     'api-key': GUARDIAN_API_KEY,
@@ -229,6 +244,89 @@ function handleConfig(req, res) {
   res.json({ recipientEmail: RECIPIENT_EMAIL });
 }
 
+// GET /extract?url=<article_url>
+//   -> { content, title, url } where `content` is clean article markdown,
+//      pulled server-side via Firecrawl so the key never reaches the prompt.
+//      Lets the daily agent read a page its own fetch/browsing tool can't
+//      (bot walls, JS-only renders). Returns 422 when extraction comes back
+//      empty (paywalled / unrenderable) — the agent's cue to drop that
+//      source rather than retry. Does NOT defeat a real subscription paywall.
+async function handleExtract(req, res) {
+  if (!FIRECRAWL_API_KEY) {
+    res.status(500).json({ error: 'server_misconfigured', detail: 'FIRECRAWL_API_KEY not set' });
+    return;
+  }
+
+  const rawUrl = req.query.url ? String(req.query.url) : '';
+  if (!rawUrl) {
+    res.status(400).json({ error: 'url query parameter is required' });
+    return;
+  }
+
+  let target;
+  try {
+    target = new URL(rawUrl);
+  } catch {
+    res.status(400).json({ error: 'url query parameter is not a valid URL' });
+    return;
+  }
+  if (target.protocol !== 'http:' && target.protocol !== 'https:') {
+    res.status(400).json({ error: 'url must be http or https' });
+    return;
+  }
+
+  const { signal, cancel } = withTimeout(FIRECRAWL_TIMEOUT_MS);
+  try {
+    const fc = await fetch('https://api.firecrawl.dev/v1/scrape', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${FIRECRAWL_API_KEY}`,
+      },
+      body: JSON.stringify({
+        url: target.toString(),
+        formats: ['markdown'],
+        onlyMainContent: true,
+        timeout: 15000,
+      }),
+      signal,
+    });
+
+    if (!fc.ok) {
+      const detail = await fc.text().catch(() => '');
+      res.status(502).json({
+        error: 'extract_upstream_failure',
+        status: fc.status,
+        detail: detail.slice(0, 500),
+      });
+      return;
+    }
+
+    const data = await fc.json();
+    const markdown = data?.data?.markdown ?? data?.markdown ?? '';
+    const title = data?.data?.metadata?.title ?? data?.metadata?.title ?? null;
+
+    if (!markdown.trim()) {
+      res.status(422).json({
+        error: 'no_content',
+        detail: 'extraction returned nothing (likely paywalled or JS-only render)',
+        url: target.toString(),
+      });
+      return;
+    }
+
+    res.json({ content: markdown.trim(), title, url: target.toString() });
+  } catch (err) {
+    const timedOut = err.name === 'AbortError';
+    res.status(timedOut ? 504 : 502).json({
+      error: timedOut ? 'extract_timeout' : 'extract_upstream_failure',
+      detail: String(err.message || err).slice(0, 500),
+    });
+  } finally {
+    cancel();
+  }
+}
+
 exports.headlinesProxy = async (req, res) => {
   if (!PROXY_TOKEN || !GUARDIAN_API_KEY || !GNEWS_API_KEY || !RECIPIENT_EMAIL) {
     res.status(500).json({ error: 'server_misconfigured' });
@@ -249,6 +347,8 @@ exports.headlinesProxy = async (req, res) => {
       await handleHeadlines(req, res);
     } else if (path === '/config') {
       handleConfig(req, res);
+    } else if (path === '/extract') {
+      await handleExtract(req, res);
     } else {
       res.status(404).json({ error: 'not_found' });
     }
