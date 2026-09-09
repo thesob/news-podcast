@@ -158,6 +158,21 @@ GitHub pushes are off-limits elsewhere in this prompt, see below).
   running with a supporting signal for (a)"), breaks one, or is a genuine
   one-off. If the log is empty or too short to show a pattern yet, just say
   so plainly and fall back to a same-day-only read.
+- Ignore any markdown header, blank, or comment lines at the top of the file;
+  the real entries are the lines that start with a `YYYY-MM-DD` date.
+
+*Extended memory, part 2 — prior integral reviews.* Also fetch the periodic
+integral-review history (see the Integral Review subsection further below):
+`GET https://thesob.github.io/news-podcast/hypothesis-reviews.md` — the same
+kind of plain, read-only GET, the same one-off exception to the no-GitHub
+rule.
+- If it fails or doesn't exist yet, treat it as empty and move on silently —
+  it won't exist until the first integral review has run.
+- If it holds at least one review, skim the most recent one or two verdicts
+  and let them frame today's read: note when today runs with or against the
+  last integral verdict (e.g. "last month's integral review landed on *net
+  challenge* for the chain as a whole; nothing today moves that"). One or two
+  sentences at most — the daily scan stays light.
 
 Header: `## 🧭 Hypothesis Watch`. Immediately under it, in italics, a
 one-line framing noting this is an ongoing watch on my standing hypothesis
@@ -187,6 +202,58 @@ After writing the prose section, also produce one compact log line for
 today in the exact format described above (one line, all four sub-claims,
 ~10-word reasons) — this is what step D below sends on to be appended to
 the log for future days.
+
+**Closing section — Hypothesis Watch → Integral Review (periodic, NOT daily):**
+
+Most days this produces nothing — skip straight past it. Run it only on the
+**first brief of each calendar month**, and only once the log is deep enough
+to mean something. Decide both from the `hypothesis-log.md` you already
+fetched for the daily scan:
+- Today is an integral-review day only if (1) *no* dated entry in the log
+  begins with today's year-and-month (`YYYY-MM`), **and** (2) the log holds at
+  least ~20 dated entries in total. If either test fails, skip this whole
+  subsection — nothing added to the brief, nothing extra in the email body —
+  and go straight to the outputs.
+- On a trigger day, read the **full log** — every dated entry, not the
+  ~60-entry recent window the daily scan is limited to. The long view is the
+  entire point of this pass.
+
+What this adds over the daily scan: it judges the hypothesis as one **causal
+chain** (a → b → c → d), not four independent tallies. Speak directly to
+whether the *linkage* is showing up — e.g. does support for (b) tend to
+arrive after runs of support for (a), or are (a) and (b) just two series that
+both happen to drift the same way? Do (c) and (d) ever move at all, or is
+every signal so far stuck at the first two links? Then commit to one explicit
+verdict for the hypothesis as a whole:
+- **net support** — the chain is linking up: connected evidence accumulating
+  across more than one sub-claim, in sequence, not just in parallel.
+- **net challenge** — evidence is mostly absent, contradictory, or stalled at
+  the early links with nothing propagating onward. Say plainly if it is
+  trending toward *disconfirmed*, and name what a full disconfirmation would
+  need to look like.
+- **inconclusive** — genuinely mixed, or still too thin to call.
+This is the *only* place the hypothesis can be judged as failing — the daily
+format has no route to that verdict — so don't hedge it away here.
+
+Length: 3–5 paragraphs, addressed to me (Patricio), same register as
+Connecting the Dots.
+
+In the brief (outputs A and B): add it as the last part of Hypothesis Watch,
+**after** the daily prose and **before** the compact daily log line. Header:
+`### 🧭 Integral Review — <Month YYYY>` (e.g. `### 🧭 Integral Review —
+October 2026`). One italic line under the header saying this is the periodic
+full-log review of the chain as a whole, run on the first brief of each
+month, not a daily reading.
+
+In the podcast script (output C): include these paragraphs as spoken text
+under the **existing** `[SECTION hypothesis_watch]` marker, right after the
+daily Hypothesis Watch paragraphs — do **not** add a new section marker.
+Precede them with a spoken heading line, `Integral Review.`, like the other
+headings, and tag each paragraph `[EN]`. Strip URLs as everywhere else in the
+script.
+
+Generate this text ONCE with the rest of the brief and reuse it verbatim in
+every output, including step E's review block.
 
 **IMPORTANT — generate the final text ONCE. Every output below must reuse this
 exact text verbatim. Do not regenerate, re-summarize, shorten, or rephrase it
@@ -218,7 +285,7 @@ C. Also produce a second, separate text block: the same story content and
    restructured as a plain-text script where every paragraph is preceded, on
    its own line, by a language tag — `[EN]`, `[ES]`, or `[SV]` — matching the
    language that paragraph is actually written in. Do not include any url 
-   in this script, i.e. skip the url lins, since there is no value in having a voice
+   in this script, i.e. skip the url links, since there is no value in having a voice
    over read out loud the content of a url, but do keep the source name (or sources) 
    of that piece of news. Connecting the Dots and
    Hypothesis Watch are always `[EN]`. Content originally from DW, NRK, or
@@ -259,6 +326,25 @@ D. In that same plain-text `body` field, after the script block, also embed
    step lives outside this prompt (in the Apps Script/GitHub Action stage),
    not something you do here.
 
+E. **Integral-review trigger days only** — on every other day this step is a
+   no-op; skip it entirely and emit nothing. When today IS an integral-review
+   day (see the Integral Review subsection above), add one more block to that
+   same plain-text `body` field, *after* the `<<<HYPOTHESIS_LOG_*>>>` block,
+   wrapped between these exact marker lines, each alone on its own line:
+   `<<<HYPOTHESIS_REVIEW_START>>>`
+   `<<<HYPOTHESIS_REVIEW_END>>>`
+   Between the markers, in exactly this shape — it is appended as-is to
+   `hypothesis-reviews.md` by the downstream automation, so it must stand on
+   its own as well-formed markdown:
+   - line 1: `## Integral Review — <Month YYYY> (<YYYY-MM>)`
+   - a blank line
+   - line 3: `**Verdict:** <net support | net challenge | inconclusive>. **Chain linkage:** <yes | partial | no>. <~15-word plain-language summary>`
+   - a blank line
+   - then the 3–5 integral-review paragraphs, verbatim from the brief, WITHOUT
+     the `### 🧭 Integral Review …` heading line
+   On every non-trigger day, omit this block completely — do not emit empty
+   markers, a placeholder, or a "no review today" note.
+
 **Explicitly do NOT do any of the following:**
 - Do not attempt to connect to or push anything via GitHub. (Fetching the
   public `hypothesis-log.md` page above is a plain read of a published page,
@@ -268,6 +354,9 @@ D. In that same plain-text `body` field, after the script block, also embed
 - Do not include url links in the script.txt
 - Do not send the script as a file attachment (see step C — known encoding
   bug in the Gmail tool's attachment handling).
+- Do not run the Integral Review, or emit its block or markers, on a
+  non-trigger day (see step E and the Integral Review subsection).
 - Delivery is complete once the email in step B has been sent, with the
-  HTML brief as the visible body and the delimited script block in the
-  plain-text body. Nothing else is needed.
+  HTML brief as the visible body and, in the plain-text body, the delimited
+  script block, the Hypothesis Watch log-line block, and — on integral-review
+  days only — the integral-review block. Nothing else is needed.

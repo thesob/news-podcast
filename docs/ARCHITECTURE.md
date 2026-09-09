@@ -30,7 +30,7 @@ flowchart TD
     end
 
     subgraph E3["Execution env 3 &middot; Google Apps Script"]
-        S3["<b>Stage 3 &mdash; Gmail-to-GitHub bridge</b><br/>time-driven trigger every 5 min<br/>extract script from plain-text body markers<br/>commit episode/script.txt via Contents API"]
+        S3["<b>Stage 3 &mdash; Gmail-to-GitHub bridge</b><br/>time-driven trigger every 5 min<br/>extract 3 plain-text body blocks: podcast script,<br/>hypothesis log line, monthly integral review<br/>commit episode/script.txt + append docs/hypothesis-*.md"]
     end
 
     subgraph E4["Execution env 4 &middot; GitHub (Actions + Pages)"]
@@ -46,9 +46,10 @@ flowchart TD
 
     S1 -- "GET /headlines and /config (token in ?token= query param)" --> S2
     S2 -- "normalized articles + recipientEmail" --> S1
-    S1 -- "one email: HTML brief (to read) + plain-text tagged script (between PODCAST_SCRIPT_START / END markers)" --> GM
+    S1 -- "one email: HTML brief (to read) + plain-text body blocks (tagged script, hypothesis log line, monthly review)" --> GM
     GM -- "poll and read latest matching message" --> S3
-    S3 -- "push commit 'Daily script &lt;date&gt;'" --> S4
+    S3 -- "push commit 'Daily script &lt;date&gt;' (+ hypothesis-*.md appends)" --> S4
+    S6 -. "hypothesis-log.md / hypothesis-reviews.md read-only GET" .-> S1
     S6 -- "RSS over HTTPS" --> PH
 
     classDef stage fill:#e8f0fe,stroke:#4285f4,color:#111
@@ -103,6 +104,16 @@ Each day leaves **two commits on `main`**: `Daily script <date>` (script in) and
     `[EN]` / `[ES]` / `[SV]`; a
     `[SECTION intro|news|connecting_dots|hypothesis_watch]` marker before each
     major section; **URLs stripped** (no value read aloud).
+  - **D.** the day's one-line **Hypothesis Watch log line**, in the same
+    plain-text part between `<<<HYPOTHESIS_LOG_START>>>` / `...END>>>`.
+  - **E.** *first brief of each calendar month only* — the **integral review**
+    markdown section between `<<<HYPOTHESIS_REVIEW_START>>>` / `...END>>>`, a
+    full-log verdict (net support / net challenge / inconclusive) on the
+    hypothesis as one causal chain. Also rendered into the brief (output A/B)
+    and spoken under the existing `hypothesis_watch` section in output C.
+  Before writing Hypothesis Watch, Stage 1 GETs `hypothesis-log.md` (last ~60
+  entries for the daily trend) and `hypothesis-reviews.md` (latest verdict as
+  context) from the Pages site — read-only, the one allowed GitHub touch.
 
 ### Stage 2 — headlines-proxy: Google Cloud Run function
 [`proxy/index.js`](../proxy/index.js), Node ≥ 20, `functions-framework`, deployed
@@ -139,18 +150,35 @@ in region `southamerica-west1`.
 [`scripts/gmail-to-github.gs`](../scripts/gmail-to-github.gs).
 - **Time-driven trigger every 5 minutes** (Apps Script has no on-receive event).
 - Searches Gmail `subject:"Daily News Brief" newer_than:1d`, takes the latest
-  message, extracts the text between the two markers from the **plain-text
-  body**. (Previously read a `script.txt` attachment; switched because the Gmail
-  tool's attachment encoding silently corrupts non-ASCII — accented ES/SV
-  letters, dashes.)
-- Commits that text as [`episode/script.txt`](../episode/script.txt) via the
-  GitHub Contents API (`PUT`, fetching the current blob SHA first), message
-  `Daily script <date>`, using a fine-grained PAT (Contents: Read/Write, this
-  repo only) in Script Properties. Config in the script:
+  message, and extracts up to **three** delimited blocks from the **plain-text
+  body** (never attachments — the Gmail tool's attachment encoding silently
+  corrupts non-ASCII: accented ES/SV letters, dashes):
+  1. `<<<PODCAST_SCRIPT_*>>>` → committed as
+     [`episode/script.txt`](../episode/script.txt), message `Daily script
+     <date>`. **This commit is the pipeline trigger.** Skipped if the file is
+     already byte-identical (so a retry can't re-trigger the build).
+  2. `<<<HYPOTHESIS_LOG_*>>>` → the day's one-line Hypothesis Watch reading,
+     appended to [`docs/hypothesis-log.md`](hypothesis-log.md) (message
+     `Hypothesis log <date>`). File is seeded with a header if missing.
+     Expected every day; a missing block is logged and tolerated.
+  3. `<<<HYPOTHESIS_REVIEW_*>>>` → present **only in the first brief of each
+     calendar month**; the integral-review markdown section, appended to
+     [`docs/hypothesis-reviews.md`](hypothesis-reviews.md) (message `Integral
+     review <YYYY-MM>`). File seeded if missing.
+- All writes go through the GitHub Contents API (`PUT`, fetching the current
+  blob SHA first), using a fine-grained PAT (Contents: Read/Write, this repo
+  only) in Script Properties. Config in the script:
   `GITHUB_REPO: 'thesob/news-podcast'`, branch `main`.
-- `LAST_PROCESSED_MESSAGE_ID` in Script Properties → commits **exactly once per
-  email**; a failed commit is not marked processed and retries next poll.
-- **This commit is the pipeline trigger.**
+- `LAST_PROCESSED_MESSAGE_ID` in Script Properties → processes **exactly once
+  per email**. On top of that each write is content-checked (identical script
+  → no commit; a log line whose date is already in the file → skipped; a
+  review whose `(YYYY-MM)` tag is already in the file → skipped), so a partial
+  failure retries next poll without double-writing. A failed script commit is
+  not marked processed; a committed script with a failed log/review append is
+  also not marked processed (the append retries; the script commit no-ops).
+- `hypothesis-log.md` / `hypothesis-reviews.md` live under `docs/` so GitHub
+  Pages serves them at `thesob.github.io/news-podcast/hypothesis-{log,reviews}.md`
+  — the URLs the Stage 1 agent fetches read-only for its extended memory.
 
 ### Stage 4 — Episode build: GitHub Actions
 [`.github/workflows/build-podcast.yml`](../.github/workflows/build-podcast.yml).
@@ -235,10 +263,17 @@ agent prompt is public and the agent has no secret store.
 
 - **No database anywhere.** Durable state = git history +
   `LAST_PROCESSED_MESSAGE_ID` (Apps Script) + the proxy's per-instance in-memory
-  cache.
+  cache. The one persisted *content* memory is Hypothesis Watch:
+  `docs/hypothesis-log.md` (one line per day) and `docs/hypothesis-reviews.md`
+  (one section per month), both written by Stage 3 and read back by Stage 1 on
+  the next run via their public Pages URLs.
 - **Cross-day story dedup is NOT persisted** — no "seen stories" file, the agent
   has no memory of prior episodes fed back to it; dedup is judgment within a
   single run. (Stories do recur across days as a result.)
+- **Integral review cadence** is derived, not scheduled: Stage 1 treats a day
+  as an integral-review day when `hypothesis-log.md` has ≥ ~20 dated entries
+  and none for the current `YYYY-MM` — i.e. the first brief of a calendar
+  month, once at least ~a month of history exists.
 - Re-running a date overwrites that day's mp3/transcript; the feed de-dupes the
   item by its URL id.
 - **No retry / alerting** if the daily agent silently fails, the email never
