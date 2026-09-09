@@ -1,0 +1,104 @@
+[EN]
+Good morning, Patricio. It's a heavy news day — the Middle East has spilled into the oil markets in a big way, a US–Canada trade fight just got real, and Europe's political ground is shifting. Here's your rundown.
+
+[EN]
+A quick sources note: The New York Times and Washington Post sit behind hard paywalls and couldn't be read today, so the stories they'd normally carry are covered here through BBC, The Guardian, DW, and El País instead. Every other source on the list came through fine.
+
+[EN]
+Top Stories.
+
+[EN]
+Top story one: oil tops one hundred dollars a barrel as the Iran–US–Houthi conflict widens. Crude hit one hundred dollars for the first time since July after a round of US strikes on tankers near the Strait of Hormuz and Houthi attacks on Saudi energy facilities. DW reports the US struck oil tankers off Iran's coast; Sweden's SVT and The Guardian describe Iran-aligned Houthis hitting Saudi installations and Iran striking ships and a US base in the region. The knock-on effects are already at the pump — US gas prices hit a record Labor Day high of about four dollars fourteen a gallon. This is the story to watch; an energy shock ripples through everything else. Sources: BBC, DW, and The Guardian.
+
+[EN]
+Top story two: Trump escalates a trade war with Canada. Washington is banning imports of some Canadian goods — alcohol, dairy and motorbikes per the BBC — and layering on tariffs as high as fifty percent, with Canada preparing a wave of counter-tariffs. Trump separately declared that business-jet maker Bombardier can no longer sell into the US unless it manufactures there, telling Ottawa to stop treating America "like a piggybank." It's the sharpest flare-up yet in his second-term tariff push against close trading partners. Sources: BBC, DW, and The Guardian.
+
+[EN]
+Top story three: the UK moves to sanction Israeli West Bank settlements, and relations rupture. Britain announced a trade ban on goods from illegal Israeli settlements in the West Bank, accusing Israel of enabling "ethnic cleansing" by settlers. Netanyahu responded by moving to close the British consulate in East Jerusalem, and Israeli President Herzog warned London would be "on the wrong side of history." The US and some British MPs have criticized the move, making this a genuine diplomatic rift among allies. Sources: The Guardian, DW, and El País.
+
+[EN]
+Top story four: Ukraine diplomacy inches forward as Trump dangles incentives to Moscow. El País reports Trump is offering Russia economic benefits to end the war, while Zelensky told reporters that US negotiators floated several "decent ideas," with a possible next trilateral meeting hosted by Turkey. In parallel, Hungary expelled ten Russian diplomats for "unacceptable" activities, and Norway's PM Jonas Gahr Støre met Zelensky. The Kremlin, for its part, insists victory is "very near" — so read the optimism cautiously. Sources: El País, The Guardian, and NRK in Norway.
+
+[EN]
+Top story five: Germany's far-right AfD wins a state election in Saxony-Anhalt. The AfD, led by Alice Weidel, took the Saxony-Anhalt state election — described by DW as a symbolic blow to Chancellor Friedrich Merz, and by El País as the party edging close to governing the state with cheering from MAGA-world figures like Elon Musk. Counter-protests against hate speech drew crowds in Berlin, with some CDU representatives joining. It's another marker of how far Europe's political center of gravity has shifted. Sources: DW and El País.
+
+[ES]
+España y América Latina.
+
+[ES]
+Chile cita al embajador de Estados Unidos por sus dichos sobre el estallido social. La Cancillería chilena convocó al embajador estadounidense Brandon Judd para que explique sus comentarios sobre el origen del estallido social de 2019, unos dichos que han enfrentado al oficialismo con la oposición. Tanto emol como La Tercera señalan que la Cancillería busca los antecedentes de inteligencia de Estados Unidos que habría detrás de la afirmación: una fricción diplomática poco habitual entre Santiago y Washington. Fuentes: emol y La Tercera.
+
+[ES]
+La inflación de agosto en Chile sorprende con fuerza al alza. Los precios subieron cero coma seis por ciento en agosto, cerca del doble de lo que esperaba el mercado, llevando la inflación anualizada a alrededor de cuatro coma uno por ciento y empujando las expectativas de inflación a diciembre hacia el cuatro coma siete. Los economistas ya están reevaluando la trayectoria de las tasas. Para quien tenga exposición al peso, este es el dato local de la semana. Fuentes: emol y La Tercera.
+
+[ES]
+El Senado despacha la Sala Cuna Universal, pero el Gobierno pierde en el financiamiento. El Senado aprobó el largamente esperado proyecto de sala cuna universal, un hito real, pero el Gobierno sufrió un revés sobre cómo pagarlo: la fórmula de financiarlo con cargo al seguro de cesantía se cayó al no alcanzar el quórum. Pasó el "qué"; el "cómo" sigue sin resolverse. Fuentes: emol y La Tercera.
+
+[ES]
+España: el PP percibe a un Sánchez debilitado. El País informa que el Partido Popular ve a Pedro Sánchez debilitado por su gestión de las crisis recientes, aunque teme que la extrema derecha capitalice el descontento. Aparte, este miércoles se revelarán informes desclasificados del CNI, la Policía y la Guardia Civil. La política doméstica española sigue en una tensión de fuego lento. Fuente: El País.
+
+[ES]
+Una noticia de salud silenciosa pero importante desde Barcelona. Investigadores que presentaron en Barcelona reportaron que la semaglutida, el fármaco detrás del Ozempic, se asoció con una reducción de hasta cuarenta por ciento en las crisis de asma, a partir de un análisis de registros de salud del Reino Unido. Si se confirma en estudios posteriores, es otro frente inesperado para una familia de fármacos que no deja de sorprender a la medicina. Fuente: ABC.
+
+[EN]
+US and International.
+
+[EN]
+Argentina to bring a criminal case over Falklands oil. Argentina says it will file a criminal case against an oil company operating in the waters around the Falklands, or Malvinas — reviving the sovereignty dispute with the UK on a new, legal-commercial front. Source: BBC.
+
+[EN]
+A record South Korea divorce settlement. A tycoon has been ordered to pay his ex-wife one point eight seven billion dollars — the largest divorce settlement in South Korean history, a ruling likely to reshape how courts there treat wealth built during a marriage. Source: BBC.
+
+[EN]
+Hong Kong's first post-handover leader dies. Tung Chee-hwa, Hong Kong's first chief executive after the nineteen ninety-seven British handover, has died — closing a chapter on the territory's early years under Chinese sovereignty. Source: BBC.
+
+[EN]
+Tech and Niche.
+
+[EN]
+The AI agent race goes personal — and so do the security problems. Meta unveiled "Muse," a personal AI agent, which topped Hacker News today. But the flip side is all over the tech press: TechCrunch reports hackers are stealing Claude API tokens from paying subscribers, and that Google has moved Chrome to a two-week update cadence specifically because AI is changing the security landscape. Ars Technica notes Microsoft just patched a record nine hundred seventy-two vulnerabilities in a single month. The tools are racing ahead; the attack surface is racing right alongside. Sources: Hacker News, TechCrunch, and Ars Technica.
+
+[EN]
+AI coding isn't shaping up as winner-take-all. Cognition hit a forty-eight billion dollar valuation, which TechCrunch reads as a signal that investors expect several AI-coding players to thrive rather than one dominant winner. It's a notable counter-narrative to the usual "one model to rule them all" framing. Source: TechCrunch.
+
+[EN]
+The energy-and-compute collision keeps intensifying. Two threads worth pairing: DeepMind alumni are building software to speed fusion power onto the grid, and nuclear startups keep raising big rounds — Bluecore Energy's fifty million dollar seed just two months after launch — while Ars Technica reports the AI data-center boom is creating new accountability problems around who answers for multi-billion-dollar infrastructure. The AI buildout is becoming, more than anything, an energy story. Sources: TechCrunch and Ars Technica.
+
+[EN]
+Also notable: a German company became the first in Europe to launch a fully commercial orbital rocket, and OpenAI described using its models to help run quantum-computing experiments. Sources: Ars Technica and Hacker News.
+
+[SV]
+Sverige.
+
+[SV]
+Valrörelsen spurtar mot valet den trettonde september. Med bara några dagar kvar till valet har SVT:s debatter skärpts: sittande statsministern Magdalena Andersson från Socialdemokraterna har drabbat samman med Ulf Kristersson från Moderaterna och Sverigedemokraternas Jimmie Åkesson om skolan, invandringen och ekonomin, och Andersson har anklagat SD för "Putinvänlig infiltration" – något Åkesson blankt förnekar. Räkna med att detta dominerar den svenska nyhetsbevakningen hela veckan. Källa: SVT.
+
+[SV]
+Åar torkar ut i södra Sverige. SVT rapporterar att vattendrag i Skåne och södra Sverige torkar ut, med döende fisk och dramatiskt sjunkande nivåer – en expert kallar det det värsta hen sett. En tystare klimatberättelse under bruset från valet. Källa: SVT.
+
+[EN]
+Connecting the Dots. A quick disclaimer: this section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+
+[EN]
+Patricio, the thread tying today together is energy as the transmission belt between conflict and your wallet. A widening Iran–US–Houthi confrontation pushed oil to one hundred dollars, and that single number quietly reprices a lot of your world. Chile isn't an oil exporter, so a sustained crude spike tends to hit on the import side — fuel, transport, fertilizers — and it lands just as Chilean inflation surprised to the upside at zero point six percent in August. If energy stays elevated, the Banco Central's room to cut rates narrows, which matters for anything you hold in pesos or in peso-denominated debt. Worth watching rather than acting on yet, but the direction is not your friend.
+
+[EN]
+There's a second current running underneath: the rich world is fragmenting its trade and alliances in real time. The US is slapping fifty percent tariffs on Canada, Britain and Israel are in an open diplomatic rupture, Germany's far right just won a state, and Sweden's election is being fought partly over Russia. For a small, open, copper-exporting economy like Chile's, a more protectionist and bloc-ified global order is the real long-run risk — not any single headline. Copper is your national barometer here; a world tilting toward trade walls and slower growth is generally a world of softer industrial demand. The flip side worth holding in mind: the AI-and-energy buildout — fusion bets, nuclear seed rounds, data-center sprawl — is a structural source of copper and electricity demand that could partly offset cyclical weakness. Copper is in both the transmission lines and the turbines.
+
+[EN]
+Third, notice how much of today's tech news is really about trust and control rather than capability — stolen Claude tokens, Chrome patching every two weeks, a record nine hundred seventy-two Microsoft vulnerabilities, LG TVs tracking you offline, US police fretting about Meta glasses. The frontier is sprinting; the guardrails are visibly straining to keep pace. For you personally, the practical takeaway is unglamorous: as you lean on AI tools more, the boring security hygiene — unique credentials, watching where your API tokens live, updating aggressively — stops being optional. The same acceleration that makes these tools useful is what makes them a target.
+
+[EN]
+Put the three together and you get a plausible near-term picture: a jittery, energy-sensitive global economy; a fragmenting political order that a commodity exporter has to navigate carefully; and a technology layer moving faster than its own safety systems. None of this is a confident forecast — geopolitics loves to wrong-foot the obvious read — but if I were deciding what to keep half an eye on from Santiago, it would be the oil price, the copper price, and the peso, in that order.
+
+[EN]
+Hypothesis Watch. This is an ongoing, lightweight daily scan of your standing hypothesis on AI, the shrinking of thought-leadership cycles, and social cohesion — not a full re-argument, just today's evidence for or against the sub-claims.
+
+[EN]
+Your hypothesis breaks into four sub-claims: (a) thought-leadership and authority cycles are shrinking; (b) this pushes individuals toward a stronger internal voice; (c) that in turn prompts a move away from individualism; and (d) leading to more human collaboration and social cohesion.
+
+[EN]
+Today's signal is mixed, leaning toward (a) and complicating (d). On (a), there's supporting texture: the AI-coding story — Cognition's forty-eight billion dollar valuation read as "not winner-take-all" — is a direct data point that no single authority gets to own the frontier for long; the market itself is betting on plural, short-lived leadership rather than one durable king. The sheer churn in the tech stack — Meta's new agent, Chrome shipping every two weeks, a new model running quantum experiments — is the shrinking-cycle pattern in miniature. On (d), though, the political news cuts the other way today: the AfD's state win, a US–Canada trade war, and a UK–Israel rupture all point toward fragmentation and in-group retreat, not cohesion — which is the "things get more tribal before they get more collaborative" complication your hypothesis has to survive. I'd call (b) and (c) neutral today — no clear evidence either way in this batch. Net: the acceleration half of your thesis keeps getting quiet confirmation; the social-cohesion endpoint is still swimming against a strongly fragmentary political current, which is worth holding honestly rather than explaining away.
+
+[EN]
+That's it for today — have a good one, Patricio.
