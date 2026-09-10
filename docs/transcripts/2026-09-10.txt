@@ -1,0 +1,71 @@
+[EN]
+Good morning, Patricio. Here's your news brief for Thursday, September tenth, 2026.
+[EN]
+A quick note on sources first: El País, EMOL, NRK, Reuters, AP, DW and Ars Technica were all unreachable today, so I covered those gaps through BBC News, The Guardian, La Tercera, Hacker News and TechCrunch, with Sweden drawn directly from SVT.
+
+[EN]
+Top stories.
+[EN]
+Trump is dangling a five-thousand-dollar check for every adult if Republicans win the midterms. At a party convention, President Trump promised every adult American a five-thousand-dollar payment if Republicans win November's midterms, with no detail on cost or mechanism, and immediate questions about whether the pledge is even legal. In the same appearance he said the war with Iran won't end until after the November races, and that oil prices won't fall until then, claiming without evidence that Iran wants to sway the vote. From BBC News.
+[EN]
+Escalation in the Middle East and Ukraine is sending energy prices climbing. Oil pushed above a hundred and two dollars a barrel and UK gas topped two hundred pence per therm, the highest since December 2022, after the US and Iran stepped up attacks on shipping and Ukrainian drones struck gas-processing plants in Russia's Yamal region. European benchmark gas breached eighty euros, while Russia's new jet-powered drones, at up to three hundred miles an hour, are outpacing Ukraine's air defences and killed at least nine in strikes on Ukrainian ports and warehouses. Markets are pricing in a conflict with no near-term off-ramp. From The Guardian and BBC News.
+[EN]
+Apple is betting on its first foldable, the nineteen-hundred-and-ninety-nine-pound iPhone Duo. Apple's new chief executive opened his tenure with the first major redesign of the iPhone in almost two decades, a folding phone built around an AI-designed hinge. It's a high-stakes gamble on a premium new form factor just as the smartphone market plateaus. From BBC News and TechCrunch.
+[EN]
+Cracks in the US bond market hint that higher costs are here to stay. Worries about rising inflation, the ongoing Iran war and record national debt have cooled demand for Treasuries, normally the world's safe-haven asset. If the sell-off persists, mortgages, car loans and business borrowing all get more expensive, and elevated prices stick around longer. From The Guardian.
+[EN]
+Brazil's Supreme Court has plunged into crisis a month before elections. Weeks before the October fourth presidential vote, the chief justice moved to freeze a cascade of hostile rulings between justices, one bloc aligned with Lula, another with Flávio Bolsonaro. An institutional feud at the heart of the judiciary is now spilling straight into the campaign. From TN and La Nación.
+[ES]
+España y Latinoamérica.
+[ES]
+YPF colocó mil doscientos millones de dólares en deuda internacional, la mayor emisión de una empresa argentina en once años; la demanda casi duplicó la oferta, alcanzando los dos mil doscientos millones de dólares, una señal fuerte de apetito por el riesgo argentino. Vía Infobae.
+[ES]
+En Chile, hay ruido en el gabinete de Kast. Isabel Plá cuestionó las tensiones internas y afirmó que los ministros no deberían mandarse recados por los medios, mientras el canciller subió el tono y pidió a los embajadores no opinar de política interna. En paralelo, el Gobierno optó por retirar a Chile de las negociaciones de cooperación tributaria de la ONU. Vía La Tercera.
+[ES]
+También en Chile, el Banco Central recortó con fuerza su proyección de PIB para 2026 y ve la inversión como motor de la economía recién a partir de 2027. En el frente legislativo, el Gobierno presentó una reforma al mercado de capitales con un fondo Fonavi, con aporte estatal de dos mil millones de dólares, para financiar unas ciento cincuenta mil viviendas. Vía La Tercera.
+[ES]
+Y un golpe al crimen organizado: la Fiscalía Supraterritorial desarticuló una banda de secuestros extorsivos con redes dentro de la PDI, dirigida por el exfiscal Vinko Fodich. Vía La Tercera.
+[ES]
+Estados Unidos mantiene vigente el TPS para unos ciento setenta mil salvadoreños hasta nuevo aviso. Y en Colombia, el Ministerio de Trabajo advirtió que Colpensiones podría no tener fondos para pagar pensiones en 2027 bajo la nueva reforma pensional. Vía CNN en Español e Infobae.
+[ES]
+En España, documentos desclasificados muestran que la inteligencia española y las autoridades marroquíes fueron advertidas de llamados en redes sociales a un cruce migratorio masivo en Ceuta un día antes de que decenas de miles de personas entraran. Vía BBC.
+[EN]
+US and international.
+[EN]
+A deadly ferry fire in the Philippines has left at least five people dead and eighty-six missing after a fire broke out on a ferry nearing the tourist hotspot of Coron in Palawan; a survivor described being trampled in the chaos. Separately, a cargo-ship fire off eastern China left significant casualties, with Xi Jinping ordering urgent search and rescue. From BBC News.
+[EN]
+Norway bid farewell to King Harald the Fifth. The Prince of Wales and three Nordic kings were among those paying respects, and Sweden's Crown Princess Victoria published a tribute to her godfather, Uncle Harald. This is normally NRK's beat; with NRK unreachable today, it's covered via BBC News.
+[EN]
+There's UK–US friction on show, too. Washington's muted response to Britain's West Bank sanctions on Israeli settlers reflects simmering frustration, and Trump separately suggested the US might not defend the Falklands if Argentina moved again, a notable low for the special relationship. Meanwhile England is moving toward a tourist tax, giving mayors power to levy a nightly charge on hotel and Airbnb stays. From BBC News and The Guardian.
+[EN]
+Tech and niche.
+[EN]
+The AI-governance drumbeat is getting louder. OpenAI added a prominent AI-safety advocate, a self-described doomer, to its board, even as an Anthropic researcher quit publicly, warning against the pursuit of self-improving AI, calling it gambling with our lives. On the capability side, DeepSeek shipped version four-point-one Flash, another fast open-model iteration keeping pressure on the incumbents. From TechCrunch and Hacker News.
+[EN]
+Shopify is acquiring Tailwind, the ubiquitous utility-first CSS framework, one of the most-discussed developer stories of the day. And the Apple Watch's newest feature can now listen continuously to your conversations and recap them, raising the usual privacy eyebrows. From the Tailwind blog and TechCrunch.
+[EN]
+And for the curious: Stockfish nineteen is out; a delightful interactive toy asks what the world would look like if the speed of light were five kilometers an hour; and a clear explainer on what Visa and Mastercard actually do drew a big crowd. Via Hacker News.
+[SV]
+Sverige.
+[SV]
+Valspurt inför söndagens val. En hätsk tv-debatt mellan statsminister Ulf Kristersson och oppositionsledaren Magdalena Andersson satte tonen inför valet, med hårda ord om ekonomi och brottslighet. Samtidigt rapporteras att moskéer mobiliserar väljare i rekordomfattning, något som kan gynna vänstern. Från SVT.
+[SV]
+Väder och brott: SMHI utfärdade en gul varning för skyfall över östra Svealand, med risk för översvämningar, och femton personer åtalas i en stor narkotikahärva i Eskilstuna. Från SVT.
+
+[EN]
+Connecting the dots. A quick reminder that this section is interpretation and informed speculation, not reported news; it's me thinking out loud about patterns across today's stories, a starting point for your own thinking, distinct from everything sourced above.
+[EN]
+Patricio, the through-line today is energy and interest rates. Oil above a hundred and two dollars and European gas at multi-year highs, plus a US president openly saying the Iran war and high oil prices will linger until after November, means the inflation-and-rates story now rattling the US bond market isn't going away soon. For you in Chile that matters twice over: energy is largely imported, so dearer oil feeds straight into fuel prices and pressures the peso, and higher-for-longer US Treasury yields tend to firm the dollar and tighten financial conditions across emerging markets, Chilean mortgage and borrowing costs included.
+[EN]
+Against that backdrop, the Banco Central's sharp cut to its 2026 GDP forecast, and its bet that investment only revives from 2027, reads less like a purely local stumble and more like Chile absorbing a global tightening it doesn't control. The capital-markets reform and the Fonavi housing-finance push look like attempts to manufacture domestic investment demand precisely when the external tailwinds of cheap money and strong global growth have turned into headwinds. Worth watching whether copper holds up; it's the one variable that could offset much of this, and today's stories didn't give a clear read on it either way.
+[EN]
+The tech cluster tells a different but related story. Apple's foldable gamble under a brand-new CEO, DeepSeek leapfrogging yet again, an Anthropic researcher resigning over self-improving AI, OpenAI planting a safety hawk on its board, all point to an industry where authority and direction are changing hands unusually fast. That churn at the frontier is worth keeping in view; it's the kind of accelerating turnover that reshapes which tools and platforms you'll actually be using a year from now.
+[EN]
+Regionally, Brazil's Supreme Court feud a month before its vote, and Chile's own cabinet friction plus a chancellor telling ambassadors to stay out of domestic politics, sketch a Latin America where institutions are visibly strained by polarization. Not a confident prediction, but if I were in your shoes, I'd watch the October fourth Brazil vote closely. A messy result there tends to ripple through regional currencies and trade, Chile very much included.
+
+[EN]
+Hypothesis watch. An ongoing daily scan of your standing hypothesis, read in light of the recent trend rather than today's stories alone, not a full re-argument each day.
+[EN]
+The hypothesis being tracked, in short: as AI rises into everyday life, it forces individuals to strengthen their internal voice and act on it, because no one holds the role of thought leader for long and cycles of renewal keep shrinking; as people develop that internal voice they realize they need to collaborate with other humans again, moving away from individualism toward social cohesion. The four sub-claims are: a, shrinking thought-leadership cycles; b, this pushing individuals toward a stronger internal voice; c, a move away from individualism; and d, more human collaboration and social cohesion.
+[EN]
+This is the first logged reading; the running log is still empty, so there's no streak to weigh against yet, and today is a same-day-only read. On sub-claim a, there's a mild supporting signal: Apple's biggest redesign in decades lands under a brand-new CEO, Automattic's board forced Matt Mullenweg into a leave of absence, an Anthropic researcher publicly walked out, and DeepSeek leapfrogged again; authority at the tech frontier is visibly changing hands fast. On sub-claim b, only a faint cue: that lone Anthropic resignation is one person acting on conscience against an institution, a single data point rather than anything systemic. On sub-claims c and d there's essentially no signal today; if anything, the Guardian's lament about driverless cars lobotomising us frets about atomization, while Sweden's mosque-led turnout drive before Sunday's election is a faint civic-collective cue but nothing decisive. Net: a modest tick for a, and not much yet on the downstream links.
