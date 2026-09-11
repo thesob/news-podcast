@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: build-podcast-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -45,4 +49,9 @@ jobs:
           git config user.email "podcast-bot@users.noreply.github.com"
           git add docs/
           git commit -m "Add episode $(date -u +%Y-%m-%d)" || echo "Nothing to commit"
-          git push
+
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin "$GITHUB_REF_NAME" && git push && break
+            echo "Push rejected (attempt $i), retrying after rebase..."
+            sleep $((RANDOM % 5 + 1))
+          done
