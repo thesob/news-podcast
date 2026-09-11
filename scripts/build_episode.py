@@ -169,7 +169,7 @@ SECTIONS = ("intro", "news", "connecting_dots", "hypothesis_watch")
 # the script carries no explicit [SECTION ...] markers for that boundary.
 HEADING_SECTIONS = {
     "top stories": "news",
-    "espana y latinoamerica": "news",
+    "spain and latin america": "news",
     "us and international": "news",
     "tech and niche": "news",
     "sverige": "news",
@@ -401,16 +401,27 @@ def build_audio(segments) -> AudioSegment:
             span_start = len(voice)
             news_item_seen = False
 
-        is_news_item = (
+        is_subheading = (
             seg.section == "news"
             and not seg.is_section_start
-            and _normalize_heading(seg.text) not in NEWS_SUBHEADINGS
+            and _normalize_heading(seg.text) in NEWS_SUBHEADINGS
+        )
+        is_news_item = (
+            seg.section == "news" and not seg.is_section_start and not is_subheading
         )
 
         if seg.is_section_start and stinger is not None and len(voice) > lead_ms:
             voice += stinger.apply_gain(STINGER_GAIN_DB) + _silence(STINGER_GAP_MS)
         elif is_news_item and news_item_seen and pling is not None:
             voice += pling.apply_gain(PLING_GAIN_DB) + _silence(PLING_GAP_MS)
+
+        # A subheading is a spoken divider, not a news item: it gets no pling
+        # of its own, and it resets the "seen an item" flag so the *next*
+        # item (the first one under the new subheading) doesn't get a
+        # spurious pling either - the pling that already played after the
+        # previous item is the only separator this boundary needs.
+        if seg.is_section_start or is_subheading:
+            news_item_seen = False
 
         spoken = _normalize_loudness(
             synthesize_segment(client, seg.lang, seg.text), VOICE_TARGET_LUFS
