@@ -122,9 +122,9 @@ BED_FILES = {
     "hypothesis_watch": ASSETS_DIR / "bed_hypothesis_watch.mp3",
 }
 
-BED_GAIN_DB = -22          # looping bed level relative to the voice
-STINGER_GAIN_DB = 0        # trim the section stinger without re-rendering it
-PLING_GAIN_DB = 0          # trim the item pling without re-rendering it
+BED_GAIN_DB = -30          # looping bed level relative to the voice
+STINGER_GAIN_DB = -4        # trim the section stinger without re-rendering it
+PLING_GAIN_DB = -6          # trim the item pling without re-rendering it
 BED_FADE_MS = 800          # fade in/out at each bed span boundary
 BED_LOOP_CROSSFADE_MS = 200  # seam crossfade when tiling a short loop
 INTRO_JINGLE_LEAD_MS = 4000   # jingle plays solo before the first words
