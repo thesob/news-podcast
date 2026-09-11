@@ -45,13 +45,57 @@ Norwegian:
   content into English when writing it up, and place it in the English/
   International section, noting it's originally from NRK (Norway).
 
+Fallback chain when a named source above is slow, blocked, or errors on a
+direct fetch — follow these IN ORDER, and do not skip a step:
+1. Direct fetch/browse of the named source (as listed above).
+2. If that fails (bot-detection, JS-rendering wall, 403, timeout — anything
+   short of a genuine subscription paywall), retry the SAME specific
+   article URL via the `/extract` proxy endpoint below. This step is
+   required, not optional — never skip straight from a failed direct fetch
+   to the headlines proxy, a backup outlet, or the sources note.
+3. If `/extract` also fails (or the source is a genuine paywall — see
+   below), THEN fall back to the headlines proxy for that
+   language/topic, or substitute a named backup outlet if one is listed
+   above (e.g. SVT for dn.se/aftonbladet.se, SVT for NRK).
+4. Only if all of the above failed for a given source do you name it as
+   unreachable in the sources note.
+
 Structured aggregator APIs (used as a supplement, not a replacement, for the
 above):
-- Headlines proxy — a small Cloud Run function that holds the real Guardian and
-  GNews API keys server-side, so no vendor key is ever written in this
-  prompt (see [`/proxy`](/proxy) in the repo for what it does). This proxy IS
-  available to you — treat a failed call as a transient error to retry, not
-  as "the proxy doesn't exist". Call it with the web fetch/browsing tool:
+- Article extraction fallback — step 2 of the chain above. The same Cloud
+  Run proxy that serves headlines (below) also exposes an extraction
+  endpoint, for when a direct fetch of one of the named sources above is
+  blocked (bot-detection, JS-rendering wall, etc.) rather than genuinely
+  unavailable. This proxy IS available to you — treat a failed call as a
+  transient error to retry, not as "the proxy doesn't exist".
+  Call it with the web fetch/browsing tool:
+  `GET {PROXY_URL}/extract?url=<the specific article URL you were
+  trying to read>&token={PROXY_TOKEN}`. The token goes in the
+  `token=` query parameter, NOT in an `Authorization` header, same as the
+  other proxy calls. Response is JSON: `{ content, title, url }` — `content`
+  is the extracted article text/markdown; use it in place of a direct page
+  read when the direct read failed. Use this ONLY as a fallback for a
+  specific article you already identified via the named-source browsing
+  above — never as a way to discover new stories, and never as a
+  substitute for checking the named source list itself. But when a direct
+  fetch of a named source DOES fail, this retry is mandatory — try it
+  before concluding the source is unreachable, before substituting a
+  backup outlet, and before falling back to the headlines proxy below.
+  Known limit: this will not get past a genuine subscription paywall
+  (nytimes.com, washingtonpost.com specifically) — it only helps with
+  bot-detection or rendering blocks. If nytimes.com or washingtonpost.com
+  are paywalled today, don't retry the extraction endpoint on them; cover
+  that story via Reuters, AP, or DW instead if they have it, and note the
+  substitution in the sources note at the top rather than treating it as
+  a gap.
+- Headlines proxy — step 3 of the chain above; also usable at any time as a
+  general supplement across all sources for extra stories, independent of
+  the fallback chain. A small Cloud Run function that holds the real
+  Guardian and GNews API keys server-side, so no vendor key is ever written
+  in this prompt (see [`/proxy`](/proxy) in the repo for what it does). This
+  proxy IS available to you — treat a failed call as a transient error to
+  retry, not as "the proxy doesn't exist". Call it with the web
+  fetch/browsing tool:
   `GET {PROXY_URL}/headlines?lang=<en|es|sv>&topic=<optional>&token={PROXY_TOKEN}`.
   The token goes in the `token=` query parameter, NOT in an `Authorization`
   header — the fetch/browsing tool can't attach custom headers, and the proxy
@@ -64,28 +108,6 @@ above):
   characters) and is the better field to actually write the 2-4 sentence
   take from. `excerpt` can be empty for some stories (vendor didn't have
   more to give) — fall back to `summary`, or browse the url, if so.
-- Article extraction fallback — the same Cloud Run proxy also exposes an
-  extraction endpoint, for when a direct fetch of one of the named sources
-  above is blocked (bot-detection, JS-rendering wall, etc.) rather than
-  genuinely unavailable. This proxy IS available to you — treat a failed
-  call as a transient error to retry, not as "the proxy doesn't exist".
-  Call it with the web fetch/browsing tool:
-  `GET {PROXY_URL}/extract?url=<the specific article URL you were
-  trying to read>&token={PROXY_TOKEN}`. The token goes in the
-  `token=` query parameter, NOT in an `Authorization` header, same as the
-  other proxy calls. Response is JSON: `{ content, title, url }` — `content`
-  is the extracted article text/markdown; use it in place of a direct page
-  read when the direct read failed. Use this ONLY as a fallback for a
-  specific article you already identified via the named-source browsing
-  above — never as a way to discover new stories, and never as a
-  substitute for checking the named source list itself.
-  Known limit: this will not get past a genuine subscription paywall
-  (nytimes.com, washingtonpost.com specifically) — it only helps with
-  bot-detection or rendering blocks. If nytimes.com or washingtonpost.com
-  are paywalled today, don't retry the extraction endpoint on them; cover
-  that story via Reuters, AP, or DW instead if they have it, and note the
-  substitution in the sources note at the top rather than treating it as
-  a gap.
 - Do NOT use NewsAPI.org — its free tier's terms restrict it to local
   development only and explicitly prohibit this kind of live/production use.
 
@@ -114,9 +136,11 @@ should work, since auth is now a query parameter and needs no header.
    English regardless of the rest of the brief's language mix.
    If a source was reached only via the `/extract` fallback rather than a
    direct read, that does NOT count as "unreachable" for the sources note —
-   only note a source as unreachable if both the direct read and the
-   `/extract` fallback failed (or the story was paywalled and covered via
-   a different outlet instead).
+   only note a source as unreachable once you've worked through the full
+   fallback chain above (direct read, then `/extract` on the specific
+   URL(s), then the headlines proxy / a named backup outlet) and it still
+   failed (or the story was a genuine paywall and got covered via a
+   different outlet instead).
 6. Include the source name and a direct link for every story.
 7. Keep it skimmable — 3–5 minute read unless it's a heavy news day.
 8. Never fabricate sources, quotes, or links.
