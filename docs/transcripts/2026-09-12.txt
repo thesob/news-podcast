@@ -1,0 +1,78 @@
+[EN]
+Good morning, Patricio. Heavy news day: the Middle East has turned two of the world's oil chokepoints into war zones and pushed crude back to triple digits, while in a very different corner of the world an AI system may have quietly toppled one of mathematics' most famous unsolved problems. Here's the rundown.
+[EN]
+Top Stories.
+[EN]
+Oil chokepoints become battlefields, and crude tops 100 dollars. The Iran war widened dramatically. Iran-backed Houthis seized Yemen's Mayun, or Perim, Island and the Red Sea port of Mokha, effectively taking control of the Bab el-Mandeb strait, while Saudi Arabia shut down its East-West pipeline after a drone strike Riyadh blames on Iraq-launched attacks. With the US also striking Iranian oil tankers off Hormuz, two of the planet's most important shipping lanes are now contested at once. Brent hit 100 dollars a barrel for the first time since July, US diesel blew past 6 dollars a gallon, and fuel-driven inflation is back on the table worldwide. Sources: Reuters, AP, DW, BBC, and The Guardian.
+[EN]
+An AI reportedly cracks a Millennium Prize Problem. The Clay Mathematics Institute says the Navier-Stokes existence-and-smoothness problem has apparently been settled, one of seven one-million-dollar problems that had resisted human mathematicians for decades, and it's now under deliberately unhurried review. The Guardian reports the breakthrough came from an OpenAI model that unleashed some 10,000 autonomous agents on the problem at an estimated cost of 15 million dollars. The reaction from mathematicians has been more unease than celebration: 25 Fields Medalists published a declaration warning that treating famous problems as AI benchmarks is misaligned with math's real purpose, conceptual understanding, and risks breaking how mathematical knowledge is built and transmitted. Sources: the Clay Mathematics Institute, The Guardian, and https://www.google.com/url?q=http://mathandai.org&source=gmail&ust=1789295001412000&sa=E.
+[EN]
+Trump escalates the trade war with Canada. Washington is banning imports of some Canadian alcohol, dairy and motorbikes and slapping tariffs of up to 50 percent on its northern neighbor. The human cost is showing up along the border, where twin towns that share families and shopping trips describe Canadians as furious, and cross-border business is drying up. The mood isn't helped by Trump's order to rename Lake Ontario "Lake America," which Canada is openly mocking. Sources: DW, BBC, and The Guardian.
+[EN]
+Germany's far right wins a state, outright. The Alternative for Germany, the AfD, won the Saxony-Anhalt state election, a historic first that puts Alice Weidel's party within reach of governing a German state and marks another lurch of Europe's political center of gravity. Elon Musk was among those publicly celebrating the result. Sources: DW and El País.
+[EN]
+Trump dangles economic carrots at Putin to end the Ukraine war. The US president is offering Moscow great economic benefits in exchange for ending the war, even as Britain's defense chief put Russian military deaths past 500,000 and Zelenskyy travelled to Canada to shore up further military support. It's a striking bet that money, not pressure, closes out Europe's largest war since 1945. Sources: El País and AP.
+[EN]
+España y América Latina.
+[ES]
+Kast cumple seis meses con las expectativas a la baja. El balance puertas adentro del gobierno de Kast reconoce que el apoyo electoral podría no sostenerse: la economía y el empleo son los que mueven a un votante volátil. Hacienda prepara un plan para acelerar la inversión pública y ejecutar obras con mayor rapidez como estrategia para generar empleo, mientras el economista Klaus Schmidt-Hebbel anticipa un crecimiento muy mediocre este año por shocks de oferta y demanda heredados. Un cóctel complicado justo cuando el precio del petróleo vuelve a subir. Fuentes: Emol y La Tercera.
+[ES]
+La Corte Suprema remueve a once jueces. El máximo tribunal aprobó la remoción de once magistrados en el marco de un proceso de reforma judicial, y el ministro de Justicia reconoció que hubo un factor emocional en las deliberaciones. Es un remezón institucional grande para el poder judicial chileno. Fuente: Emol.
+[ES]
+Freno a un proyecto minero de SQM y Fresnillo. Se suspendió la construcción de 16 torres eléctricas asociadas a un proyecto que involucra a la mexicana Fresnillo y a SQM, un recordatorio de las fricciones entre desarrollo minero, permisos e infraestructura en Chile. Fuente: La Tercera.
+[ES]
+Brasil: crisis en el Supremo a un mes de las elecciones. El presidente del Supremo Tribunal Federal intentó frenar una crisis inédita entre jueces alineados con Lula y con Flávio Bolsonaro, suspendiendo una serie de decisiones hostiles a menos de un mes de las presidenciales del 4 de octubre. Fuente: TN.
+[ES]
+Argentina coloca su mayor bono en 11 años. YPF emitió deuda internacional por 1.200 millones de dólares con vencimiento en 2035, con una demanda que llegó a 2.200 millones de dólares, la mayor colocación de una empresa argentina en más de una década y una señal de confianza del mercado. Fuente: Infobae.
+[EN]
+US and International.
+[EN]
+America marks 25 years since 9/11. The US paused to remember the September 11 attacks a quarter-century on, with Trump commemorating the anniversary at the Pentagon and the CIA releasing dozens of presidential daily briefs on bin Laden and al-Qaida from before the attacks. A generation that wasn't alive that day is now inheriting its long shadow. Sources: Reuters and AP.
+[EN]
+Trump turns the midterms into a referendum on himself. Closing out the first-ever Republican midterm convention in Dallas, Trump urged voters to pretend that he's on the ballot and promised 5,000-dollar payouts to every US adult if Republicans hold Congress. Analysts see a high-risk strategy: nationalizing the November elections around one man cuts both ways. Source: The Guardian.
+[EN]
+Norway, via NRK: a nationwide care strike is averted. A threatened strike in Norway's private health and care sector was called off after wage negotiations reached a settlement, sparing services a major disruption. It's a quiet but meaningful win for labor stability in the Nordic model. Source: NRK, Norway, translated.
+[EN]
+Ebola tops 7,000 cases in Congo. The outbreak in the Democratic Republic of Congo has now surpassed 7,000 infections and spread to a new province, a worrying escalation for regional health authorities. Source: Reuters.
+[EN]
+North Korea fires a salvo of missiles. Pyongyang launched several short-range ballistic missiles toward the sea, South Korea said, keeping the peninsula's temperature elevated. Source: Reuters.
+[EN]
+Tech and Niche.
+[EN]
+Anthropic calls out model distillation by Chinese labs. Anthropic published details of what it says are unauthorized distillation campaigns, that is, training on another model's outputs, by Alibaba, Moonshot AI and DeepSeek, a rare public airing of how frontier labs allege their rivals are catching up. Source: TechCrunch.
+[EN]
+The AI agent land grab accelerates. OpenAI paused new Pro subscription signups as demand for its Astra product outran capacity, while Meta's new AI agent app, Muse, rocketed to the number 2 spot in the US app store. Consumer AI agents are suddenly a mass-market fight. Source: TechCrunch.
+[EN]
+Two big data breaches land at once. ID-verification firm IDScan confirmed a breach exposing more than 150 million driver's licenses, and scammers are already targeting hundreds of thousands of crypto owners after a breach at hardware-wallet maker Trezor's email provider. Worth a security once-over if you use either. Source: TechCrunch.
+[EN]
+Advertising's bot problem, quantified. A widely-read developer post reported spending 220 dollars on Google app-install ads and finding roughly 60 percent of the installs were bots, a vivid data point in the long argument about how much digital ad spend is quietly wasted. Source: Hacker News.
+[EN]
+AI may be denting graduate job prospects. New UK data for the 2027 Guardian University Guide shows coding and software development were the fastest-falling occupations for graduates last year, with demand for economists and management consultants also down, early evidence that AI agents are reshaping the entry-level job market. Source: The Guardian.
+[SV]
+Sverige.
+[SV]
+Slutdebatt inför valet på söndag. Partiledarna möttes i en het slutdebatt inför söndagens val, där skattefrågor, klimatmål och invandring dominerade. Det blir en rysare, och grannlandet Norge följer den svenska valrörelsen noga. Källa: SVT.
+[SV]
+Svensk glädje i Solheim Cup. Maja Stark och Linn Grant vann sin match tillsammans med en lysande insats när Europa tog emot de regerande mästarna USA. Ett välkommet ljusglimt en annars tung nyhetsdag. Källa: SVT.
+[SV]
+Sabotagemisstankar efter tågolycka i Frankrike. Fransk polis misstänker sabotage efter en allvarlig tågolycka som skadade flera personer, enligt SVT:s utrikesrapportering. Källa: SVT.
+[EN]
+Connecting the Dots.
+[EN]
+This section is interpretation and informed speculation, not reported news. It's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN]
+Patricio, the single loudest signal today is that energy has become an instrument of war, and that lands squarely on Chile. With Bab el-Mandeb and Hormuz both contested and Brent back at 100 dollars, the country that imports almost all of its oil and diesel is about to feel it at the pump, in freight costs, and in a peso that tends to weaken when the dollar and oil rise together. But there's a genuine two-sidedness here worth holding in your head: the same instability that raises your fuel-import bill also puts a risk premium under commodities broadly, and copper is the one that matters for Chile's fiscal accounts. If the war narrative deepens without crushing global growth, a firmer copper price could partly offset the energy hit. That tug-of-war, energy import bill versus copper windfall, is the thing to actually watch over the next few weeks, not either headline alone.
+[EN]
+The second thread is the slow shattering of the trade system you and every open commodity economy depend on. Trump's 50 percent tariffs and outright import bans on Canada aren't about Chile, but they're a template, and they signal a world where supply chains re-route around politics rather than efficiency. Chile's comparative advantage has always been being a reliable, relatively neutral supplier of things everyone needs; that's an asset in a fragmenting world, but it only pays off if global demand holds. A tariff-driven slowdown in the US and its trading partners is the tail risk that would hit copper demand right when you'd most want it high, the opposite side of the coin from the energy story above.
+[EN]
+The third thread is AI moving from promise to visible consequence, on the same day. An AI system may have solved Navier-Stokes; UK data shows AI already denting the job prospects of coders and economists; Anthropic is publicly accusing rivals of copying its models; and consumer AI agents from OpenAI and Meta are topping app charts. Read together, these say the capability curve and the labor-market curve are now bending at the same time. For a mid-sized, education-anxious economy like Chile, remember today's PISA story about decline that can't be explained by COVID alone, the uncomfortable implication is that the skills premium is shifting fast toward judgment, synthesis and local context, exactly the things that are hard to distill into a model. Not a confident prediction, but worth thinking about for anyone plotting a career or a curriculum.
+[EN]
+Finally, the regional politics. Brazil's Supreme Court is in open crisis a month before an election, Chile's own Supreme Court just removed eleven judges, and Argentina just placed its biggest bond in over a decade to enthusiastic demand. The divergence is telling: markets are rewarding Argentina's turnaround story while Chile's own forecasters talk of mediocre growth and institutional churn. None of this is destiny, but if you're weighing where regional confidence is flowing, the money right now is voting for the reform narrative next door, something to watch rather than act on, but a pattern that's been building for months.
+[EN]
+Hypothesis Watch.
+[EN]
+An ongoing daily watch on your standing hypothesis about AI, thought-leadership cycles and social cohesion, read against the recent trend in the log rather than today's stories alone, and not a full re-argument.
+[EN]
+The log is still only one entry deep, it began yesterday, so there's no real trend to lean on yet. Treat today as essentially a same-day read that starts to build the record. On sub-claim (a), shrinking thought-leadership and authority cycles, today is a strong supporting signal, and the second day running: an AI system apparently dispatching a decades-old Millennium Prize Problem in a matter of compute-weeks is almost a caricature of how fast intellectual authority can now be compressed, and the scramble it triggered underlines it. Sub-claim (b), individuals pushed toward a stronger internal voice, gets its clearest evidence yet: 25 Fields Medalists collectively pushed back, insisting that human conceptual understanding and judgment, not raw problem-solving throughput, is what matters. That's exactly the reassert-the-internal-voice-against-the-machine move the hypothesis predicts, so I'd mark (b) as a genuine, if early, supporting signal today rather than neutral.
+[EN]
+On (c), a move away from individualism, and (d), more human collaboration and cohesion, the signal is fainter and mixed. The Fields Medalists acting as a 25-person collective is a small point in favor, a reflex toward organized, shared human response rather than lone genius. But it's swamped by the day's counter-current: Trump's tariffs are actively fraying the cross-border, family-to-family cohesion of US-Canada border towns, and AfD's rise runs on nationalist individualism, not solidarity. So I'd call (c) and (d) neutral today, nothing structural, just crosscurrents that roughly cancel. Net: a real day for the front half of the chain, a and b, still quiet on the back half.
