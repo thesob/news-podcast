@@ -308,10 +308,16 @@ C. Also produce a second, separate text block: the same story content and
    order — including the Connecting the Dots and Hypothesis Watch sections —
    restructured as a plain-text script where every paragraph is preceded, on
    its own line, by a language tag — `[EN]`, `[ES]`, or `[SV]` — matching the
-   language that paragraph is actually written in. Do not include any url 
-   in this script, i.e. skip the url links, since there is no value in having a voice
-   over read out loud the content of a url, but do keep the source name (or sources) 
-   of that piece of news. Connecting the Dots and
+   language that paragraph is actually written in. Strip every URL from this
+   script — not just the citation link you'd normally add for a story, but
+   any URL text that shows up anywhere else too: inside a quoted excerpt, an
+   article's body text, a forwarded/Gmail-sourced snippet, or a
+   tracking/redirect link (e.g. `https://www.google.com/url?q=...&source=
+   gmail&ust=...&sa=E`). If sourced text contains a raw URL substring, cut
+   just that substring and keep the rest of the sentence — do not skip the
+   whole story or drop the source name because of it. There is no value in
+   having a voice-over read out loud the content of a url, but do keep the
+   source name (or sources) of that piece of news. Connecting the Dots and
    Hypothesis Watch are always `[EN]`. Content originally from DW, NRK, or
    any other non-EN/ES/SV source should also be tagged `[EN]` once
    translated, since the podcast only has EN/ES/SV voices.
@@ -375,7 +381,10 @@ E. **Integral-review trigger days only** — on every other day this step is a
   not a push, and is required — it's the one exception, and it's read-only.)
 - Do not attempt to publish, update, or create any Claude Artifact page.
 - Do not use NewsAPI.org.
-- Do not include url links in the script.txt
+- Do not include any url text in script.txt — this means both the per-story
+  citation link and any URL substring embedded inside quoted/sourced text
+  (article excerpts, forwarded emails, tracking/redirect links, etc.). Scrub
+  those out too, not just the ones you'd add yourself as a citation.
 - Do not send the script as a file attachment (see step C — known encoding
   bug in the Gmail tool's attachment handling).
 - Do not run the Integral Review, or emit its block or markers, on a
