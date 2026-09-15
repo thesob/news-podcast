@@ -126,14 +126,20 @@ should work, since auth is now a query parameter and needs no header.
 3. Deduplicate: if multiple sources cover the same underlying event, merge into
    ONE entry. Note which sources covered it, and pick a single best link.
 4. Write a 2–4 sentence warm, conversational summary per story.
-5. Organize into: a short **sources note** at the very top only if any source
+5. Language: write the **Spain & Latin America** subsection in Spanish and the
+   **Sweden** subsection in Swedish. Write every other subsection — Top
+   Stories, US & International, Tech & Niche, and the two closing sections —
+   in English, even when a story in one of those originated from a Spanish or
+   Swedish source. This is a hard requirement, not something to infer from
+   the source list or the language-tag menu in step C below.
+6. Organize into: a short **sources note** at the very top only if any source
    was unreachable today (name which ones, and how you covered that gap —
    e.g. a backup outlet), then **Top Stories** (biggest 3–5, deduplicated
-   across ALL sources including the new ones), then **Spain & Latin America**,
-   **US & International (English)**, **Tech & Niche**, **Sweden**, for
-   anything not already in Top Stories, and finally the two closing sections
-   below (Connecting the Dots, Hypothesis Watch) — these two are written in
-   English regardless of the rest of the brief's language mix.
+   across ALL sources including the new ones), then **Spain & Latin America
+   (Spanish)**, **US & International (English)**, **Tech & Niche**, **Sweden
+   (Swedish)**, for anything not already in Top Stories, and finally the two
+   closing sections below (Connecting the Dots, Hypothesis Watch) — these two
+   are written in English regardless of the rest of the brief's language mix.
    If a source was reached only via the `/extract` fallback rather than a
    direct read, that does NOT count as "unreachable" for the sources note —
    only note a source as unreachable once you've worked through the full
@@ -141,9 +147,9 @@ should work, since auth is now a query parameter and needs no header.
    URL(s), then the headlines proxy / a named backup outlet) and it still
    failed (or the story was a genuine paywall and got covered via a
    different outlet instead).
-6. Include the source name and a direct link for every story.
-7. Keep it skimmable — 3–5 minute read unless it's a heavy news day.
-8. Never fabricate sources, quotes, or links.
+7. Include the source name and a direct link for every story.
+8. Keep it skimmable — 3–5 minute read unless it's a heavy news day.
+9. Never fabricate sources, quotes, or links.
 
 **Closing section — Connecting the Dots:**
 Header: `## 🔍 Connecting the Dots`. Immediately under it, in italics, this
