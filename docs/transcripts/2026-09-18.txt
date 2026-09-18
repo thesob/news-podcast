@@ -1,0 +1,80 @@
+[EN]
+Good morning, Patricio. It's a heavy news day — AI's safety reckoning collided with politics, Sweden changed governments, the Fed moved on rates, and Europe kept edging away from Washington. Here's the run-through, roughly a five-minute read.
+[EN]
+A quick note on sources: BBC News' RSS feed was unreachable today, so UK and world coverage leans on the Guardian, DW, and El País instead. The New York Times and Washington Post sit behind subscription paywalls, so US stories are covered through DW, the Guardian, El País, and wire-fed outlets rather than those two directly. Everything else came through fine.
+[EN]
+Top Stories.
+[EN]
+The AI industry's safety reckoning went political. Over the weekend, the CEOs of the three biggest labs — Sam Altman, Elon Musk and Dario Amodei — all called for AI development to slow down in the face of mounting risks, with one researcher publicly resigning and accusing OpenAI and Anthropic of "gambling with our lives." The political response has been a shrug: Trump dismissed the warnings as "exaggerated concerns" from "very negative forces," and House Speaker Mike Johnson signalled Congress won't act soon. Meanwhile the labs are floating self-policing fixes — embedded safety evaluators and misalignment-reporting frameworks — even as fresh reports document real misuse, from users coaxing models toward bioweapons research to Chinese firms allegedly cloning US frontier models. Sources: the Guardian, TechCrunch, OpenAI, and Ars Technica.
+[EN]
+Sweden is changing governments. Prime Minister Ulf Kristersson has submitted his resignation to the speaker of parliament following the election result, and Social Democrat Magdalena Andersson has begun the delicate work of forming a new government, saying she'll sit down with six party leaders. It's a genuine turn of the wheel in Stockholm after years of the center-right coalition, and the negotiations look complex. Sources: SVT and El País.
+[EN]
+The Fed raised rates — and Trump erupted. The US Federal Reserve lifted its policy rate, prompting a sharp public reaction from Trump, and the ripples reached markets across the Americas. In Chile the peso weakened and the dollar climbed on the decision, a reminder of how directly Fed moves land on smaller open economies. Sources: NRK, Emol, and La Tercera.
+[EN]
+Germany's far right surged in state elections. The AfD posted strong gains in weekend state votes, leaving Chancellor Friedrich Merz politically reeling and left-wing and conservative parties running nearly even ahead of a further vote on Sunday, where the AfD is aiming to roughly double its support to around eighteen percent. It's another data point in the steady normalization of the European far right. Sources: El País and DW.
+[EN]
+Europe keeps building a security architecture without Washington. European Commission president Ursula von der Leyen proposed a new security mechanism binding EU members to partners like Canada and the UK, explicitly independent of the US. Trump responded by threatening trade cuts over Canada's overtures to the EU — sharpening the sense that the transatlantic relationship is being quietly re-engineered. Sources: El País, NRK, and DW.
+[ES]
+España y Latinoamérica.
+[ES]
+España y Marruecos elevan su relación diplomática. Los cancilleres de ambos países firmaron en Nueva York un acuerdo para elevar el rango de sus relaciones y planificar mayores inversiones mutuas, un paso notable tras años de altibajos entre Madrid y Rabat. Fuente: El País.
+[ES]
+Chile en la órbita de la Fed y de Trump. La subida de tasas de la Reserva Federal empujó al alza al dólar en el mercado local justo cuando el presidente del Banco Central, Quiroz, proyecta un crecimiento sobre tres por ciento para 2027 y pone el empleo como prioridad. En paralelo, el gobierno anunció un plan para crear 678 mil empleos formales al 2030, mientras el tráfico aéreo de pasajeros encadena trece meses de caída. Fuentes: Emol y La Tercera.
+[ES]
+Kast, invitado a la recepción de Trump en la ONU. El presidente chileno José Antonio Kast fue invitado a una recepción ofrecida por Donald y Melania Trump en el marco de la Asamblea General de la ONU, una señal del acercamiento entre Santiago y Washington bajo la nueva administración. Fuente: La Tercera.
+[ES]
+Presión cambiaria en la región. En Argentina, las reservas del Banco Central cayeron unos 184 millones de dólares y tocaron mínimos de septiembre, con el dólar minorista avanzando hasta los 1.535 pesos. En Colombia, Hacienda busca recortar unos 45 billones del presupuesto 2027 mientras analistas advierten presiones alcistas sobre el dólar de cara a fin de año. Fuentes: Ámbito y El Tiempo.
+[ES]
+Una nueva especie de gato salvaje en Bolivia. Un equipo internacional de científicos identificó en los bosques nublados de los Yungas al Leopardus tilcayo, la primera descripción de una nueva especie de felino silvestre en más de un siglo; el nombre honra a las comunidades locales que cuidaron al ejemplar. Fuente: El Universal.
+[EN]
+US and International.
+[EN]
+War and diplomacy over Ukraine moved in opposite directions at once. Russian air attacks on Kyiv wounded around ten people and set off explosions in the capital, according to NRK in Norway, even as the EU approved a 3.3 billion euro aid package for Kyiv and Moscow called Trump's proposed ceasefire a "good idea." A US congressional report, meanwhile, tallied Ukraine-related spending through August at roughly 40 billion dollars as Pentagon auditors flagged ammunition shortages. Sources: NRK, SVT, and El País.
+[EN]
+Kosovo's ex-president got 25 years for war crimes. An international court in The Hague sentenced former president Hashim Thaçi to 25 years, finding him and three co-defendants criminally responsible for arbitrary detention, torture and murder during the 1990s break from Serbia. Source: the Guardian.
+[EN]
+Russia's legislative elections look like a formality. El País reports that dozens of opposition candidates critical of the Kremlin have been disqualified ahead of the vote, effectively hollowing out the contest before a ballot is cast. Source: El País.
+[EN]
+Iran's 2022 crackdown, documented in detail. Amnesty International says leaked state documents and testimony show Iranian security forces "coordinated" the killing, torture and sexual abuse of protesters after Mahsa Amini's death — with one order instructing forces to "respond mercilessly." The findings land as Iran's protest movement marks four years since Amini's death. Sources: the Guardian and DW.
+[EN]
+UK inflation crept back above target. British consumer price inflation rose to 3.1 percent in August from 2.9 percent in July, driven by motor fuel costs up nearly a quarter on the back of the Iran war — piling pressure on the Bank of England ahead of its rate decision. Source: the Guardian.
+[EN]
+And elsewhere: Saudi Arabia warned of a "red line" as Houthis targeted Mecca; a catastrophic flood in Nepal left more than a thousand additional people missing; and a news helicopter crash in Los Angeles killed three. Sources: DW and NRK.
+[EN]
+Tech and Niche.
+[EN]
+Nvidia brought Rust to the GPU. Nvidia announced native GPU programming in Rust, offering two tracks for writing CUDA kernels in the language — a big deal for the systems-programming crowd and easily the most-discussed item on Hacker News today. It's a signal that Rust's push into performance-critical, memory-safety-sensitive territory now reaches the accelerator itself. Source: the Nvidia Developer Blog.
+[EN]
+Apple's fall lineup leaned pricey and foldable. Apple unveiled a roughly 2,000 dollar foldable "iPhone Duo," alongside an iPhone 18 Pro with a variable-aperture camera and better thermals, an Apple Watch Series 12 and Ultra 4 with new health sensing, and 129 dollar AirPods 5 with improved noise cancellation. Source: Ars Technica.
+[EN]
+A researcher recovered the signing keys behind US driver's license barcodes. A detailed write-up walks through reconstructing the cryptographic keys that sign the barcodes on US licenses — a striking demonstration of how brittle some real-world identity infrastructure remains. Source: ryan dot science.
+[EN]
+Al Gore's calm take on AI's footprint. Gore argued the real AI risk isn't the data centers themselves — a notably measured framing amid the backlash over AI's energy and water demands. And in the plumbing-of-AI department, Meta shipped a server letting agents like Claude and Codex configure WhatsApp Business onboarding, templates and webhooks directly. Sources: TechCrunch and the New Stack.
+[SV]
+Sverige.
+[SV]
+Tyska förband förstärker Gotland i Natoövning. Tyska styrkor har grupperats på Gotland i en operation som beskrivs som "ingen vanlig övning" — en tydlig markering om det försämrade säkerhetsläget i Östersjön. Källa: SVT.
+[SV]
+Foxtrot-toppen Ali Namdar gripen i Marocko. En av de mest eftersökta gängledarna i Europa, kopplad till Foxtrot-nätverket, har enligt uppgifter gripits i Marocko — ett potentiellt genombrott i kampen mot den grova organiserade brottsligheten. Källa: SVT.
+[SV]
+Högersidan bildar majoritet i Södertälje. Lokalt bildar den borgerliga alliansen ett majoritetsstyre i Södertälje, ett av flera maktskiften som följer i valets spår runt om i landet. Källa: SVT.
+[EN]
+Connecting the Dots.
+[EN]
+This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN]
+Patricio, the thread that ties today together is authority in flux — technological, political and monetary all at once. The AI labs' own leaders pleaded for a slowdown and were publicly overruled by the political class within a day, while Sweden swapped governments, Germany's far right surged, and Russia hollowed out its own elections. What you're watching is not any single institution failing but the half-life of institutional authority getting shorter across the board: the people nominally in charge of a domain — a technology, a country, a central bank — increasingly can't hold the narrative for more than a news cycle.
+[EN]
+The monetary strand is the one that lands most directly on you in Santiago. The Fed raised rates and the dollar promptly climbed against the peso; Chile's central bank is projecting three percent-plus growth for 2027, but that forecast is hostage to exactly the kind of external tightening we saw today. A stronger dollar tends to pressure emerging-market currencies and can weigh on copper if it signals slower global demand — and with air traffic in Chile down thirteen months straight and a government pledging 678 thousand formal jobs, the domestic recovery still looks fragile enough that imported financial conditions matter a lot. Worth watching how the peso behaves over the next couple of weeks if the Fed signals more hikes.
+[EN]
+There's also a geopolitical realignment worth filing away. Von der Leyen's push for a Europe-plus-Canada-plus-UK security mechanism explicitly independent of Washington, combined with Trump threatening trade retaliation over it, points to a world fragmenting into blocs that trade and defend among themselves. For a copper-and-lithium exporter like Chile, a more multipolar, bloc-ish world is double-edged: more buyers courting you, but more pressure to pick sides. Kast's invitation to Trump's UN reception suggests Santiago is, for now, leaning toward the Washington end of that spectrum — a bet worth tracking as the EU builds out its alternative.
+[EN]
+And underneath all of it, a quieter cultural note: a new wild cat species named for the Bolivian communities who protected it, on the same day the AI world argued about runaway machines. I wouldn't over-read it, but there's something to the contrast — the frontier of discovery is still, sometimes, about paying attention to what's already in front of us rather than what we're racing to build. Not a prediction, just a thought to carry into the weekend.
+[EN]
+Hypothesis Watch.
+[EN]
+An ongoing watch on your standing hypothesis about AI, internal voice and social cohesion — a daily scan read against the recent trend in the log, not a full re-argument.
+[EN]
+Today gives another clean supporting signal for sub-claim (a), shrinking authority cycles: the three lab CEOs' weekend plea to slow AI was contradicted and dismissed by Trump within a day or two, and Congress punted — that's the third-plus consecutive brief where the AI-authority narrative gets compressed almost as fast as it's asserted, extending the run from September twelfth onward. Sub-claim (b), the push toward a stronger internal voice, also gets support: a researcher publicly resigned over safety, and the labs' move toward misalignment-reporting frameworks and embedded evaluators is, in its way, an institutionalization of "trust your own scrutiny of the machine" — consistent with the Bengio and LLM-era essays flagged on the fourteenth and seventeenth.
+[EN]
+Sub-claim (c), a move away from individualism, stays neutral — today's collaboration signals, the EU–Canada security push and EU aid to Ukraine, are state-level maneuvering, not individuals shedding individualism, the same gap I've flagged repeatedly. Sub-claim (d), human collaboration and cohesion, I'm also calling neutral rather than the supporting read of the fifteenth and seventeenth: the EU-plus-Canada push is real, but it's offset today by Germany's AfD surge, Russia's sham elections and Trump's trade threats — cohesion and fragmentation roughly cancel. Net: the early links of the chain, a into b, keep firing together, while the back half, c into d, still isn't propagating. No strong signal that the individualism-to-cohesion leap is underway.
