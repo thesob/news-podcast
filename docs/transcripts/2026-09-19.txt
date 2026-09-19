@@ -1,0 +1,85 @@
+[EN]
+Good morning, Patricio — here's your brief for Saturday, September 19, 2026. It's a heavy day for great-power maneuvering and AI governance, with a copper story close to home.
+
+[EN]
+Top Stories.
+[EN]
+US and Denmark strike a Greenland “security” deal — Trump claims “permanent control”. Trump announced an agreement, to be signed next week, that he says grants the US “permanent control over security, and all other needs, in Greenland.” Denmark’s prime minister confirmed a deal is coming, but Danish officials have not validated Trump’s sweeping characterization and the specifics remain unconfirmed. It is the clearest sign yet that Washington’s long-rumored Greenland ambitions are moving from rhetoric onto paper. (Source: BBC.)
+[EN]
+Trump signs sweeping sanctions targeting Russia’s energy buyers. The bill — named for the late Senator Lindsey Graham, a longtime advocate of aid for Ukraine — hands Trump broad power to levy steep tariffs on major purchasers of Russian oil and gas. It marks a notable hardening toward Moscow’s war economy, aimed squarely at the revenue that funds the war. (Source: BBC.)
+[EN]
+The AI industry’s own “slow down” plea collides with the China race. Days after Anthropic’s Dario Amodei led an industry call to “pace the frontier,” Trump flatly rejected slowing AI development, arguing “whoever wins AI, wins” and pointing to China. The episode captures the whiplash in AI governance right now: even the people warning loudest about the technology insist the US cannot afford to ease off. (Source: The Guardian.)
+[EN]
+Sweden’s red-green bloc wins — but can’t yet form a government. After the 2026 election, the Social Democrat-led S-V-MP-C side holds a razor-thin 176–173 edge, and Speaker Andreas Norlén has tasked Magdalena Andersson (S) with exploring a government as Ulf Kristersson prepares to resign. The sticking point: the Centre Party refuses to sit with the Left Party, and the Liberals say they will vote against any Andersson-led cabinet. Parliament reconvenes on September 28. (Source: SVT.)
+[EN]
+US troop deaths in the Iran war exceed the Pentagon’s count, WaPo reports. More American troops died during the US-Israeli war with Iran than the Pentagon has publicly disclosed, according to Washington Post reporting citing internal figures. Defense Secretary Pete Hegseth denied the report. The gap, if confirmed, raises fresh questions about transparency over the war’s true cost. (Source: Reuters, relaying the Washington Post.)
+
+[ES]
+España y América Latina.
+[ES]
+Chile y la “recesión del cobre”. El ministro de Hacienda, Jorge Quiroz, encendió las alarmas: la producción de cobre cayó un 7% entre enero y julio frente a 2025, y Cochilco proyecta cerrar el año en 5,27 millones de toneladas, un 2,6% menos. Quiroz calcula que el bajón le resta cerca de un punto porcentual al crecimiento del PIB, aunque los gremios mineros discuten el término “recesión” y recuerdan que el alza del precio del cobre compensa parte de la caída de volumen. (Fuente: Emol.)
+[ES]
+La economía chilena pierde impulso. Tras el último Imacec, las proyecciones apuntan a que el PIB crecería como máximo un 1% en 2026, un fuerte contraste con lo que se esperaba a comienzos de año. Todo ocurre en un septiembre cargado para Hacienda, con ChileDay, la reforma al mercado de capitales y la discusión del Presupuesto 2027 sobre la mesa. (Fuente: Emol.)
+[ES]
+España rebaja su crecimiento y estrecha lazos con Marruecos. El INE corrigió dos décimas a la baja, hasta el 2,6%, el crecimiento de 2025. En paralelo, los cancilleres de España y Marruecos sellaron un acuerdo para elevar sus relaciones diplomáticas y la inversión mutua. (Fuente: El País.)
+[ES]
+Colombia pelea por el Presupuesto 2027. El Presupuesto General de la Nación superó su primer trámite con un monto global de 634,9 billones de pesos, pero MinHacienda quiere recortar unos 45 billones. La puja de fondo sobre el tamaño del gasto apenas comienza. (Fuente: El Colombiano.)
+[ES]
+Un nuevo felino aparece en Bolivia. Un equipo internacional de científicos describió una nueva especie de gato salvaje en los bosques nublados de los Yungas, bautizada Leopardus tilcayo en homenaje a las comunidades que cuidaron al ejemplar. Es la primera especie de felino descrita en más de un siglo. (Fuente: El Universal.)
+
+[EN]
+US and International.
+[EN]
+Germany votes Sunday with the far right surging. Polls show the Left and conservatives nearly tied ahead of Sunday’s vote, while the AfD is aiming to roughly double its support to around 18%. A strong far-right showing would reverberate across an already jittery European center. (Source: El País.)
+[EN]
+Russia’s legislative elections, hollowed out. The vote is being undercut by the disqualification of candidates critical of the government, narrowing an already tightly controlled field before ballots are even cast. (Source: El País.)
+[EN]
+Europe floats a security bloc without Washington. The European Commission president proposed a security mechanism binding the EU and allies together — pointedly without US participation — a hedge against an Atlantic partner that no longer feels dependable. (Source: El País.)
+[EN]
+Norway wants to get ahead on Europe. NRK reports that the Norwegian government plans to begin work on EU-related matters earlier and is signaling new measures — a quiet nudge toward deeper European alignment from a country that has stayed outside the bloc. (Source: NRK (Norway).)
+[EN]
+Stephen Miller’s drive to remove migrant children. A Guardian investigation says White House deputy chief of staff Stephen Miller is orchestrating a multi-agency effort to fast-track the removal of undocumented children, with critics calling the tactics cruel and, in some cases, in violation of federal law. (Source: The Guardian.)
+[EN]
+Latvia’s president warns Europe is behind on drone warfare. Edgars Rinkēvičs said drone and aerial warfare in Ukraine is evolving at “lightning speed,” and warned that much of NATO could not currently repel a Russian missile attack if the conflict widened. (Source: The Guardian.)
+
+[EN]
+Tech and Niche.
+[EN]
+“The largest theft of labor in human history”. Newly unredacted court filings quote a Microsoft executive describing AI training-data scraping in exactly those words — a remarkable line to surface from inside a major AI company as copyright and data-use lawsuits pile up. (Source: TechCrunch.)
+[EN]
+OpenAI moves into the law. OpenAI unveiled “Astra for Law,” pushing AI deeper into professional legal work — another expert domain where machine assistance is starting to encroach on what used to be gated human authority. (Source: OpenAI.)
+[EN]
+A big model shrinks without losing much. Prism ML’s “Bonsai 2 27B” claims near-lossless compression in a footprint nine times smaller — the sort of efficiency gain that keeps nudging capable models toward cheaper, more local, off-the-cloud deployment. (Source: Prism ML, via Hacker News.)
+[EN]
+A coding agent caught phoning home. A widely shared writeup alleges that ZCode, a GLM-based coding agent, silently uploads users’ Git history — a pointed reminder to check what your AI dev tools quietly send upstream before you trust them with a repo. (Source: Hacker News.)
+[EN]
+Your next radiator might be a computer. The Guardian profiles “domestic datacentres” — small servers strapped to home hot-water tanks that heat the water as they compute, turning heat that a big datacentre would waste into cheaper hot water at home. (Source: The Guardian.)
+
+[SV]
+Sverige.
+[SV]
+Rödgrönt övertag – men ännu ingen regering. Efter valet 2026 leder S-V-MP-C-sidan knappt med 176 mandat mot 173 för M, SD, KD och L. Talman Andreas Norlén har gett Magdalena Andersson (S) uppdraget att sondera möjligheterna att bilda regering, samtidigt som Ulf Kristersson förbereder sin avskedsansökan. Knäckfrågan är att Centern säger blankt nej till Vänsterpartiet i regeringen, medan Liberalernas Simona Mohamsson lovar att rösta mot varje Andersson-ledd regering. Riksdagen samlas den 28 september, och tidigast den 29 kan talmannen föreslå en statsministerkandidat. (Källa: SVT.)
+
+[EN]
+Connecting the Dots.
+[EN]
+This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN]
+Patricio, the loudest thread today is that the people with the most authority over AI can’t hold a line for even a week. Dario Amodei helped rally the industry to “pace the frontier,” and within days Trump waved it away with “whoever wins AI, wins.” Layer on the unredacted Microsoft filing calling data-scraping “the largest theft of labor in human history,” and OpenAI marching into law with Astra, and you get an industry simultaneously asking for restraint, defending its land grab, and expanding into new professional turf. That’s not hypocrisy so much as a field moving faster than anyone’s ability to speak for it — which is worth watching, because it means the “frame” for AI is up for grabs rather than settled from the top.
+[EN]
+The second thread is a world quietly rearranging itself into blocs. Washington is claiming “permanent control” over Greenland, tightening the screws on Russia’s energy buyers, and being deliberately left out of a proposed European security mechanism; Germany votes Sunday with the AfD surging; Norway inches toward Europe; Pakistan and Saudi Arabia knit tighter. The common denominator is hedging — everyone is reducing their dependence on a US that no longer feels like a fixed point. For a small, open, trade-exposed economy, that fragmentation is the real risk: it raises the odds of tariff crossfire and shipping-lane friction that you don’t control and can’t vote on.
+[EN]
+Which brings it home to Chile. The “copper recession” story matters more to your daily life than anything from Washington: output down 7% through July, Cochilco seeing a full-year decline, and Quiroz putting the hit at roughly a point of GDP right as the economy is already limping toward maybe 1% growth. The one genuine cushion is price — the mining chamber notes copper has run up hard, which can offset thinner volumes and keep fiscal revenue and the peso steadier than the tonnage alone would suggest. But that’s a bet on a single number set in London and Shanghai, and it’s landing in the middle of ChileDay, the capital-markets reform, and a contentious Presupuesto 2027 under a Kast government inclined to cut. If you’ve got exposure to the peso or local rates, this is the quarter I’d watch it.
+[EN]
+There’s a strange optimism hiding in the AI-energy corner, too. That Guardian piece on “domestic datacentres” — servers heating your hot water while they compute — is a small, concrete example of the compute boom colliding with energy costs and producing something useful rather than just a bigger power bill. Chile, with cheap solar in the north and a serious grid-storage story, is unusually well placed to be on the winning side of “where does all this compute physically live.” Not a confident prediction — more a reminder that the same AI wave straining grids elsewhere could, with the right siting, be an export you’re positioned to sell.
+
+[EN]
+Hypothesis Watch.
+[EN]
+An ongoing watch on your standing hypothesis (see the sub-claims below), read as a daily scan informed by the recent trend in the log rather than by today’s stories alone — not a full re-argument.
+[EN]
+The clearest signal today is again for (a), shrinking thought-leadership and authority cycles — now the sixth brief running with a supporting read. The AI industry’s “pace the frontier” plea being contradicted within days (the Guardian’s China piece), OpenAI’s Astra pushing machines into legal expertise, and the Microsoft “theft of labor” filing all show authority that can neither hold its position nor speak with one voice. The pattern in the log is now hard to ignore: (a) has not had a non-supporting day in the recent window.
+[EN]
+There’s a real, if softer, signal for (b), individuals leaning on their own internal voice. The story of Ed Sheeran’s support acts walking out in solidarity after Macklemore’s “free Palestine” speech — artists acting on private conscience against an industry norm of staying apolitical — is exactly the kind of “act on what you actually think” behavior the hypothesis predicts. That keeps (b) on the supporting side of a mixed recent run.
+[EN]
+For (d), more human collaboration and cohesion, today reads as support for the third day in a row, though almost entirely at the collective/institutional level: Europe’s security mechanism, the Spain–Morocco upgrade, and — more at the human scale — the Guardian’s piece on how Terry Fox’s story is reviving a shared Canadian spirit. (c), a move away from individualism, stays neutral: the collaboration is still states and institutions banding together, not individuals visibly shedding individualism. So the chain’s early links keep firing while the middle one (c) remains the quiet spot — worth flagging, because that’s the joint where the hypothesis is least demonstrated so far.
