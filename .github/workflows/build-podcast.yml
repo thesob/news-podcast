@@ -41,6 +41,8 @@ jobs:
           GOOGLE_APPLICATION_CREDENTIALS: /tmp/gcp-key.json
           PODCAST_BASE_URL: ${{ vars.PODCAST_BASE_URL }}
           PODCAST_TITLE: ${{ vars.PODCAST_TITLE }}
+          PODCAST_AUTHOR: ${{ vars.PODCAST_AUTHOR }}
+          PODCAST_EMAIL: ${{ vars.PODCAST_EMAIL }}
         run: python scripts/build_episode.py
 
       - name: Commit and push the new episode + feed

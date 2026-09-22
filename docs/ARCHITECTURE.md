@@ -188,7 +188,9 @@ in region `southamerica-west1`.
   [`scripts/requirements.txt`](../scripts/requirements.txt)
   (`google-cloud-texttospeech`, `pydub`, `feedgen`, `feedparser`).
 - Writes `secrets.GOOGLE_SERVICE_ACCOUNT_JSON` to `/tmp/gcp-key.json`; reads
-  `vars.PODCAST_BASE_URL` and `vars.PODCAST_TITLE`.
+  `vars.PODCAST_BASE_URL`, `vars.PODCAST_TITLE`, and optionally
+  `vars.PODCAST_AUTHOR` / `vars.PODCAST_EMAIL` (channel-level author/owner
+  tags; fall back to hardcoded defaults in `build_episode.py` if unset).
 - Runs `scripts/build_episode.py`, then commits `docs/` back to `main` as
   `podcast-bot` with `Add episode <date>` (`|| echo "Nothing to commit"` guards
   re-runs).
@@ -223,7 +225,11 @@ in region `southamerica-west1`.
     [`assets/audio/README.md`](../assets/audio/README.md).
 - **Outputs:** `docs/episodes/<date>.mp3`, `docs/transcripts/<date>.txt` (raw
   script; `[SECTION …]` lines stripped, language tags kept).
-- **`update_feed`:** rebuilds `docs/feed.xml` with `feedgen`. Adds today's
+- **`update_feed`:** rebuilds `docs/feed.xml` with `feedgen`. Sets
+  channel-level `<itunes:image>`/`<image>` (pointing at `docs/cover.jpg`,
+  1400×1400 RGB JPEG), `<itunes:author>`/`<author>`, `<itunes:owner>`
+  (name+email, used by Spotify/Apple to verify feed ownership),
+  `<itunes:category>` ("News"), and `<itunes:explicit>` ("no"). Adds today's
   `<item>` (enclosure with byte length from `stat().st_size`, `pubDate`,
   `itunes:duration` = `len(audio)/1000`, Podcasting 2.0 `<podcast:transcript>`
   via a small custom feedgen extension), then re-parses the previous feed with

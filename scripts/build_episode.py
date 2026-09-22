@@ -26,11 +26,16 @@ Requires env vars:
   GOOGLE_APPLICATION_CREDENTIALS - path to a Google service account JSON key
   PODCAST_BASE_URL - e.g. https://username.github.io/reponame
   PODCAST_TITLE - e.g. "My Daily News Brief"
+  PODCAST_AUTHOR - e.g. "Jane Doe" (optional, defaults to "Patricio Sobrado")
+  PODCAST_EMAIL - owner contact email (optional, defaults to
+    "patricio.sobrado@gmail.com"); shown to podcast platforms, not published
+    in the feed's visible fields
 
 Outputs:
   docs/episodes/<date>.mp3
   docs/transcripts/<date>.txt  (raw script, linked from the feed as a transcript)
-  docs/feed.xml  (updated, newest episode first)
+  docs/feed.xml  (updated, newest episode first; also carries cover art,
+    author, and owner-email tags pointing at docs/cover.jpg)
 """
 
 import calendar
@@ -462,6 +467,8 @@ def build_audio(segments) -> AudioSegment:
 def update_feed(mp3_path: Path, episode_date: str, duration_seconds: int):
     base_url = os.environ["PODCAST_BASE_URL"].rstrip("/")
     title = os.environ.get("PODCAST_TITLE", "Daily News Brief")
+    author = os.environ.get("PODCAST_AUTHOR", "Patricio Sobrado")
+    email = os.environ.get("PODCAST_EMAIL", "patricio.sobrado@gmail.com")
     new_entry_id = f"{base_url}/episodes/{episode_date}.mp3"
 
     fg = FeedGenerator()
@@ -474,6 +481,16 @@ def update_feed(mp3_path: Path, episode_date: str, duration_seconds: int):
     fg.link(href=base_url, rel="alternate")
     fg.description(f"{title} — automatically generated multilingual news brief")
     fg.language("en")
+    fg.author(name=author, email=email)
+    # Cover art: Apple/Spotify require a square JPG/PNG of at least 1400x1400px,
+    # hosted alongside the feed (see docs/cover.jpg).
+    cover_url = f"{base_url}/cover.jpg"
+    fg.image(url=cover_url, title=title, link=base_url)
+    fg.podcast.itunes_image(cover_url)
+    fg.podcast.itunes_author(author)
+    fg.podcast.itunes_owner(name=author, email=email)
+    fg.podcast.itunes_category("News")
+    fg.podcast.itunes_explicit("no")
 
     # Today's episode
     today_dt = datetime.now(timezone.utc)

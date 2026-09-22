@@ -71,6 +71,10 @@ In the repo: **Settings → Secrets and variables → Actions**.
 - Under **Variables**, add:
   - `PODCAST_BASE_URL` — e.g. `https://yourusername.github.io/your-repo`
   - `PODCAST_TITLE` — e.g. `My Daily News Brief`
+  - `PODCAST_AUTHOR` — e.g. `Jane Doe` (optional; defaults to `Patricio Sobrado`)
+  - `PODCAST_EMAIL` — owner contact email shown to podcast platforms, e.g. for
+    Spotify/Apple verification (optional; defaults to
+    `patricio.sobrado@gmail.com`)
 
 ### 6. Test the build manually
 1. Edit `episode/script.txt` with a short test in each language (a template is already there).
@@ -125,6 +129,16 @@ podcast's episode list on the iPhone, pull down until it says "Release to
 force refresh" — that bypasses Overcast's cache and re-fetches immediately.
 This gesture isn't available from the CarPlay screen, so do it on the phone
 before you start driving.
+
+### 10. Submit to Spotify
+The feed carries the cover art, author, and owner-email tags Spotify checks
+for (`docs/cover.jpg`, plus `PODCAST_AUTHOR`/`PODCAST_EMAIL` from step 5).
+1. Go to [podcasters.spotify.com](https://podcasters.spotify.com) → **Add or claim your podcast → I have a hosted podcast**.
+2. Paste your feed URL: `https://<your PODCAST_BASE_URL>/feed.xml`.
+3. Spotify will verify ownership via the owner email (`PODCAST_EMAIL`) and pull in the cover art, title, and author automatically.
+4. To replace the cover art later, overwrite `docs/cover.jpg` with a new
+   square JPG/PNG (at least 1400×1400px, RGB — not CMYK) and rename the file
+   if you want podcast apps to notice the change immediately.
 
 ---
 
