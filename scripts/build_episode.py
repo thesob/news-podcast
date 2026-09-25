@@ -170,11 +170,23 @@ SECTION_RE = re.compile(r"^\[SECTION\s+([a-z_]+)\]\s*$", re.I)
 SECTION_LINE_RE = re.compile(r"(?m)^\[SECTION\s+\S+\]\s*\n?")
 SECTIONS = ("intro", "news", "connecting_dots", "hypothesis_watch")
 
+# Explicit item marker: a line reading "[ITEM]" right before a story's headline.
+# The inter-item pling plays only at item starts.
+ITEM_RE = re.compile(r"^\[ITEM\]\s*$", re.I)
+ITEM_LINE_RE = re.compile(r"(?m)^\[ITEM\]\s*\n?")
+
+# Fallback when a script has no [ITEM] markers: a story ends at its sources line.
+SOURCES_LINE_RE = re.compile(r"^(sources?|fuentes?|k[aä]llor|quellen)\s*:", re.I)
+
+# Safety net: a voice-over must never read a URL out loud.
+URL_RE = re.compile(r"https?://\S+")
+
 # Heuristic fallback: normalized spoken heading -> section id. Used only when
 # the script carries no explicit [SECTION ...] markers for that boundary.
 HEADING_SECTIONS = {
     "top stories": "news",
     "spain and latin america": "news",
+    "espana y america latina": "news",
     "us and international": "news",
     "tech and niche": "news",
     "sverige": "news",
@@ -194,6 +206,7 @@ class Segment:
     text: str
     section: str = "intro"
     is_section_start: bool = False
+    is_item_start: bool = False
 
 
 def _normalize_heading(text: str) -> str:
@@ -227,9 +240,11 @@ def parse_segments(text: str):
     current_lines: list[str] = []
     current_section = "intro"
     pending_section_start = False
+    pending_item_start = False
+    saw_item_marker = False
 
     def flush():
-        nonlocal pending_section_start, current_section, current_lines
+        nonlocal pending_section_start, pending_item_start, current_section, current_lines
         if not (current_lang and current_lines):
             return
         body = "\n".join(current_lines).strip()
@@ -242,10 +257,13 @@ def parse_segments(text: str):
         if heading and heading != section:
             section = heading
             is_start = True
-        segments.append(Segment(current_lang, body, section, is_start))
+        segments.append(
+            Segment(current_lang, body, section, is_start, pending_item_start)
+        )
         # keep the heuristic-derived section for following paragraphs
         current_section = section
         pending_section_start = False
+        pending_item_start = False
 
     for line in lines:
         stripped = line.strip()
@@ -262,6 +280,12 @@ def parse_segments(text: str):
                 )
             continue
 
+        if ITEM_RE.match(stripped):
+            flush()
+            pending_item_start = True
+            saw_item_marker = True
+            continue
+
         m = TAG_RE.match(stripped)
         if m:
             flush()
@@ -276,7 +300,42 @@ def parse_segments(text: str):
             "No tagged segments found. Make sure script.txt uses [EN]/[ES]/[SV] "
             "tags on their own line before each paragraph."
         )
-    return segments
+    if not saw_item_marker:
+        _infer_item_starts(segments)
+    return _strip_urls(segments)
+
+
+def _is_news_subheading(seg: Segment) -> bool:
+    return seg.section == "news" and _normalize_heading(seg.text) in NEWS_SUBHEADINGS
+
+
+def _infer_item_starts(segments) -> None:
+    """Fallback for scripts without [ITEM] markers: a news item starts at the
+    first paragraph after a section start, a subheading or a sources line."""
+    closed = True
+    for seg in segments:
+        if seg.section != "news" or seg.is_section_start or _is_news_subheading(seg):
+            closed = True
+            continue
+        if closed:
+            seg.is_item_start = True
+            closed = False
+        if SOURCES_LINE_RE.match(seg.text.strip()):
+            closed = True
+
+
+def _strip_urls(segments):
+    """Cut URLs out of the spoken text; drop a sources line left with no names."""
+    out = []
+    for seg in segments:
+        if URL_RE.search(seg.text):
+            print("[audio] stripped URL from script paragraph", file=sys.stderr)
+            seg.text = re.sub(r"\s+([.,;])", r"\1", URL_RE.sub("", seg.text)).strip()
+            leftover = SOURCES_LINE_RE.sub("", seg.text).strip(" .,;:")
+            if not leftover:
+                continue
+        out.append(seg)
+    return out
 
 
 def _silence(ms: int) -> AudioSegment:
@@ -406,18 +465,19 @@ def build_audio(segments) -> AudioSegment:
             span_start = len(voice)
             news_item_seen = False
 
-        is_subheading = (
+        is_subheading = not seg.is_section_start and _is_news_subheading(seg)
+        # Only the first paragraph of a story (headline) can carry a pling;
+        # body and sources paragraphs never do.
+        is_item_start = (
             seg.section == "news"
+            and seg.is_item_start
             and not seg.is_section_start
-            and _normalize_heading(seg.text) in NEWS_SUBHEADINGS
-        )
-        is_news_item = (
-            seg.section == "news" and not seg.is_section_start and not is_subheading
+            and not is_subheading
         )
 
         if seg.is_section_start and stinger is not None and len(voice) > lead_ms:
             voice += stinger.apply_gain(STINGER_GAIN_DB) + _silence(STINGER_GAP_MS)
-        elif is_news_item and news_item_seen and pling is not None:
+        elif is_item_start and news_item_seen and pling is not None:
             voice += pling.apply_gain(PLING_GAIN_DB) + _silence(PLING_GAP_MS)
 
         # A subheading is a spoken divider, not a news item: it gets no pling
@@ -432,7 +492,7 @@ def build_audio(segments) -> AudioSegment:
             synthesize_segment(client, seg.lang, seg.text), VOICE_TARGET_LUFS
         )
         voice += spoken + pause
-        if is_news_item:
+        if is_item_start:
             news_item_seen = True
 
     spans.append((current_section, span_start, len(voice)))
@@ -570,7 +630,7 @@ def main():
     audio.export(mp3_path, format="mp3", bitrate=OUTPUT_BITRATE)
 
     TRANSCRIPTS_DIR.mkdir(parents=True, exist_ok=True)
-    transcript = SECTION_LINE_RE.sub("", text)  # drop [SECTION ...] marker lines
+    transcript = ITEM_LINE_RE.sub("", SECTION_LINE_RE.sub("", text))  # drop marker lines
     (TRANSCRIPTS_DIR / f"{episode_date}.txt").write_text(transcript, encoding="utf-8")
 
     duration_seconds = int(len(audio) / 1000)

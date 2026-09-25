@@ -336,6 +336,17 @@ C. Also produce a second, separate text block: the same story content and
    news subsection — Spain & Latin America, US & International, Tech & Niche,
    Sweden — stays under the single `[SECTION news]`, no marker of its own. The
    marker is in addition to, not a replacement for, the spoken heading line.
+   Also emit an `[ITEM]` marker line — alone on its own line, nothing else on
+   it, not spoken — immediately before the first paragraph (the headline) of
+   every individual news story inside the news section, so the podcast can
+   play a short chime between stories. One `[ITEM]` per story, never before a
+   subsection heading (Top Stories, Spain & Latin America, …), never before a
+   story's body or Sources paragraph, and never outside the news section.
+   Sequence for one story: `[ITEM]`, then the headline paragraph, its body
+   paragraph(s), and its Sources paragraph, each under its own language tag.
+   Sources paragraphs must contain source *names* only — no URL, not even
+   inside a redirect or tracking link; if the only source you have is a URL,
+   use the outlet's plain name (e.g. "Macanorak") instead.
    Do NOT send this as a file attachment — the Gmail tool's attachment
    encoding corrupts non-ASCII characters (accented Spanish/Swedish letters
    get silently mangled, dashes get replaced with "?"). Instead, embed it in

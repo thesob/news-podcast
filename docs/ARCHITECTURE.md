@@ -215,7 +215,11 @@ in region `southamerica-west1`.
     `hypothesis_watch`), tiled to the section's spoken length with seam
     crossfades, faded at span boundaries, mixed −22 dB under the voice;
   - **section stinger** at every section change;
-  - soft **pling** between consecutive news items (not before subheadings);
+  - soft **pling** between consecutive news items, only at an item start: an
+    explicit `[ITEM]` marker line before each story's headline, or — for scripts
+    without markers — the first paragraph after a subheading or a `Sources:` line
+    (never before subheadings, body or sources paragraphs). Any URL left in the
+    script is stripped before TTS;
   - output normalized to 44.1 kHz / stereo / 128 kbps.
   - **Current state:** no audio assets are committed and CI does not fetch any,
     so builds today produce **voice-only** episodes. The layering code is in
