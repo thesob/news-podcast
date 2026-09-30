@@ -54,6 +54,8 @@ from feedgen.ext.base import BaseExtension, BaseEntryExtension
 from feedgen.util import xml_elem
 import feedparser
 
+from spoken_numbers import spell_numbers
+
 try:
     import numpy as np
     import pyloudnorm as pyln
@@ -415,7 +417,7 @@ def synthesize_segment(client, lang: str, text: str) -> AudioSegment:
         # Offline mix testing: stand-in speech, roughly length-proportional.
         return _silence(max(1200, len(text) * 55))
     voice_cfg = VOICE_MAP[lang]
-    synthesis_input = texttospeech.SynthesisInput(text=text)
+    synthesis_input = texttospeech.SynthesisInput(text=spell_numbers(text, lang))
     voice = texttospeech.VoiceSelectionParams(
         language_code=voice_cfg["language_code"], name=voice_cfg["name"]
     )

@@ -4,3 +4,4 @@ feedgen==1.0.0
 feedparser==6.0.11
 numpy==1.26.4
 pyloudnorm==0.1.1
+num2words==0.5.14
