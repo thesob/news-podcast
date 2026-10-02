@@ -326,8 +326,14 @@ agent prompt is public and the agent has no secret store.
   a direct commit, a `repository_dispatch`, or an API call.
 - **Observability:** none today — a "did today's episode publish?" health check
   is greenfield.
-- **Multi-user / multi-edition:** every stage currently assumes a single user,
-  single schedule, single feed.
+- **Multi-edition (in progress):** stages 3–5 are edition-aware. `EDITION` env
+  (default `en`) selects `episode/[<id>/]script.txt` → `docs/[<id>/]feed.xml`;
+  optional `editions/<id>/profile.json` sets title, description, language,
+  author, cover, `voice_map`. `gmail-to-github.gs` loops over `CONFIG.EDITIONS`
+  (own Gmail subject, paths, processed marker) and fans a marker-stripped copy
+  to `RECIPIENTS_<ID>` Script Properties. The workflow detects which edition(s)
+  a push touched. Still to do: per-edition prompt pieces (sources, topics,
+  Connecting the Dots, Hypothesis Watch) and the second Cowork task.
 
 ---
 

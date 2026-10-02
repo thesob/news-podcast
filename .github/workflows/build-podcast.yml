@@ -3,8 +3,13 @@ name: Build podcast episode
 on:
   push:
     paths:
-      - "episode/script.txt"
-  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab too
+      - "episode/script.txt"        # default edition (en)
+      - "episode/*/script.txt"      # other editions: episode/<id>/script.txt
+  workflow_dispatch:                # lets you trigger it manually from the Actions tab too
+    inputs:
+      edition:
+        description: "Edition id to build (en, es, ...)"
+        default: "en"
 
 permissions:
   contents: write
@@ -19,6 +24,30 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+
+      # Which edition(s) does this push carry a script for? episode/script.txt
+      # is "en"; episode/<id>/script.txt is <id>. A manual run names one.
+      - name: Detect editions to build
+        id: editions
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENT: ${{ github.event_name }}
+          INPUT_EDITION: ${{ inputs.edition }}
+          BEFORE: ${{ github.event.before }}
+        run: |
+          if [ "$EVENT" = "workflow_dispatch" ]; then
+            editions="${INPUT_EDITION:-en}"
+          else
+            files=$(gh api "repos/$GITHUB_REPOSITORY/compare/$BEFORE...$GITHUB_SHA" \
+              --jq '.files[].filename' 2>/dev/null) || files=""
+            editions=$(echo "$files" | sed -nE \
+              -e 's#^episode/script\.txt$#en#p' \
+              -e 's#^episode/([a-z0-9-]+)/script\.txt$#\1#p' | sort -u | xargs)
+            # Couldn't tell (e.g. first push on a branch): build the default.
+            editions="${editions:-en}"
+          fi
+          echo "Building editions: $editions"
+          echo "list=$editions" >> "$GITHUB_OUTPUT"
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -38,21 +67,31 @@ jobs:
         env:
           GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
 
-      - name: Build episode and update feed
+      - name: Build episode(s) and update feeds
         env:
+          EDITIONS: ${{ steps.editions.outputs.list }}
           GOOGLE_APPLICATION_CREDENTIALS: /tmp/gcp-key.json
           PODCAST_BASE_URL: ${{ vars.PODCAST_BASE_URL }}
           PODCAST_TITLE: ${{ vars.PODCAST_TITLE }}
           PODCAST_AUTHOR: ${{ vars.PODCAST_AUTHOR }}
           PODCAST_EMAIL: ${{ vars.PODCAST_EMAIL }}
-        run: python scripts/build_episode.py
+        run: |
+          for ed in $EDITIONS; do
+            echo "=== Building edition: $ed ==="
+            EDITION="$ed" python scripts/build_episode.py
+          done
 
       - name: Commit and push the new episode + feed
+        env:
+          EDITIONS: ${{ steps.editions.outputs.list }}
         run: |
           git config user.name "podcast-bot"
           git config user.email "podcast-bot@users.noreply.github.com"
           git add docs/
-          git commit -m "Add episode $(date -u +%Y-%m-%d)" || echo "Nothing to commit"
+          # Message stays "Add episode <date>" for the default edition alone.
+          suffix=""
+          [ "$EDITIONS" = "en" ] || suffix=" [$EDITIONS]"
+          git commit -m "Add episode $(date -u +%Y-%m-%d)$suffix" || echo "Nothing to commit"
 
           for i in 1 2 3 4 5; do
             git pull --rebase --autostash origin "$GITHUB_REF_NAME" && git push && break

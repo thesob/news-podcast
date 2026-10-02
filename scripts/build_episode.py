@@ -2,6 +2,12 @@
 """
 Builds one podcast episode from a language-tagged script, and updates feed.xml.
 
+EDITIONS: env EDITION (default "en") selects which podcast to build. "en" uses
+episode/script.txt -> docs/; any other id uses episode/<id>/script.txt ->
+docs/<id>/ (own feed.xml, episodes/, transcripts/). Optional
+editions/<id>/profile.json may set title, description, language, author, cover
+and voice_map overrides.
+
 INPUT FORMAT (episode/script.txt):
   Each paragraph starts with a language tag, [EN], [ES], or [SV], followed by
   one or more lines of text in that language. The tag may sit alone on its
@@ -39,6 +45,7 @@ Outputs:
 """
 
 import calendar
+import json
 import os
 import re
 import sys
@@ -64,11 +71,39 @@ except ImportError:  # loudness normalization is an optional layer, like the ass
     pyln = None
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-SCRIPT_PATH = REPO_ROOT / "episode" / "script.txt"
+
+# Editions: one pipeline, N independent podcasts. The default edition ("en")
+# keeps the original flat layout (episode/script.txt -> docs/feed.xml) so the
+# existing feed URL never moves; every other edition lives in its own subfolder
+# (episode/<id>/script.txt -> docs/<id>/feed.xml). Per-edition settings come
+# from editions/<id>/profile.json (optional), see _load_profile.
+DEFAULT_EDITION = "en"
+EDITION = (os.environ.get("EDITION") or DEFAULT_EDITION).strip().lower()
+if not re.fullmatch(r"[a-z0-9-]{1,16}", EDITION):
+    sys.exit(f"Invalid EDITION {EDITION!r}: use lowercase letters, digits, '-'.")
+
+
+def _load_profile(edition: str) -> dict:
+    path = REPO_ROOT / "editions" / edition / "profile.json"
+    if not path.exists():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+PROFILE = _load_profile(EDITION)
+
 DOCS_DIR = REPO_ROOT / "docs"
-EPISODES_DIR = DOCS_DIR / "episodes"
-TRANSCRIPTS_DIR = DOCS_DIR / "transcripts"
-FEED_PATH = DOCS_DIR / "feed.xml"
+if EDITION == DEFAULT_EDITION:
+    SCRIPT_PATH = REPO_ROOT / "episode" / "script.txt"
+    EDITION_DIR = DOCS_DIR
+    EDITION_URL_PREFIX = ""
+else:
+    SCRIPT_PATH = REPO_ROOT / "episode" / EDITION / "script.txt"
+    EDITION_DIR = DOCS_DIR / EDITION
+    EDITION_URL_PREFIX = f"/{EDITION}"
+EPISODES_DIR = EDITION_DIR / "episodes"
+TRANSCRIPTS_DIR = EDITION_DIR / "transcripts"
+FEED_PATH = EDITION_DIR / "feed.xml"
 
 # Podcasting 2.0 <podcast:transcript> tag (https://podcastindex.org/namespace/1.0).
 # feedgen's own "podcast" extension only covers the older iTunes tags, so this
@@ -110,6 +145,9 @@ VOICE_MAP = {
     "ES": {"language_code": "es-US", "name": "es-US-Chirp-HD-D"},
     "SV": {"language_code": "sv-SE", "name": "sv-SE-Chirp3-HD-Enceladus"},
 }
+# An edition profile may override the voice for any tag ("voice_map" key).
+for _tag, _voice in PROFILE.get("voice_map", {}).items():
+    VOICE_MAP[_tag] = {**VOICE_MAP.get(_tag, {}), **_voice}
 
 TAG_RE = re.compile(r"^\[(EN|ES|SV)\]\s*(.*)$")
 
@@ -527,10 +565,17 @@ def build_audio(segments) -> AudioSegment:
 
 
 def update_feed(mp3_path: Path, episode_date: str, duration_seconds: int):
-    base_url = os.environ["PODCAST_BASE_URL"].rstrip("/")
-    title = os.environ.get("PODCAST_TITLE", "Daily News Brief")
-    author = os.environ.get("PODCAST_AUTHOR", "Patricio Sobrado")
+    site_url = os.environ["PODCAST_BASE_URL"].rstrip("/")
+    base_url = site_url + EDITION_URL_PREFIX  # this edition's feed/episode root
+    # Profile wins over the env var so one workflow-wide PODCAST_TITLE can't
+    # rename every edition; an edition without a title falls back to it.
+    title = PROFILE.get("title") or os.environ.get("PODCAST_TITLE", "Daily News Brief")
+    author = PROFILE.get("author") or os.environ.get("PODCAST_AUTHOR", "Patricio Sobrado")
     email = os.environ.get("PODCAST_EMAIL", "patricio.sobrado@gmail.com")
+    language = PROFILE.get("language", "en")
+    description = PROFILE.get(
+        "description", f"{title} — automatically generated multilingual news brief"
+    )
     new_entry_id = f"{base_url}/episodes/{episode_date}.mp3"
 
     fg = FeedGenerator()
@@ -541,12 +586,13 @@ def update_feed(mp3_path: Path, episode_date: str, duration_seconds: int):
     fg.title(title)
     fg.link(href=f"{base_url}/feed.xml", rel="self")
     fg.link(href=base_url, rel="alternate")
-    fg.description(f"{title} — automatically generated multilingual news brief")
-    fg.language("en")
+    fg.description(description)
+    fg.language(language)
     fg.author(name=author, email=email)
-    # Cover art: Apple/Spotify require a square JPG/PNG of at least 1400x1400px,
-    # hosted alongside the feed (see docs/cover.jpg).
-    cover_url = f"{base_url}/cover.jpg"
+    # Cover art: Apple/Spotify require a square JPG/PNG of at least 1400x1400px.
+    # Editions share the site-level docs/cover.jpg unless the profile names its
+    # own file (resolved relative to the site root, e.g. "es/cover.jpg").
+    cover_url = f"{site_url}/{PROFILE.get('cover', 'cover.jpg')}"
     fg.image(url=cover_url, title=title, link=base_url)
     fg.podcast.itunes_image(cover_url)
     fg.podcast.itunes_author(author)
@@ -613,7 +659,7 @@ def update_feed(mp3_path: Path, episode_date: str, duration_seconds: int):
     all_entries.sort(key=lambda e: e.pubDate(), reverse=True)
     fg.entry(all_entries, replace=True)
 
-    DOCS_DIR.mkdir(parents=True, exist_ok=True)
+    FEED_PATH.parent.mkdir(parents=True, exist_ok=True)
     fg.rss_file(str(FEED_PATH))
 
 
