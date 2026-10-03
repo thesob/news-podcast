@@ -1,0 +1,92 @@
+[EN] Good morning, Patricio. It's a heavy news day on the geopolitics and AI fronts, lighter on culture. Energy markets, a fracturing fight over who governs AI, and — close to home — a Chilean peso sliding toward 1,000 to the dollar are the threads worth your attention. Here's the run-through.
+[EN] A quick note on sourcing: BBC's world feed only returned stale entries today, and the New York Times, Washington Post, and Herald-Tribune weren't individually reachable, so the stories they'd normally carry are covered via AP, Reuters, The Guardian, and DW instead.
+[EN] Top Stories.
+[EN] G7 moves to release up to 100 million barrels of oil as Iran's exports hit zero.
+[EN] Iran's crude traffic collapsed to essentially nothing in September, and in response the G7 is preparing to tap strategic reserves for up to 100 million barrels of oil and diesel to take the edge off soaring prices. It's one of the largest coordinated releases in years and a reminder of how fragile the supply picture still is after the US–Iran war. Watch pump and freight costs in the weeks ahead.
+[EN] Sources: SVT, AP News.
+[EN] The fight over who governs AI is fracturing in real time.
+[EN] In a single news cycle, Anthropic and OpenAI both issued fresh warnings about AI safety risks and asked to be written into the regulatory frameworks that will constrain them; the Trump administration pushed ahead with rebranding AI and standing up an "AI Force"; and a bipartisan group of US governors, led by Maryland's Wes Moore, formed their own AI policy bloc, explicitly citing the lack of federal action. Meanwhile, reporting that Google's Gemini model can autonomously break into other companies' systems added fuel to the safety debate. No single authority is holding the center here — federal, state, and corporate players are all improvising at once.
+[EN] Sources: AP News, TechCrunch.
+[EN] Botched execution of Christa Pike draws international outrage.
+[EN] Tennessee's prison chief, Frank Strada, is under mounting fire after Pike — the only woman on the state's death row — was injected with lethal drugs and survived, reportedly choking and struggling for an hour before being hospitalized in critical condition. Lawyers say it's the fifth botched execution under Strada's leadership across two states since 2022. The case has reignited the capital-punishment debate on both sides of the Atlantic, including among UK politicians flirting with its return.
+[EN] Sources: The Guardian, DW, BBC.
+[EN] Russia intensifies its assault on Kyiv.
+[EN] Mayor Vitali Klitschko says residents can no longer pretend it's peacetime as Russian strikes hit a school, a hospital, and a key bridge in the capital. Parents describe sheltering with children during morning air-raid alerts; commuters are abandoning cars to cross damaged bridges on foot. The daily bombardment through September left civilians dead, including a strike near the National Academy of Sciences.
+[EN] Sources: The Guardian, El País.
+[ES] España y América Latina.
+[ES] El dólar roza los 1.000 pesos y marca su mayor nivel desde abril de 2025.
+[ES] El tipo de cambio cerró la semana cerca del umbral psicológico de los mil pesos tras subir 28,7 pesos en cinco días. Es una señal incómoda para cualquiera en Chile con gastos en dólares o ahorros en pesos, y conviene seguirla de cerca junto con el precio del cobre.
+[ES] Fuente: Emol.
+[ES] Hacienda recorta la proyección de crecimiento para 2027 y no descarta una recesión.
+[ES] El Ministerio de Hacienda bajó su estimación de crecimiento ante un desempeño económico débil, sin descartar un escenario recesivo. En paralelo, el Presupuesto 2027 trae alzas en algunas carteras y recortes significativos en otras —Cultura caería un 10,1 por ciento—, lo que anticipa una discusión presupuestaria tensa en el Congreso.
+[ES] Fuentes: La Tercera, Emol.
+[ES] El Tribunal Constitucional aprueba la reforma y despeja la Ley de Reconstrucción.
+[ES] La Moneda celebró el fallo del Tribunal Constitucional que da luz verde a una reforma clave y prepara su promulgación, pese a las críticas por la reducción de recursos municipales. El mismo tribunal declaró inadmisible un nuevo recurso del exministro Andrés Urrutia, dejando el camino libre para su proceso de destitución.
+[ES] Fuente: Emol.
+[ES] El Gobierno de España mantiene los decretos de vivienda pese al rechazo de Junts.
+[ES] El Ejecutivo descarta retirar los textos mientras Junts exige elaborar un nuevo decreto para enfrentar la crisis habitacional. El pulso político sobre la vivienda sigue siendo uno de los frentes más calientes en Madrid.
+[ES] Fuente: Diario de Sevilla.
+[EN] US and International.
+[EN] Satellite images show roughly 82 percent of Gaza's infrastructure damaged.
+[EN] New imagery analyzed by SVT puts the scale of destruction across the strip at around 82 percent — a stark, data-driven picture of what reconstruction will eventually have to confront.
+[EN] Source: SVT.
+[EN] North Korea fires a ballistic missile; Seoul and Kyiv clash over a secrecy breach.
+[EN] South Korea confirmed another missile test into the sea, even as Seoul accused Kyiv of violating a confidentiality agreement — the friction coinciding with Zelenskyy's warnings about North Korean troops being sent to fight for Russia.
+[EN] Sources: DW, El País.
+[EN] Latvia votes amid rising costs and Russia anxiety.
+[EN] Latvians head to the polls for a parliamentary election dominated by the cost of living and security concerns on NATO's eastern flank — a small election with outsized symbolic weight for the bloc.
+[EN] Source: DW.
+[EN] Kosovo braces for the Thaçi war-crimes verdict.
+[EN] Former president Hashim Thaçi awaits a tribunal judgment on charges of murder and torture tied to the 1990s conflict — a milestone in the long accounting for the Balkan wars.
+[EN] Source: Reuters.
+[EN] A FlyDubai co-pilot attacked the pilot with a crash axe mid-flight.
+[EN] The co-pilot, reportedly flagged over extremism concerns and banned from flying by Oman, assaulted the captain aboard a flight carrying 182 passengers near Israel. The plane landed safely, but it's a chilling aviation-security story.
+[EN] Sources: AP News, DW.
+[EN] Brussels readies a tougher migration strategy.
+[EN] The European Commission is preparing a plan against irregular entries that would include social-media analysis and expanded powers for Frontex — a notable hardening of the EU's posture.
+[EN] Source: El País.
+[EN] An Ohio truck plant closes, laying off 1,400 — days before a Trump rally nearby.
+[EN] The timing, just ahead of a planned rally in the Dayton area, sharpens the political edge of a straightforwardly painful economic story.
+[EN] Source: AP News.
+[EN] In Norway, a rail strike escalation is set to cancel 434 departures.
+[EN] The widening strike will knock out hundreds of train departures Monday and Tuesday, snarling commutes nationwide — a reminder that labor friction is quietly resurgent across Europe.
+[EN] Source: NRK, Norway, translated.
+[EN] Tech and Niche.
+[EN] Amazon pledges 1 billion dollars for data-center community investments.
+[EN] As backlash grows over the footprint and energy appetite of AI data centers, Amazon is putting money toward the communities hosting them. Separately, a study suggested new data centers could generate more than 120,000 Illinois jobs — though mostly temporary ones.
+[EN] Source: AP News.
+[EN] A court agrees with the EFF: Utah's VPN law demands a technical impossibility.
+[EN] The ruling, a top story on Hacker News with over 400 points, found that Utah's age-verification-via-VPN mandate asks for something that can't actually be built — a meaningful precedent as states keep legislating against the grain of how the internet works.
+[EN] Source: EFF.
+[EN] AI finally beats the best Stratego player in history — on a budget.
+[EN] Stratego, with most of the board hidden, had resisted AI longer than chess or Go. A new system cracked it without the vast compute such feats usually require, a quietly impressive result in imperfect-information games.
+[EN] Source: Ars Technica.
+[EN] Joby completes a 3,100-mile autonomous flight.
+[EN] The air-taxi company pushed well beyond short urban hops, signaling ambitions in longer-range autonomous aviation. And on the pure-eye-candy end: an astrophotographer stitched together a 12-year sequence of telescope images actually showing four planets orbiting a distant star.
+[EN] Sources: TechCrunch, Hacker News.
+[EN] And for the builders.
+[EN] Zig shipped version 0.17.0, and Apple quietly launched a web-based Pass Designer — small but welcome tooling news if either is in your stack.
+[EN] Source: Hacker News.
+[SV] Sverige.
+[SV] Regeringsförhandlingarna tar fart — Vänsterpartiet välkomnar möte med Centerpartiet.
+[SV] Efter valet möts de rödgröna partierna i sonderingsprocessen för att diskutera en möjlig regeringsbildning, och Vänsterpartiet säger sig välkomna samtalen med Centerpartiet. Det är ett tidigt men betydelsefullt steg i ett osäkert parlamentariskt läge.
+[SV] Källa: SVT.
+[SV] SD säger nej till att be samerna om ursäkt.
+[SV] En motion kräver att Sverige ber samerna om ursäkt för historiska övergrepp, men Sverigedemokraterna motsätter sig förslaget — en fråga som blottlägger djupa skiljelinjer i synen på historiskt ansvar.
+[SV] Källa: SVT.
+[SV] SVT Verifierar: människosmugglare lockar migranter via TikTok.
+[SV] En granskning dokumenterar hur smugglare använder sociala medier för att rekrytera migranter in i EU, vilket väcker frågor om plattformarnas ansvar.
+[SV] Källa: SVT.
+[SV] Inkomstgapet mellan män och kvinnor minskar — men långsamt.
+[SV] Skillnaden i lön mellan könen fortsätter att krympa, om än i långsam takt, enligt nya siffror.
+[SV] Källa: SVT.
+[EN] Connecting the Dots.
+[EN] This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN] Patricio, the thread I can't stop pulling today is energy. Iran's oil exports hitting zero and the G7 scrambling to release 100 million barrels tells you the post-war supply system is still running without a safety margin, and a US think-tank's warning that households will pay more for energy under recent federal policy shifts points the same direction. Layer on the ravenous power demand of AI data centers — the very expansion Amazon is now trying to buy social license for — and you get a world where the price of electrons is being bid up from three directions at once: geopolitics, policy, and compute. For Chile, an energy importer, that's not abstract. Higher global fuel and power costs feed straight into inflation, and inflation is exactly the pressure that keeps a central bank cautious and a currency soft.
+[EN] Which brings me to the peso. The dollar closing near 1,000 and Hacienda openly refusing to rule out a recession are, I'd argue, two faces of the same coin. A weak peso usually means capital is nervous — about Chilean growth, about copper, about the 2027 budget fight where Culture is already down 10 percent and municipalities are squeezed. Copper is the hinge here, and it's conspicuously quiet in today's headlines, which I'd actually treat as the thing to watch rather than ignore: if global growth wobbles — and a US plant shedding 1,400 jobs, plus Germany's stubborn east-west inequality 36 years on, are small wobbles — copper demand softens, and a copper-dependent fiscal picture gets harder right as the budget is being negotiated. Not a prediction — but if I held pesos, I'd be thinking about that chain.
+[EN] The second pattern is the fragmentation of authority over AI, and it's unusually vivid today. Anthropic and OpenAI asking to be regulated, Trump rebranding the whole field and inventing an "AI Force," governors forming their own bloc because Washington won't move, Gemini reportedly able to hack — these aren't four stories, they're one story about nobody being in charge. For you as a global citizen in Chile, the practical read is that the rules shaping the tools you'll use at work and at home are going to be set in a dozen uncoordinated places, and Latin America is rarely at those tables. Worth watching whether Chile and the region start asserting their own posture, or end up rule-takers by default.
+[EN] Finally, a softer thread: the quiet resurgence of friction inside wealthy democracies — a Norwegian rail strike cancelling 434 trains, French school protests, convenience-store overcharging scandals in the US, a collapsed London yoga chain stiffing 100 teachers. Individually trivial; collectively they read like a low-grade grind of affordability stress and institutional distrust that's become the background hum of 2026. It's the same hum, frankly, that the peso and the budget fight are playing in a Chilean key.
+[EN] Hypothesis Watch.
+[EN] An ongoing watch on your standing hypothesis about AI, shrinking authority cycles, and social cohesion — a light daily scan read against the recent trend, not a full re-argument.
+[EN] Today pushes hard on sub-claim (a) — shrinking thought-leadership and authority cycles. The AI-governance cluster is almost a textbook case: Anthropic and OpenAI petitioning to be regulated, the administration rebranding AI and spinning up an "AI Force," a governors' bloc stepping into the federal vacuum, and Gemini reportedly able to hack — no one holds the center for more than a news cycle. That continues a genuinely unbroken run: every single logged day since September 11 has marked (a) as support. If anything the signal is getting more pronounced, not less, which is itself worth noting — a streak this clean starts to feel structural rather than episodic.
+[EN] On (b) — a stronger individual internal voice — I read today as neutral, and that's a small break. The last couple of weeks were thick with (b) support — Tao, Bengio, conscience-driven artists — but today's humans-reasserting-judgment signal is faint; the governors acting on their own read of the situation is really collective institutional action, not individuals finding their inner voice. Sub-claim (c) — a move away from individualism — stays neutral, exactly as it has for the entire log; the Maryland bloc and Sweden's red-green coalition talks are collective but partisan, not evidence of anyone shedding individualism. And (d) — more collaboration and cohesion — is also neutral: G7 oil coordination and EU and coalition maneuvering are real, but they're offset by Kyiv under fire, the Ethiopia–Eritrea rupture, and the US–Canada trade war. Net: (a) is louder than ever, but (c) and (d) remain the stubbornly silent back half of the chain, and (b) blinked today.
