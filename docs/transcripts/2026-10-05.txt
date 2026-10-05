@@ -1,0 +1,72 @@
+[EN] Good morning, Patricio. Here is your daily news brief for Monday, October 5th, 2026.
+
+[EN] Top Stories.
+[EN] The Nobel Prize in Medicine goes to the pioneers of optogenetics.
+[EN] Karl Deisseroth, Peter Hegemann and Georg Nagel share the 2026 Nobel Prize in Physiology or Medicine for optogenetics, the technique of using light-sensitive ion channels to switch individual neurons on and off with pulses of light. It grew out of the humble question of how pond algae sense light, and it has since become one of neuroscience's most powerful tools for working out what specific brain circuits actually do. A lovely reminder that curiosity-driven basic science is where the big breakthroughs tend to hide.
+[EN] Sources: The Guardian, SVT.
+[EN] Brazil is going to a runoff, and it's razor-thin.
+[EN] In Sunday's first round, Flavio Bolsonaro edged ahead with about 47 percent to Lula's 45 percent, but neither cleared the 50 percent needed to win outright. So the two head to a second round on October 25th in what is shaping up as one of the tightest, most polarized races in Brazil's recent history.
+[EN] Sources: Rio Times, El Pais.
+[EN] Spain's Sanchez calls a snap election over housing.
+[EN] After parliament rejected his emergency housing-relief package, Prime Minister Pedro Sanchez pulled the trigger on a snap general election for November, turning the country's deepening housing crisis into the central battleground of the campaign.
+[EN] Sources: The Guardian.
+[EN] Quebec looks set to put separatists back in power.
+[EN] The Parti Quebecois is favored to win Quebec's provincial election, its first return to government in over a decade, and the party is openly talking about a path to an independence referendum by 2028.
+[EN] Sources: The Guardian.
+[EN] Iran and the United States trade threats over the nuclear file.
+[EN] Tehran's foreign minister pushed back hard on US demands this weekend, even as President Trump warned Iran would be, quote, choked out or bombed, if it refuses to give up nuclear weapons. Both sides keep using the word peace, but neither is actually bending yet.
+[EN] Sources: Fox News.
+[ES] Espana y America Latina.
+[ES] Chile: la aprobacion de Kast se desploma al 30 por ciento mientras arde el debate del Presupuesto 2027.
+[ES] Segun la encuesta Criteria, la aprobacion del Presidente Kast cae al 30 por ciento y la desaprobacion trepa al 60 por ciento, justo cuando el ministro de Hacienda, Quiroz, presenta y defiende un Presupuesto 2027 marcado por la austeridad fiscal. La disputa en el Congreso se concentra en el gasto en educacion y cultura, y promete ser uno de los pulsos politicos del mes.
+[ES] Fuentes: Emol.
+[ES] Colombia reperfila su deuda y estira los pagos hasta 2062.
+[ES] El Ministerio de Hacienda del gobierno De la Espriella realizo un canje de titulos de Tesoreria por 19,8 billones de pesos para reestructurar sus obligaciones, alargando los plazos de pago de la deuda publica varias decadas hacia adelante. Es la clase de maniobra que alivia la caja en el corto plazo pero traslada la carga a gobiernos futuros.
+[ES] Fuentes: El Colombiano.
+[ES] Y en casa, mas lluvia en camino.
+[ES] Tras el fin de semana de tormentas electricas y granizo, los pronosticos anticipan hasta cuatro dias de precipitaciones esta semana en la Region Metropolitana, con alertas tempranas por posibles anegamientos en Santiago.
+[ES] Fuentes: BioBioChile.
+[EN] US and International.
+[EN] Russia escalates its assault on Kyiv.
+[EN] Moscow intensified drone and missile strikes over the weekend, hammering Ukrainian rail infrastructure and bridges, especially the Dnipro river crossings near the capital, with local authorities calling the situation dramatic. Meanwhile Germany's Merz met Zelenskyy in Kyiv and the two announced roughly 8.5 billion euros in fresh aid.
+[EN] Sources: El Pais, Emol.
+[EN] A new US Supreme Court term opens under a cloud.
+[EN] The Court begins its new term with a heavy and contentious docket, climate, immigration and firearms cases all on the calendar, and with President Trump publicly sparring with justices he himself appointed.
+[EN] Sources: El Pais.
+[EN] Trump heads to Nebraska to shore up the midterms.
+[EN] With the midterm elections looming, the president is campaigning alongside Republican senator Pete Ricketts, part of a broader push to firm up the Republican vote.
+[EN] Sources: The Guardian.
+[EN] Norway moves to rein in AI smart glasses.
+[EN] Norway's government is proposing a temporary ban on AI-equipped smart glasses, citing surveillance and privacy concerns around always-on cameras and facial recognition in public, one of the more concrete regulatory pushbacks yet against the Meta-style wearable. This story comes originally from NRK in Norway.
+[EN] Sources: NRK, Norway.
+[EN] Tech and Niche.
+[EN] A 125-billion-parameter model running on a single graphics card.
+[EN] A project called Strata is making the rounds for running Qwen 3.8 Flash Next, a 125-billion-parameter model, on consumer hardware, a single RTX 4090, at around 100 tokens per second. If it holds up, it's another data point in the steady collapse of the hardware barrier between frontier-scale models and ordinary desktops.
+[EN] Sources: Hacker News.
+[EN] An accidental redaction exposes a data center's thirst.
+[EN] Improperly redacted public documents revealed just how much water and electricity a Google data center in Lincoln, Nebraska is consuming, the kind of number utilities and AI firms generally prefer to keep quiet. It's a small window into the very large resource footprint of the AI build-out.
+[EN] Sources: Hacker News.
+[EN] Reclaiming your disk from Apple Intelligence.
+[EN] A trending open-source tool lets macOS 27 users turn off Apple Intelligence and claw back the gigabytes of disk space its on-device models quietly occupy, a nice signal of how much local AI is now baked into everyday operating systems, whether you asked for it or not.
+[EN] Sources: Hacker News.
+[SV] Sverige.
+[SV] Socialdemokraterna slickar saren och gralar om strategin.
+[SV] Efter ett historiskt svagt resultat i 2026 ars val riktas intern kritik mot partiledningens valstrategi, samtidigt som bedomare skissar tre mojliga scenarier for regeringsbildningen och varnar for att forhandlingarna kan braka ihop om det blir skarpt lage. Det svenska politiska landskapet ser ovanligt oppet ut just nu.
+[SV] Kallor: SVT.
+[SV] Blast och regn drar in over landet.
+[SV] SMHI har utfardat gula varningar nar kraftiga vindar och regn sveper in over stora delar av Sverige den har veckan. Hall paraplyet nara om du har slakt eller vanner pa besok daruppe.
+[SV] Kallor: SVT.
+
+[EN] Connecting the Dots.
+[EN] A quick note before this part: this section is interpretation and informed speculation, not reported news. It's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN] Patricio, the loudest chord across today's stories is political authority wobbling almost everywhere at once. Sanchez dissolving the Spanish parliament over housing, Brazil splitting almost exactly down the middle into a knife-edge runoff, Quebec flirting with secession again, Kast's approval cratering to 30 percent in his own first year, and Sweden's Social Democrats tearing at themselves over a lost election, these aren't one story, but they rhyme. Incumbency is brittle, mandates are thin, and voters are churning through leaders faster than any of them can consolidate power. For you in Chile, the Kast number is the one to sit with: a government that weak heading into a contested 2027 budget fight has limited room to spend its way out of trouble, which matters for everything from public investment to the political backdrop against which the peso trades.
+[EN] The second thread is money getting more expensive and more nervous. France's debt fears are dragging the euro down, Colombia is quietly pushing its debt repayments out to 2062, and even BT rescuing TalkTalk in the UK speaks to a corporate landscape where weaker players need bailing out. When European sovereign risk twitches and the dollar stays firm, emerging-market currencies and risk assets tend to feel it, and Chile, as a small open economy whose fortunes ride on copper and on global risk appetite, sits squarely in that draft. Worth watching copper and the peso together this week, especially with Brazil's runoff adding a layer of regional volatility that tends to spill across Latin American markets.
+[EN] The third thread is the one your Hypothesis Watch tracks: the tug-of-war between AI hype and human judgment. It's almost poetic that on the same day the Nobel committee honored three humans for decades of patient, curiosity-driven lab work on pond algae, Norway moved to ban AI glasses over surveillance fears and a 125B model started running on a gaming GPU in someone's bedroom. The machines keep getting cheaper and more ubiquitous; the institutions keep scrambling to draw lines around them. For a world citizen parked in Santiago, the practical read is that the AI governance conversation is no longer a Silicon Valley or Brussels affair, small, rich, high-trust states like Norway are now writing the first concrete rules, and those templates tend to travel. Chile's own regulators will eventually be choosing which model to copy.
+[EN] None of this is a confident prediction, most of these threads could unwind in a week. But if I had to name the throughline, it's that 2026 keeps rewarding resilience over bets: diversified exposure over concentrated calls, patient fundamentals over hype cycles, and institutions that can absorb shocks over strongmen who promise to end them. That's as true for a portfolio as it is for a democracy.
+
+[EN] Hypothesis Watch.
+[EN] An ongoing, low-key watch on your standing hypothesis about AI, internal voice and social cohesion, a daily scan read against the recent trend in the log, not a full re-argument of the whole chain.
+[EN] On (a) shrinking thought-leadership and authority cycles, today reads as another supporting signal, and it extends what is now a very long unbroken run, nearly every entry since September 11th has landed on support for (a). The evidence is everywhere today: Spain's PM forced into a snap vote, Chile's president at 30 percent approval in year one, Brazil's electorate split 47 to 45, Quebec separatists resurgent, and Sweden's largest party in open recrimination. Authority is being recycled at high speed, and AI churn, Norway's glasses ban, a frontier-scale model on a consumer GPU, sits right alongside it rather than against it.
+[EN] On (b) a stronger internal voice, I'd call today neutral, there's no sharp individual-conscience or human-judgment story the way earlier weeks gave us, the Fields medalists, the Bengio and Tao essays, the resignations of conscience. The Nobel for optogenetics gestures at the value of patient human insight over machine shortcuts, but that's an institutional honor, not an individual finding their voice, so I won't over-read it. On (c) a move away from individualism and (d) more human collaboration and cohesion, both stay neutral too: Norway's AI-glasses ban is collective but regulatory rather than a sign of people shedding individualism, and the Germany to Ukraine aid and EU coalition-building are state-level moves that are, as usual, offset by Brazil's polarization and continued far-right momentum in Europe.
+[EN] Net for today: fully in line with the recent trend, (a) still carrying the hypothesis almost single-handedly, (b) dipping back to neutral after a supportive run, and (c) and (d) still showing no structural movement at all. The honest read remains that the chain is strong at its first link and unproven past it.
+[EN] No integral review today, since this isn't the first brief of the month, so the periodic full-log review is skipped.
