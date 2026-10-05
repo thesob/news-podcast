@@ -49,6 +49,7 @@ import json
 import os
 import re
 import sys
+import time
 import unicodedata
 from dataclasses import dataclass
 from datetime import datetime, timezone
@@ -450,6 +451,35 @@ def _loop_to_length(seg, length_ms: int) -> AudioSegment:
     return out[:length_ms].fade_in(edge).fade_out(edge)
 
 
+# Google TTS enforces per-minute request/character quotas per voice family, and
+# this script makes one call per paragraph back to back, so a long script can
+# trip a 429 mid-episode. Quota errors are transient: wait for the window to
+# reset and retry the same paragraph instead of losing the whole episode.
+TTS_RETRY_DELAYS_S = (10, 20, 40, 60, 60, 60, 60, 60)  # ~6 min total per paragraph
+try:
+    from google.api_core import exceptions as _gax
+    _TTS_TRANSIENT_ERRORS = (_gax.ResourceExhausted, _gax.ServiceUnavailable)
+except ImportError:  # stubbed/offline environments
+    _TTS_TRANSIENT_ERRORS = ()
+
+
+def _synthesize_with_retry(client, synthesis_input, voice, audio_config, label=""):
+    for attempt, delay in enumerate((*TTS_RETRY_DELAYS_S, None), start=1):
+        try:
+            return client.synthesize_speech(
+                input=synthesis_input, voice=voice, audio_config=audio_config
+            )
+        except _TTS_TRANSIENT_ERRORS as exc:
+            if delay is None:
+                raise
+            print(
+                f"TTS {type(exc).__name__} on attempt {attempt} ({label}); "
+                f"retrying in {delay}s",
+                file=sys.stderr, flush=True,
+            )
+            time.sleep(delay)
+
+
 def synthesize_segment(client, lang: str, text: str) -> AudioSegment:
     if os.environ.get("MOCK_TTS"):
         # Offline mix testing: stand-in speech, roughly length-proportional.
@@ -462,8 +492,8 @@ def synthesize_segment(client, lang: str, text: str) -> AudioSegment:
     audio_config = texttospeech.AudioConfig(
         audio_encoding=texttospeech.AudioEncoding.MP3
     )
-    response = client.synthesize_speech(
-        input=synthesis_input, voice=voice, audio_config=audio_config
+    response = _synthesize_with_retry(
+        client, synthesis_input, voice, audio_config, label=f"{lang} {len(text)} chars"
     )
     tmp_path = REPO_ROOT / f"_tmp_{lang}_{abs(hash(text)) % 100000}.mp3"
     tmp_path.write_bytes(response.audio_content)
