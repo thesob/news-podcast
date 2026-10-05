@@ -1,0 +1,24 @@
+name: Check generated prompts
+
+on:
+  push:
+    paths:
+      - "prompts/**"
+      - "editions/**"
+      - "scripts/assemble_prompt.py"
+  pull_request:
+    paths:
+      - "prompts/**"
+      - "editions/**"
+      - "scripts/assemble_prompt.py"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      # Fails if prompts/agent-prompt*.md no longer match base.md + editions/*/prompt.
+      - run: python scripts/assemble_prompt.py --check

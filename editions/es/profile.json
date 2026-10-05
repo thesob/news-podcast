@@ -1,5 +1,14 @@
 {
   "title": "Resumen Diario",
   "description": "Resumen Diario — boletín de noticias en español, generado automáticamente",
-  "language": "es"
+  "language": "es",
+  "prompt": {
+    "first_news_subsection": "España y Latinoamérica",
+    "subject_name": "Resumen Diario",
+    "addressee_phrase": "the reader (in Spanish, informal \"tú\", no personal name)",
+    "lang_tag": "ES",
+    "integral_review_title": "Revisión Integral",
+    "month_year": "<Mes AAAA>",
+    "month_year_example": "octubre 2026"
+  }
 }

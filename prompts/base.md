@@ -14,38 +14,7 @@ this is the only place to edit.
 **Sources to check (search/browse each specifically — do not substitute other
 outlets or generic aggregators):**
 
-Spanish:
-- International news: elpais.com (international section)
-- Local news: elpais.com (Spain/local section) and emol.com, latercera.cl
-
-English — general:
-- nytimes.com
-- washingtonpost.com
-- heraldtribune.com
-- theguardian.com
-- BBC News RSS feeds (feeds.bbci.co.uk)
-- Deutsche Welle / DW (dw.com) — English edition
-- Reuters (reuters.com)
-- Associated Press / AP News (apnews.com)
-- Xinhua Español (spanish.news.cn)
-- Al Jazeera
-
-English — tech & niche:
-- Hacker News, via the Hacker News Firebase API (hacker-news.firebaseio.com) —
-  use the topstories endpoint, then fetch the top 5-8 item details
-- TechCrunch (techcrunch.com)
-- Ars Technica (arstechnica.com)
-
-Swedish:
-- dn.se
-- aftonbladet.se
-- SVT Nyheter (svt.se) — public broadcaster, prefer this if dn.se/aftonbladet.se
-  are hard to access
-
-Norwegian:
-- NRK (nrk.no) — note: Norwegian-language source. Translate/summarize its
-  content into English when writing it up, and place it in the English/
-  International section, noting it's originally from NRK (Norway).
+{{SOURCES}}
 
 Fallback chain when a named source above is slow, blocked, or errors on a
 direct fetch — follow these IN ORDER, and do not skip a step:
@@ -58,7 +27,7 @@ direct fetch — follow these IN ORDER, and do not skip a step:
 3. If `/extract` also fails (or the source is a genuine paywall — see
    below), THEN fall back to the headlines proxy for that
    language/topic, or substitute a named backup outlet if one is listed
-   above (e.g. SVT for dn.se/aftonbladet.se, SVT for NRK).
+   above {{BACKUP_OUTLETS}}.
 4. Only if all of the above failed for a given source do you name it as
    unreachable in the sources note.
 
@@ -83,13 +52,7 @@ above):
   fetch of a named source DOES fail, this retry is mandatory — try it
   before concluding the source is unreachable, before substituting a
   backup outlet, and before falling back to the headlines proxy below.
-  Known limit: this will not get past a genuine subscription paywall
-  (nytimes.com, washingtonpost.com specifically) — it only helps with
-  bot-detection or rendering blocks. If nytimes.com or washingtonpost.com
-  are paywalled today, don't retry the extraction endpoint on them; cover
-  that story via Reuters, AP, or DW instead if they have it, and note the
-  substitution in the sources note at the top rather than treating it as
-  a gap.
+  {{PAYWALL_NOTE}}
 - Headlines proxy — step 3 of the chain above; also usable at any time as a
   general supplement across all sources for extra stories, independent of
   the fallback chain. A small Cloud Run function that holds the real
@@ -122,26 +85,16 @@ should work, since auth is now a query parameter and needs no header.
 **Content process:**
 
 1. For each source, find today's most significant stories (last ~24 hours).
-   Prioritize: politics, tech, economy, climate, culture.
+   Prioritize: {{TOPICS}}.
 2. Skip pure celebrity gossip, sponsored content, and clickbait/listicles unless
    directly relevant to the topics above.
 3. Deduplicate: if multiple sources cover the same underlying event, merge into
    ONE entry. Note which sources covered it, and pick a single best link.
 4. Write a 2–4 sentence warm, conversational summary per story.
-5. Language: write the **Spain & Latin America** subsection in Spanish and the
-   **Sweden** subsection in Swedish. Write every other subsection — Top
-   Stories, US & International, Tech & Niche, and the two closing sections —
-   in English, even when a story in one of those originated from a Spanish or
-   Swedish source. This is a hard requirement, not something to infer from
-   the source list or the language-tag menu in step C below.
+5. {{LANGUAGE_RULES}}
 6. Organize into: a short **sources note** at the very top only if any source
    was unreachable today (name which ones, and how you covered that gap —
-   e.g. a backup outlet), then **Top Stories** (biggest 3–5, deduplicated
-   across ALL sources including the new ones), then **Spain & Latin America
-   (Spanish)**, **US & International (English)**, **Tech & Niche**, **Sweden
-   (Swedish)**, for anything not already in Top Stories, and finally the two
-   closing sections below (Connecting the Dots, Hypothesis Watch) — these two
-   are written in English regardless of the rest of the brief's language mix.
+   e.g. a backup outlet), then {{SECTION_ORDER}}
    If a source was reached only via the `/extract` fallback rather than a
    direct read, that does NOT count as "unreachable" for the sources note —
    only note a source as unreachable once you've worked through the full
@@ -153,21 +106,7 @@ should work, since auth is now a query parameter and needs no header.
 8. Keep it skimmable — 3–5 minute read unless it's a heavy news day.
 9. Never fabricate sources, quotes, or links.
 
-**Closing section — Connecting the Dots:**
-Header: `## 🔍 Connecting the Dots`. Immediately under it, in italics, this
-exact disclaimer: *"This section is interpretation and informed speculation,
-not reported news — it's me thinking out loud about patterns across today's
-stories, not a claim of fact. Treat it as a starting point for your own
-thinking, distinct from everything sourced above."*
-Then 3–5 paragraphs, written directly to me by name (Patricio), that look
-across today's stories (finance, technology, medicine, culture, politics —
-whatever actually showed up) and connect them into broader trends or
-plausible end-games. Explicitly bring it home to what it could mean for me
-as a citizen of the world specifically located in Chile — currency/copper
-exposure, energy costs, regional politics, whatever's genuinely relevant
-today. Hedge appropriately ("worth watching," "not confident prediction") —
-this is informed synthesis of today's already-gathered stories, not a
-license to fetch new sources or invent facts.
+{{CONNECTING_DOTS}}
 
 **Closing section — Hypothesis Watch:**
 
@@ -175,7 +114,7 @@ license to fetch new sources or invent facts.
 about a trend that plays out over weeks and months, not a single day, so
 don't reason from today's stories alone. Before writing this section, fetch
 the running log of prior days' readings:
-`GET https://thesob.github.io/news-podcast/hypothesis-log.md` (plain GET on a
+`GET {{HYPOTHESIS_LOG_URL}}` (plain GET on a
 published page — this is a read, not a git push, so it's fine even though
 GitHub pushes are off-limits elsewhere in this prompt, see below).
 - If the fetch fails, or the page doesn't exist yet (e.g. the very first time
@@ -195,7 +134,7 @@ GitHub pushes are off-limits elsewhere in this prompt, see below).
 
 *Extended memory, part 2 — prior integral reviews.* Also fetch the periodic
 integral-review history (see the Integral Review subsection further below):
-`GET https://thesob.github.io/news-podcast/hypothesis-reviews.md` — the same
+`GET {{HYPOTHESIS_REVIEWS_URL}}` — the same
 kind of plain, read-only GET, the same one-off exception to the no-GitHub
 rule.
 - If it fails or doesn't exist yet, treat it as empty and move on silently —
@@ -206,29 +145,7 @@ rule.
   challenge* for the chain as a whole; nothing today moves that"). One or two
   sentences at most — the daily scan stays light.
 
-Header: `## 🧭 Hypothesis Watch`. Immediately under it, in italics, a
-one-line framing noting this is an ongoing watch on my standing hypothesis
-(see below), that it's a daily scan informed by the recent trend rather than
-just today's stories, and not a full re-argument.
-The hypothesis being tracked: *"The rise of AI into everyday life will force
-individuals to strengthen their internal voice and learn to act on it,
-because no one can hold the role of thought leader for long — cycles of
-renewal keep shrinking. This shrinking has always been the natural order of
-change, and AI may be accelerating it rather than causing it. As people
-develop that internal voice, they'll realize they need to collaborate with
-other humans again, moving away from individualism toward the inherent
-social strength of the species. The long-run result: increasing social
-cohesion."*
-Break this into labeled sub-claims once, the first time this section is
-generated: (a) shrinking thought-leadership/authority cycles, (b) this
-pushing individuals toward a stronger internal voice, (c) that in turn
-prompting a move away from individualism, (d) leading to more human
-collaboration and social cohesion. On every subsequent day, don't re-argue
-the whole thing — just scan today's stories for anything that offers
-supporting, complicating, or neutral evidence for one or more of (a)–(d),
-citing the specific stories/links as evidence, and read that alongside the
-recent trend from the log as described above. A couple of short paragraphs
-is enough; note plainly when there's no strong signal either way today.
+{{HYPOTHESIS}}
 
 After writing the prose section, also produce one compact log line for
 today in the exact format described above (one line, all four sub-claims,
@@ -267,21 +184,21 @@ verdict for the hypothesis as a whole:
 This is the *only* place the hypothesis can be judged as failing — the daily
 format has no route to that verdict — so don't hedge it away here.
 
-Length: 3–5 paragraphs, addressed to me (Patricio), same register as
+Length: 3–5 paragraphs, addressed to {{ADDRESSEE_PHRASE}}, same register as
 Connecting the Dots.
 
 In the brief (outputs A and B): add it as the last part of Hypothesis Watch,
 **after** the daily prose and **before** the compact daily log line. Header:
-`### 🧭 Integral Review — <Month YYYY>` (e.g. `### 🧭 Integral Review —
-October 2026`). One italic line under the header saying this is the periodic
+`### 🧭 {{INTEGRAL_REVIEW_TITLE}} — {{MONTH_YEAR}}` (e.g. `### 🧭 {{INTEGRAL_REVIEW_TITLE}} —
+{{MONTH_YEAR_EXAMPLE}}`). One italic line under the header saying this is the periodic
 full-log review of the chain as a whole, run on the first brief of each
 month, not a daily reading.
 
 In the podcast script (output C): include these paragraphs as spoken text
 under the **existing** `[SECTION hypothesis_watch]` marker, right after the
 daily Hypothesis Watch paragraphs — do **not** add a new section marker.
-Precede them with a spoken heading line, `Integral Review.`, like the other
-headings, and tag each paragraph `[EN]`. Strip URLs as everywhere else in the
+Precede them with a spoken heading line, `{{INTEGRAL_REVIEW_TITLE}}.`, like the other
+headings, and tag each paragraph `[{{LANG_TAG}}]`. Strip URLs as everywhere else in the
 script.
 
 Generate this text ONCE with the rest of the brief and reuse it verbatim in
@@ -304,7 +221,7 @@ fetch/browsing tool can't do it) before giving up.
 A. Post the brief as your response in this session, exactly as generated.
 
 B. Send the identical text as an email via Gmail to the `recipientEmail`
-   fetched above, subject "Daily News Brief — [today's date]". Copy it verbatim — same
+   fetched above, subject "{{SUBJECT_NAME}} — [today's date]". Copy it verbatim — same
    headers, same sentences, same order, nothing trimmed or reworded. Send it
    as a properly formatted HTML email, not plain text: real bold/heading
    tags for section titles, bullet or numbered lists where appropriate,
@@ -325,24 +242,20 @@ C. Also produce a second, separate text block: the same story content and
    just that substring and keep the rest of the sentence — do not skip the
    whole story or drop the source name because of it. There is no value in
    having a voice-over read out loud the content of a url, but do keep the
-   source name (or sources) of that piece of news. Connecting the Dots and
-   Hypothesis Watch are always `[EN]`. Content originally from DW, NRK, or
-   any other non-EN/ES/SV source should also be tagged `[EN]` once
-   translated, since the podcast only has EN/ES/SV voices.
+   source name (or sources) of that piece of news. {{SCRIPT_TAGGING}}
    Also emit a section marker line — alone on its own line, nothing else on it,
    not spoken — immediately before the first paragraph of each major section, so
    the podcast can switch its background music: `[SECTION news]` before the Top
    Stories paragraph, `[SECTION connecting_dots]` before Connecting the Dots,
    and `[SECTION hypothesis_watch]` before Hypothesis Watch. (An optional
    `[SECTION intro]` may lead the greeting.) These are the only four ids; every
-   news subsection — Spain & Latin America, US & International, Tech & Niche,
-   Sweden — stays under the single `[SECTION news]`, no marker of its own. The
+   news subsection — {{NEWS_SUBSECTIONS}} — stays under the single `[SECTION news]`, no marker of its own. The
    marker is in addition to, not a replacement for, the spoken heading line.
    Also emit an `[ITEM]` marker line — alone on its own line, nothing else on
    it, not spoken — immediately before the first paragraph (the headline) of
    every individual news story inside the news section, so the podcast can
    play a short chime between stories. One `[ITEM]` per story, never before a
-   subsection heading (Top Stories, Spain & Latin America, …), never before a
+   subsection heading (Top Stories, {{FIRST_NEWS_SUBSECTION}}, …), never before a
    story's body or Sources paragraph, and never outside the news section.
    Sequence for one story: `[ITEM]`, then the headline paragraph, its body
    paragraph(s), and its Sources paragraph, each under its own language tag.
@@ -395,12 +308,12 @@ E. **Integral-review trigger days only** — on every other day this step is a
    Between the markers, in exactly this shape — it is appended as-is to
    `hypothesis-reviews.md` by the downstream automation, so it must stand on
    its own as well-formed markdown:
-   - line 1: `## Integral Review — <Month YYYY> (<YYYY-MM>)`
+   - line 1: `## {{INTEGRAL_REVIEW_TITLE}} — {{MONTH_YEAR}} (<YYYY-MM>)`
    - a blank line
    - line 3: `**Verdict:** <net support | net challenge | inconclusive>. **Chain linkage:** <yes | partial | no>. <~15-word plain-language summary>`
    - a blank line
    - then the 3–5 integral-review paragraphs, verbatim from the brief, WITHOUT
-     the `### 🧭 Integral Review …` heading line
+     the `### 🧭 {{INTEGRAL_REVIEW_TITLE}} …` heading line
    On every non-trigger day, omit this block completely — do not emit empty
    markers, a placeholder, or a "no review today" note.
 

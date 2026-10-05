@@ -332,8 +332,12 @@ agent prompt is public and the agent has no secret store.
   author, cover, `voice_map`. `gmail-to-github.gs` loops over `CONFIG.EDITIONS`
   (own Gmail subject, paths, processed marker) and fans a marker-stripped copy
   to `RECIPIENTS_<ID>` Script Properties. The workflow detects which edition(s)
-  a push touched. Still to do: per-edition prompt pieces (sources, topics,
-  Connecting the Dots, Hypothesis Watch) and the second Cowork task.
+  a push touched. The agent prompt is generated per edition by
+  `scripts/assemble_prompt.py` from `prompts/base.md` + `editions/<id>/prompt/*.md`
+  (sources, topics, Connecting the Dots, Hypothesis Watch, …) — see
+  [`editions/README.md`](../editions/README.md). `prompts/agent-prompt.md` (en) and
+  `prompts/agent-prompt.<id>.md` are generated outputs; `check-prompts.yml` fails
+  CI if they go stale. Still to do: create the second Cowork task.
 
 ---
 

@@ -663,6 +663,24 @@ def update_feed(mp3_path: Path, episode_date: str, duration_seconds: int):
     fg.rss_file(str(FEED_PATH))
 
 
+def warn_if_accents_stripped(segments) -> None:
+    """Flag scripts whose ES/SV text has no accented letters at all.
+
+    A few hundred characters of real Spanish or Swedish without a single
+    non-ASCII letter means the text was transliterated upstream (the TTS voice
+    then mispronounces it). Can't be repaired here, so warn loudly instead of
+    failing: a flat-sounding episode beats no episode.
+    """
+    for lang, name in (("ES", "Spanish"), ("SV", "Swedish")):
+        text = " ".join(s.text for s in segments if s.lang == lang)
+        if len(text) > 400 and text.isascii():
+            msg = (f"{name} text ({len(text)} chars) has no accented letters — "
+                   "the script was probably ASCII-folded before it was committed; "
+                   "expect mispronounced words.")
+            print(f"::warning title=Accents stripped::{msg}")  # GitHub Actions annotation
+            print(f"WARNING: {msg}", file=sys.stderr)
+
+
 def main():
     if not SCRIPT_PATH.exists():
         print(f"No script found at {SCRIPT_PATH}", file=sys.stderr)
@@ -670,6 +688,7 @@ def main():
 
     text = SCRIPT_PATH.read_text(encoding="utf-8")
     segments = parse_segments(text)
+    warn_if_accents_stripped(segments)
     audio = build_audio(segments)
 
     episode_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")

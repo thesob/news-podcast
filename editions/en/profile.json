@@ -1,0 +1,13 @@
+{
+  "id": "en",
+  "language": "en",
+  "prompt": {
+    "first_news_subsection": "Spain & Latin America",
+    "subject_name": "Daily News Brief",
+    "addressee_phrase": "me (Patricio)",
+    "lang_tag": "EN",
+    "integral_review_title": "Integral Review",
+    "month_year": "<Month YYYY>",
+    "month_year_example": "October 2026"
+  }
+}
