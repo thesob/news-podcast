@@ -143,7 +143,7 @@ class TranscriptEntryExtension(BaseEntryExtension):
 # and don't mind smaller monthly free allowance.
 VOICE_MAP = {
     "EN": {"language_code": "en-US", "name": "en-US-Chirp3-HD-Algenib"},
-    "ES": {"language_code": "es-US", "name": "es-US-Chirp-HD-Algenib"},
+    "ES": {"language_code": "es-US", "name": "es-US-Chirp3-HD-Algenib"},
     "SV": {"language_code": "sv-SE", "name": "sv-SE-Chirp3-HD-Algenib"},
 }
 # An edition profile may override the voice for any tag ("voice_map" key).
