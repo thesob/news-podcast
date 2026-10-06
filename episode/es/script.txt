@@ -1,153 +1,244 @@
 [SECTION intro]
 [ES]
-Buenos días. Este es tu resumen diario del lunes 5 de octubre de 2026.
+Buenos días. Este es tu resumen diario del martes 6 de octubre de 2026.
+
 [ES]
-Hoy no pudimos leer directamente The New York Times, The Washington Post, Reuters, AP, Al Jazeera, Xinhua Español, DW en Español, Emol ni La Tercera. Completamos la cobertura con BBC, El País, TechCrunch, The Guardian y otros medios.
+Una nota sobre las fuentes: hoy no pude abrir directamente El País, BBC Mundo, DW en Español ni Ars Technica. Los cubrí con otros medios y agregadores.
+
 [SECTION news]
 [ES]
 Titulares.
+
 [ITEM]
 [ES]
-Sánchez convoca elecciones anticipadas para el 29 de noviembre.
+Sánchez convoca elecciones anticipadas en España para el 29 de noviembre.
+
 [ES]
-Tras perder en el Congreso dos decretos para proteger a los inquilinos, Pedro Sánchez decidió adelantar las elecciones. El desalojo de una mujer de 87 años que no pudo pagar una fuerte subida del alquiler encendió protestas en todo el país. La vivienda queda como el gran tema de la campaña.
+El presidente del Gobierno anunció que los españoles votarán el 29 de noviembre, después de que el Parlamento rechazara dos de las medidas de emergencia de su Ejecutivo para aliviar la crisis de vivienda. La vivienda se vuelve así el eje de una campaña que arranca en cuestión de semanas.
+
 [ES]
-Fuentes: BBC News y The Guardian.
+Fuente: The Guardian.
+
 [ITEM]
 [ES]
-Brasil: Flávio Bolsonaro gana la primera vuelta y habrá balotaje con Lula.
+Brasil: Lula y Flávio Bolsonaro irán a segunda vuelta el 25 de octubre.
+
 [ES]
-El senador Flávio Bolsonaro obtuvo el 47,1% de los votos frente al 45% de Lula, según El País. El Partido Liberal además pasa a dominar el Senado con 28 de 81 escaños. Lula tendrá que armar en pocas semanas una coalición amplia.
+El tribunal electoral confirmó el duelo entre Lula da Silva y Flávio Bolsonaro. Bolsonaro lideró el recuento con cerca de 47 a 48 por ciento de los votos, aunque Lula fue recortando distancia. En la región ya hay reacciones: dirigentes peronistas viajaron a Brasil a apoyar a Lula y desde Chile el Partido Comunista habla de intervención abierta de Estados Unidos.
+
 [ES]
-Fuentes: El País, BBC News y Escambray.
+Fuentes: Escambray, La Nación, Emol y La Tercera.
+
 [ITEM]
 [ES]
-Nobel de Medicina para la optogenética.
+EE.UU. retira sus bombarderos B-1 de una base en el Reino Unido.
+
 [ES]
-El premio 2026 reconoce a Karl Deisseroth, Peter Hegemann y Georg Nagel por sus descubrimientos sobre los canales iónicos activados por luz y la optogenética, una técnica que permite estudiar el cerebro con luz. Compartirán 12 millones de coronas suecas.
+Los aviones salieron de RAF Fairford y volvieron a territorio estadounidense, una semana después de que varios hombres fueran arrestados por un presunto complot contra la base. Se investiga una posible implicación iraní, en un contexto de tensión entre Washington y Teherán.
+
 [ES]
-Fuentes: The Guardian y BBC News.
+Fuentes: DW en Español, CBC News y Fox News.
+
 [ITEM]
 [ES]
-Estados Unidos retira sus bombarderos de la base británica de RAF Fairford.
+Nobel de Medicina 2026 para tres científicos que estudian el cerebro.
+
 [ES]
-Washington sacó los B-1 de la base tras arrestos vinculados a un presunto complot terrorista, según el Pentágono. El Gobierno británico insiste en que la base es segura.
+El premio reconoce descubrimientos ligados a la optogenética y los canales iónicos activados por luz, herramientas que permiten encender y apagar neuronas con precisión.
+
 [ES]
-Fuentes: DW, CBC y BBC News.
+Fuente: The Guardian.
+
+[ITEM]
+[ES]
+Quebec, a un paso de elegir un gobierno separatista.
+
+[ES]
+El Parti Québécois llegaba como favorito a las urnas, y de ganar podría convocar un referéndum de independencia antes de 2028.
+
+[ES]
+Fuente: The Guardian.
+
 [ES]
 España y Latinoamérica.
+
 [ITEM]
 [ES]
-Perú: primeros mapas electorales según boca de urna.
+Chile: presupuesto 2027 y petición de deuda por hasta 25 mil millones de dólares.
+
 [ES]
-Las elecciones regionales redibujaron el mapa político en el centro y oriente del país, según la boca de urna de Datum.
+El Gobierno ingresó el proyecto de presupuesto al Congreso y el ministro Quiroz llamó a la calma. Aun así, La Tercera reporta que la minuta política del Ejecutivo muestra un alza del gasto distinta de la informada, y que expertos consideran elevado el endeudamiento solicitado.
+
 [ES]
-Fuentes: La República.
+Fuentes: La Tercera y Emol.
+
 [ITEM]
 [ES]
-Chile: prisión preventiva para dos funcionarios de la Armada en Rapa Nui.
+Chile: la salud mental llega a sus peores niveles desde la pandemia.
+
 [ES]
-Dos funcionarios de la Armada quedaron en prisión preventiva acusados de violar a una joven en la isla de Pascua.
+Un termómetro de salud mental muestra aumentos importantes de depresión, ansiedad e insomnio entre los chilenos.
+
 [ES]
-Fuentes: BioBioChile.
+Fuente: Emol.
+
 [ITEM]
 [ES]
-Trump pierde apoyo entre los votantes latinos.
+Perú: así quedó el mapa electoral en el centro y oriente, según boca de urna.
+
 [ES]
-A un mes de las legislativas, un sondeo muestra una caída en la aprobación del presidente entre los votantes latinos.
+Según Datum, partidos que antes no tenían suerte lograron buenos resultados en regiones como Huánuco y Pasco, con nuevas figuras políticas.
+
 [ES]
-Fuentes: Infobae.
+Fuente: La República.
+
 [ITEM]
 [ES]
-Preocupación por los derechos de las mujeres en Latinoamérica.
+Trump pierde apoyo entre votantes latinos a un mes de las legislativas.
+
 [ES]
-Varios países debaten castigar las denuncias falsas de violencia de género, y expertas temen que eso erosione las protecciones existentes.
+Un sondeo de Telemundo y NBC News indica que 69 por ciento de los votantes latinos registrados desaprueba su gestión.
+
 [ES]
-Fuentes: The Guardian.
+Fuente: Infobae.
+
+[ITEM]
+[ES]
+Trump y Bukele: el acuerdo que hace desaparecer a migrantes.
+
+[ES]
+Un reportaje de El Espectador sigue a dos salvadoreñas que buscan a sus hermanos, deportados como supuestos pandilleros sin juicio y encarcelados en El Salvador sin que se informe su paradero.
+
+[ES]
+Fuente: El Espectador.
+
+[ITEM]
+[ES]
+Temor por los derechos de las mujeres en Latinoamérica.
+
+[ES]
+Legisladores de varios países impulsan penas más duras para las denuncias falsas de violencia sexual, pese a que son poco frecuentes. Organizaciones advierten que esto podría debilitar las leyes de protección frente a la violencia de género.
+
+[ES]
+Fuente: The Guardian.
+
 [ES]
 Mundo.
+
 [ITEM]
 [ES]
-Quebec podría elegir un gobierno separatista.
+Reino Unido: diésel récord, rescate de TalkTalk y posibles aranceles a autos chinos.
+
 [ES]
-Los sondeos apuntan a una victoria del Parti Québécois, que promete un referéndum de independencia antes de 2028. Sería la primera vez en más de una década que los separatistas gobiernan la provincia.
+Los operadores de autobuses advierten que el diésel en máximos históricos podría recortar servicios, incluido el transporte escolar. Por otro lado, BT compra TalkTalk por unos 400 millones de libras, salvando 900 empleos, y el euro cayó por temores ante la deuda francesa. Londres también evalúa aranceles a autos chinos para alinearse con la UE.
+
 [ES]
-Fuentes: The Guardian.
+Fuente: The Guardian.
+
 [ITEM]
 [ES]
-Vuelo de Flydubai: la fiscalía de Emiratos acusa al copiloto.
+Andrew Mountbatten-Windsor llevará a la policía a los tribunales.
+
 [ES]
-La fiscalía afirma que el copiloto atacó al capitán con un hacha; según informes recogidos por la BBC, habría planeado estrellar el avión contra el aeropuerto de Tel Aviv o un edificio.
+El ex duque de York impugnará legalmente a la policía de Thames Valley por su arresto, alegando que los registros de sus casas pudieron violar la ley.
+
 [ES]
-Fuentes: BBC News Mundo y BBC News.
+Fuente: ITV News.
+
 [ITEM]
 [ES]
-Francia: protestas escolares y temor por la deuda.
+Cumbre previa a la COP31 en Fiyi, con poca asistencia de líderes.
+
 [ES]
-Un adolescente perdió una mano en un enfrentamiento entre manifestantes escolares y la policía. En paralelo, el euro cae por temores sobre la carga de deuda de Francia.
+Unas 4.000 personas se reunieron en Nadi para la reunión preparatoria, pero solo dos líderes de fuera del Pacífico aceptaron la invitación de Australia.
+
 [ES]
-Fuentes: BBC News y The Guardian.
+Fuente: The Guardian.
+
 [ITEM]
 [ES]
-Reino Unido: diésel récord y posibles aranceles a autos chinos.
+Escasez de medicamentos contra el VIH por los recortes de ayuda.
+
 [ES]
-Los operadores de autobuses advierten recortes por el precio récord del diésel, y Londres evalúa aranceles a los coches chinos para alinearse con la Unión Europea.
+Más de la mitad de los encuestados, 55 por ciento, se quedó sin stock en el último año, con escasez crítica de pruebas de VIH y PrEP. Los expertos lo ven como una advertencia.
+
 [ES]
-Fuentes: The Guardian.
-[ITEM]
-[ES]
-Irán dice querer la paz, pero no cede ante las exigencias nucleares de Trump.
-[ES]
-Persiste el pulso entre Washington y Teherán en medio de las tensiones por Ormuz.
-[ES]
-Fuentes: Fox News.
+Fuente: The Guardian.
+
 [ES]
 Tecnología y Nicho.
+
 [ITEM]
 [ES]
-Trump presenta su Super Intelligence Force.
+OpenAI pondrá marca de agua al texto de ChatGPT en la UE.
+
 [ES]
-La BBC informa de que Trump eligió a un alto jefe de espionaje para dirigir un nuevo grupo de trabajo de inteligencia artificial. TechCrunch se pregunta si una idea de superinteligencia y un pacto de seguridad no vinculante bastan para mejorar la imagen de la IA.
+Para cumplir con la Ley de IA europea, OpenAI marcará el texto generado por ChatGPT y Codex en la Unión Europea.
+
 [ES]
-Fuentes: TechCrunch y BBC News.
+Fuente: TechCrunch.
+
 [ITEM]
 [ES]
-Google congela su programa de recompensas por errores en código abierto.
+Reflection lanza Beam, un modelo abierto para competir con los chinos.
+
 [ES]
-El motivo es un aumento significativo de reportes generados con inteligencia artificial.
+Beam, de 501.000 millones de parámetros según su blog, apunta a empresas y países que quieran sistemas de IA locales, con menor costo de cómputo. También fue lo más comentado en Hacker News.
+
 [ES]
-Fuentes: TechCrunch.
+Fuentes: TechCrunch y Hacker News.
+
 [ITEM]
 [ES]
-Un juez federal califica a Flock de vigilancia masiva indiscriminada.
+Más IA: Etched, TikTok e Instinct.
+
 [ES]
-Fuentes: TechCrunch.
+La startup de chips Etched recibe ofertas a una valoración de más de 40.000 millones de dólares. TikTok lanza un asistente de compras con IA y pago en un clic, e Instinct lleva su agente a chats grupales.
+
+[ES]
+Fuente: TechCrunch.
+
 [ITEM]
 [ES]
-Hacker News: modelos grandes en hardware doméstico y agua de centros de datos.
+Hacker News: agentes de IA y candidatos a semiconductores magnéticos.
+
 [ES]
-Un proyecto promete correr un modelo de 125.000 millones de parámetros en una tarjeta RTX 4090, y otra nota revela, por una redacción defectuosa, el consumo de agua y electricidad de un centro de datos de Google.
+Vals punto ai cuenta que agentes basados en Opus 5.5 propusieron candidatos a semiconductores magnéticos a temperatura ambiente. Otra publicación destacada explora preentrenar transformers sin retropropagación.
+
 [ES]
-Fuentes: Hacker News.
+Fuente: Hacker News.
+
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
+
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
 [ES]
-Hay un hilo que cruza España, Francia y Brasil: la política se está decidiendo en la calle y en las urnas por problemas muy concretos, como el alquiler, la deuda o la polarización, más que por grandes proyectos. Si miras la caída de los decretos de vivienda en España y las protestas escolares en Francia, ves a ciudadanos que presionan a gobiernos con poco margen. Vale la pena vigilar si el 29 de noviembre convierte la vivienda en el eje de la política española.
+Hoy se repite un patrón: la política se está jugando en torno a la identidad y a la dificultad de pagar la vida cotidiana. España va a elecciones por la vivienda, Brasil se polariza entre Lula y Bolsonaro, Quebec coquetea con la independencia y los latinos de EE.UU. se alejan de Trump. Vale la pena vigilar si la economía del bolsillo está pesando más que las lealtades de partido.
+
 [ES]
-Brasil merece atención aparte. Una derecha que gana primera vuelta y Senado deja a Lula en una posición difícil para el balotaje. No es una predicción segura, pero un cambio de rumbo en la mayor economía de la región podría mover el real, las materias primas que exporta y el clima político en toda Latinoamérica.
+En lo económico, las señales de presión de deuda y costos aparecen por varios lados: Chile pide hasta 25 mil millones de dólares de endeudamiento, Francia inquieta a los mercados y el euro se debilita, y el diésel está en máximos en el Reino Unido. Si eres de la región, esto podría traducirse en monedas más volátiles y combustibles más caros. No es una predicción segura, pero conviene seguir tipo de cambio y precio de la energía.
+
 [ES]
-En lo económico, el diésel récord en el Reino Unido y el euro débil por la deuda francesa son señales de tensión energética y financiera en Europa. Si eso persiste, podría encarecer importaciones y presionar a las monedas y a los exportadores de materias primas de la región, aunque hoy es solo una señal inicial.
+En tecnología, los modelos abiertos como Beam, los chips especializados y los agentes que ya proponen materiales nuevos sugieren que la IA se abarata y se reparte. Para países de habla hispana, una IA local y de pesos abiertos podría reducir la dependencia de unos pocos proveedores, mientras regulaciones como la marca de agua en la UE marcan el paso a seguir.
+
 [ES]
-En tecnología, la IA aparece como política de Estado en Washington y, a la vez, como un problema práctico: Google tuvo que congelar su programa de recompensas por la avalancha de reportes generados con IA. Para ti, que vives en un país hispanohablante, la pregunta útil es quién fija las reglas de esta tecnología y qué margen tendrán nuestros países para opinar.
+Por último, el Nobel a la optogenética y la escasez de medicamentos por recortes de ayuda muestran dos caras de la ciencia: avances enormes en el laboratorio y fragilidad en el acceso real. Es una lectura personal, no un hecho.
+
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
+
 [ES]
-Seguimiento continuo de la hipótesis vigente sobre IA, voz interior y cohesión social: un escaneo diario informado por la tendencia reciente, no una nueva argumentación completa.
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente, no una nueva argumentación completa.
+
 [ES]
-Las sub-afirmaciones son: a, ciclos de autoridad intelectual cada vez más cortos; b, eso empuja a cada persona hacia una voz interior más fuerte; c, lo que a su vez la aleja del individualismo; y d, lleva a más colaboración humana y cohesión social. El registro histórico aún no existe o está vacío, así que esta es una lectura solo de hoy, sin tendencia previa que comparar.
+Sub-afirmaciones: a, ciclos de autoridad cada vez más cortos; b, más voz interior individual; c, alejamiento del individualismo; d, más colaboración y cohesión social.
+
 [ES]
-Hoy no hay señal fuerte para a ni para b. Para c, el posible triunfo separatista en Quebec, según The Guardian, y la polarización en Brasil apuntan más a identidades que se endurecen que a un giro colectivo, así que lo leo como una señal en contra. Para d, las protestas por la vivienda en España, según BBC News, y las protestas escolares en Francia muestran acción colectiva, un indicio a favor, aunque no se puede atribuir a la inteligencia artificial.
+Sobre a, señal a favor: Beam y los agentes basados en Opus 5.5 muestran cómo el liderazgo tecnológico se renueva en semanas, según Reflection y Vals punto ai. Sobre c, en contra: el posible triunfo separatista en Quebec y la polarización en Brasil refuerzan identidades antes que cooperación, según The Guardian. Sobre b y d no vi evidencia clara hoy.
+
+[ES]
+Frente a la tendencia: el registro solo tiene una entrada previa, la del 5 de octubre, así que es demasiado corto para hablar de rachas, salvo que c vuelve a señalar un desafío por segundo día seguido. Es una lectura del día, no una conclusión.
