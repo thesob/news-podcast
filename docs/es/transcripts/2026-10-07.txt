@@ -1,0 +1,206 @@
+[ES]
+Buenos días. Este es tu resumen diario del 7 de octubre de 2026.
+
+[ES]
+Nota sobre fuentes. The New York Times y The Washington Post no se consultaron por su muro de pago, y Reuters solo devolvió titulares antiguos, así que no se usó. The Guardian se cubrió a través del proxy de titulares.
+
+[ES]
+Titulares.
+
+[ES]
+Brasil va a segunda vuelta: Flávio Bolsonaro supera a Lula en la primera ronda.
+
+[ES]
+El senador Flávio Bolsonaro obtuvo alrededor del 47,1 por ciento frente al 45 por ciento de Lula, y ambos se medirán el 25 de octubre. Según analistas citados por Xinhua, esta elección puede redefinir el equilibrio político de toda América Latina.
+
+[ES]
+Fuentes: El País y Xinhua Español.
+
+[ES]
+Quebec: un partido separatista, favorito para ganar las elecciones.
+
+[ES]
+La BBC proyecta que el partido separatista ganará los comicios de Quebec, lo que pone una nueva prueba a la unidad de Canadá. Habrá que ver si reabre el debate sobre la soberanía.
+
+[ES]
+Fuentes: BBC News.
+
+[ES]
+Oriente Medio: Yemen se calienta y Trump enciende la polémica.
+
+[ES]
+Las fuerzas del gobierno yemení dicen controlar una cima estratégica en Taiz y haber asegurado una vía marítima del Mar Rojo, mientras los hutíes reivindican nuevos ataques contra Arabia Saudita. En paralelo, políticos condenan la sugerencia de Trump de que Irán tome San Diego y Los Ángeles, y la BBC informa de que Trump atribuyó a una amenaza la retirada de bombarderos de la base británica de Fairford.
+
+[ES]
+Fuentes: Al Jazeera, BBC News, AP News y DW en Español.
+
+[ES]
+Alertas sanitarias: peste neumónica en Siberia y ébola en Kenia.
+
+[ES]
+Europa se suma a la vigilancia del caso de peste neumónica en un laboratorio siberiano, donde Rusia asegura que no hay más contagios. Por otro lado, Kenia confirmó su primer caso de ébola, un paciente que volvió de la República Democrática del Congo y murió en Nairobi.
+
+[ES]
+Fuentes: DW en Español, BBC Mundo, Al Jazeera y BBC News.
+
+[ES]
+Nobel de Física para Francis Halzen, el cazador de neutrinos en la Antártida.
+
+[ES]
+El físico belga recibió el premio por su trabajo con el detector IceCube en el Polo Sur, dedicado a las partículas fantasma que atraviesan el universo casi sin dejar rastro.
+
+[ES]
+Fuentes: The Guardian, BBC Mundo y AP News.
+
+[ES]
+España y Latinoamérica.
+
+[ES]
+Chile: presupuesto 2027 y giro en la reforma de seguridad.
+
+[ES]
+El gobierno retira la reforma constitucional de seguridad y presenta un nuevo proyecto con apoyo de senadores. Hacienda proyecta un déficit estructural 2026 menor a la meta y un crecimiento de 3,3 por ciento del PIB para 2027, mientras la oposición presiona por aplazar la megarreforma.
+
+[ES]
+Fuentes: La Tercera y Emol.
+
+[ES]
+Argentina: Milei pone precio a la ciudadanía y Messi se despide de la selección.
+
+[ES]
+El gobierno fija una inversión de 350.000 dólares para acceder a la ciudadanía argentina. Además, Argentina despidió a Messi en su último partido con la selección, una noche muy emotiva.
+
+[ES]
+Fuentes: DW en Español, BBC Mundo y AP News.
+
+[ES]
+Cataluña, bajo lluvias torrenciales sin precedentes.
+
+[ES]
+Cuatro días de tormentas sucesivas impiden la vuelta a la normalidad; según La Vanguardia, ni los más viejos del lugar recuerdan nada parecido.
+
+[ES]
+Fuentes: La Vanguardia.
+
+[ES]
+Haití pospone indefinidamente sus elecciones; México prohíbe escuelas militarizadas.
+
+[ES]
+Haití aplaza el voto por la crisis política y de inseguridad. En México, tras la muerte de una joven, se prohibieron las escuelas militarizadas.
+
+[ES]
+Fuentes: DW en Español y BBC Mundo.
+
+[ES]
+Mundo.
+
+[ES]
+Ucrania: ataques rusos contra la energía y misiles sobre Kiev.
+
+[ES]
+Al menos 11 muertos en ataques rusos dirigidos sobre todo contra el sistema energético ucraniano, y dos más en Kiev por misiles.
+
+[ES]
+Fuentes: DW en Español.
+
+[ES]
+Francia: protestas escolares masivas.
+
+[ES]
+Cientos de miles de estudiantes, docentes, sindicatos y familias salen a las calles por las condiciones de las escuelas, con choques con la policía en algunos puntos.
+
+[ES]
+Fuentes: The Guardian y Al Jazeera.
+
+[ES]
+Australia: el máximo tribunal frena la ampliación de una mina de carbón.
+
+[ES]
+La corte invoca el daño climático para bloquear la expansión, una decisión con peso para futuros proyectos extractivos.
+
+[ES]
+Fuentes: Al Jazeera.
+
+[ES]
+Estados Unidos: ejecución militar y una ejecución fallida.
+
+[ES]
+El responsable del tiroteo de Fort Hood será ejecutado por fusilamiento el 3 de diciembre, la primera ejecución militar desde 1961. Aparte, Christa Pike quedó consciente tras un intento fallido de ejecución en Tennessee.
+
+[ES]
+Fuentes: DW en Español, BBC News y AP News.
+
+[ES]
+Israel recuerda el 7 de octubre.
+
+[ES]
+Ceremonias en comunidades como Kfar Aza, mientras en Gaza persiste la devastación.
+
+[ES]
+Fuentes: DW en Español y AP News.
+
+[ES]
+Tecnología y Nicho.
+
+[ES]
+Mistral lanza un modelo de un billón de parámetros.
+
+[ES]
+Mistral presenta un nuevo modelo con la ambición de superar a rivales abiertos y cerrados, y Mistral Large 4 fue de lo más comentado en Hacker News. Casi a la vez, OpenAI publicó avances en matemáticas con manuscritos y pruebas.
+
+[ES]
+Fuentes: TechCrunch y Hacker News.
+
+[ES]
+Asistentes de IA más privados y agentes que llaman a la puerta.
+
+[ES]
+Hark y Underdog salen al mercado con la privacidad como bandera, y TechCrunch advierte que el próximo obstáculo de los agentes es que los sitios web los dejen entrar. Apple, por su parte, endurece el acceso total al disco para frenar abusos de agentes de IA.
+
+[ES]
+Fuentes: TechCrunch y Ars Technica.
+
+[ES]
+OpenAI reconoce que su respuesta a hackeos de gobiernos australianos no fue suficiente.
+
+[ES]
+La empresa admite fallas tras los ataques informáticos a organismos australianos.
+
+[ES]
+Fuentes: BBC News.
+
+[ES]
+La era de los exoesqueletos y un Doom en SQL.
+
+[ES]
+Ars Technica ve madurar los exoesqueletos con beneficios medibles en tareas reales; y, para los curiosos, alguien hizo correr Doom con unas 1.300 líneas de SQL a 35 cuadros por segundo.
+
+[ES]
+Fuentes: Ars Technica.
+
+[ES]
+Conectando los Puntos.
+
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
+[ES]
+Fíjate en cómo se repite un patrón de fondo: identidades que se refuerzan y bloques que se tensan. Brasil llega a una segunda vuelta muy reñida, Quebec podría dar el poder a un partido separatista y, en el Golfo, los pactos defensivos y los conflictos regionales aprietan alianzas. Vale la pena vigilar que una polarización así suele traducirse en volatilidad para monedas y bonos latinoamericanos, sobre todo si el resultado brasileño sorprende; no es una predicción segura.
+
+[ES]
+Al mismo tiempo, el frente de Yemen y el Mar Rojo mantiene la atención sobre las rutas marítimas y el precio del petróleo. Para quien vive en Chile, Argentina o España, un crudo más caro se nota en combustibles y en la inflación, aunque los exportadores de cobre y energía podrían verlo desde el otro lado. Chile, de hecho, proyecta un crecimiento de 3,3 por ciento para 2027, un número que dependerá bastante de ese contexto externo.
+
+[ES]
+Por último, la IA sigue acelerando: modelos de un billón de parámetros, avances matemáticos y asistentes que prometen privacidad, mientras Apple y los sitios web empiezan a poner límites a los agentes. Es plausible que lo que viene sea una negociación sobre quién controla el acceso a los datos y a los servicios; para el mundo hispanohablante, esto toca empleo, regulación de datos y dependencia tecnológica. Y las alertas sanitarias en Siberia y Kenia, junto con las lluvias extremas en Cataluña, recuerdan que la cooperación internacional sigue siendo una necesidad concreta.
+
+[ES]
+Vigilancia de la Hipótesis.
+
+[ES]
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no solo por las historias de hoy, y no un nuevo debate completo.
+
+[ES]
+Ciclos de autoridad más cortos: señal de apoyo. Mistral lanza un modelo de un billón de parámetros y Mistral Large 4 y los avances de OpenAI en matemáticas aparecen casi a la vez, según TechCrunch y Hacker News. Es el segundo día seguido con apoyo para este punto, tras un día neutral.
+
+[ES]
+Voz interior: sin señal clara; el interés por asistentes privados, según TechCrunch, es ambiguo. Es el tercer día neutral. Alejamiento del individualismo: señal de desafío, otra vez, por el auge separatista en Quebec, según la BBC, y la polarización en Brasil, según El País; es el tercer día seguido de desafío. Colaboración y cohesión: señal de apoyo por las protestas escolares masivas en Francia, según The Guardian, y la vigilancia conjunta europea de la peste neumónica, según DW en Español; alterna con el día neutral de ayer. Aún no existe una revisión integral previa.
