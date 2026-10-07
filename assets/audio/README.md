@@ -6,7 +6,10 @@ under the synthesized speech:
 - an **opening jingle** that plays solo for a few seconds, then fades down into
 - a **low-volume background bed** that **changes per section**,
 - a short **stinger** at every section change, and
-- a soft **pling** between individual news items.
+- a soft **pling** between individual news items, and
+- a closing **outro**: the build speaks a fixed AI-credit sign-off, then the
+  intro jingle swells in under its last words and fades out (reuses
+  `intro_jingle.mp3`; no extra file needed).
 
 **Every file here is optional.** A missing file just disables that one layer;
 with none present the build produces the plain voice episode as before (only

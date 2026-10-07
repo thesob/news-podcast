@@ -178,6 +178,35 @@ INTRO_JINGLE_DUCK_MS = 2500   # jingle fades down into the bed under first words
 STINGER_GAP_MS = 350         # silence after a section stinger, before speech
 PLING_GAP_MS = 250           # silence after an item pling, before speech
 SEGMENT_PAUSE_MS = 500       # pause between spoken paragraphs
+OUTRO_PRE_PAUSE_MS = 1200     # breath between the last section and the sign-off
+OUTRO_JINGLE_OVERLAP_MS = 2500  # jingle swells in under the last words of the sign-off
+OUTRO_JINGLE_TAIL_MS = 6000   # jingle keeps playing after the voice, then fades out
+OUTRO_JINGLE_FADE_MS = 5000   # length of the closing fade-out (ends the episode)
+OUTRO_JINGLE_GAIN_DB = -8     # outro jingle level relative to its normalized level
+
+# Spoken sign-off, appended by the build (not the agent) so it is identical every
+# day and always credits how the episode was made. An edition profile may
+# override it with an "outro" string; its tag comes from prompt.lang_tag.
+OUTRO_TEXT = {
+    "EN": "That's all for today's brief. This episode was put together by an "
+          "automated pipeline created by Patricio Sobrado, which uses Claude, "
+          "an AI, to research and write the news from public sources, and a "
+          "synthetic voice to read it aloud. It can make mistakes, so check the "
+          "sources before relying on anything you heard. Thanks for listening, "
+          "and see you tomorrow.",
+    "ES": "Eso es todo por hoy. Este episodio fue elaborado por un sistema "
+          "automatizado creado por Patricio Sobrado, que usa a Claude, una "
+          "inteligencia artificial, para investigar y redactar las noticias a "
+          "partir de fuentes públicas, y una voz sintética para leerlas. Puede "
+          "cometer errores, así que contrasta las fuentes antes de fiarte de lo "
+          "que escuchaste. Gracias por escuchar, y hasta mañana.",
+    "SV": "Det var allt för i dag. Det här avsnittet har tagits fram av ett "
+          "automatiserat system skapat av Patricio Sobrado, som använder Claude, "
+          "en AI, för att undersöka och skriva nyheterna från offentliga källor, "
+          "och en syntetisk röst för att läsa upp dem. Den kan ha fel, så "
+          "kontrollera källorna innan du förlitar dig på något. Tack för att du "
+          "lyssnade, vi hörs i morgon.",
+}
 
 # Loudness normalization (ITU-R BS.1770 integrated loudness, via pyloudnorm).
 # Two layers: every spoken segment is leveled to VOICE_TARGET_LUFS before the
@@ -566,11 +595,23 @@ def build_audio(segments) -> AudioSegment:
             news_item_seen = True
 
     spans.append((current_section, span_start, len(voice)))
-    total_ms = len(voice)
+
+    # Sign-off: spoken credit line, then (below) the jingle swells under its
+    # last words and fades out. It sits after the last span, so it has no bed.
+    outro_tag = PROFILE.get("prompt", {}).get("lang_tag", "EN").upper()
+    outro_text = PROFILE.get("outro") or OUTRO_TEXT.get(outro_tag)
+    outro_start = len(voice)
+    if outro_text:
+        voice += _silence(OUTRO_PRE_PAUSE_MS) + _normalize_loudness(
+            synthesize_segment(client, outro_tag, outro_text), VOICE_TARGET_LUFS
+        )
+    voice_end = len(voice)
+    outro_tail_ms = OUTRO_JINGLE_TAIL_MS if (jingle is not None and outro_text) else 0
+    total_ms = voice_end + outro_tail_ms
 
     # 2. Background bed: one looped bed per section span, each fading in/out at
     #    its own boundaries so bed timing never drifts against the voice.
-    bed_track = _silence(total_ms)
+    bed_track = _silence(total_ms)  # includes the outro tail the voice never fills
     for section, start, end in spans:
         span_bed = _loop_to_length(beds.get(section), end - start)
         bed_track = bed_track.overlay(span_bed.apply_gain(BED_GAIN_DB), position=start)
@@ -580,6 +621,14 @@ def build_audio(segments) -> AudioSegment:
     if jingle is not None:
         intro = jingle[: lead_ms + INTRO_JINGLE_DUCK_MS].fade_out(INTRO_JINGLE_DUCK_MS)
         bed_track = bed_track.overlay(intro, position=0)
+
+    # 3b. Closing jingle: the intro theme returns under the end of the sign-off,
+    #     rings on after the voice stops, then fades to silence.
+    if outro_tail_ms:
+        start = max(outro_start, voice_end - OUTRO_JINGLE_OVERLAP_MS)
+        outro = jingle[: total_ms - start].apply_gain(OUTRO_JINGLE_GAIN_DB)
+        outro = outro.fade_in(800).fade_out(min(OUTRO_JINGLE_FADE_MS, len(outro)))
+        bed_track = bed_track.overlay(outro, position=start)
 
     # 4. Mix voice over the bed.
     final = bed_track.overlay(voice)
