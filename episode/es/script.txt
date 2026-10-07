@@ -1,9 +1,9 @@
 [SECTION intro]
 [ES]
-Buenos días. Este es tu resumen diario del martes 6 de octubre de 2026.
+Buenos días. Este es tu resumen diario del 7 de octubre de 2026.
 
 [ES]
-Una nota sobre las fuentes: hoy no pude abrir directamente El País, BBC Mundo, DW en Español ni Ars Technica. Los cubrí con otros medios y agregadores.
+Nota sobre fuentes. The New York Times y The Washington Post no se consultaron por su muro de pago, y Reuters solo devolvió titulares antiguos, así que no se usó. The Guardian se cubrió a través del proxy de titulares.
 
 [SECTION news]
 [ES]
@@ -11,202 +11,192 @@ Titulares.
 
 [ITEM]
 [ES]
-Sánchez convoca elecciones anticipadas en España para el 29 de noviembre.
+Brasil va a segunda vuelta: Flávio Bolsonaro supera a Lula en la primera ronda.
 
 [ES]
-El presidente del Gobierno anunció que los españoles votarán el 29 de noviembre, después de que el Parlamento rechazara dos de las medidas de emergencia de su Ejecutivo para aliviar la crisis de vivienda. La vivienda se vuelve así el eje de una campaña que arranca en cuestión de semanas.
+El senador Flávio Bolsonaro obtuvo alrededor del 47,1 por ciento frente al 45 por ciento de Lula, y ambos se medirán el 25 de octubre. Según analistas citados por Xinhua, esta elección puede redefinir el equilibrio político de toda América Latina.
 
 [ES]
-Fuente: The Guardian.
-
-[ITEM]
-[ES]
-Brasil: Lula y Flávio Bolsonaro irán a segunda vuelta el 25 de octubre.
-
-[ES]
-El tribunal electoral confirmó el duelo entre Lula da Silva y Flávio Bolsonaro. Bolsonaro lideró el recuento con cerca de 47 a 48 por ciento de los votos, aunque Lula fue recortando distancia. En la región ya hay reacciones: dirigentes peronistas viajaron a Brasil a apoyar a Lula y desde Chile el Partido Comunista habla de intervención abierta de Estados Unidos.
-
-[ES]
-Fuentes: Escambray, La Nación, Emol y La Tercera.
+Fuentes: El País y Xinhua Español.
 
 [ITEM]
 [ES]
-EE.UU. retira sus bombarderos B-1 de una base en el Reino Unido.
+Quebec: un partido separatista, favorito para ganar las elecciones.
 
 [ES]
-Los aviones salieron de RAF Fairford y volvieron a territorio estadounidense, una semana después de que varios hombres fueran arrestados por un presunto complot contra la base. Se investiga una posible implicación iraní, en un contexto de tensión entre Washington y Teherán.
+La BBC proyecta que el partido separatista ganará los comicios de Quebec, lo que pone una nueva prueba a la unidad de Canadá. Habrá que ver si reabre el debate sobre la soberanía.
 
 [ES]
-Fuentes: DW en Español, CBC News y Fox News.
-
-[ITEM]
-[ES]
-Nobel de Medicina 2026 para tres científicos que estudian el cerebro.
-
-[ES]
-El premio reconoce descubrimientos ligados a la optogenética y los canales iónicos activados por luz, herramientas que permiten encender y apagar neuronas con precisión.
-
-[ES]
-Fuente: The Guardian.
+Fuentes: BBC News.
 
 [ITEM]
 [ES]
-Quebec, a un paso de elegir un gobierno separatista.
+Oriente Medio: Yemen se calienta y Trump enciende la polémica.
 
 [ES]
-El Parti Québécois llegaba como favorito a las urnas, y de ganar podría convocar un referéndum de independencia antes de 2028.
+Las fuerzas del gobierno yemení dicen controlar una cima estratégica en Taiz y haber asegurado una vía marítima del Mar Rojo, mientras los hutíes reivindican nuevos ataques contra Arabia Saudita. En paralelo, políticos condenan la sugerencia de Trump de que Irán tome San Diego y Los Ángeles, y la BBC informa de que Trump atribuyó a una amenaza la retirada de bombarderos de la base británica de Fairford.
 
 [ES]
-Fuente: The Guardian.
+Fuentes: Al Jazeera, BBC News, AP News y DW en Español.
+
+[ITEM]
+[ES]
+Alertas sanitarias: peste neumónica en Siberia y ébola en Kenia.
+
+[ES]
+Europa se suma a la vigilancia del caso de peste neumónica en un laboratorio siberiano, donde Rusia asegura que no hay más contagios. Por otro lado, Kenia confirmó su primer caso de ébola, un paciente que volvió de la República Democrática del Congo y murió en Nairobi.
+
+[ES]
+Fuentes: DW en Español, BBC Mundo, Al Jazeera y BBC News.
+
+[ITEM]
+[ES]
+Nobel de Física para Francis Halzen, el cazador de neutrinos en la Antártida.
+
+[ES]
+El físico belga recibió el premio por su trabajo con el detector IceCube en el Polo Sur, dedicado a las partículas fantasma que atraviesan el universo casi sin dejar rastro.
+
+[ES]
+Fuentes: The Guardian, BBC Mundo y AP News.
 
 [ES]
 España y Latinoamérica.
 
 [ITEM]
 [ES]
-Chile: presupuesto 2027 y petición de deuda por hasta 25 mil millones de dólares.
+Chile: presupuesto 2027 y giro en la reforma de seguridad.
 
 [ES]
-El Gobierno ingresó el proyecto de presupuesto al Congreso y el ministro Quiroz llamó a la calma. Aun así, La Tercera reporta que la minuta política del Ejecutivo muestra un alza del gasto distinta de la informada, y que expertos consideran elevado el endeudamiento solicitado.
+El gobierno retira la reforma constitucional de seguridad y presenta un nuevo proyecto con apoyo de senadores. Hacienda proyecta un déficit estructural 2026 menor a la meta y un crecimiento de 3,3 por ciento del PIB para 2027, mientras la oposición presiona por aplazar la megarreforma.
 
 [ES]
 Fuentes: La Tercera y Emol.
 
 [ITEM]
 [ES]
-Chile: la salud mental llega a sus peores niveles desde la pandemia.
+Argentina: Milei pone precio a la ciudadanía y Messi se despide de la selección.
 
 [ES]
-Un termómetro de salud mental muestra aumentos importantes de depresión, ansiedad e insomnio entre los chilenos.
+El gobierno fija una inversión de 350.000 dólares para acceder a la ciudadanía argentina. Además, Argentina despidió a Messi en su último partido con la selección, una noche muy emotiva.
 
 [ES]
-Fuente: Emol.
-
-[ITEM]
-[ES]
-Perú: así quedó el mapa electoral en el centro y oriente, según boca de urna.
-
-[ES]
-Según Datum, partidos que antes no tenían suerte lograron buenos resultados en regiones como Huánuco y Pasco, con nuevas figuras políticas.
-
-[ES]
-Fuente: La República.
+Fuentes: DW en Español, BBC Mundo y AP News.
 
 [ITEM]
 [ES]
-Trump pierde apoyo entre votantes latinos a un mes de las legislativas.
+Cataluña, bajo lluvias torrenciales sin precedentes.
 
 [ES]
-Un sondeo de Telemundo y NBC News indica que 69 por ciento de los votantes latinos registrados desaprueba su gestión.
+Cuatro días de tormentas sucesivas impiden la vuelta a la normalidad; según La Vanguardia, ni los más viejos del lugar recuerdan nada parecido.
 
 [ES]
-Fuente: Infobae.
-
-[ITEM]
-[ES]
-Trump y Bukele: el acuerdo que hace desaparecer a migrantes.
-
-[ES]
-Un reportaje de El Espectador sigue a dos salvadoreñas que buscan a sus hermanos, deportados como supuestos pandilleros sin juicio y encarcelados en El Salvador sin que se informe su paradero.
-
-[ES]
-Fuente: El Espectador.
+Fuentes: La Vanguardia.
 
 [ITEM]
 [ES]
-Temor por los derechos de las mujeres en Latinoamérica.
+Haití pospone indefinidamente sus elecciones; México prohíbe escuelas militarizadas.
 
 [ES]
-Legisladores de varios países impulsan penas más duras para las denuncias falsas de violencia sexual, pese a que son poco frecuentes. Organizaciones advierten que esto podría debilitar las leyes de protección frente a la violencia de género.
+Haití aplaza el voto por la crisis política y de inseguridad. En México, tras la muerte de una joven, se prohibieron las escuelas militarizadas.
 
 [ES]
-Fuente: The Guardian.
+Fuentes: DW en Español y BBC Mundo.
 
 [ES]
 Mundo.
 
 [ITEM]
 [ES]
-Reino Unido: diésel récord, rescate de TalkTalk y posibles aranceles a autos chinos.
+Ucrania: ataques rusos contra la energía y misiles sobre Kiev.
 
 [ES]
-Los operadores de autobuses advierten que el diésel en máximos históricos podría recortar servicios, incluido el transporte escolar. Por otro lado, BT compra TalkTalk por unos 400 millones de libras, salvando 900 empleos, y el euro cayó por temores ante la deuda francesa. Londres también evalúa aranceles a autos chinos para alinearse con la UE.
+Al menos 11 muertos en ataques rusos dirigidos sobre todo contra el sistema energético ucraniano, y dos más en Kiev por misiles.
 
 [ES]
-Fuente: The Guardian.
-
-[ITEM]
-[ES]
-Andrew Mountbatten-Windsor llevará a la policía a los tribunales.
-
-[ES]
-El ex duque de York impugnará legalmente a la policía de Thames Valley por su arresto, alegando que los registros de sus casas pudieron violar la ley.
-
-[ES]
-Fuente: ITV News.
+Fuentes: DW en Español.
 
 [ITEM]
 [ES]
-Cumbre previa a la COP31 en Fiyi, con poca asistencia de líderes.
+Francia: protestas escolares masivas.
 
 [ES]
-Unas 4.000 personas se reunieron en Nadi para la reunión preparatoria, pero solo dos líderes de fuera del Pacífico aceptaron la invitación de Australia.
+Cientos de miles de estudiantes, docentes, sindicatos y familias salen a las calles por las condiciones de las escuelas, con choques con la policía en algunos puntos.
 
 [ES]
-Fuente: The Guardian.
+Fuentes: The Guardian y Al Jazeera.
 
 [ITEM]
 [ES]
-Escasez de medicamentos contra el VIH por los recortes de ayuda.
+Australia: el máximo tribunal frena la ampliación de una mina de carbón.
 
 [ES]
-Más de la mitad de los encuestados, 55 por ciento, se quedó sin stock en el último año, con escasez crítica de pruebas de VIH y PrEP. Los expertos lo ven como una advertencia.
+La corte invoca el daño climático para bloquear la expansión, una decisión con peso para futuros proyectos extractivos.
 
 [ES]
-Fuente: The Guardian.
+Fuentes: Al Jazeera.
+
+[ITEM]
+[ES]
+Estados Unidos: ejecución militar y una ejecución fallida.
+
+[ES]
+El responsable del tiroteo de Fort Hood será ejecutado por fusilamiento el 3 de diciembre, la primera ejecución militar desde 1961. Aparte, Christa Pike quedó consciente tras un intento fallido de ejecución en Tennessee.
+
+[ES]
+Fuentes: DW en Español, BBC News y AP News.
+
+[ITEM]
+[ES]
+Israel recuerda el 7 de octubre.
+
+[ES]
+Ceremonias en comunidades como Kfar Aza, mientras en Gaza persiste la devastación.
+
+[ES]
+Fuentes: DW en Español y AP News.
 
 [ES]
 Tecnología y Nicho.
 
 [ITEM]
 [ES]
-OpenAI pondrá marca de agua al texto de ChatGPT en la UE.
+Mistral lanza un modelo de un billón de parámetros.
 
 [ES]
-Para cumplir con la Ley de IA europea, OpenAI marcará el texto generado por ChatGPT y Codex en la Unión Europea.
-
-[ES]
-Fuente: TechCrunch.
-
-[ITEM]
-[ES]
-Reflection lanza Beam, un modelo abierto para competir con los chinos.
-
-[ES]
-Beam, de 501.000 millones de parámetros según su blog, apunta a empresas y países que quieran sistemas de IA locales, con menor costo de cómputo. También fue lo más comentado en Hacker News.
+Mistral presenta un nuevo modelo con la ambición de superar a rivales abiertos y cerrados, y Mistral Large 4 fue de lo más comentado en Hacker News. Casi a la vez, OpenAI publicó avances en matemáticas con manuscritos y pruebas.
 
 [ES]
 Fuentes: TechCrunch y Hacker News.
 
 [ITEM]
 [ES]
-Más IA: Etched, TikTok e Instinct.
+Asistentes de IA más privados y agentes que llaman a la puerta.
 
 [ES]
-La startup de chips Etched recibe ofertas a una valoración de más de 40.000 millones de dólares. TikTok lanza un asistente de compras con IA y pago en un clic, e Instinct lleva su agente a chats grupales.
+Hark y Underdog salen al mercado con la privacidad como bandera, y TechCrunch advierte que el próximo obstáculo de los agentes es que los sitios web los dejen entrar. Apple, por su parte, endurece el acceso total al disco para frenar abusos de agentes de IA.
 
 [ES]
-Fuente: TechCrunch.
+Fuentes: TechCrunch y Ars Technica.
 
 [ITEM]
 [ES]
-Hacker News: agentes de IA y candidatos a semiconductores magnéticos.
+OpenAI reconoce que su respuesta a hackeos de gobiernos australianos no fue suficiente.
 
 [ES]
-Vals punto ai cuenta que agentes basados en Opus 5.5 propusieron candidatos a semiconductores magnéticos a temperatura ambiente. Otra publicación destacada explora preentrenar transformers sin retropropagación.
+La empresa admite fallas tras los ataques informáticos a organismos australianos.
 
 [ES]
-Fuente: Hacker News.
+Fuentes: BBC News.
+
+[ITEM]
+[ES]
+La era de los exoesqueletos y un Doom en SQL.
+
+[ES]
+Ars Technica ve madurar los exoesqueletos con beneficios medibles en tareas reales; y, para los curiosos, alguien hizo correr Doom con unas 1.300 líneas de SQL a 35 cuadros por segundo.
+
+[ES]
+Fuentes: Ars Technica.
 
 [SECTION connecting_dots]
 [ES]
@@ -216,29 +206,23 @@ Conectando los Puntos.
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
 
 [ES]
-Hoy se repite un patrón: la política se está jugando en torno a la identidad y a la dificultad de pagar la vida cotidiana. España va a elecciones por la vivienda, Brasil se polariza entre Lula y Bolsonaro, Quebec coquetea con la independencia y los latinos de EE.UU. se alejan de Trump. Vale la pena vigilar si la economía del bolsillo está pesando más que las lealtades de partido.
+Fíjate en cómo se repite un patrón de fondo: identidades que se refuerzan y bloques que se tensan. Brasil llega a una segunda vuelta muy reñida, Quebec podría dar el poder a un partido separatista y, en el Golfo, los pactos defensivos y los conflictos regionales aprietan alianzas. Vale la pena vigilar que una polarización así suele traducirse en volatilidad para monedas y bonos latinoamericanos, sobre todo si el resultado brasileño sorprende; no es una predicción segura.
 
 [ES]
-En lo económico, las señales de presión de deuda y costos aparecen por varios lados: Chile pide hasta 25 mil millones de dólares de endeudamiento, Francia inquieta a los mercados y el euro se debilita, y el diésel está en máximos en el Reino Unido. Si eres de la región, esto podría traducirse en monedas más volátiles y combustibles más caros. No es una predicción segura, pero conviene seguir tipo de cambio y precio de la energía.
+Al mismo tiempo, el frente de Yemen y el Mar Rojo mantiene la atención sobre las rutas marítimas y el precio del petróleo. Para quien vive en Chile, Argentina o España, un crudo más caro se nota en combustibles y en la inflación, aunque los exportadores de cobre y energía podrían verlo desde el otro lado. Chile, de hecho, proyecta un crecimiento de 3,3 por ciento para 2027, un número que dependerá bastante de ese contexto externo.
 
 [ES]
-En tecnología, los modelos abiertos como Beam, los chips especializados y los agentes que ya proponen materiales nuevos sugieren que la IA se abarata y se reparte. Para países de habla hispana, una IA local y de pesos abiertos podría reducir la dependencia de unos pocos proveedores, mientras regulaciones como la marca de agua en la UE marcan el paso a seguir.
-
-[ES]
-Por último, el Nobel a la optogenética y la escasez de medicamentos por recortes de ayuda muestran dos caras de la ciencia: avances enormes en el laboratorio y fragilidad en el acceso real. Es una lectura personal, no un hecho.
+Por último, la IA sigue acelerando: modelos de un billón de parámetros, avances matemáticos y asistentes que prometen privacidad, mientras Apple y los sitios web empiezan a poner límites a los agentes. Es plausible que lo que viene sea una negociación sobre quién controla el acceso a los datos y a los servicios; para el mundo hispanohablante, esto toca empleo, regulación de datos y dependencia tecnológica. Y las alertas sanitarias en Siberia y Kenia, junto con las lluvias extremas en Cataluña, recuerdan que la cooperación internacional sigue siendo una necesidad concreta.
 
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
 
 [ES]
-Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente, no una nueva argumentación completa.
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no solo por las historias de hoy, y no un nuevo debate completo.
 
 [ES]
-Sub-afirmaciones: a, ciclos de autoridad cada vez más cortos; b, más voz interior individual; c, alejamiento del individualismo; d, más colaboración y cohesión social.
+Ciclos de autoridad más cortos: señal de apoyo. Mistral lanza un modelo de un billón de parámetros y Mistral Large 4 y los avances de OpenAI en matemáticas aparecen casi a la vez, según TechCrunch y Hacker News. Es el segundo día seguido con apoyo para este punto, tras un día neutral.
 
 [ES]
-Sobre a, señal a favor: Beam y los agentes basados en Opus 5.5 muestran cómo el liderazgo tecnológico se renueva en semanas, según Reflection y Vals punto ai. Sobre c, en contra: el posible triunfo separatista en Quebec y la polarización en Brasil refuerzan identidades antes que cooperación, según The Guardian. Sobre b y d no vi evidencia clara hoy.
-
-[ES]
-Frente a la tendencia: el registro solo tiene una entrada previa, la del 5 de octubre, así que es demasiado corto para hablar de rachas, salvo que c vuelve a señalar un desafío por segundo día seguido. Es una lectura del día, no una conclusión.
+Voz interior: sin señal clara; el interés por asistentes privados, según TechCrunch, es ambiguo. Es el tercer día neutral. Alejamiento del individualismo: señal de desafío, otra vez, por el auge separatista en Quebec, según la BBC, y la polarización en Brasil, según El País; es el tercer día seguido de desafío. Colaboración y cohesión: señal de apoyo por las protestas escolares masivas en Francia, según The Guardian, y la vigilancia conjunta europea de la peste neumónica, según DW en Español; alterna con el día neutral de ayer. Aún no existe una revisión integral previa.
