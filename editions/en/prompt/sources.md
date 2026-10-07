@@ -1,5 +1,5 @@
 Spanish:
-- International news: elpais.com (international section)
+- International news: elpais.com (international section), Xinhua Español (spanish.news.cn), Al Jazeera
 - Local news: elpais.com (Spain/local section) and emol.com, latercera.cl
 
 English — general:
@@ -23,6 +23,7 @@ English — tech & niche:
 Swedish:
 - dn.se
 - aftonbladet.se
+- svd.se
 - SVT Nyheter (svt.se) — public broadcaster, prefer this if dn.se/aftonbladet.se
   are hard to access
 

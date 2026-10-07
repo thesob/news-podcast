@@ -4,6 +4,8 @@
      Swedish/Norwegian sources are left out. Add, remove or swap freely. -->
 Spanish — Spain & Latin America:
 - International news: elpais.com (international section)
+- Xinhua Español (spanish.news.cn)
+- Al Jazeera
 - Local news: elpais.com (Spain/local section) and emol.com, latercera.cl
 
 Spanish — international services:

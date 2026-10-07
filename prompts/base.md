@@ -90,7 +90,13 @@ should work, since auth is now a query parameter and needs no header.
    directly relevant to the topics above.
 3. Deduplicate: if multiple sources cover the same underlying event, merge into
    ONE entry. Note which sources covered it, and pick a single best link.
-4. Write a 2–4 sentence warm, conversational summary per story.
+4. Write a 2–4 sentence warm, conversational summary per story. Every story
+   body must be at least 2 full sentences — never publish a headline-only
+   entry or a headline plus a single short line. If the `excerpt` is empty or
+   too thin to support 2 sentences (or you only have a one-line `summary`),
+   retrieve the article itself — browse the url, or use `/extract` — before
+   writing. If you still can't get enough material, drop the story rather than
+   padding it.
 5. {{LANGUAGE_RULES}}
 6. Organize into: a short **sources note** at the very top only if any source
    was unreachable today (name which ones, and how you covered that gap —
