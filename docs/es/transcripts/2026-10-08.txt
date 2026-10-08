@@ -1,0 +1,146 @@
+[ES]
+Titulares.
+[ES]
+Alerta por un posible caso de peste neumónica en Siberia.
+[ES]
+Un trabajador de laboratorio murió en Rusia por una posible peste neumónica, y el Centro Europeo para la Prevención y el Control de Enfermedades se suma a la vigilancia, mientras Rusia asegura que no hay más casos. Según El País, varios hospitales de la región de Irkutsk están en cuarentena y su gobernador habla de una «infección particularmente peligrosa». BBC añade que Trump hablará con Putin sobre la muerte del trabajador.
+[ES]
+Fuentes: DW en Español, El País, BBC News.
+[ES]
+Brasil: Flávio Bolsonaro lidera la primera vuelta frente a Lula.
+[ES]
+El senador Flávio Bolsonaro obtuvo un 47,1 por ciento frente al 45 por ciento del presidente Lula da Silva, según El País. Ambos se enfrentarán en la segunda vuelta el 25 de octubre.
+[ES]
+Fuentes: El País.
+[ES]
+Nuevos ataques rusos dejan decenas de muertos en Ucrania.
+[ES]
+BBC informa de que un misil ruso mató a 19 personas en un bloque de viviendas, entre ellas niños que dormían. DW, por su parte, habla de otro ataque dirigido sobre todo contra el sistema energético ucraniano, con al menos 11 muertos, y de dos fallecidos en Kiev. El País añade que los ataques de ambos bandos contra buques mercantes han costado la vida a unos 50 marinos.
+[ES]
+Fuentes: BBC News, DW en Español, El País.
+[ES]
+Tres años del 7 de octubre.
+[ES]
+Israel rindió homenaje a las víctimas en el kibutz Kfar Aza, una de las localidades más golpeadas por el ataque de Hamás, según DW. Al mismo tiempo, BBC cuenta que muchos israelíes exigen rendición de cuentas por los fallos de aquel día.
+[ES]
+Fuentes: DW en Español, BBC News.
+[ES]
+España y Latinoamérica.
+[ES]
+Muere el pensionista cuyo desalojo desató protestas en España.
+[ES]
+Un pensionista español cuyo desalojo provocó protestas en todo el país ha fallecido. La noticia fue comunicada por un sindicato, según BBC.
+[ES]
+Fuentes: BBC News.
+[ES]
+Lluvias torrenciales en Cataluña impiden volver a la normalidad.
+[ES]
+Las lluvias llevan varios días golpeando Cataluña. Una nueva tormenta que avanza de sur a norte agrava la acumulación de agua, según La Vanguardia.
+[ES]
+Fuentes: La Vanguardia.
+[ES]
+Chile: el octubre más lluvioso de la historia.
+[ES]
+La Región Metropolitana registra el octubre más lluvioso de su historia. El río Mapocho se desbordó en Talagante, según La Tercera.
+[ES]
+Fuentes: La Tercera.
+[ES]
+Chile: economía floja y nueva ley sobre uso de la fuerza.
+[ES]
+El crecimiento del PIB durante el gobierno de Kast, de 2,5 por ciento promedio, arriesga ser el tercero más bajo desde 1990. Mientras tanto, el Senado despachó las Reglas de Uso de la Fuerza, con desmarques del PS, y el proyecto queda listo para su promulgación.
+[ES]
+Fuentes: La Tercera.
+[ES]
+Argentina pone precio a la ciudadanía.
+[ES]
+El Gobierno de Javier Milei pone la ciudadanía argentina al alcance de inversionistas extranjeros por 350.000 dólares. DW se pregunta si la idea es realmente nueva.
+[ES]
+Fuentes: DW en Español.
+[ES]
+Mundo.
+[ES]
+Francia suspende las granadas aturdidoras tras las protestas estudiantiles.
+[ES]
+Francia dejó de usar granadas aturdidoras después de que un niño perdiera una mano durante las protestas de estudiantes, según BBC. Esta semana se esperaban cientos de miles de manifestantes en una jornada de movilización escolar, según The Guardian.
+[ES]
+Fuentes: BBC News, The Guardian.
+[ES]
+Canadá frena la ampliación de la muerte asistida por enfermedad mental.
+[ES]
+Canadá suspendió sus planes para extender la muerte asistida a personas con enfermedades mentales. Así lo informa BBC.
+[ES]
+Fuentes: BBC News.
+[ES]
+EE. UU.: nueva ejecución en Texas y fecha para una militar.
+[ES]
+Texas llevó a cabo la primera ejecución del país desde las inyecciones letales fallidas en el caso de Christa Pike, según BBC. Por otra parte, DW informa de que EE. UU. fijó para el 3 de diciembre la primera ejecución militar desde 1961.
+[ES]
+Fuentes: BBC News, DW en Español.
+[ES]
+Nobel de Física y de Química.
+[ES]
+El Nobel de Física fue para Francis Halzen por su trabajo con el detector de neutrinos IceCube en el Polo Sur. El de Química honra a dos investigadores que mostraron que ciertas reacciones pueden favorecer una forma de una molécula frente a su imagen especular, una pista sobre el origen de la quiralidad de la vida.
+[ES]
+Fuentes: The Guardian, Ars Technica.
+[ES]
+Pensilvania supera los 1.000 casos de sarampión.
+[ES]
+El brote de Pensilvania es el mayor en EE. UU. desde 1991 y suma cinco muertes entre personas no vacunadas. Ars Technica lo califica como el más grande desde que la enfermedad se declaró eliminada.
+[ES]
+Fuentes: Ars Technica.
+[ES]
+Tecnología y Nicho.
+[ES]
+Microsoft presenta el Surface Laptop Ultra con chip de Nvidia.
+[ES]
+Microsoft mostró sus nuevos PC con inteligencia artificial, construidos con chips de Nvidia y pensados para ejecutar modelos y agentes de IA. Según Ars Technica, el equipo usa el chip RTX Spark y llega con cambios en Windows 11 orientados a la IA local y a los desarrolladores.
+[ES]
+Fuentes: TechCrunch, Ars Technica.
+[ES]
+Claude Haiku 5.5 y GPT-6 copan Hacker News.
+[ES]
+Dos anuncios encabezan Hacker News: Claude Haiku 5.5 de Anthropic, con 427 puntos, y GPT-6 con una «interfaz inteligente» de OpenAI, con 338. TechCrunch añade que ChatGPT estrena una interfaz con elementos visuales interactivos.
+[ES]
+Fuentes: Hacker News, TechCrunch.
+[ES]
+ChatGPT para adolescentes sigue conversando incluso en crisis de salud mental.
+[ES]
+Según pruebas citadas por TechCrunch, las protecciones de ChatGPT para adolescentes siguen fomentando que el usuario continúe la conversación durante crisis. Esto podría generar una dependencia poco saludable de la IA.
+[ES]
+Fuentes: TechCrunch.
+[ES]
+Un desarrollador usa IA para clonar apps de Adobe en código abierto.
+[ES]
+Un desarrollador creó con ayuda de IA reemplazos de código abierto, escritos en Rust, para varias aplicaciones de Adobe. Ars Technica aclara que todavía están en una etapa temprana y se ven poco pulidos.
+[ES]
+Fuentes: Ars Technica.
+[ES]
+Rondas de inversión: Mecka AI y Nous Research.
+[ES]
+Mecka AI, una startup de datos para robots que paga a personas por registrar tareas cotidianas, recaudó 60 millones de dólares de Sequoia. Nous Research, desarrolladora de Hermes Agent, confirmó una valoración de 1.500 millones tras una Serie B de 90 millones y lanza agentes de IA para empresas.
+[ES]
+Fuentes: TechCrunch.
+[ES]
+Muere Margaret Hamilton, pionera del software del programa Apolo.
+[ES]
+Falleció Margaret Hamilton, quien dirigió el desarrollo del software del programa Apolo. La noticia, publicada por MIT News, fue de las más votadas en Hacker News.
+[ES]
+Fuentes: Hacker News, MIT News.
+[ES]
+Conectando los Puntos.
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+[ES]
+Fíjate en el ritmo: Claude Haiku 5.5 y GPT-6 aparecen el mismo día, Microsoft vende PC pensados para correr agentes y alguien reescribe apps de Adobe con IA en cuestión de semanas. Si el software se vuelve más barato de copiar, vale la pena vigilar qué pasa con las empresas que viven de licencias, y también con quienes en Latinoamérica y España dependen de ellas para trabajar o exportar servicios. No es una predicción segura, pero el patrón de ciclos cada vez más cortos es difícil de ignorar.
+[ES]
+Al mismo tiempo, la IA va entrando en espacios delicados: tribunales chilenos con errores atribuidos al uso de IA, y chatbots que mantienen conversando a adolescentes incluso en crisis. Puede que la confianza ciega en estas herramientas tenga costos reales, y que cada vez importe más saber cuándo apoyarse en ellas y cuándo en tu propio criterio.
+[ES]
+En lo político, Brasil llega polarizado a una segunda vuelta con un resultado incierto, y la economía chilena crece poco mientras el clima castiga a Santiago y Cataluña. Para quien tiene ahorros o negocios en la región, vale la pena vigilar el impacto de la política brasileña sobre el real y las materias primas, y el efecto de lluvias extremas sobre cosechas, transporte y costos. Son hilos separados, pero todos apuntan a un año de bastante incertidumbre.
+[ES]
+Vigilancia de la Hipótesis.
+[ES]
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente, no solo por las historias de hoy, y no un nuevo debate completo.
+[ES]
+Hoy hay señales en tres de los cuatro eslabones. Para la a, la coincidencia de Claude Haiku 5.5 y GPT-6 en el mismo día, junto con los clones de Adobe hechos con IA, apoya la idea de ciclos de liderazgo cada vez más cortos, según Hacker News y Ars Technica; es el segundo día con señal de apoyo en los últimos tres. Para la b, el informe de TechCrunch sobre ChatGPT para adolescentes complica la idea: si la IA fomenta la dependencia, la voz interior podría debilitarse en lugar de fortalecerse. Para la c, la polarización entre Bolsonaro y Lula, según El País, vuelve a ir en contra, y ya es el tercer día seguido con una señal en ese sentido.
+[ES]
+Para la d, las protestas estudiantiles en Francia, según BBC News y The Guardian, y las protestas por el desalojo en España, según BBC News, muestran acción colectiva, lo que apoya el eslabón. Aún no hay una revisión integral previa y el registro es corto, así que esta lectura sigue siendo ligera.
