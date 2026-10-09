@@ -1,169 +1,218 @@
+[SECTION intro]
+[ES]
+Resumen Diario, viernes 9 de octubre de 2026.
+
+[ES]
+Nota sobre fuentes: hoy no se consultaron directamente The New York Times, The Washington Post, Reuters, Xinhua Español, Al Jazeera, emol ni La Tercera; esa cobertura se cubrió con AP, The Guardian, BBC News Mundo, DW en Español, El País y el proxy de titulares.
+
 [SECTION news]
 [ES]
 Titulares.
+
 [ITEM]
 [ES]
-Alerta por un posible caso de peste neumónica en Siberia.
+Muere Maricarmen Abascal y la crisis de la vivienda sacude la política española.
+
 [ES]
-Un trabajador de laboratorio murió en Rusia por una posible peste neumónica, y el Centro Europeo para la Prevención y el Control de Enfermedades se suma a la vigilancia, mientras Rusia asegura que no hay más casos. Según El País, varios hospitales de la región de Irkutsk están en cuarentena y su gobernador habla de una «infección particularmente peligrosa». BBC añade que Trump hablará con Putin sobre la muerte del trabajador.
+Maricarmen Abascal, de 87 años, falleció en un hospital de Madrid tras ser desalojada el 23 de septiembre del piso de Retiro donde vivía desde hacía más de 70 años con un contrato antiguo de renta baja. Su caso desató protestas en toda España, incluido un campamento en la Puerta del Sol, y después de que el Parlamento rechazara dos decretos de vivienda del Gobierno, Pedro Sánchez convocó elecciones anticipadas para el 29 de noviembre. Ya hay además una huelga general convocada para el 11 de noviembre.
+
 [ES]
-Fuentes: DW en Español, El País, BBC News.
+Fuentes: BBC News Mundo, DW en Español, The Guardian.
+
 [ITEM]
 [ES]
-Brasil: Flávio Bolsonaro lidera la primera vuelta frente a Lula.
+Ataques en Oriente Medio encarecen el petróleo y sacuden a los mercados.
+
 [ES]
-El senador Flávio Bolsonaro obtuvo un 47,1 por ciento frente al 45 por ciento del presidente Lula da Silva, según El País. Ambos se enfrentarán en la segunda vuelta el 25 de octubre.
+Los hutíes atacaron dos aeropuertos sauditas, con tres muertos y 36 heridos según CNN, y los ataques a buques en la región hicieron que el Brent superara los 104 dólares, lo que empujó al alza los rendimientos de los bonos y a la baja las bolsas, según The Guardian. En paralelo, Iraq devaluó su moneda, pasando de 1.300 a 1.500 dinares por dólar, en medio de una guerra entre EE. UU. e Irán que altera las rutas del petróleo.
+
 [ES]
-Fuentes: El País.
+Fuentes: The Guardian, CNN, AP News, DW en Español.
+
 [ITEM]
 [ES]
-Nuevos ataques rusos dejan decenas de muertos en Ucrania.
+Anne Carson gana el Nobel de Literatura 2026.
+
 [ES]
-BBC informa de que un misil ruso mató a 19 personas en un bloque de viviendas, entre ellas niños que dormían. DW, por su parte, habla de otro ataque dirigido sobre todo contra el sistema energético ucraniano, con al menos 11 muertos, y de dos fallecidos en Kiev. El País añade que los ataques de ambos bandos contra buques mercantes han costado la vida a unos 50 marinos.
+La Academia Sueca premió a la poeta y ensayista canadiense de 76 años "por su obra audaz e inventiva". Doctora en clásicos, suele partir de la literatura griega y romana para mezclar poesía, ensayo y ficción, y en 2001 fue la primera mujer en ganar el premio T.S. Eliot con "La belleza del marido". El galardón asciende a 12 millones de coronas suecas, unos 1,2 millones de dólares.
+
 [ES]
-Fuentes: BBC News, DW en Español, El País.
+Fuentes: BBC News Mundo, El País, The Guardian.
+
 [ITEM]
 [ES]
-Tres años del 7 de octubre.
+Las protestas de estudiantes en Francia no ceden.
+
 [ES]
-Israel rindió homenaje a las víctimas en el kibutz Kfar Aza, una de las localidades más golpeadas por el ataque de Hamás, según DW. Al mismo tiempo, BBC cuenta que muchos israelíes exigen rendición de cuentas por los fallos de aquel día.
+Las protestas de estudiantes de secundaria continúan en Francia pese a la promesa de acción del primer ministro, y ya se extendieron a Bélgica. El ministro de Educación, Édouard Geffray, ordenó activar de inmediato a unos 3.000 profesores suplentes para enfrentar la crisis educativa.
+
 [ES]
-Fuentes: DW en Español, BBC News.
+Fuentes: The Guardian, laSexta.
+
 [ES]
 España y Latinoamérica.
+
 [ITEM]
 [ES]
-Muere el pensionista cuyo desalojo desató protestas en España.
+Argentina: el BCRA, entre pérdidas con el oro y mayores compras de dólares.
+
 [ES]
-Un pensionista español cuyo desalojo provocó protestas en todo el país ha fallecido. La noticia fue comunicada por un sindicato, según BBC.
+La Auditoría General de la Nación concluyó que el Banco Central especuló con el precio del oro en 2025, calculó mal y perdió 1.023 millones de dólares en operaciones con derivados; otro informe, sobre el traslado del oro al exterior, espera la respuesta del organismo. Mientras tanto, las compras diarias de dólares del BCRA a comienzos de octubre triplican las de inicios de septiembre y las reservas subieron a unos 49.300 millones de dólares.
+
 [ES]
-Fuentes: BBC News.
+Fuentes: Infobae, Ámbito.
+
 [ITEM]
 [ES]
-Lluvias torrenciales en Cataluña impiden volver a la normalidad.
+Aluvión en Santiago de Chile.
+
 [ES]
-Las lluvias llevan varios días golpeando Cataluña. Una nueva tormenta que avanza de sur a norte agrava la acumulación de agua, según La Vanguardia.
+Las tormentas desbordaron una quebrada y el agua arrastró autos, buses y árboles por calles convertidas en ríos de barro. Se declaró alerta roja ante la posibilidad de nuevos aluviones.
+
 [ES]
-Fuentes: La Vanguardia.
+Fuentes: Clarín.
+
 [ITEM]
 [ES]
-Chile: el octubre más lluvioso de la historia.
+Colombia: la deuda pública marcaría un récord en 2027.
+
 [ES]
-La Región Metropolitana registra el octubre más lluvioso de su historia. El río Mapocho se desbordó en Talagante, según La Tercera.
+El presupuesto del gobierno de De la Espriella proyecta que la deuda pública llegará al 66,2 por ciento del PIB en 2027, la más alta de la historia del país. El artículo repasa cómo se llegó a este punto y por qué se espera que siga subiendo.
+
 [ES]
-Fuentes: La Tercera.
+Fuentes: BBC News Mundo.
+
 [ITEM]
 [ES]
-Chile: economía floja y nueva ley sobre uso de la fuerza.
+Milei pone precio a la ciudadanía argentina.
+
 [ES]
-El crecimiento del PIB durante el gobierno de Kast, de 2,5 por ciento promedio, arriesga ser el tercero más bajo desde 1990. Mientras tanto, el Senado despachó las Reglas de Uso de la Fuerza, con desmarques del PS, y el proyecto queda listo para su promulgación.
-[ES]
-Fuentes: La Tercera.
-[ITEM]
-[ES]
-Argentina pone precio a la ciudadanía.
-[ES]
-El Gobierno de Javier Milei pone la ciudadanía argentina al alcance de inversionistas extranjeros por 350.000 dólares. DW se pregunta si la idea es realmente nueva.
+El Gobierno de Javier Milei ofrece la ciudadanía a inversionistas extranjeros por 350.000 dólares. El análisis de DW se pregunta si la idea es realmente nueva.
+
 [ES]
 Fuentes: DW en Español.
+
 [ES]
 Mundo.
+
 [ITEM]
 [ES]
-Francia suspende las granadas aturdidoras tras las protestas estudiantiles.
+Rusia ataca Ucrania: víctimas y golpes a la red energética.
+
 [ES]
-Francia dejó de usar granadas aturdidoras después de que un niño perdiera una mano durante las protestas de estudiantes, según BBC. Esta semana se esperaban cientos de miles de manifestantes en una jornada de movilización escolar, según The Guardian.
+DW informa de al menos 11 muertos en un ataque ruso dirigido sobre todo contra el sistema energético ucraniano. The Guardian, por su parte, recoge un ataque ruso en Kramatorsk que habría dejado al menos 30 muertos.
+
 [ES]
-Fuentes: BBC News, The Guardian.
+Fuentes: DW en Español, The Guardian.
+
 [ITEM]
 [ES]
-Canadá frena la ampliación de la muerte asistida por enfermedad mental.
+Ejecución fallida en Tennessee.
+
 [ES]
-Canadá suspendió sus planes para extender la muerte asistida a personas con enfermedades mentales. Así lo informa BBC.
+Christa Pike sobrevivió a dos dosis de pentobarbital cuando Tennessee intentó ejecutarla. Sus abogados aseguran que está consciente y habla, y El País publicó una cronología del caso.
+
 [ES]
-Fuentes: BBC News.
+Fuentes: AP News, El País.
+
 [ITEM]
 [ES]
-EE. UU.: nueva ejecución en Texas y fecha para una militar.
+El USS Lincoln vuelve a casa tras un despliegue récord.
+
 [ES]
-Texas llevó a cabo la primera ejecución del país desde las inyecciones letales fallidas en el caso de Christa Pike, según BBC. Por otra parte, DW informa de que EE. UU. fijó para el 3 de diciembre la primera ejecución militar desde 1961.
+El portaaviones llega a San Diego tras un despliegue de más de 260 días que incluyó operaciones relacionadas con Irán. Hubo preocupación por el abastecimiento y la moral de la tripulación, que el secretario Hegseth restó importancia.
+
 [ES]
-Fuentes: BBC News, DW en Español.
+Fuentes: The Guardian, NBC News.
+
 [ITEM]
 [ES]
-Nobel de Física y de Química.
+La "peste rusa" y la desinformación.
+
 [ES]
-El Nobel de Física fue para Francis Halzen por su trabajo con el detector de neutrinos IceCube en el Polo Sur. El de Química honra a dos investigadores que mostraron que ciertas reacciones pueden favorecer una forma de una molécula frente a su imagen especular, una pista sobre el origen de la quiralidad de la vida.
+Trump dijo que no cree que la muerte de una trabajadora de laboratorio en Rusia por peste se deba a un arma biológica y planea hablar con Putin. DW Verifica, por su parte, desmintió afirmaciones virales engañosas sobre el caso.
+
 [ES]
-Fuentes: The Guardian, Ars Technica.
-[ITEM]
-[ES]
-Pensilvania supera los 1.000 casos de sarampión.
-[ES]
-El brote de Pensilvania es el mayor en EE. UU. desde 1991 y suma cinco muertes entre personas no vacunadas. Ars Technica lo califica como el más grande desde que la enfermedad se declaró eliminada.
-[ES]
-Fuentes: Ars Technica.
+Fuentes: Free Malaysia Today, DW en Español.
+
 [ES]
 Tecnología y Nicho.
+
 [ITEM]
 [ES]
-Microsoft presenta el Surface Laptop Ultra con chip de Nvidia.
+Mistral lanza "Le Chonk", un modelo abierto de un billón de parámetros.
+
 [ES]
-Microsoft mostró sus nuevos PC con inteligencia artificial, construidos con chips de Nvidia y pensados para ejecutar modelos y agentes de IA. Según Ars Technica, el equipo usa el chip RTX Spark y llega con cambios en Windows 11 orientados a la IA local y a los desarrolladores.
-[ES]
-Fuentes: TechCrunch, Ars Technica.
-[ITEM]
-[ES]
-Claude Haiku 5.5 y GPT-6 copan Hacker News.
-[ES]
-Dos anuncios encabezan Hacker News: Claude Haiku 5.5 de Anthropic, con 427 puntos, y GPT-6 con una «interfaz inteligente» de OpenAI, con 338. TechCrunch añade que ChatGPT estrena una interfaz con elementos visuales interactivos.
-[ES]
-Fuentes: Hacker News, TechCrunch.
-[ITEM]
-[ES]
-ChatGPT para adolescentes sigue conversando incluso en crisis de salud mental.
-[ES]
-Según pruebas citadas por TechCrunch, las protecciones de ChatGPT para adolescentes siguen fomentando que el usuario continúe la conversación durante crisis. Esto podría generar una dependencia poco saludable de la IA.
-[ES]
-Fuentes: TechCrunch.
-[ITEM]
-[ES]
-Un desarrollador usa IA para clonar apps de Adobe en código abierto.
-[ES]
-Un desarrollador creó con ayuda de IA reemplazos de código abierto, escritos en Rust, para varias aplicaciones de Adobe. Ars Technica aclara que todavía están en una etapa temprana y se ven poco pulidos.
+La empresa francesa presentó en versión preliminar Mistral Large 4, un modelo de pesos abiertos con un billón de parámetros y versión final prevista para fin de mes. Afirma que es el más capaz fuera de China y que se entrenó desde cero, en un momento en que las restricciones de EE. UU. a modelos de OpenAI y Anthropic ponen en duda el acceso a la IA de frontera.
+
 [ES]
 Fuentes: Ars Technica.
+
 [ITEM]
 [ES]
-Rondas de inversión: Mecka AI y Nous Research.
+Investigadores despedidos de OpenAI niegan las acusaciones.
+
 [ES]
-Mecka AI, una startup de datos para robots que paga a personas por registrar tareas cotidianas, recaudó 60 millones de dólares de Sequoia. Nous Research, desarrolladora de Hermes Agent, confirmó una valoración de 1.500 millones tras una Serie B de 90 millones y lanza agentes de IA para empresas.
+Tres exinvestigadores de seguridad de OpenAI, despedidos la semana pasada, publicaron una carta abierta en la que niegan haber manejado mal información y advierten que su salida enfría la cultura de seguridad abierta de la empresa. OpenAI no ha respondido formalmente, aunque un memo interno afirma que no fue una represalia.
+
 [ES]
 Fuentes: TechCrunch.
+
 [ITEM]
 [ES]
-Muere Margaret Hamilton, pionera del software del programa Apolo.
+Co-op pone a su personal bajo vigilancia de IA.
+
 [ES]
-Falleció Margaret Hamilton, quien dirigió el desarrollo del software del programa Apolo. La noticia, publicada por MIT News, fue de las más votadas en Hacker News.
+Co-op Legal Services usa inteligencia artificial para puntuar las llamadas de su personal en trámites de sucesiones. Una denunciante califica el sistema de opresivo, y el caso se suma a la tendencia de empresas que vigilan a sus empleados con IA.
+
 [ES]
-Fuentes: Hacker News, MIT News.
+Fuentes: The Guardian.
+
+[ITEM]
+[ES]
+China endurece su postura sobre la IA que imita relaciones humanas.
+
+[ES]
+Pekín ha reforzado su ofensiva contra los chatbots capaces de replicar relaciones humanas. Los expertos debaten si la medida es la adecuada.
+
+[ES]
+Fuentes: BBC News Mundo.
+
+[ITEM]
+[ES]
+Un sitio web te deja sentarte en el escritorio de Elizabeth Holmes.
+
+[ES]
+Un sitio muy detallado recrea el espacio de trabajo de la fundadora de Theranos para que los visitantes lo exploren. Fue uno de los más votados en Hacker News, con más de 200 puntos.
+
+[ES]
+Fuentes: TechCrunch, Hacker News.
+
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
+
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
 [ES]
-Fíjate en el ritmo: Claude Haiku 5.5 y GPT-6 aparecen el mismo día, Microsoft vende PC pensados para correr agentes y alguien reescribe apps de Adobe con IA en cuestión de semanas. Si el software se vuelve más barato de copiar, vale la pena vigilar qué pasa con las empresas que viven de licencias, y también con quienes en Latinoamérica y España dependen de ellas para trabajar o exportar servicios. No es una predicción segura, pero el patrón de ciclos cada vez más cortos es difícil de ignorar.
+Si miras el día en conjunto, aparece un hilo común: la presión sobre los precios y la estabilidad. Con el Brent por encima de los 104 dólares y un dinar iraquí devaluado por la guerra entre EE. UU. e Irán, vale la pena vigilar cómo se traslada eso a la gasolina y al transporte en América Latina y España. No es una predicción segura, pero un petróleo caro suele ayudar a los exportadores de energía y golpear a los importadores.
+
 [ES]
-Al mismo tiempo, la IA va entrando en espacios delicados: tribunales chilenos con errores atribuidos al uso de IA, y chatbots que mantienen conversando a adolescentes incluso en crisis. Puede que la confianza ciega en estas herramientas tenga costos reales, y que cada vez importe más saber cuándo apoyarse en ellas y cuándo en tu propio criterio.
+Para quienes viven en economías con monedas frágiles, el caso del BCRA es una pequeña lección: acumular reservas y manejar el oro con derivados tiene costos reales. Si el dólar se fortalece y la deuda pública de países como Colombia sigue creciendo, el margen de maniobra de varios gobiernos de la región podría estrecharse. Es un escenario plausible, no un hecho.
+
 [ES]
-En lo político, Brasil llega polarizado a una segunda vuelta con un resultado incierto, y la economía chilena crece poco mientras el clima castiga a Santiago y Cataluña. Para quien tiene ahorros o negocios en la región, vale la pena vigilar el impacto de la política brasileña sobre el real y las materias primas, y el efecto de lluvias extremas sobre cosechas, transporte y costos. Son hilos separados, pero todos apuntan a un año de bastante incertidumbre.
+En lo social, el desalojo y la muerte de Maricarmen Abascal, las protestas estudiantiles en Francia y las tensiones laborales con IA, como las de Co-op, parecen compartir una raíz: la sensación de que las reglas cambian más rápido que la capacidad de las personas para adaptarse. En España, con elecciones el 29 de noviembre y una huelga general convocada para el 11, la vivienda podría ser el tema que defina el voto. Vale la pena observar si esa energía de protesta se convierte en organización duradera.
+
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
+
 [ES]
-Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente, no solo por las historias de hoy, y no un nuevo debate completo.
+Seguimiento continuo de la hipótesis vigente: una lectura diaria informada por la tendencia reciente del registro, no un nuevo debate completo.
+
 [ES]
-Hoy hay señales en tres de los cuatro eslabones. Para la a, la coincidencia de Claude Haiku 5.5 y GPT-6 en el mismo día, junto con los clones de Adobe hechos con IA, apoya la idea de ciclos de liderazgo cada vez más cortos, según Hacker News y Ars Technica; es el segundo día con señal de apoyo en los últimos tres. Para la b, el informe de TechCrunch sobre ChatGPT para adolescentes complica la idea: si la IA fomenta la dependencia, la voz interior podría debilitarse en lugar de fortalecerse. Para la c, la polarización entre Bolsonaro y Lula, según El País, vuelve a ir en contra, y ya es el tercer día seguido con una señal en ese sentido.
+(a) Ciclos de autoridad más cortos: señal de apoyo, el cuarto día seguido. Mistral Large 4 llega en preview con versión final prevista para fin de mes según Ars Technica, y en Hacker News se discutía DeepSeek 4.1 Flash. El registro de días anteriores ya mostraba lanzamientos casi simultáneos. (b) Voz interior: neutral. La ofensiva china contra chatbots que imitan relaciones humanas según BBC News Mundo y la vigilancia con IA en Co-op según The Guardian apuntan en direcciones ambiguas.
+
 [ES]
-Para la d, las protestas estudiantiles en Francia, según BBC News y The Guardian, y las protestas por el desalojo en España, según BBC News, muestran acción colectiva, lo que apoya el eslabón. Aún no hay una revisión integral previa y el registro es corto, así que esta lectura sigue siendo ligera.
+(c) Alejamiento del individualismo: señal de desafío, el quinto día seguido, con ataques de Trump a la prensa según The Guardian y polarización política. (d) Colaboración y cohesión: apoyo, tercera jornada consecutiva, con las protestas por la vivienda en España según BBC News Mundo y las movilizaciones estudiantiles en Francia según The Guardian. El registro es aún corto, así que es una tendencia temprana, no una conclusión.
