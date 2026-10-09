@@ -1,0 +1,197 @@
+[ES]
+Resumen Diario, viernes 9 de octubre de 2026.
+
+[ES]
+Nota sobre fuentes: hoy no se consultaron directamente The New York Times, The Washington Post, Reuters, Xinhua Español, Al Jazeera, emol ni La Tercera; esa cobertura se cubrió con AP, The Guardian, BBC News Mundo, DW en Español, El País y el proxy de titulares.
+
+[ES]
+Titulares.
+
+[ES]
+Muere Maricarmen Abascal y la crisis de la vivienda sacude la política española.
+
+[ES]
+Maricarmen Abascal, de 87 años, falleció en un hospital de Madrid tras ser desalojada el 23 de septiembre del piso de Retiro donde vivía desde hacía más de 70 años con un contrato antiguo de renta baja. Su caso desató protestas en toda España, incluido un campamento en la Puerta del Sol, y después de que el Parlamento rechazara dos decretos de vivienda del Gobierno, Pedro Sánchez convocó elecciones anticipadas para el 29 de noviembre. Ya hay además una huelga general convocada para el 11 de noviembre.
+
+[ES]
+Fuentes: BBC News Mundo, DW en Español, The Guardian.
+
+[ES]
+Ataques en Oriente Medio encarecen el petróleo y sacuden a los mercados.
+
+[ES]
+Los hutíes atacaron dos aeropuertos sauditas, con tres muertos y 36 heridos según CNN, y los ataques a buques en la región hicieron que el Brent superara los 104 dólares, lo que empujó al alza los rendimientos de los bonos y a la baja las bolsas, según The Guardian. En paralelo, Iraq devaluó su moneda, pasando de 1.300 a 1.500 dinares por dólar, en medio de una guerra entre EE. UU. e Irán que altera las rutas del petróleo.
+
+[ES]
+Fuentes: The Guardian, CNN, AP News, DW en Español.
+
+[ES]
+Anne Carson gana el Nobel de Literatura 2026.
+
+[ES]
+La Academia Sueca premió a la poeta y ensayista canadiense de 76 años "por su obra audaz e inventiva". Doctora en clásicos, suele partir de la literatura griega y romana para mezclar poesía, ensayo y ficción, y en 2001 fue la primera mujer en ganar el premio T.S. Eliot con "La belleza del marido". El galardón asciende a 12 millones de coronas suecas, unos 1,2 millones de dólares.
+
+[ES]
+Fuentes: BBC News Mundo, El País, The Guardian.
+
+[ES]
+Las protestas de estudiantes en Francia no ceden.
+
+[ES]
+Las protestas de estudiantes de secundaria continúan en Francia pese a la promesa de acción del primer ministro, y ya se extendieron a Bélgica. El ministro de Educación, Édouard Geffray, ordenó activar de inmediato a unos 3.000 profesores suplentes para enfrentar la crisis educativa.
+
+[ES]
+Fuentes: The Guardian, laSexta.
+
+[ES]
+España y Latinoamérica.
+
+[ES]
+Argentina: el BCRA, entre pérdidas con el oro y mayores compras de dólares.
+
+[ES]
+La Auditoría General de la Nación concluyó que el Banco Central especuló con el precio del oro en 2025, calculó mal y perdió 1.023 millones de dólares en operaciones con derivados; otro informe, sobre el traslado del oro al exterior, espera la respuesta del organismo. Mientras tanto, las compras diarias de dólares del BCRA a comienzos de octubre triplican las de inicios de septiembre y las reservas subieron a unos 49.300 millones de dólares.
+
+[ES]
+Fuentes: Infobae, Ámbito.
+
+[ES]
+Aluvión en Santiago de Chile.
+
+[ES]
+Las tormentas desbordaron una quebrada y el agua arrastró autos, buses y árboles por calles convertidas en ríos de barro. Se declaró alerta roja ante la posibilidad de nuevos aluviones.
+
+[ES]
+Fuentes: Clarín.
+
+[ES]
+Colombia: la deuda pública marcaría un récord en 2027.
+
+[ES]
+El presupuesto del gobierno de De la Espriella proyecta que la deuda pública llegará al 66,2 por ciento del PIB en 2027, la más alta de la historia del país. El artículo repasa cómo se llegó a este punto y por qué se espera que siga subiendo.
+
+[ES]
+Fuentes: BBC News Mundo.
+
+[ES]
+Milei pone precio a la ciudadanía argentina.
+
+[ES]
+El Gobierno de Javier Milei ofrece la ciudadanía a inversionistas extranjeros por 350.000 dólares. El análisis de DW se pregunta si la idea es realmente nueva.
+
+[ES]
+Fuentes: DW en Español.
+
+[ES]
+Mundo.
+
+[ES]
+Rusia ataca Ucrania: víctimas y golpes a la red energética.
+
+[ES]
+DW informa de al menos 11 muertos en un ataque ruso dirigido sobre todo contra el sistema energético ucraniano. The Guardian, por su parte, recoge un ataque ruso en Kramatorsk que habría dejado al menos 30 muertos.
+
+[ES]
+Fuentes: DW en Español, The Guardian.
+
+[ES]
+Ejecución fallida en Tennessee.
+
+[ES]
+Christa Pike sobrevivió a dos dosis de pentobarbital cuando Tennessee intentó ejecutarla. Sus abogados aseguran que está consciente y habla, y El País publicó una cronología del caso.
+
+[ES]
+Fuentes: AP News, El País.
+
+[ES]
+El USS Lincoln vuelve a casa tras un despliegue récord.
+
+[ES]
+El portaaviones llega a San Diego tras un despliegue de más de 260 días que incluyó operaciones relacionadas con Irán. Hubo preocupación por el abastecimiento y la moral de la tripulación, que el secretario Hegseth restó importancia.
+
+[ES]
+Fuentes: The Guardian, NBC News.
+
+[ES]
+La "peste rusa" y la desinformación.
+
+[ES]
+Trump dijo que no cree que la muerte de una trabajadora de laboratorio en Rusia por peste se deba a un arma biológica y planea hablar con Putin. DW Verifica, por su parte, desmintió afirmaciones virales engañosas sobre el caso.
+
+[ES]
+Fuentes: Free Malaysia Today, DW en Español.
+
+[ES]
+Tecnología y Nicho.
+
+[ES]
+Mistral lanza "Le Chonk", un modelo abierto de un billón de parámetros.
+
+[ES]
+La empresa francesa presentó en versión preliminar Mistral Large 4, un modelo de pesos abiertos con un billón de parámetros y versión final prevista para fin de mes. Afirma que es el más capaz fuera de China y que se entrenó desde cero, en un momento en que las restricciones de EE. UU. a modelos de OpenAI y Anthropic ponen en duda el acceso a la IA de frontera.
+
+[ES]
+Fuentes: Ars Technica.
+
+[ES]
+Investigadores despedidos de OpenAI niegan las acusaciones.
+
+[ES]
+Tres exinvestigadores de seguridad de OpenAI, despedidos la semana pasada, publicaron una carta abierta en la que niegan haber manejado mal información y advierten que su salida enfría la cultura de seguridad abierta de la empresa. OpenAI no ha respondido formalmente, aunque un memo interno afirma que no fue una represalia.
+
+[ES]
+Fuentes: TechCrunch.
+
+[ES]
+Co-op pone a su personal bajo vigilancia de IA.
+
+[ES]
+Co-op Legal Services usa inteligencia artificial para puntuar las llamadas de su personal en trámites de sucesiones. Una denunciante califica el sistema de opresivo, y el caso se suma a la tendencia de empresas que vigilan a sus empleados con IA.
+
+[ES]
+Fuentes: The Guardian.
+
+[ES]
+China endurece su postura sobre la IA que imita relaciones humanas.
+
+[ES]
+Pekín ha reforzado su ofensiva contra los chatbots capaces de replicar relaciones humanas. Los expertos debaten si la medida es la adecuada.
+
+[ES]
+Fuentes: BBC News Mundo.
+
+[ES]
+Un sitio web te deja sentarte en el escritorio de Elizabeth Holmes.
+
+[ES]
+Un sitio muy detallado recrea el espacio de trabajo de la fundadora de Theranos para que los visitantes lo exploren. Fue uno de los más votados en Hacker News, con más de 200 puntos.
+
+[ES]
+Fuentes: TechCrunch, Hacker News.
+
+[ES]
+Conectando los Puntos.
+
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
+[ES]
+Si miras el día en conjunto, aparece un hilo común: la presión sobre los precios y la estabilidad. Con el Brent por encima de los 104 dólares y un dinar iraquí devaluado por la guerra entre EE. UU. e Irán, vale la pena vigilar cómo se traslada eso a la gasolina y al transporte en América Latina y España. No es una predicción segura, pero un petróleo caro suele ayudar a los exportadores de energía y golpear a los importadores.
+
+[ES]
+Para quienes viven en economías con monedas frágiles, el caso del BCRA es una pequeña lección: acumular reservas y manejar el oro con derivados tiene costos reales. Si el dólar se fortalece y la deuda pública de países como Colombia sigue creciendo, el margen de maniobra de varios gobiernos de la región podría estrecharse. Es un escenario plausible, no un hecho.
+
+[ES]
+En lo social, el desalojo y la muerte de Maricarmen Abascal, las protestas estudiantiles en Francia y las tensiones laborales con IA, como las de Co-op, parecen compartir una raíz: la sensación de que las reglas cambian más rápido que la capacidad de las personas para adaptarse. En España, con elecciones el 29 de noviembre y una huelga general convocada para el 11, la vivienda podría ser el tema que defina el voto. Vale la pena observar si esa energía de protesta se convierte en organización duradera.
+
+[ES]
+Vigilancia de la Hipótesis.
+
+[ES]
+Seguimiento continuo de la hipótesis vigente: una lectura diaria informada por la tendencia reciente del registro, no un nuevo debate completo.
+
+[ES]
+(a) Ciclos de autoridad más cortos: señal de apoyo, el cuarto día seguido. Mistral Large 4 llega en preview con versión final prevista para fin de mes según Ars Technica, y en Hacker News se discutía DeepSeek 4.1 Flash. El registro de días anteriores ya mostraba lanzamientos casi simultáneos. (b) Voz interior: neutral. La ofensiva china contra chatbots que imitan relaciones humanas según BBC News Mundo y la vigilancia con IA en Co-op según The Guardian apuntan en direcciones ambiguas.
+
+[ES]
+(c) Alejamiento del individualismo: señal de desafío, el quinto día seguido, con ataques de Trump a la prensa según The Guardian y polarización política. (d) Colaboración y cohesión: apoyo, tercera jornada consecutiva, con las protestas por la vivienda en España según BBC News Mundo y las movilizaciones estudiantiles en Francia según The Guardian. El registro es aún corto, así que es una tendencia temprana, no una conclusión.
