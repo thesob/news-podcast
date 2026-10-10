@@ -1,9 +1,9 @@
 [SECTION intro]
 [ES]
-Resumen Diario, viernes 9 de octubre de 2026.
+Buenos días. Este es tu resumen diario del sábado 10 de octubre de 2026.
 
 [ES]
-Nota sobre fuentes: hoy no se consultaron directamente The New York Times, The Washington Post, Reuters, Xinhua Español, Al Jazeera, emol ni La Tercera; esa cobertura se cubrió con AP, The Guardian, BBC News Mundo, DW en Español, El País y el proxy de titulares.
+Nota sobre fuentes: hoy varias fuentes nombradas no se pudieron leer directamente, entre ellas la BBC y BBC Mundo. The Guardian se cubrió por un servicio de extracción, y el resto con el proxy de titulares y Hacker News.
 
 [SECTION news]
 [ES]
@@ -11,208 +11,178 @@ Titulares.
 
 [ITEM]
 [ES]
-Muere Maricarmen Abascal y la crisis de la vivienda sacude la política española.
+Navi Pillay gana el Nobel de la Paz y Estados Unidos sanciona a la CPI horas después.
 
 [ES]
-Maricarmen Abascal, de 87 años, falleció en un hospital de Madrid tras ser desalojada el 23 de septiembre del piso de Retiro donde vivía desde hacía más de 70 años con un contrato antiguo de renta baja. Su caso desató protestas en toda España, incluido un campamento en la Puerta del Sol, y después de que el Parlamento rechazara dos decretos de vivienda del Gobierno, Pedro Sánchez convocó elecciones anticipadas para el 29 de noviembre. Ya hay además una huelga general convocada para el 11 de noviembre.
+El Comité Nobel premió a la ex jueza Navi Pillay por su trabajo en favor del derecho internacional, en especial el enjuiciamiento de crímenes de guerra y genocidio. Pocas horas más tarde, Estados Unidos impuso sanciones a la Corte Penal Internacional, y la fiscal adjunta de la CPI las condenó asegurando que no frenarán el trabajo del tribunal.
 
 [ES]
-Fuentes: BBC News Mundo, DW en Español, The Guardian.
-
-[ITEM]
-[ES]
-Ataques en Oriente Medio encarecen el petróleo y sacuden a los mercados.
-
-[ES]
-Los hutíes atacaron dos aeropuertos sauditas, con tres muertos y 36 heridos según CNN, y los ataques a buques en la región hicieron que el Brent superara los 104 dólares, lo que empujó al alza los rendimientos de los bonos y a la baja las bolsas, según The Guardian. En paralelo, Iraq devaluó su moneda, pasando de 1.300 a 1.500 dinares por dólar, en medio de una guerra entre EE. UU. e Irán que altera las rutas del petróleo.
-
-[ES]
-Fuentes: The Guardian, CNN, AP News, DW en Español.
+Fuente: The Guardian.
 
 [ITEM]
 [ES]
-Anne Carson gana el Nobel de Literatura 2026.
+El petróleo cae tras la pausa de Trump a los ataques contra Irán.
 
 [ES]
-La Academia Sueca premió a la poeta y ensayista canadiense de 76 años "por su obra audaz e inventiva". Doctora en clásicos, suele partir de la literatura griega y romana para mezclar poesía, ensayo y ficción, y en 2001 fue la primera mujer en ganar el premio T.S. Eliot con "La belleza del marido". El galardón asciende a 12 millones de coronas suecas, unos 1,2 millones de dólares.
+El crudo Brent bajó el viernes después de que Donald Trump prometiera no atacar Irán antes de las elecciones de medio mandato de noviembre. A ello se sumó el reinicio de las exportaciones de combustible de China, y la Unión Europea alcanzó un acuerdo para moderar las ventas de híbridos chinos.
 
 [ES]
-Fuentes: BBC News Mundo, El País, The Guardian.
+Fuente: The Guardian.
 
 [ITEM]
 [ES]
-Las protestas de estudiantes en Francia no ceden.
+Isaías, el primer huracán atlántico de 2026, apunta a la costa del Golfo de Estados Unidos.
 
 [ES]
-Las protestas de estudiantes de secundaria continúan en Francia pese a la promesa de acción del primer ministro, y ya se extendieron a Bélgica. El ministro de Educación, Édouard Geffray, ordenó activar de inmediato a unos 3.000 profesores suplentes para enfrentar la crisis educativa.
+Isaías alcanzó vientos de 80 millas por hora y se espera que llegue a categoría 2 antes de tocar tierra en el norte de la costa del Golfo, con riesgo de inundaciones repentinas. Es el huracán inicial más tardío desde 1905, en una temporada inusualmente tranquila por el fuerte El Niño. Expertos advierten que será la mayor prueba para la FEMA tras los recortes de Trump.
 
 [ES]
-Fuentes: The Guardian, laSexta.
+Fuente: The Guardian.
+
+[ITEM]
+[ES]
+Ataque de los hutíes al aeropuerto de Riad deja tres saudíes muertos.
+
+[ES]
+Tres ciudadanos saudíes murieron y varios resultaron heridos en ataques al aeropuerto de Riad reivindicados por los hutíes de Yemen. Es el ataque más mortífero en Arabia Saudí desde la ofensiva lanzada el fin de semana anterior contra los rebeldes; entre las víctimas estaba un capitán de Saudia, cuyo avión resultó dañado en tierra.
+
+[ES]
+Fuente: The Guardian.
 
 [ES]
 España y Latinoamérica.
 
 [ITEM]
 [ES]
-Argentina: el BCRA, entre pérdidas con el oro y mayores compras de dólares.
+Aluvión en Santiago de Chile arrastra autos y buses.
 
 [ES]
-La Auditoría General de la Nación concluyó que el Banco Central especuló con el precio del oro en 2025, calculó mal y perdió 1.023 millones de dólares en operaciones con derivados; otro informe, sobre el traslado del oro al exterior, espera la respuesta del organismo. Mientras tanto, las compras diarias de dólares del BCRA a comienzos de octubre triplican las de inicios de septiembre y las reservas subieron a unos 49.300 millones de dólares.
+El desborde de una quebrada tras fuertes lluvias convirtió calles de Santiago en ríos de barro. Las autoridades declararon alerta roja para la Región Metropolitana.
 
 [ES]
-Fuentes: Infobae, Ámbito.
-
-[ITEM]
-[ES]
-Aluvión en Santiago de Chile.
-
-[ES]
-Las tormentas desbordaron una quebrada y el agua arrastró autos, buses y árboles por calles convertidas en ríos de barro. Se declaró alerta roja ante la posibilidad de nuevos aluviones.
-
-[ES]
-Fuentes: Clarín.
+Fuente: Clarín.
 
 [ITEM]
 [ES]
-Colombia: la deuda pública marcaría un récord en 2027.
+Argentina: la auditoría dice que el Banco Central perdió más de mil millones de dólares con el oro.
 
 [ES]
-El presupuesto del gobierno de De la Espriella proyecta que la deuda pública llegará al 66,2 por ciento del PIB en 2027, la más alta de la historia del país. El artículo repasa cómo se llegó a este punto y por qué se espera que siga subiendo.
+La Auditoría General de la Nación sostiene que el Banco Central hizo apuestas especulativas con derivados sobre el oro en 2025 y perdió más de mil millones de dólares. Un segundo informe sobre el traslado del oro al exterior espera la respuesta del banco. Por otro lado, el BCRA compró 43 millones de dólares en una jornada y acumula 271 millones netos en octubre, con reservas de 49.321 millones.
 
 [ES]
-Fuentes: BBC News Mundo.
-
-[ITEM]
-[ES]
-Milei pone precio a la ciudadanía argentina.
-
-[ES]
-El Gobierno de Javier Milei ofrece la ciudadanía a inversionistas extranjeros por 350.000 dólares. El análisis de DW se pregunta si la idea es realmente nueva.
-
-[ES]
-Fuentes: DW en Español.
+Fuentes: Infobae y Ámbito.
 
 [ES]
 Mundo.
 
 [ITEM]
 [ES]
-Rusia ataca Ucrania: víctimas y golpes a la red energética.
+Francia despliega tres mil profesores suplentes en medio de protestas estudiantiles.
 
 [ES]
-DW informa de al menos 11 muertos en un ataque ruso dirigido sobre todo contra el sistema energético ucraniano. The Guardian, por su parte, recoge un ataque ruso en Kramatorsk que habría dejado al menos 30 muertos.
+El ministro de Educación ordenó el despliegue inmediato de tres mil suplentes para contener la crisis educativa. La medida llega en plena ola de protestas estudiantiles a gran escala.
 
 [ES]
-Fuentes: DW en Español, The Guardian.
-
-[ITEM]
-[ES]
-Ejecución fallida en Tennessee.
-
-[ES]
-Christa Pike sobrevivió a dos dosis de pentobarbital cuando Tennessee intentó ejecutarla. Sus abogados aseguran que está consciente y habla, y El País publicó una cronología del caso.
-
-[ES]
-Fuentes: AP News, El País.
+Fuente: laSexta.
 
 [ITEM]
 [ES]
-El USS Lincoln vuelve a casa tras un despliegue récord.
+Reino Unido: Polanski no renunciará tras la derrota verde en la elección parcial.
 
 [ES]
-El portaaviones llega a San Diego tras un despliegue de más de 260 días que incluyó operaciones relacionadas con Irán. Hubo preocupación por el abastecimiento y la moral de la tripulación, que el secretario Hegseth restó importancia.
+El líder de los Verdes, Zack Polanski, defendió su liderazgo y descartó dimitir después de perder frente al Partido Laborista la elección parcial de Holborn y St Pancras.
 
 [ES]
-Fuentes: The Guardian, NBC News.
+Fuente: The Guardian.
 
 [ITEM]
 [ES]
-La "peste rusa" y la desinformación.
+La Unión Europea, dividida ante las críticas públicas a Israel.
 
 [ES]
-Trump dijo que no cree que la muerte de una trabajadora de laboratorio en Rusia por peste se deba a un arma biológica y planea hablar con Putin. DW Verifica, por su parte, desmintió afirmaciones virales engañosas sobre el caso.
+Un análisis señala que la Unión Europea sigue sin actuar de forma unificada sobre su política hacia Israel pese a la creciente crítica pública. El título cita una irrelevancia autoimpuesta del bloque.
 
 [ES]
-Fuentes: Free Malaysia Today, DW en Español.
+Fuente: The Guardian.
+
+[ITEM]
+[ES]
+Canadá anuncia un plan de dos mil millones de dólares en subsidios para bombas de calor.
+
+[ES]
+Ottawa lanzó un programa de reembolsos de unos dos mil millones de dólares canadienses para impulsar la instalación de bombas de calor. Es una de las apuestas más visibles del país para reducir el uso de combustibles fósiles en los hogares.
+
+[ES]
+Fuente: CBC.
 
 [ES]
 Tecnología y Nicho.
 
 [ITEM]
 [ES]
-Mistral lanza "Le Chonk", un modelo abierto de un billón de parámetros.
+El creador del modelo de inteligencia artificial no textual Jev se valora en siete mil quinientos millones de dólares a semanas de su lanzamiento.
 
 [ES]
-La empresa francesa presentó en versión preliminar Mistral Large 4, un modelo de pesos abiertos con un billón de parámetros y versión final prevista para fin de mes. Afirma que es el más capaz fuera de China y que se entrenó desde cero, en un momento en que las restricciones de EE. UU. a modelos de OpenAI y Anthropic ponen en duda el acceso a la IA de frontera.
+La empresa detrás de Jev alcanzó esa valoración apenas unas semanas después de presentar el modelo. Es otra muestra de lo rápido que se mueve el capital en inteligencia artificial.
 
 [ES]
-Fuentes: Ars Technica.
-
-[ITEM]
-[ES]
-Investigadores despedidos de OpenAI niegan las acusaciones.
-
-[ES]
-Tres exinvestigadores de seguridad de OpenAI, despedidos la semana pasada, publicaron una carta abierta en la que niegan haber manejado mal información y advierten que su salida enfría la cultura de seguridad abierta de la empresa. OpenAI no ha respondido formalmente, aunque un memo interno afirma que no fue una represalia.
-
-[ES]
-Fuentes: TechCrunch.
+Fuente: TechCrunch.
 
 [ITEM]
 [ES]
-Co-op pone a su personal bajo vigilancia de IA.
+Las baterías ya son más baratas que las turbinas de gas de muchos centros de datos.
 
 [ES]
-Co-op Legal Services usa inteligencia artificial para puntuar las llamadas de su personal en trámites de sucesiones. Una denunciante califica el sistema de opresivo, y el caso se suma a la tendencia de empresas que vigilan a sus empleados con IA.
+El auge de los centros de datos encareció las turbinas de gas, y el almacenamiento en baterías pasó a costar menos. El cambio podría acelerar el uso de baterías como fuente de respaldo para la inteligencia artificial.
 
 [ES]
-Fuentes: The Guardian.
-
-[ITEM]
-[ES]
-China endurece su postura sobre la IA que imita relaciones humanas.
-
-[ES]
-Pekín ha reforzado su ofensiva contra los chatbots capaces de replicar relaciones humanas. Los expertos debaten si la medida es la adecuada.
-
-[ES]
-Fuentes: BBC News Mundo.
+Fuente: TechCrunch.
 
 [ITEM]
 [ES]
-Un sitio web te deja sentarte en el escritorio de Elizabeth Holmes.
+Cloudflare adquiere Deno.
 
 [ES]
-Un sitio muy detallado recrea el espacio de trabajo de la fundadora de Theranos para que los visitantes lo exploren. Fue uno de los más votados en Hacker News, con más de 200 puntos.
+El anuncio fue lo segundo más votado en Hacker News, con más de mil doscientos puntos. Cloudflare suma así a su plataforma el entorno de ejecución de JavaScript y TypeScript.
 
 [ES]
-Fuentes: TechCrunch, Hacker News.
+Fuente: Hacker News.
+
+[ITEM]
+[ES]
+Firmus retira su salida a bolsa en Australia por débil demanda.
+
+[ES]
+El operador de centros de datos para inteligencia artificial retiró su solicitud de cotización en la bolsa australiana tras una demanda tibia de los inversores. Es una señal de cautela frente al entusiasmo del sector.
+
+[ES]
+Fuente: ABC de Australia.
 
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
 
 [ES]
-Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento.
 
 [ES]
-Si miras el día en conjunto, aparece un hilo común: la presión sobre los precios y la estabilidad. Con el Brent por encima de los 104 dólares y un dinar iraquí devaluado por la guerra entre EE. UU. e Irán, vale la pena vigilar cómo se traslada eso a la gasolina y al transporte en América Latina y España. No es una predicción segura, pero un petróleo caro suele ayudar a los exportadores de energía y golpear a los importadores.
+Hoy aparece un hilo común: la política manda sobre la economía. La pausa de Trump a los ataques contra Irán, a semanas de las elecciones, bajó el petróleo, y el aeropuerto de Riad muestra lo frágil que es esa calma en la región. Si eres de un país importador de combustibles, vale la pena vigilar cuánto de esta baja es duradera y cuánto es calendario electoral; no es una predicción segura.
 
 [ES]
-Para quienes viven en economías con monedas frágiles, el caso del BCRA es una pequeña lección: acumular reservas y manejar el oro con derivados tiene costos reales. Si el dólar se fortalece y la deuda pública de países como Colombia sigue creciendo, el margen de maniobra de varios gobiernos de la región podría estrecharse. Es un escenario plausible, no un hecho.
+Otro patrón es la energía y la inteligencia artificial: las baterías ya compiten con las turbinas de gas en los centros de datos, mientras la salida a bolsa de Firmus fracasó y Jev se valora en miles de millones en semanas. Capital muy veloz y demanda energética enorme conviven con dudas de los inversores. Para América Latina, con litio, cobre y energía renovable, podría ser una oportunidad, aunque conviene ser cauto con los ciclos de euforia.
 
 [ES]
-En lo social, el desalojo y la muerte de Maricarmen Abascal, las protestas estudiantiles en Francia y las tensiones laborales con IA, como las de Co-op, parecen compartir una raíz: la sensación de que las reglas cambian más rápido que la capacidad de las personas para adaptarse. En España, con elecciones el 29 de noviembre y una huelga general convocada para el 11, la vivienda podría ser el tema que defina el voto. Vale la pena observar si esa energía de protesta se convierte en organización duradera.
+Por último, Argentina y Chile muestran dos tipos de riesgo: el financiero, con las pérdidas del Banco Central con oro, y el climático, con el aluvión en Santiago en un año de El Niño fuerte. Si vives en el Cono Sur, tal vez valga la pena mirar con atención tanto la transparencia de las cuentas públicas como la preparación ante lluvias extremas.
 
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
 
 [ES]
-Seguimiento continuo de la hipótesis vigente: una lectura diaria informada por la tendencia reciente del registro, no un nuevo debate completo.
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no una nueva discusión completa.
 
 [ES]
-(a) Ciclos de autoridad más cortos: señal de apoyo, el cuarto día seguido. Mistral Large 4 llega en preview con versión final prevista para fin de mes según Ars Technica, y en Hacker News se discutía DeepSeek 4.1 Flash. El registro de días anteriores ya mostraba lanzamientos casi simultáneos. (b) Voz interior: neutral. La ofensiva china contra chatbots que imitan relaciones humanas según BBC News Mundo y la vigilancia con IA en Co-op según The Guardian apuntan en direcciones ambiguas.
+Las sub-afirmaciones son: a, ciclos de autoridad y liderazgo de pensamiento cada vez más cortos; b, esto empuja a las personas hacia una voz interior más fuerte; c, lo cual lleva a alejarse del individualismo; y d, a más colaboración humana y cohesión social.
 
 [ES]
-(c) Alejamiento del individualismo: señal de desafío, el quinto día seguido, con ataques de Trump a la prensa según The Guardian y polarización política. (d) Colaboración y cohesión: apoyo, tercera jornada consecutiva, con las protestas por la vivienda en España según BBC News Mundo y las movilizaciones estudiantiles en Francia según The Guardian. El registro es aún corto, así que es una tendencia temprana, no una conclusión.
+Sobre la a, hay una señal de apoyo: Jev alcanzó una valoración de siete mil quinientos millones de dólares a semanas de lanzarse según TechCrunch, y Cloudflare compró Deno según Hacker News. Es el quinto día consecutivo del registro con apoyo a la a, la señal más constante hasta ahora. Sobre la d, el Nobel a Navi Pillay premia la cooperación internacional según The Guardian, aunque las sanciones de Estados Unidos a la CPI complican ese cuadro. Para la b y la c no hay señal clara hoy. El registro aún es corto, con cuatro días, así que no se puede hablar de una tendencia firme.
