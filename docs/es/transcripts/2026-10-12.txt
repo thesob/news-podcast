@@ -1,0 +1,209 @@
+[ES]
+Buenos días. Este es tu resumen diario del lunes 12 de octubre de 2026.
+
+[ES]
+Nota sobre las fuentes. Hoy no pude consultar directamente The New York Times, The Washington Post, Reuters, AP, Xinhua, Al Jazeera, El País, Emol ni los feeds de la BBC. The Guardian y DW bloquearon la lectura directa, así que cubrí esos temas con el proxy de titulares.
+
+[ES]
+Titulares.
+
+[ES]
+Trump anuncia una tregua energética entre Rusia y Ucrania, pero los ataques continúan.
+
+[ES]
+Donald Trump anunció un alto el fuego inmediato sobre infraestructura energética entre Rusia y Ucrania. Ucrania dice respaldar la idea, aunque Zelenski aseguró que no fue avisado y que Rusia atacó una planta eléctrica justo después del anuncio. Funcionarios bálticos, además, miran con escepticismo el supuesto acuerdo de diésel entre Trump y Putin.
+
+[ES]
+Fuentes: BBC News Mundo, DW en Español y The Guardian.
+
+[ES]
+Lula reúne a cientos de miles en São Paulo antes de la segunda vuelta.
+
+[ES]
+Miles de seguidores de Lula llenaron la Avenida Paulista en la Marcha por la democracia; el PT habla de más de un millón de personas. La segunda vuelta será el 25 de octubre y, en la primera, Flávio Bolsonaro sacó 47,03 por ciento frente al 45,16 de Lula. Lula pidió votar a los más de 30 millones de brasileños que no acudieron a las urnas y acusó a la justicia electoral de interferir en su candidatura, un caso que llevará a los tribunales.
+
+[ES]
+Fuente: La Tercera.
+
+[ES]
+El Golfo, entre ataques hutíes y diplomacia saudí-iraní.
+
+[ES]
+Los cancilleres de Arabia Saudita e Irán conversaron sobre las tensiones regionales y cómo reducirlas, según la agencia estatal saudí, tras los ataques hutíes contra territorio saudí. En The Guardian, la columnista Nesrine Malik sostiene que un letal ataque con misiles contra el aeropuerto de Riad marca una nueva era de inestabilidad, y que los líderes del Golfo no deberían confiar en las alianzas de siempre.
+
+[ES]
+Fuentes: Reuters y The Guardian.
+
+[ES]
+El presidente de Microsoft: la IA está menos regulada que la leche.
+
+[ES]
+Brad Smith, presidente de Microsoft, pidió reglas más duras para la inteligencia artificial, con interruptores de apagado y responsabilidad legal frente a las víctimas de agentes que se salgan de control. La comparación con la leche, dice, resume lo poco que hoy se exige a una tecnología de enorme alcance.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+España y Latinoamérica.
+
+[ES]
+El dólar recupera fuerza en 2026.
+
+[ES]
+Según un análisis de BBVA Research, el dólar se ha fortalecido frente al euro y otras divisas porque se esperan tipos altos de la Fed por más tiempo. Influyeron también el encarecimiento de la energía por las tensiones entre Estados Unidos e Irán y la inversión en IA que atrae capital a activos estadounidenses. El análisis advierte que no es una tendencia garantizada y que podría cambiar con la Fed, Oriente Próximo o los flujos de la IA.
+
+[ES]
+Fuente: El Confidencial Digital.
+
+[ES]
+Argentina: 672 sucursales bancarias menos en siete años.
+
+[ES]
+La red de sucursales bancarias argentina sigue achicándose a medida que los clientes migran a la banca online. Hoy hay 672 oficinas menos que hace siete años, un cambio de hábitos que redefine cómo se accede a los servicios financieros.
+
+[ES]
+Fuente: La Nación.
+
+[ES]
+Argentina comenzó a trasladar presos de Devoto a Marcos Paz.
+
+[ES]
+El Gobierno inició el traslado gradual de unos 1.500 internos de la cárcel de Devoto al complejo de Marcos Paz. El primer día se movió a 326 personas.
+
+[ES]
+Fuente: La Nación.
+
+[ES]
+Prisión para acusado de reclutar peruanos para combatir por Rusia.
+
+[ES]
+Un sospechoso de reclutar peruanos con la promesa de sueldos de 2.300 dólares para luchar por Rusia recibió 14 meses de prisión mientras se le investiga por trata laboral. El caso muestra cómo la guerra en Ucrania llega a la región a través de ofertas de empleo engañosas.
+
+[ES]
+Fuente: BioBioChile.
+
+[ES]
+Mundo.
+
+[ES]
+La inflación en Reino Unido, en máximos de tres años.
+
+[ES]
+Las presiones inflacionarias en Reino Unido alcanzaron su nivel más alto en tres años, según la cobertura en vivo de The Guardian. El dato llega el mismo día en que se anuncia el Nobel de Economía.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Burnham confirma injerencia rusa en la campaña del Brexit.
+
+[ES]
+Andy Burnham confirmó que hubo interferencia rusa en la campaña del Brexit, y los conservadores lo acusaron de ser peligroso y divisivo. Por su parte, Reform UK anunció una promesa en materia de asilo.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Sídney, bajo condiciones extremas de incendio.
+
+[ES]
+El calor y los fuertes vientos provocaron una alerta de clima de incendios que cubre toda el área metropolitana de Sídney este lunes.
+
+[ES]
+Fuente: https://www.google.com/url?q=http://news.com.au&source=gmail&ust=1791883176803000&sa=E.
+
+[ES]
+Combustibles en récord en Nueva Zelanda.
+
+[ES]
+Con la gasolina en máximos históricos, productores de crudo, refinadores y el propio Gobierno neozelandés son quienes más se benefician, según RNZ. Es un recordatorio de cómo el petróleo caro reparte ganadores y perdedores.
+
+[ES]
+Fuente: RNZ.
+
+[ES]
+Un fuerte romano en Gales podría respaldar una leyenda medieval.
+
+[ES]
+Monedas y otros hallazgos en un fuerte recién identificado en Pembrokeshire sugieren que la leyenda del campamento del emperador Magno Máximo podría tener base real.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Tecnología y Nicho.
+
+[ES]
+Drones ucranianos golpean un centro de datos de IA de Yandex.
+
+[ES]
+Drones ucranianos dañaron un centro de datos de Yandex, la Google rusa, en la región de Sasovo. Allí había supercomputadoras usadas para entrenar el modelo de IA de la empresa.
+
+[ES]
+Fuente: Ars Technica.
+
+[ES]
+¿Eliminar los NDA convencerá a los opositores de los centros de datos?
+
+[ES]
+TechCrunch se pregunta si dejar de exigir acuerdos de confidencialidad ayudaría a la industria de la IA a ganarse a las comunidades que se oponen a los centros de datos. La opacidad es una de las quejas centrales de esos vecinos.
+
+[ES]
+Fuente: TechCrunch.
+
+[ES]
+Apple ficha al equipo de Huxe y licencia su tecnología.
+
+[ES]
+Apple reveló un acuerdo para contratar al equipo de Huxe, una startup de pódcasts personalizados, y licenciar su tecnología. Es una señal del interés por el audio generado a medida.
+
+[ES]
+Fuente: TechCrunch.
+
+[ES]
+En Hacker News: Total Annihilation reconstruido y la brecha de percepción sobre los LLM.
+
+[ES]
+Lo más votado es un proyecto que reconstruye el clásico Total Annihilation para computadoras modernas. También circula un mensaje de Andrej Karpathy que sostiene que la brecha en la comprensión compartida de las capacidades de los LLM se está ampliando.
+
+[ES]
+Fuente: Hacker News.
+
+[ES]
+El cerebro bajo psilocibina: caos aparente con orden debajo.
+
+[ES]
+Investigadores escanearon con resonancia a personas meditando, con y sin psilocibina. Hallaron que la actividad caótica a simple vista esconde un orden subyacente.
+
+[ES]
+Fuente: Ars Technica.
+
+[ES]
+Conectando los Puntos.
+
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
+[ES]
+Hay un hilo energético que atraviesa varias historias: una tregua anunciada que se contradice con los ataques, combustibles en récord en Nueva Zelanda, tensión en el Golfo y un dólar fuerte en parte por el encarecimiento de la energía. Si eres de un país importador de petróleo, vale la pena vigilar cuánto de ese costo llega a tus precios de transporte y electricidad, aunque no es una predicción segura.
+
+[ES]
+Un dólar fuerte suele apretar a quienes tienen deudas en dólares y a las monedas emergentes, pero puede favorecer a exportadores y a quienes cobran en divisa. En América Latina, eso se mezcla con la política: la segunda vuelta en Brasil, con una ventaja estrecha de Flávio Bolsonaro y una acusación de interferencia electoral, puede mover al real y el ánimo regional si la disputa se prolonga.
+
+[ES]
+La IA aparece en dos caras: la presión por regularla, como pide Microsoft, y su materialidad física, con centros de datos que generan oposición vecinal y hasta son objetivos militares. Quizá la discusión sobre IA deje de ser solo de software y pase a ser de energía, territorio y reglas, algo relevante para países de la región que quieran atraer centros de datos o definir su propia regulación.
+
+[ES]
+Por último, la bancarización digital en Argentina y las ofertas de empleo engañosas en Perú muestran dos extremos de lo mismo: más cosas pasan por pantallas y redes, con comodidad pero también con riesgos. No es una conclusión firme, solo un patrón que merece atención.
+
+[ES]
+Vigilancia de la Hipótesis.
+
+[ES]
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente, no una nueva discusión completa.
+
+[ES]
+La hipótesis tiene cuatro eslabones: a, ciclos de autoridad intelectual cada vez más cortos; b, mayor voz interior individual; c, alejamiento del individualismo; y d, más colaboración y cohesión social. Aún no existe ninguna revisión integral previa; la bitácora cuenta con solo siete días, por lo que la tendencia es preliminar.
+
+[ES]
+Sobre a, hay apoyo: el presidente de Microsoft pide reglas porque la IA avanza más rápido que su regulación, y Karpathy señala que la brecha de comprensión sobre los LLM se ensancha. Es el séptimo día seguido con señal de apoyo para a. Sobre b, neutral: sin evidencia clara sobre voz interior hoy. Sobre c, desafío: la polarización electoral en Brasil entre Lula y Bolsonaro y las tensiones del Golfo refuerzan bloques e identidades. Sobre d, apoyo: la multitudinaria marcha en São Paulo y la discusión comunitaria sobre centros de datos muestran acción colectiva; es el cuarto día seguido con apoyo para d, mientras c vuelve a desafiar por segunda jornada seguida.
