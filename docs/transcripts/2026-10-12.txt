@@ -1,0 +1,138 @@
+[EN]
+Good morning, Patricio. It's a heavy diplomacy-and-conflict day: a surprise Trump-brokered "energy ceasefire" already looking shaky, fresh escalation in the Gulf, a Nobel for two macroeconomists, and a big pro-democracy rally in São Paulo. Here's the rundown.
+[EN]
+Sources note: The New York Times and Washington Post sit behind subscription paywalls, so today's US and international coverage leans on the Guardian, Reuters, DW, AP, BBC and El País instead. El País's international section and NRK's front page both blocked a direct read but were recovered through the extraction fallback, so they're not gaps — everything below is sourced.
+[EN]
+Top Stories.
+[EN]
+Trump declares a Russia–Ukraine "energy ceasefire" — and it wobbles within hours.
+[EN]
+President Trump announced an immediate halt to strikes on energy infrastructure between Moscow and Kyiv, but the rollout was messy from the start: Zelenskyy said the announcement caught him by surprise and that he had no details of any such agreement, even as he welcomed the idea in principle. He then accused Russia of hitting a Ukrainian power plant almost immediately after the declaration, and Baltic ministers openly doubted a parallel US–Russia diesel arrangement would move prices at all. It's the kind of top-down peace claim that outran the facts on the ground before the day was out.
+[EN]
+Sources: The Guardian · BBC Mundo · DW (Español) · El País
+[EN]
+Gulf tensions spike as Houthi strikes hit Saudi airports.
+[EN]
+A Houthi missile strike on Riyadh's airport killed at least 13 people and injured around 300, according to the Guardian, part of an escalating wave of attacks that also damaged a second Saudi airport over the weekend. Saudi Arabia's and Iran's foreign ministers held their first publicly reported contact of the crisis to discuss de-escalation, and the fallout is already rippling outward — Norway, among others, tightened its travel advice for the kingdom. As columnist Nesrine Malik put it, the Gulf may have entered a genuinely new era of instability in which the old alliances no longer reliably hold.
+[EN]
+Sources: The Guardian · Reuters · Dagens Nyheter
+[EN]
+Nobel economics prize goes to Robert Hall and Michael Woodford.
+[EN]
+The Royal Swedish Academy of Sciences awarded the 2026 Sveriges Riksbank Prize in Economic Sciences to Americans Robert E. Hall (Stanford) and Michael Woodford (Columbia) "for microeconomic foundations of macroeconomic stabilisation." The pair are towering figures in modern macro — Hall for his work on labour markets, recessions and consumption, Woodford for the theory underpinning how central banks set interest rates. The award, worth 11 million Swedish kronor, rewards decades of foundational theory rather than any single headline result.
+[EN]
+Sources: CNN · The Japan Times · The Tribune
+[EN]
+Lula rallies around a million supporters in São Paulo ahead of the runoff.
+[EN]
+Brazil's President Lula drew a crowd estimated near one million on Avenida Paulista, warning that "this country cannot lose its democracy" as he tries to claw back ground against Flávio Bolsonaro before the second round. The scale of the turnout underscores how polarised and high-stakes this runoff has become for the region's largest democracy. It's a reminder that Latin America's democratic contests are being fought as much in the streets as at the ballot box.
+[EN]
+Sources: La Tercera
+[EN]
+Microsoft's president says AI is "less regulated than milk."
+[EN]
+Brad Smith warned that artificial intelligence currently faces weaker safety oversight than washing machines or dairy, and called for enforceable rules including kill switches for rogue AI agents and legal liability for the harms they cause. Coming from one of the industry's own senior figures, it lands as an unusually blunt admission that the technology has outpaced the guardrails around it. Expect this framing — "we regulate milk more carefully than this" — to echo through the regulatory debate.
+[EN]
+Sources: The Guardian
+[ES]
+España y América Latina.
+[ES]
+Chile: aluvión en Las Condes deja cerca de 400 afectados y se anuncian nuevas lluvias.
+[ES]
+El aluvión que golpeó el sector de Las Condes dejó alrededor de 400 personas damnificadas, con pérdidas estimadas en cifras millonarias y una zona que podría tardar semanas en volver a la normalidad. Para colmo, se pronostican nuevas precipitaciones y tormentas eléctricas en la Región Metropolitana este lunes, y el recorte a los recursos de Senapred quedó en el centro del debate presupuestario justo cuando más se necesitan.
+[ES]
+Fuentes: Emol
+[ES]
+Chile: Bachelet encabeza la encuesta Cadem en la izquierda y tensiona a la oposición.
+[ES]
+La más reciente encuesta Cadem ubica a Michelle Bachelet como la figura más fuerte del sector de izquierda, con un 29%, y su apertura a una eventual candidatura ya está generando roces dentro de la coalición. En paralelo, la senadora Paulina Núñez pidió al Gobierno "soltar un poco la billetera" y propuso un bono para enfrentar la crisis del empleo.
+[ES]
+Fuentes: Emol
+[ES]
+Argentina: naturalización por decreto y traslado de presos de Devoto.
+[ES]
+El Gobierno de Javier Milei aprobó por decreto un nuevo régimen que facilita la naturalización de extranjeros, una medida que la oposición busca frenar en el Congreso. En otro frente, comenzó el traslado gradual de internos desde la histórica cárcel de Devoto hacia un complejo de máxima seguridad en Marcos Paz, con 326 presos movidos en el primer día de un plan que alcanzará a unos 1.500.
+[ES]
+Fuentes: La Nación · El País
+[EN]
+US and International.
+[EN]
+Norway tightens its travel advice for Saudi Arabia (NRK, Norway).
+[EN]
+Norway's Foreign Ministry sharpened its guidance for travellers to Saudi Arabia after the Houthi attacks on Riyadh and a second airport, a concrete sign of how far the Gulf escalation is reaching into European risk assessments. NRK's front page paired it with coverage of a Houthi leader threatening Saudi oil facilities, which — if acted on — could pull energy markets into the conflict directly.
+[EN]
+Sources: NRK (Norway)
+[EN]
+Germany: a former foreign-intelligence chief is suspected of long-term work for dictatorships.
+[EN]
+El País reports that a onetime head of Germany's foreign intelligence service is under suspicion of having worked for years on behalf of authoritarian regimes, a potentially serious breach at the top of the country's security apparatus. The case, if borne out, would raise uncomfortable questions about oversight of the people meant to be guarding state secrets.
+[EN]
+Sources: El País
+[EN]
+At least 70 mine workers killed in an air strike in northern Sudan.
+[EN]
+More than 70 artisanal mine workers were reportedly killed in an air strike in northern Sudan over the weekend, according to Reuters and a human-rights group cited by Dagens Nyheter. It's another grim marker in a war that keeps inflicting mass civilian casualties with little international traction toward a halt.
+[EN]
+Sources: Dagens Nyheter · Reuters
+[EN]
+UK inflation pressure hits a three-year high.
+[EN]
+British inflation pressures climbed to their highest in three years, sharpening the squeeze on households and complicating the Bank of England's path just as the Nobel economics prize spotlighted the theory of macroeconomic stabilisation. Rising oil prices are part of the story, tying the UK's domestic pinch back to the same global energy jitters driving today's Gulf and Ukraine headlines.
+[EN]
+Sources: The Guardian
+[EN]
+Tech and Niche.
+[EN]
+Karpathy: "the gap in shared understanding of LLM capability is widening."
+[EN]
+AI researcher Andrej Karpathy argued that people's mental models of what large language models can and can't do are drifting further apart, not converging — experts, builders and everyday users increasingly talk past one another about the same tools. It's a sharp observation that the loudest public "takes" on AI may be tracking reality less and less, which matters for anyone trying to make real decisions about where the technology actually stands.
+[EN]
+Sources: Hacker News (Andrej Karpathy)
+[EN]
+Terence Tao sketches "Math 2.0."
+[EN]
+Fields medalist Terence Tao published slides on how mathematics itself might evolve in an age of AI and formal proof assistants, imagining a more collaborative, machine-assisted practice that still keeps human understanding at the centre. It's a notably optimistic, grounded take from one of the world's leading mathematicians on how to use these tools without ceding judgment to them.
+[EN]
+Sources: Hacker News (Terence Tao)
+[EN]
+A beloved 1997 strategy game gets rebuilt for modern machines.
+[EN]
+The cult real-time-strategy classic Total Annihilation has been painstakingly rebuilt to run on today's computers, a labour-of-love project that topped Hacker News over the weekend. It's a nice reminder that a lot of the best "new" software is really careful preservation — keeping the things people loved alive rather than letting them rot on obsolete hardware.
+[EN]
+Sources: Hacker News (Nanolathe)
+[SV]
+Sverige.
+[SV]
+LKAB pressas av fallande järnmalmspriser.
+[SV]
+Det statligt ägda gruvbolaget LKAB möter sjunkande globala järnmalmspriser till följd av överutbud och svag efterfrågan. Enligt Arctic Securities råvaruanalytiker Christian Kopfer kan järnsvamp — pelletiserad, förädlad malm — vara en bra möjlighet för bolaget att stå emot prispressen och klättra högre upp i värdekedjan.
+[SV]
+Källor: Omni · Dagens Nyheter
+[SV]
+Derbyhelg i Allsvenskan: Häcken krossade Örgryte, Djurgården tog segern.
+[SV]
+Det blev en dramatisk derbyhelg i Allsvenskan, där Häcken körde över Örgryte med 3–0 och Julius Lindberg stod för två av målen. I Stockholm firade Djurgårdens assisterande tränare Christer Mattiasson segern med en snabb spurt från bänken upp mot läktaren — ett firande som snabbt blev ett samtalsämne.
+[SV]
+Källor: Expressen · Aftonbladet
+[EN]
+Connecting the Dots.
+[EN]
+"This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above."
+[EN]
+Patricio, the thread running through today is the gap between confident declarations from the top and the messy reality underneath them. Trump announces an energy ceasefire; within hours Zelenskyy says he was never briefed and a power plant gets hit anyway. Brad Smith, from inside Microsoft, admits the AI industry is less supervised than a carton of milk. Even Karpathy is pointing out that the people loudest about AI increasingly don't share a common picture of what it does. The authority of the people who are supposed to know — whether about war, technology, or markets — keeps getting contradicted faster than they can speak.
+[EN]
+For you in Chile, the most tangible channel is energy and the peso. The Gulf is escalating (Houthi strikes on Saudi airports, a Houthi leader openly threatening oil facilities) at the same time as a fragile, half-denied Russia–Ukraine energy truce — two opposite pulls on the oil price. Chile imports essentially all its oil, so a sustained Gulf risk premium feeds straight into fuel and transport costs and, indirectly, into inflation. Add that one of today's Spanish-language business reads flags a strengthening US dollar in 2026 (Fed, energy, and AI-investment flows), and the backdrop is a weaker peso and pricier imports — worth watching rather than acting on just yet.
+[EN]
+On copper, there's no single headline today, but the macro signals cut both ways: a Nobel that honours the theory of stabilising economies lands in a week where UK inflation hits a three-year high and the dollar firms. A firmer dollar and sticky global inflation tend to cap copper, which matters directly for Chilean fiscal revenue and the exchange rate. I wouldn't read a trend into one day, but the direction of the dollar is the variable I'd keep an eye on through the rest of October.
+[EN]
+Regionally, the political temperature is rising in a way that's familiar from home. Lula puts a million people on Avenida Paulista invoking "democracy" against a Bolsonaro; in Chile, Bachelet tops the left's polling and her possible return is already splitting the opposition; Argentina is governing migration by decree. The common pattern is big, mobilised, polarised electorates and leaders reaching for executive shortcuts or mass rallies rather than durable coalitions — a regional dynamic worth tracking as Chile's own cycle heats up.
+[EN]
+Hypothesis Watch.
+[EN]
+An ongoing, lightweight daily scan of your standing hypothesis — read against the recent trend in the log, not a fresh re-argument of the whole chain. Today is a normal daily reading, not an integral-review day.
+[EN]
+On (a) shrinking thought-leadership and authority cycles, today is another clear support, extending what is now an unbroken run in the log. Brad Smith undercutting his own industry's safety story, Karpathy flagging that even experts no longer share a picture of AI, and Trump's ceasefire claim contradicted within hours all point the same way: authority is being compressed and contradicted faster than ever. The Nobel going to foundational macro theory (Hall and Woodford) is a mild counterpoint — a nod to durable, slow-built human intellectual authority — but it doesn't offset the churn.
+[EN]
+On (b) individuals pushed toward a stronger internal voice, I'd also call today support, making it roughly the fifth straight supporting day (Oct 8–11 and now). Terence Tao's "Math 2.0" explicitly argues for keeping human understanding at the centre as AI tools arrive, and Karpathy's point is essentially a plea to calibrate your own judgment rather than defer to the loudest take — both are internal-voice signals.
+[EN]
+On (c) a move away from individualism, it's neutral again — the log's longest and most stubborn flat line. Lula's million-strong rally and France's protests are collective, but they're partisan and issue-driven, not evidence of people shedding individualism for something more communal. On (d) more human collaboration and social cohesion, also neutral: the Saudi–Iran talks and the ceasefire diplomacy are state-level maneuvers, and they're more than offset by Gulf escalation, the Sudan air strike, and a truce nobody quite believes. The honest read today: strong at the front of the chain (a, b), stalled at the back (c, d) — exactly the shape the recent log has been showing.
