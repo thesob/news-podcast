@@ -1,0 +1,106 @@
+[ES]
+Titulares.
+[ES]
+Trump anuncia una tregua energética entre Rusia y Ucrania, pero los ataques continúan.
+[ES]
+Trump dijo que Rusia y Ucrania acordaron dejar de atacar la infraestructura energética del otro y pidió a Zelenski y a Putin que terminen la guerra. Sin embargo, Zelenski asegura que no sabía nada del acuerdo y que Rusia golpeó al menos seis instalaciones energéticas tras el anuncio, mientras Lavrov afirma que Moscú seguirá su campaña. El anuncio llegó después de que Washington aliviara temporalmente las sanciones al diésel ruso, algo que molestó a Kiev y a Europa y que analistas vinculan con el deseo de bajar los precios del combustible antes de las legislativas del 3 de noviembre. Entre tanto, la UE aprobó su mayor paquete de sanciones desde 2022 y Merz insiste en que se mantendrán.
+[ES]
+Fuentes: Al Jazeera, DW en Español, BBC Mundo, Xinhua Español.
+[ES]
+Ataques hutíes a aeropuertos de Arabia Saudita paralizan vuelos en Riad.
+[ES]
+Riad sufrió por tercer día consecutivo ataques con misiles hutíes y los vuelos del aeropuerto King Khalid fueron suspendidos; también habría sido atacado el aeropuerto de Dammam. La coalición liderada por Arabia Saudita dice haber interceptado dos misiles balísticos dirigidos a la base aérea de Khamis Mushait, y Trump afirmó que los hutíes se están portando "muy mal". El emir de Catar pidió redoblar los esfuerzos para asegurar la navegación en el Golfo y el estrecho de Ormuz y proteger infraestructura energética y civil. Además, los cancilleres de Arabia Saudita e Irán conversaron para rebajar tensiones, el primer contacto público desde que se intensificaron los ataques.
+[ES]
+Fuentes: Al Jazeera, The Guardian.
+[ES]
+Lula reúne a una multitud en São Paulo a dos semanas de la segunda vuelta.
+[ES]
+Miles de seguidores de Lula —un millón según el PT— llenaron la Avenida Paulista en una "Marcha por la democracia" para impulsar su remontada frente al ultraderechista Flávio Bolsonaro en la segunda vuelta del 25 de octubre. Lula llamó a votar a los más de 30 millones de brasileños que no acudieron a las urnas en la primera vuelta y denunció una supuesta intromisión de la justicia electoral, un asunto que llevará a los tribunales. También destacó que el Senado votará la próxima semana la reducción de la semana laboral, medida con la que espera dar impulso a su campaña.
+[ES]
+Fuentes: La Tercera, Xinhua Español.
+[ES]
+Un ciberataque a sistemas de refrigeración golpea a cientos de supermercados en Francia.
+[ES]
+El ataque elevó las temperaturas de neveras y congeladores hasta 50 °C en cientos de tiendas, arruinando alimentos y provocando incendios en algunos locales. Cadenas como Intermarché, Carrefour, Leclerc y Monoprix lo confirmaron, y el director de Intermarché habló de pérdidas de decenas de millones de euros en un solo día. Las autoridades apuntan a una vulnerabilidad en software de la empresa danesa Danfoss, que dice que los equipos afectados usaban firmware desactualizado; además se habrían visto afectados comercios en España, Portugal, Polonia, Alemania y Bélgica.
+[ES]
+Fuentes: Al Jazeera.
+[ES]
+Meta lanza Muse Wonder, su primer modelo de IA de frontera.
+[ES]
+El laboratorio de Superinteligencia de Meta presentó Muse Wonder y Muse Wonder Full, que según sus propias pruebas igualan a los mejores modelos rivales en varios benchmarks. Wonder cuesta 4 dólares por millón de tokens de entrada y 20 por millón de salida a través de la API de Meta, mientras que Wonder Full queda limitado a suscriptores de Muse Code. Ambos alimentarán al agente Muse y fueron entrenados en el centro de datos Prometheus, en Ohio.
+[ES]
+Fuentes: TechCrunch.
+[ES]
+España y Latinoamérica.
+[ES]
+El dólar recupera fuerza en 2026 frente al euro.
+[ES]
+Según un análisis de BBVA Research recogido por El Confidencial Digital, el dólar empezó el año débil pero ganó terreno cuando los inversores pasaron de esperar recortes rápidos de la Fed a prever tipos altos por más tiempo. Pesan también la capacidad de EE. UU. para absorber shocks energéticos y la atracción de capital hacia la inversión en inteligencia artificial. Para quien tiene deudas o ingresos en dólares, el cambio de dirección importa.
+[ES]
+Fuentes: El Confidencial Digital.
+[ES]
+Argentina comienza a trasladar a 1.500 presos de Devoto a Marcos Paz.
+[ES]
+Tras un acuerdo entre la Nación y la Ciudad, el domingo arrancó el traslado gradual de unos 1.500 detenidos de Villa Devoto al Complejo Penitenciario Federal de Marcos Paz, con 326 internos movilizados el primer día. Serán alojados en cuatro unidades de máxima seguridad con capacidad para 2.232 personas, en el marco del cierre de la cárcel de Devoto.
+[ES]
+Fuentes: La Nación.
+[ES]
+Mundo.
+[ES]
+Trump evita respaldar a Netanyahu a dos semanas de las elecciones en Israel.
+[ES]
+A pesar de su larga relación con Netanyahu, Trump no ha dado su respaldo al primer ministro israelí de cara a las elecciones del 27 de octubre. Al Jazeera señala que el sentir público está cambiando, lo que explicaría la cautela del presidente estadounidense.
+[ES]
+Fuentes: Al Jazeera.
+[ES]
+El partido de Imran Khan se prepara para resistir la intervención federal en Khyber Pakhtunkhwa.
+[ES]
+Pakistán impuso un estado de emergencia y suspendió el gobierno provincial de Khyber Pakhtunkhwa. El PTI de Imran Khan, que gobernaba esa provincia, se prepara para combatir el control federal.
+[ES]
+Fuentes: Al Jazeera.
+[ES]
+Agentes federales registran la casa de la congresista Ilhan Omar.
+[ES]
+Agentes federales de EE. UU. registraron el domicilio de la congresista demócrata Ilhan Omar, crítica de Trump. Ella respondió que "no será silenciada".
+[ES]
+Fuentes: Al Jazeera.
+[ES]
+Tecnología y Nicho.
+[ES]
+Brad Smith, de Microsoft, pide regular la IA y propone al Reino Unido como líder.
+[ES]
+El presidente de Microsoft sostiene que la IA está menos regulada que productos cotidianos como los lácteos o los electrodomésticos, y defiende medidas obligatorias como la notificación de brechas y la evaluación externa. Considera que el Reino Unido, con su AI Security Institute, está mejor situado que EE. UU. o la UE para liderar normas globales de seguridad. Calificó de "buen paso" el compromiso voluntario de la Casa Blanca, pero dijo que se queda corto.
+[ES]
+Fuentes: TechCrunch, The Guardian.
+[ES]
+WindBorne consigue un contrato de casi 50 millones de dólares con la Fuerza Aérea estadounidense.
+[ES]
+La startup de Silicon Valley combina globos meteorológicos con pronóstico basado en IA. El contrato militar reconoce el valor de sus datos atmosféricos.
+[ES]
+Fuentes: TechCrunch.
+[ES]
+Una startup promete planos listos para permiso en minutos.
+[ES]
+Blueprints AI, de Santa Monica, transforma una foto, un PDF o un boceto en planos que cumplen la normativa local. La empresa asegura que así se acelera el proceso de permisos de construcción.
+[ES]
+Fuentes: TechCrunch.
+[ES]
+Conectando los Puntos.
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+[ES]
+Mira lo que une varias historias de hoy: una tregua energética anunciada por un presidente que quizá busca abaratar el combustible antes de unas elecciones, misiles sobre aeropuertos del Golfo y un llamado a proteger Ormuz. La energía vuelve a ser el hilo común. Si el Golfo sigue inestable, vale la pena vigilar el precio del petróleo, y con él los costos de transporte y electricidad en España y los países importadores de la región; para exportadores como Chile o Perú el efecto en el cobre y otras materias primas es más ambiguo, y no es una predicción segura.
+[ES]
+Un dólar que se fortalece por tipos altos durante más tiempo, sumado a un petróleo caro, es una combinación incómoda para quien debe en dólares en Latinoamérica o para quien paga importaciones. En Europa, un euro más débil encarece la energía que se factura en dólares. Habrá que ver si la Fed confirma ese giro; hoy es solo una lectura posible.
+[ES]
+Otra pista: el ciberataque a las neveras de los supermercados franceses muestra cómo una vulnerabilidad en software industrial puede convertirse en pérdidas físicas en varios países a la vez. Al mismo tiempo, Meta lanza un modelo de frontera y Brad Smith pide reglas obligatorias para la IA. Es plausible que la presión por regular la seguridad de sistemas conectados y de la IA crezca juntas, y que eso llegue a empresas y comercios de España y Latinoamérica como exigencias de actualización y auditoría.
+[ES]
+En política, la marcha de Lula, la intervención en una provincia de Pakistán y el registro a una congresista crítica de Trump apuntan a sociedades muy polarizadas donde las instituciones se disputan. La segunda vuelta brasileña del 25 de octubre importa para toda la región por el comercio y por el tono político que marque. Como siempre, esto es una lectura, no un hecho.
+[ES]
+Vigilancia de la Hipótesis.
+[ES]
+Seguimiento continuo de la hipótesis vigente: un escaneo diario informado por la tendencia reciente, no una nueva argumentación completa.
+[ES]
+Con solo siete entradas previas en el registro (del 5 al 11 de octubre), la tendencia aún es corta: (a) acumula apoyo casi a diario, (c) suele cuestionar la hipótesis, y (b) casi siempre queda neutral. Hoy no cambia ese patrón. No hay todavía una revisión integral previa que enmarque la lectura.
+[ES]
+(a) Apoyo: Meta lanza un modelo de frontera, según TechCrunch, y la IA compite por el liderazgo con ciclos de relevo muy cortos; continúa la racha de apoyo en (a). (b) Neutral: Brad Smith pide regular la IA, pero no hay evidencia sobre la voz interior de las personas. (c) Desafío: la polarización en Brasil, la intervención federal en Pakistán y la guerra en el Golfo siguen apuntando más a conflicto que a salir del individualismo. (d) Apoyo moderado: la movilización masiva en la Avenida Paulista y el esfuerzo conjunto por regular la IA muestran impulsos de acción colectiva, aunque no son prueba de cohesión duradera.
