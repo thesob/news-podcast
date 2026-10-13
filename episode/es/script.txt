@@ -1,231 +1,122 @@
-[SECTION intro]
-[ES]
-Buenos días. Este es tu resumen diario del lunes 12 de octubre de 2026.
-
-[ES]
-Nota sobre las fuentes. Hoy no pude consultar directamente The New York Times, The Washington Post, Reuters, AP, Xinhua, Al Jazeera, El País, Emol ni los feeds de la BBC. The Guardian y DW bloquearon la lectura directa, así que cubrí esos temas con el proxy de titulares.
-
 [SECTION news]
 [ES]
 Titulares.
-
 [ITEM]
 [ES]
 Trump anuncia una tregua energética entre Rusia y Ucrania, pero los ataques continúan.
-
 [ES]
-Donald Trump anunció un alto el fuego inmediato sobre infraestructura energética entre Rusia y Ucrania. Ucrania dice respaldar la idea, aunque Zelenski aseguró que no fue avisado y que Rusia atacó una planta eléctrica justo después del anuncio. Funcionarios bálticos, además, miran con escepticismo el supuesto acuerdo de diésel entre Trump y Putin.
-
+Trump dijo que Rusia y Ucrania acordaron dejar de atacar la infraestructura energética del otro y pidió a Zelenski y a Putin que terminen la guerra. Sin embargo, Zelenski asegura que no sabía nada del acuerdo y que Rusia golpeó al menos seis instalaciones energéticas tras el anuncio, mientras Lavrov afirma que Moscú seguirá su campaña. El anuncio llegó después de que Washington aliviara temporalmente las sanciones al diésel ruso, algo que molestó a Kiev y a Europa y que analistas vinculan con el deseo de bajar los precios del combustible antes de las legislativas del 3 de noviembre. Entre tanto, la UE aprobó su mayor paquete de sanciones desde 2022 y Merz insiste en que se mantendrán.
 [ES]
-Fuentes: BBC News Mundo, DW en Español y The Guardian.
-
+Fuentes: Al Jazeera, DW en Español, BBC Mundo, Xinhua Español.
 [ITEM]
 [ES]
-Lula reúne a cientos de miles en São Paulo antes de la segunda vuelta.
-
+Ataques hutíes a aeropuertos de Arabia Saudita paralizan vuelos en Riad.
 [ES]
-Miles de seguidores de Lula llenaron la Avenida Paulista en la Marcha por la democracia; el PT habla de más de un millón de personas. La segunda vuelta será el 25 de octubre y, en la primera, Flávio Bolsonaro sacó 47,03 por ciento frente al 45,16 de Lula. Lula pidió votar a los más de 30 millones de brasileños que no acudieron a las urnas y acusó a la justicia electoral de interferir en su candidatura, un caso que llevará a los tribunales.
-
+Riad sufrió por tercer día consecutivo ataques con misiles hutíes y los vuelos del aeropuerto King Khalid fueron suspendidos; también habría sido atacado el aeropuerto de Dammam. La coalición liderada por Arabia Saudita dice haber interceptado dos misiles balísticos dirigidos a la base aérea de Khamis Mushait, y Trump afirmó que los hutíes se están portando "muy mal". El emir de Catar pidió redoblar los esfuerzos para asegurar la navegación en el Golfo y el estrecho de Ormuz y proteger infraestructura energética y civil. Además, los cancilleres de Arabia Saudita e Irán conversaron para rebajar tensiones, el primer contacto público desde que se intensificaron los ataques.
 [ES]
-Fuente: La Tercera.
-
+Fuentes: Al Jazeera, The Guardian.
 [ITEM]
 [ES]
-El Golfo, entre ataques hutíes y diplomacia saudí-iraní.
-
+Lula reúne a una multitud en São Paulo a dos semanas de la segunda vuelta.
 [ES]
-Los cancilleres de Arabia Saudita e Irán conversaron sobre las tensiones regionales y cómo reducirlas, según la agencia estatal saudí, tras los ataques hutíes contra territorio saudí. En The Guardian, la columnista Nesrine Malik sostiene que un letal ataque con misiles contra el aeropuerto de Riad marca una nueva era de inestabilidad, y que los líderes del Golfo no deberían confiar en las alianzas de siempre.
-
+Miles de seguidores de Lula —un millón según el PT— llenaron la Avenida Paulista en una "Marcha por la democracia" para impulsar su remontada frente al ultraderechista Flávio Bolsonaro en la segunda vuelta del 25 de octubre. Lula llamó a votar a los más de 30 millones de brasileños que no acudieron a las urnas en la primera vuelta y denunció una supuesta intromisión de la justicia electoral, un asunto que llevará a los tribunales. También destacó que el Senado votará la próxima semana la reducción de la semana laboral, medida con la que espera dar impulso a su campaña.
 [ES]
-Fuentes: Reuters y The Guardian.
-
+Fuentes: La Tercera, Xinhua Español.
 [ITEM]
 [ES]
-El presidente de Microsoft: la IA está menos regulada que la leche.
-
+Un ciberataque a sistemas de refrigeración golpea a cientos de supermercados en Francia.
 [ES]
-Brad Smith, presidente de Microsoft, pidió reglas más duras para la inteligencia artificial, con interruptores de apagado y responsabilidad legal frente a las víctimas de agentes que se salgan de control. La comparación con la leche, dice, resume lo poco que hoy se exige a una tecnología de enorme alcance.
-
+El ataque elevó las temperaturas de neveras y congeladores hasta 50 °C en cientos de tiendas, arruinando alimentos y provocando incendios en algunos locales. Cadenas como Intermarché, Carrefour, Leclerc y Monoprix lo confirmaron, y el director de Intermarché habló de pérdidas de decenas de millones de euros en un solo día. Las autoridades apuntan a una vulnerabilidad en software de la empresa danesa Danfoss, que dice que los equipos afectados usaban firmware desactualizado; además se habrían visto afectados comercios en España, Portugal, Polonia, Alemania y Bélgica.
 [ES]
-Fuente: The Guardian.
-
+Fuentes: Al Jazeera.
+[ITEM]
+[ES]
+Meta lanza Muse Wonder, su primer modelo de IA de frontera.
+[ES]
+El laboratorio de Superinteligencia de Meta presentó Muse Wonder y Muse Wonder Full, que según sus propias pruebas igualan a los mejores modelos rivales en varios benchmarks. Wonder cuesta 4 dólares por millón de tokens de entrada y 20 por millón de salida a través de la API de Meta, mientras que Wonder Full queda limitado a suscriptores de Muse Code. Ambos alimentarán al agente Muse y fueron entrenados en el centro de datos Prometheus, en Ohio.
+[ES]
+Fuentes: TechCrunch.
 [ES]
 España y Latinoamérica.
-
 [ITEM]
 [ES]
-El dólar recupera fuerza en 2026.
-
+El dólar recupera fuerza en 2026 frente al euro.
 [ES]
-Según un análisis de BBVA Research, el dólar se ha fortalecido frente al euro y otras divisas porque se esperan tipos altos de la Fed por más tiempo. Influyeron también el encarecimiento de la energía por las tensiones entre Estados Unidos e Irán y la inversión en IA que atrae capital a activos estadounidenses. El análisis advierte que no es una tendencia garantizada y que podría cambiar con la Fed, Oriente Próximo o los flujos de la IA.
-
+Según un análisis de BBVA Research recogido por El Confidencial Digital, el dólar empezó el año débil pero ganó terreno cuando los inversores pasaron de esperar recortes rápidos de la Fed a prever tipos altos por más tiempo. Pesan también la capacidad de EE. UU. para absorber shocks energéticos y la atracción de capital hacia la inversión en inteligencia artificial. Para quien tiene deudas o ingresos en dólares, el cambio de dirección importa.
 [ES]
-Fuente: El Confidencial Digital.
-
+Fuentes: El Confidencial Digital.
 [ITEM]
 [ES]
-Argentina: 672 sucursales bancarias menos en siete años.
-
+Argentina comienza a trasladar a 1.500 presos de Devoto a Marcos Paz.
 [ES]
-La red de sucursales bancarias argentina sigue achicándose a medida que los clientes migran a la banca online. Hoy hay 672 oficinas menos que hace siete años, un cambio de hábitos que redefine cómo se accede a los servicios financieros.
-
+Tras un acuerdo entre la Nación y la Ciudad, el domingo arrancó el traslado gradual de unos 1.500 detenidos de Villa Devoto al Complejo Penitenciario Federal de Marcos Paz, con 326 internos movilizados el primer día. Serán alojados en cuatro unidades de máxima seguridad con capacidad para 2.232 personas, en el marco del cierre de la cárcel de Devoto.
 [ES]
-Fuente: La Nación.
-
-[ITEM]
-[ES]
-Argentina comenzó a trasladar presos de Devoto a Marcos Paz.
-
-[ES]
-El Gobierno inició el traslado gradual de unos 1.500 internos de la cárcel de Devoto al complejo de Marcos Paz. El primer día se movió a 326 personas.
-
-[ES]
-Fuente: La Nación.
-
-[ITEM]
-[ES]
-Prisión para acusado de reclutar peruanos para combatir por Rusia.
-
-[ES]
-Un sospechoso de reclutar peruanos con la promesa de sueldos de 2.300 dólares para luchar por Rusia recibió 14 meses de prisión mientras se le investiga por trata laboral. El caso muestra cómo la guerra en Ucrania llega a la región a través de ofertas de empleo engañosas.
-
-[ES]
-Fuente: BioBioChile.
-
+Fuentes: La Nación.
 [ES]
 Mundo.
-
 [ITEM]
 [ES]
-La inflación en Reino Unido, en máximos de tres años.
-
+Trump evita respaldar a Netanyahu a dos semanas de las elecciones en Israel.
 [ES]
-Las presiones inflacionarias en Reino Unido alcanzaron su nivel más alto en tres años, según la cobertura en vivo de The Guardian. El dato llega el mismo día en que se anuncia el Nobel de Economía.
-
+A pesar de su larga relación con Netanyahu, Trump no ha dado su respaldo al primer ministro israelí de cara a las elecciones del 27 de octubre. Al Jazeera señala que el sentir público está cambiando, lo que explicaría la cautela del presidente estadounidense.
 [ES]
-Fuente: The Guardian.
-
+Fuentes: Al Jazeera.
 [ITEM]
 [ES]
-Burnham confirma injerencia rusa en la campaña del Brexit.
-
+El partido de Imran Khan se prepara para resistir la intervención federal en Khyber Pakhtunkhwa.
 [ES]
-Andy Burnham confirmó que hubo interferencia rusa en la campaña del Brexit, y los conservadores lo acusaron de ser peligroso y divisivo. Por su parte, Reform UK anunció una promesa en materia de asilo.
-
+Pakistán impuso un estado de emergencia y suspendió el gobierno provincial de Khyber Pakhtunkhwa. El PTI de Imran Khan, que gobernaba esa provincia, se prepara para combatir el control federal.
 [ES]
-Fuente: The Guardian.
-
+Fuentes: Al Jazeera.
 [ITEM]
 [ES]
-Sídney, bajo condiciones extremas de incendio.
-
+Agentes federales registran la casa de la congresista Ilhan Omar.
 [ES]
-El calor y los fuertes vientos provocaron una alerta de clima de incendios que cubre toda el área metropolitana de Sídney este lunes.
-
+Agentes federales de EE. UU. registraron el domicilio de la congresista demócrata Ilhan Omar, crítica de Trump. Ella respondió que "no será silenciada".
 [ES]
-Fuente: https://www.google.com/url?q=http://news.com.au&source=gmail&ust=1791883176803000&sa=E.
-
-[ITEM]
-[ES]
-Combustibles en récord en Nueva Zelanda.
-
-[ES]
-Con la gasolina en máximos históricos, productores de crudo, refinadores y el propio Gobierno neozelandés son quienes más se benefician, según RNZ. Es un recordatorio de cómo el petróleo caro reparte ganadores y perdedores.
-
-[ES]
-Fuente: RNZ.
-
-[ITEM]
-[ES]
-Un fuerte romano en Gales podría respaldar una leyenda medieval.
-
-[ES]
-Monedas y otros hallazgos en un fuerte recién identificado en Pembrokeshire sugieren que la leyenda del campamento del emperador Magno Máximo podría tener base real.
-
-[ES]
-Fuente: The Guardian.
-
+Fuentes: Al Jazeera.
 [ES]
 Tecnología y Nicho.
-
 [ITEM]
 [ES]
-Drones ucranianos golpean un centro de datos de IA de Yandex.
-
+Brad Smith, de Microsoft, pide regular la IA y propone al Reino Unido como líder.
 [ES]
-Drones ucranianos dañaron un centro de datos de Yandex, la Google rusa, en la región de Sasovo. Allí había supercomputadoras usadas para entrenar el modelo de IA de la empresa.
-
+El presidente de Microsoft sostiene que la IA está menos regulada que productos cotidianos como los lácteos o los electrodomésticos, y defiende medidas obligatorias como la notificación de brechas y la evaluación externa. Considera que el Reino Unido, con su AI Security Institute, está mejor situado que EE. UU. o la UE para liderar normas globales de seguridad. Calificó de "buen paso" el compromiso voluntario de la Casa Blanca, pero dijo que se queda corto.
 [ES]
-Fuente: Ars Technica.
-
+Fuentes: TechCrunch, The Guardian.
 [ITEM]
 [ES]
-¿Eliminar los NDA convencerá a los opositores de los centros de datos?
-
+WindBorne consigue un contrato de casi 50 millones de dólares con la Fuerza Aérea estadounidense.
 [ES]
-TechCrunch se pregunta si dejar de exigir acuerdos de confidencialidad ayudaría a la industria de la IA a ganarse a las comunidades que se oponen a los centros de datos. La opacidad es una de las quejas centrales de esos vecinos.
-
+La startup de Silicon Valley combina globos meteorológicos con pronóstico basado en IA. El contrato militar reconoce el valor de sus datos atmosféricos.
 [ES]
-Fuente: TechCrunch.
-
+Fuentes: TechCrunch.
 [ITEM]
 [ES]
-Apple ficha al equipo de Huxe y licencia su tecnología.
-
+Una startup promete planos listos para permiso en minutos.
 [ES]
-Apple reveló un acuerdo para contratar al equipo de Huxe, una startup de pódcasts personalizados, y licenciar su tecnología. Es una señal del interés por el audio generado a medida.
-
+Blueprints AI, de Santa Monica, transforma una foto, un PDF o un boceto en planos que cumplen la normativa local. La empresa asegura que así se acelera el proceso de permisos de construcción.
 [ES]
-Fuente: TechCrunch.
-
-[ITEM]
-[ES]
-En Hacker News: Total Annihilation reconstruido y la brecha de percepción sobre los LLM.
-
-[ES]
-Lo más votado es un proyecto que reconstruye el clásico Total Annihilation para computadoras modernas. También circula un mensaje de Andrej Karpathy que sostiene que la brecha en la comprensión compartida de las capacidades de los LLM se está ampliando.
-
-[ES]
-Fuente: Hacker News.
-
-[ITEM]
-[ES]
-El cerebro bajo psilocibina: caos aparente con orden debajo.
-
-[ES]
-Investigadores escanearon con resonancia a personas meditando, con y sin psilocibina. Hallaron que la actividad caótica a simple vista esconde un orden subyacente.
-
-[ES]
-Fuente: Ars Technica.
-
+Fuentes: TechCrunch.
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
-
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
-
 [ES]
-Hay un hilo energético que atraviesa varias historias: una tregua anunciada que se contradice con los ataques, combustibles en récord en Nueva Zelanda, tensión en el Golfo y un dólar fuerte en parte por el encarecimiento de la energía. Si eres de un país importador de petróleo, vale la pena vigilar cuánto de ese costo llega a tus precios de transporte y electricidad, aunque no es una predicción segura.
-
+Mira lo que une varias historias de hoy: una tregua energética anunciada por un presidente que quizá busca abaratar el combustible antes de unas elecciones, misiles sobre aeropuertos del Golfo y un llamado a proteger Ormuz. La energía vuelve a ser el hilo común. Si el Golfo sigue inestable, vale la pena vigilar el precio del petróleo, y con él los costos de transporte y electricidad en España y los países importadores de la región; para exportadores como Chile o Perú el efecto en el cobre y otras materias primas es más ambiguo, y no es una predicción segura.
 [ES]
-Un dólar fuerte suele apretar a quienes tienen deudas en dólares y a las monedas emergentes, pero puede favorecer a exportadores y a quienes cobran en divisa. En América Latina, eso se mezcla con la política: la segunda vuelta en Brasil, con una ventaja estrecha de Flávio Bolsonaro y una acusación de interferencia electoral, puede mover al real y el ánimo regional si la disputa se prolonga.
-
+Un dólar que se fortalece por tipos altos durante más tiempo, sumado a un petróleo caro, es una combinación incómoda para quien debe en dólares en Latinoamérica o para quien paga importaciones. En Europa, un euro más débil encarece la energía que se factura en dólares. Habrá que ver si la Fed confirma ese giro; hoy es solo una lectura posible.
 [ES]
-La IA aparece en dos caras: la presión por regularla, como pide Microsoft, y su materialidad física, con centros de datos que generan oposición vecinal y hasta son objetivos militares. Quizá la discusión sobre IA deje de ser solo de software y pase a ser de energía, territorio y reglas, algo relevante para países de la región que quieran atraer centros de datos o definir su propia regulación.
-
+Otra pista: el ciberataque a las neveras de los supermercados franceses muestra cómo una vulnerabilidad en software industrial puede convertirse en pérdidas físicas en varios países a la vez. Al mismo tiempo, Meta lanza un modelo de frontera y Brad Smith pide reglas obligatorias para la IA. Es plausible que la presión por regular la seguridad de sistemas conectados y de la IA crezca juntas, y que eso llegue a empresas y comercios de España y Latinoamérica como exigencias de actualización y auditoría.
 [ES]
-Por último, la bancarización digital en Argentina y las ofertas de empleo engañosas en Perú muestran dos extremos de lo mismo: más cosas pasan por pantallas y redes, con comodidad pero también con riesgos. No es una conclusión firme, solo un patrón que merece atención.
-
+En política, la marcha de Lula, la intervención en una provincia de Pakistán y el registro a una congresista crítica de Trump apuntan a sociedades muy polarizadas donde las instituciones se disputan. La segunda vuelta brasileña del 25 de octubre importa para toda la región por el comercio y por el tono político que marque. Como siempre, esto es una lectura, no un hecho.
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
-
 [ES]
-Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente, no una nueva discusión completa.
-
+Seguimiento continuo de la hipótesis vigente: un escaneo diario informado por la tendencia reciente, no una nueva argumentación completa.
 [ES]
-La hipótesis tiene cuatro eslabones: a, ciclos de autoridad intelectual cada vez más cortos; b, mayor voz interior individual; c, alejamiento del individualismo; y d, más colaboración y cohesión social. Aún no existe ninguna revisión integral previa; la bitácora cuenta con solo siete días, por lo que la tendencia es preliminar.
-
+Con solo siete entradas previas en el registro (del 5 al 11 de octubre), la tendencia aún es corta: (a) acumula apoyo casi a diario, (c) suele cuestionar la hipótesis, y (b) casi siempre queda neutral. Hoy no cambia ese patrón. No hay todavía una revisión integral previa que enmarque la lectura.
 [ES]
-Sobre a, hay apoyo: el presidente de Microsoft pide reglas porque la IA avanza más rápido que su regulación, y Karpathy señala que la brecha de comprensión sobre los LLM se ensancha. Es el séptimo día seguido con señal de apoyo para a. Sobre b, neutral: sin evidencia clara sobre voz interior hoy. Sobre c, desafío: la polarización electoral en Brasil entre Lula y Bolsonaro y las tensiones del Golfo refuerzan bloques e identidades. Sobre d, apoyo: la multitudinaria marcha en São Paulo y la discusión comunitaria sobre centros de datos muestran acción colectiva; es el cuarto día seguido con apoyo para d, mientras c vuelve a desafiar por segunda jornada seguida.
+(a) Apoyo: Meta lanza un modelo de frontera, según TechCrunch, y la IA compite por el liderazgo con ciclos de relevo muy cortos; continúa la racha de apoyo en (a). (b) Neutral: Brad Smith pide regular la IA, pero no hay evidencia sobre la voz interior de las personas. (c) Desafío: la polarización en Brasil, la intervención federal en Pakistán y la guerra en el Golfo siguen apuntando más a conflicto que a salir del individualismo. (d) Apoyo moderado: la movilización masiva en la Avenida Paulista y el esfuerzo conjunto por regular la IA muestran impulsos de acción colectiva, aunque no son prueba de cohesión duradera.
