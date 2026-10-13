@@ -1,7 +1,7 @@
 <!-- EDIT ME: this is the Spanish edition's source list. Starting point: the
      Spanish outlets from the English edition, plus Spanish-language
      international services, plus the English sources translated into Spanish.
-     Swedish/Norwegian sources are left out. Add, remove or swap freely. -->
+     Swedish/Norwegian sources are included for the Suecia y Noruega section. Add, remove or swap freely. -->
 Spanish — Spain & Latin America:
 - International news: elpais.com (international section)
 - Xinhua Español (spanish.news.cn)
@@ -29,7 +29,7 @@ English — tech & niche (read in English, write up in Spanish):
 - TechCrunch (techcrunch.com)
 - Ars Technica (arstechnica.com)
 
-Swedish and Norwegian;
+Swedish and Norwegian (read in the original, write up in Spanish):
 - dn.se
 - aftonbladet.se
 - svd.se

@@ -16,6 +16,7 @@ outlets or generic aggregators):**
 
 Spanish — Spain & Latin America:
 - International news: elpais.com (international section)
+- Xinhua Español (spanish.news.cn)
 - Al Jazeera
 - Local news: elpais.com (Spain/local section) and emol.com, latercera.cl
 
@@ -29,7 +30,6 @@ English — general (read in English, write up in Spanish):
 - washingtonpost.com
 - theguardian.com
 - BBC News RSS feeds (feeds.bbci.co.uk)
-- Deutsche Welle / DW (dw.com) — English edition
 - Reuters (reuters.com)
 - Associated Press / AP News (apnews.com)
 - Xinhua Español (spanish.news.cn)
@@ -41,7 +41,7 @@ English — tech & niche (read in English, write up in Spanish):
 - TechCrunch (techcrunch.com)
 - Ars Technica (arstechnica.com)
 
-Swedish and Norwegian;
+Swedish and Norwegian (read in the original, write up in Spanish):
 - dn.se
 - aftonbladet.se
 - svd.se
@@ -146,7 +146,7 @@ should work, since auth is now a query parameter and needs no header.
    was unreachable today (name which ones, and how you covered that gap —
    e.g. a backup outlet), then **Titulares** (Top Stories: biggest 3–5, deduplicated
    across ALL sources), then **España y Latinoamérica**, **Mundo**, **Tecnología
-   y Nicho**, for anything not already in Top Stories, and finally the two
+   y Nicho**, **Suecia y Noruega** for anything not already in Top Stories, and finally the two
    closing sections below (Connecting the Dots, Hypothesis Watch). Use exactly
    these Spanish titles as the visible section headings; the closing sections
    are also written in Spanish, like everything else in this edition.
@@ -348,7 +348,7 @@ C. Also produce a second, separate text block: the same story content and
    Stories paragraph, `[SECTION connecting_dots]` before Connecting the Dots,
    and `[SECTION hypothesis_watch]` before Hypothesis Watch. (An optional
    `[SECTION intro]` may lead the greeting.) These are the only four ids; every
-   news subsection — España y Latinoamérica, Mundo, Tecnología y Nicho — stays under the single `[SECTION news]`, no marker of its own. The
+   news subsection — España y Latinoamérica, Mundo, Tecnología y Nicho, Suecia y Noruega — stays under the single `[SECTION news]`, no marker of its own. The
    marker is in addition to, not a replacement for, the spoken heading line.
    Also emit an `[ITEM]` marker line — alone on its own line, nothing else on
    it, not spoken — immediately before the first paragraph (the headline) of
