@@ -11,6 +11,7 @@ Spanish — Spain & Latin America:
 Spanish — international services:
 - BBC News Mundo (bbc.com/mundo)
 - DW en Español (dw.com/es)
+- Xinhua Español (spanish.news.cn)
 
 English — general (read in English, write up in Spanish):
 - nytimes.com
@@ -27,3 +28,11 @@ English — tech & niche (read in English, write up in Spanish):
   use the topstories endpoint, then fetch the top 5-8 item details
 - TechCrunch (techcrunch.com)
 - Ars Technica (arstechnica.com)
+
+Swedish and Norwegian;
+- dn.se
+- aftonbladet.se
+- svd.se
+- SVT Nyheter (svt.se) — public broadcaster, prefer this if dn.se/aftonbladet.se
+  are hard to access
+- NRK (nrk.no) (norwegian)

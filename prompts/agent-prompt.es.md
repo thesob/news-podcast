@@ -16,19 +16,20 @@ outlets or generic aggregators):**
 
 Spanish — Spain & Latin America:
 - International news: elpais.com (international section)
-- Xinhua Español (spanish.news.cn)
 - Al Jazeera
 - Local news: elpais.com (Spain/local section) and emol.com, latercera.cl
 
 Spanish — international services:
 - BBC News Mundo (bbc.com/mundo)
 - DW en Español (dw.com/es)
+- Xinhua Español (spanish.news.cn)
 
 English — general (read in English, write up in Spanish):
 - nytimes.com
 - washingtonpost.com
 - theguardian.com
 - BBC News RSS feeds (feeds.bbci.co.uk)
+- Deutsche Welle / DW (dw.com) — English edition
 - Reuters (reuters.com)
 - Associated Press / AP News (apnews.com)
 - Xinhua Español (spanish.news.cn)
@@ -39,6 +40,14 @@ English — tech & niche (read in English, write up in Spanish):
   use the topstories endpoint, then fetch the top 5-8 item details
 - TechCrunch (techcrunch.com)
 - Ars Technica (arstechnica.com)
+
+Swedish and Norwegian;
+- dn.se
+- aftonbladet.se
+- svd.se
+- SVT Nyheter (svt.se) — public broadcaster, prefer this if dn.se/aftonbladet.se
+  are hard to access
+- NRK (nrk.no) (norwegian)
 
 Fallback chain when a named source above is slow, blocked, or errors on a
 direct fetch — follow these IN ORDER, and do not skip a step:
