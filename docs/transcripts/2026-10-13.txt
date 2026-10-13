@@ -1,0 +1,136 @@
+[EN]
+Good morning, Patricio. Here's your news brief for Tuesday, October 13th, 2026.
+[EN]
+A quick sources note: a few outlets were blocked or stale on direct access today — El País and Deutsche Welle, the BBC World feed, emol, and Norway's NRK. I covered those angles through other sources, so there are no real gaps, just no standalone NRK item today.
+[EN]
+Top Stories.
+[EN]
+Asian chip stocks tumbled as AI-bubble nerves flared.
+[EN]
+Semiconductor shares fell hard on Tuesday after Broadcom's chief executive Hock Tan, speaking in Singapore, likened many AI investors to casino gamblers, saying a lot of them have no clue what they are investing in. South Korea's Kospi dropped more than six percent, with Samsung and SK Hynix sliding sharply, Japan's Nikkei lost nearly two percent as SoftBank fell, and TSMC slipped in Taiwan. Adding to the jitters, a report that China's CXMT has made progress on a denser memory-chip design spooked the big memory makers.
+[EN]
+Sources: The Guardian.
+[EN]
+Trump declared a Russia–Ukraine energy ceasefire, and Zelensky said it was news to him.
+[EN]
+On Saturday Trump posted that, effective immediately, there was an energy ceasefire and that both parties had agreed, adding "do not break it." Zelensky's response was essentially that it was the first he had heard of it, and that Ukrainian skies had been, in his words, infested with Russian drones all day, including a strike on a Kharkiv power plant that evening. By today Kyiv is saying Russia simply ignored the call and kept hitting energy infrastructure — a vivid case of a ceasefire announced from Washington outrunning anything agreed on the ground.
+[EN]
+Sources: Al Jazeera, Deutsche Welle, BBC Mundo, and The Guardian.
+[EN]
+Brazil is barreling toward a Lula–Flávio Bolsonaro runoff.
+[EN]
+After an October fourth first round in which the right gained more ground than polls expected, Brazil is headed to a runoff between President Lula and Flávio Bolsonaro, with Lula rallying close to a million supporters in São Paulo under the slogan that the country cannot lose its democracy. Now a brewing scandal at the Supreme Court — long a target of the Bolsonaro camp — could cut against Lula and hand the right an opening in the final stretch.
+[EN]
+Sources: The Guardian and La Tercera.
+[EN]
+An airstrike on a Sudanese gold mine killed dozens.
+[EN]
+At least seventy-two workers were killed in an airstrike on a gold mine near the Sudan–Egypt border, according to a rights group, with Sudanese factions pointing the finger at Egypt. It is another grim marker of how Sudan's war keeps widening, pulling in neighbors and civilians far from the front lines.
+[EN]
+Sources: Dagens Nyheter, citing Reuters, and Khaleej Times.
+[ES]
+España y América Latina.
+[ES]
+España — los presupuestos, otra vez en el aire.
+[ES]
+El Gobierno de Pedro Sánchez volvió a aplazar la elaboración de los Presupuestos de 2026 mientras busca unos apoyos parlamentarios que siguen siendo inciertos. Sánchez insiste en agotar la legislatura hasta 2027, pese a la presión de una oposición que huele debilidad.
+[ES]
+Fuente: Diari de Tarragona.
+[ES]
+Chile — rebaja del TAG y desempleo joven al alza.
+[ES]
+El Gobierno de José Antonio Kast anunció una rebaja del peaje en la Autopista Central de entre un diez y un veinticinco por ciento, a cambio de extender la concesión veinte meses; Franco Parisi y parte del Congreso lo calificaron de muy buen negocio para las concesionarias y mal negocio para Chile. En paralelo, el desempleo entre profesionales universitarios y menores de treinta años trepó al ocho coma tres por ciento, una señal incómoda para el mercado laboral.
+[ES]
+Fuente: La Tercera.
+[ES]
+Chile — la izquierda y el factor Bachelet.
+[ES]
+Los partidos de izquierda preparan su primer encuentro con Michelle Bachelet tras su apertura a volver a postular a La Moneda, lo que reordenaría todo el tablero opositor. Es la clase de movimiento que, de concretarse, marcaría la agenda política del próximo año.
+[ES]
+Fuente: La Tercera.
+[ES]
+Argentina — comienza el traslado desde Devoto.
+[ES]
+El Gobierno argentino inició el traslado de presos desde la histórica cárcel de Devoto al nuevo complejo de Marcos Paz, con trescientos veintiséis reclusos movidos el primer día. Es un paso concreto en el plan de reordenamiento penitenciario del Ejecutivo.
+[ES]
+Fuente: La Nación.
+[EN]
+US and International.
+[EN]
+Greta Thunberg joined French students in the streets.
+[EN]
+Thunberg turned up alongside French high-school students in Paris protesting teacher shortages and deteriorating school conditions. It is a reminder that her activism has broadened well beyond climate into a wider youth-grievance politics.
+[EN]
+Sources: The Guardian.
+[EN]
+Houthi strikes hit Saudi airports as Saudi Arabia and Iran talk de-escalation.
+[EN]
+Renewed attacks claimed by the Houthis injured several people at Riyadh's King Khalid airport and a second Saudi airport, even as the Saudi and Iranian foreign ministers spoke by phone about calming the region. Together, the two threads capture a Gulf that is trying to talk its way down while the shooting continues.
+[EN]
+Sources: Corren and Dagens Nyheter, citing Reuters.
+[EN]
+In the US, Medicaid work requirements got a start date.
+[EN]
+New work requirements for Medicaid recipients are set to take effect on January first, 2027, under the 2025 reform law — a change that could reshape coverage for millions. Expect the next few months to be dominated by states scrambling to build the verification systems.
+[EN]
+Sources: The Guardian.
+[EN]
+The IMF nudged up the UK growth outlook.
+[EN]
+The International Monetary Fund raised its growth forecast for the UK economy, handing the chancellor a rare bit of good macro news amid an otherwise tight fiscal picture. It is modest, but it shifts the mood music heading into budget season.
+[EN]
+Sources: The Guardian.
+[EN]
+Tech and Niche.
+[EN]
+People are planning for their AI companions to outlive them.
+[EN]
+A Guardian feature digs into a quietly growing phenomenon: people arranging for their AI chatbot companions to keep going after they die, as digital stand-ins or keepsakes for the living. It is equal parts touching and unsettling, and it raises real questions about grief, consent, and who owns a trained-up companion.
+[EN]
+Sources: The Guardian.
+[EN]
+A lab shipped GLM-Legal, an open legal model.
+[EN]
+The AI lab Z dot AI released GLM-Legal, a large language model tuned specifically for legal work, and it shot up Hacker News. Domain-specific open models like this are where a lot of the practical, less-hyped AI value is landing right now.
+[EN]
+Sources: Z dot AI, via Hacker News.
+[EN]
+Astronomers traced the most distant fast radio burst yet.
+[EN]
+Researchers pinned the farthest fast radio burst ever detected to a small, star-forming galaxy. Each of these records pushes our cosmic yardstick a little further and sharpens the mystery of what actually produces these millisecond flashes.
+[EN]
+Sources: Sci dot News.
+[SV]
+Sverige.
+[SV]
+Regeringsbildningen har kört fast.
+[SV]
+Socialdemokraternas Magdalena Andersson säger att förutsättningarna saknas för att bilda regering, samtidigt som både Miljöpartiet och Vänsterpartiet säger sig vilja rösta nej till henne som statsminister. Efter partiets sämsta valresultat någonsin letar S fortfarande efter en väg framåt i ett låst parlamentariskt läge.
+[SV]
+Källa: SVT Nyheter.
+[SV]
+Fallande järnmalmspriser pressar LKAB.
+[SV]
+Ett överutbud har tryckt ned järnmalmspriserna och sätter press på LKAB, men enligt Arctic Securities-analytikern Christian Kopfer kan satsningen på järnsvamp vara en god möjlighet för bolaget. Det är en påminnelse om hur den gröna omställningen och råvarucyklerna drar åt olika håll samtidigt.
+[SV]
+Källa: Omni och DN.
+[EN]
+Connecting the Dots.
+[EN]
+This section is interpretation and informed speculation, not reported news — it is me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN]
+Patricio, the through-line today is doubt about who gets to set the story. Broadcom's own CEO openly questioning the AI-investment frenzy and sending chip stocks tumbling; a US president announcing a ceasefire the warring parties have not signed; Sweden unable to form a government after the Social Democrats' worst-ever result; Brazil's political establishment wobbled by a court scandal. Across finance, geopolitics and domestic politics, the authority that is supposed to anchor expectations keeps slipping — and markets, voters and governments are all improvising in the gap.
+[EN]
+For you in Chile, the chip-stock wobble matters mostly through two channels: copper and the dollar. If the AI-capex boom that has been underwriting global risk appetite gets repriced, that tends to strengthen the dollar — one of today's Spanish-language items literally flagged the dollar recovering strength on Fed policy, energy and AI — and to soften expectations for industrial-metal demand, which is copper-negative at the margin. A stronger dollar paired with softer copper is the classic uncomfortable combination for the peso and for the government's fiscal math. Worth watching rather than predicting.
+[EN]
+Energy is the other thread tying the day together. The ceasefire theatre around Russia and Ukraine, the Houthi strikes on Saudi airports, and oil drifting lower amid Middle East tension all feed the same global energy-price uncertainty that shows up in Chilean import bills and electricity costs. For a copper economy that is also electrifying quickly, the direction of energy prices is close to a second currency — and right now that direction is genuinely unclear.
+[EN]
+Closer to home, the Kast government's toll-cut-for-concession deal and the uptick in young-professional unemployment are the bread-and-butter signals that will shape the national mood just as the Bachelet-comeback chatter starts to reorder the opposition. Chile quietly joining the US-led Escudo de las Américas anti-crime bloc is a small but real marker of where regional security politics is drifting. None of these is dramatic on its own; together they sketch a year in which both domestic economics and regional alignment get more contested — not a forecast, just the terrain worth keeping an eye on.
+[EN]
+Hypothesis Watch.
+[EN]
+An ongoing daily scan of your standing hypothesis — sub-claims a through d — read against the recent two-month trend in the log rather than today's headlines alone, and deliberately not a full re-argument.
+[EN]
+Today mostly feeds sub-claim a, the shrinking of authority and thought-leadership cycles. Broadcom's own chief publicly undercutting the AI-investment consensus, Brazil's establishment rattled by a court scandal, and Sweden's Social Democrats posting their worst result ever and still unable to form a government are all credibility cycles turning over fast — continuing what the log now shows as a twenty-six-day-plus unbroken supporting run for a.
+[EN]
+Sub-claim b, the push toward a stronger internal voice, gets a mild supporting nudge: Hock Tan trusting his own contrarian read over the herd is exactly the act-on-your-own-judgment behavior b describes, in line with the log's mostly-supporting recent stretch after a few neutral days in early October. The back half of the chain stays where it has sat for weeks — today's collective moments, Greta with French students and Lula's million-strong rally, are real but issue-driven and partisan rather than evidence of a broad move away from individualism c, and any cohesion signal d is offset by Ukraine, the Houthi strikes and Sudan. No strong signal either way on c or d, consistent with the log's long neutral streak there.
