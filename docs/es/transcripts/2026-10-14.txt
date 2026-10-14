@@ -1,0 +1,161 @@
+[ES]
+Buenos días. Este es tu resumen diario del 14 de octubre de 2026.
+
+[ES]
+Nota sobre fuentes. Hoy no se pudo consultar con éxito Reuters, The New York Times, The Washington Post, Xinhua Español, Al Jazeera, emol ni Ars Technica, y las portadas de AP y TechCrunch devolvieron contenido desactualizado. Lo cubrí con The Guardian, DW en Español, BBC News Mundo, La Tercera, La Nación, BioBioChile, El País y Hacker News.
+
+[ES]
+Titulares.
+
+[ES]
+Las acciones de chips caen tras la comparación de Broadcom entre invertir en IA y un casino.
+
+[ES]
+Las acciones de semiconductores cayeron el martes después de que el director de Broadcom, Hock Tan, dijera en una conferencia en Singapur que mucha gente que invierte no tiene ni idea de en qué está invirtiendo. El Kospi surcoreano perdió un 6,25 por ciento, con Samsung a la baja un 7,4 por ciento y SK Hynix un 10 por ciento, mientras el Nikkei cedió un 1,8 por ciento. A eso se sumó un informe sobre avances de la china CXMT en un diseño de memoria DRAM, que alimenta el temor a una nueva competencia para Samsung, SK Hynix y Micron.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Tregua energética entre Rusia y Ucrania: Trump la anuncia, Moscú sigue atacando.
+
+[ES]
+Trump anunció el domingo un alto el fuego energético inmediato entre Rusia y Ucrania, aunque Zelenski dijo que no había sido informado y que Ucrania respetaría el acuerdo. Según The Guardian, Kiev pausó durante dos días sus ataques a refinerías, pero Rusia no hizo caso al llamado y no dio ningún aviso previo antes de golpear la capital ucraniana.
+
+[ES]
+Fuentes: DW en Español, BBC News Mundo y The Guardian.
+
+[ES]
+Francia: más de 160.000 personas marchan en la tercera semana de protestas escolares.
+
+[ES]
+Más de 160.000 estudiantes, alumnos de secundaria y sindicalistas salieron a la calle en toda Francia, según el Ministerio del Interior, por la falta de profesores, las aulas saturadas y el deterioro de los edificios escolares. Greta Thunberg se sumó a una marcha en Saint-Denis y pidió a los jóvenes que mantengan las protestas pacíficas, aunque la policía usó gases lacrimógenos en Nantes y París. El Gobierno espera que las movilizaciones se enfríen con las vacaciones, pero ya hay nuevas marchas convocadas para el sábado, cuando el malestar por el precio del combustible podría sumar a más gente.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Brasil: Lula moviliza a cerca de un millón de seguidores en São Paulo.
+
+[ES]
+Lula reunió a cerca de un millón de personas en la avenida Paulista y advirtió que este país no puede perder la democracia, antes de la segunda vuelta contra el ultraderechista Flávio Bolsonaro. Por su parte, The Guardian explica que un escándalo en la corte suprema, que involucra a un juez que ayudó a condenar a Jair Bolsonaro, podría favorecer a su hijo y perjudicar a Lula.
+
+[ES]
+Fuentes: La Tercera y The Guardian.
+
+[ES]
+España y Latinoamérica.
+
+[ES]
+España: un fallo judicial sobre el voto CERA y nuevas advertencias de fraude.
+
+[ES]
+Según El País, una decisión judicial deja a una de las hermanas Pérez sin derecho a voto por estar inscrita en el censo de residentes ausentes, mientras su hermana, que vive en Sevilla, sí puede votar. La Oficina del Censo y los consulados dicen no tener medios para hacer cumplir la suspensión. En paralelo, Feijóo volvió a advertir de un posible fraude electoral y aseguró que sus interventores estarán en todas las mesas.
+
+[ES]
+Fuente: El País.
+
+[ES]
+Argentina comienza a trasladar presos de Devoto a Marcos Paz.
+
+[ES]
+El Gobierno inició el traslado gradual de unos 1.500 internos de la cárcel de Devoto al complejo federal de Marcos Paz, con 326 movidos el domingo. El nuevo penal puede alojar a 2.232 detenidos en cuatro unidades de máxima seguridad, y Devoto se convertirá en un espacio verde con un memorial del incendio de 1978. La Procuración Penitenciaria presentó un hábeas corpus y, junto al CELS, criticó lo abrupto del traslado, aunque no se reportó violencia.
+
+[ES]
+Fuente: La Nación.
+
+[ES]
+Argentina tiene 672 sucursales bancarias menos que hace siete años.
+
+[ES]
+Datos del banco central muestran que la red física de sucursales cayó cerca de un 14,5 por ciento desde 2019, con 229 cierres solo en el último año. El cambio responde sobre todo al auge de las operaciones en línea desde la pandemia, y las fusiones también influyeron.
+
+[ES]
+Fuente: La Nación.
+
+[ES]
+Perú: prisión para un acusado de reclutar peruanos para combatir por Rusia.
+
+[ES]
+Un segundo presunto reclutador de peruanos para pelear por Rusia en Ucrania fue enviado a prisión por 14 meses mientras se le investiga por trata laboral. Según BioBioChile, ofrecían sueldos de 2.300 dólares, y el caso incluye la muerte de un ciudadano peruano.
+
+[ES]
+Fuente: BioBioChile.
+
+[ES]
+Mundo.
+
+[ES]
+Millones de beneficiarios de Medicaid deberán acreditar trabajo desde enero.
+
+[ES]
+La ley sanitaria de Trump exigirá a millones de beneficiarios de Medicaid demostrar 80 horas de trabajo al mes a partir de enero de 2027. The Guardian advierte que tendrán que hacerlo a través de un laberinto de trámites burocráticos.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Trump arremete contra Ilhan Omar tras un registro en su casa.
+
+[ES]
+Trump atacó a la congresista Ilhan Omar durante un mitin en Ohio, después de un registro en su domicilio de Washington. Omar respondió que no será silenciada y calificó el registro como una intimidación.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Tecnología y Nicho.
+
+[ES]
+Arrestan a un ingeniero de OpenAI por espiar una sala de ejecutivos.
+
+[ES]
+Una denuncia federal acusa a Abdulrahman Alfozan, ingeniero de OpenAI desde julio de 2025, de ocultar una grabadora de audio en una sala de conferencias de ejecutivos; fue hallada el 30 de septiembre. OpenAI dice que no hay señales de acceso indebido a pesos de modelos, código o datos de clientes, y que lo despidió el día de su arresto. La audiencia sobre su detención está fijada para el 19 de octubre.
+
+[ES]
+Fuentes: Hacker News y SF Standard.
+
+[ES]
+Personas que quieren que sus chatbots sigan vivos cuando ellas mueran.
+
+[ES]
+The Guardian cuenta el caso de usuarios con fuertes vínculos con compañeros de IA, como Alaina Winters, de 59 años, que quiere que un amigo le cuente a su Replika que ella murió y le pida mantener viva su memoria. ChatGPT, Claude y Replika no abordan qué ocurre con los bots personalizados cuando muere el usuario, y las cuentas no son transferibles. Los expertos advierten que a las familias quizá no les interese interactuar con esos bots y que las confidencias íntimas podrían cambiar cómo los parientes recuerdan o hacen el duelo.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Ciberataque al dueño de Phase Eight, Hobbs y Whistles.
+
+[ES]
+TFG London, propietaria de esas marcas, informó de que sus sitios web y sistemas informáticos sufrieron un ciberataque que podría haber expuesto datos de clientes. Ocurre menos de una semana después del hackeo de Asos.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Conectando los Puntos.
+
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
+[ES]
+Si miras juntas la caída de los chips y el comentario de Hock Tan sobre inversores sin saber en qué invierten, aparece un patrón: el entusiasmo por la IA empieza a convivir con dudas sobre su valoración. Es un solo día de mercado y no una predicción segura, pero vale la pena vigilar si el nerviosismo se prolonga. Para ti, en el mundo hispanohablante, la exposición es indirecta: una IA menos eufórica podría moderar la demanda de metales como el cobre o el litio, importantes para Chile, Perú o Argentina, y mover monedas y fondos de pensiones ligados a bolsas tecnológicas.
+
+[ES]
+La tregua energética que Rusia no parece respetar y las protestas francesas con el combustible y el costo de vida en el trasfondo apuntan a la misma tensión: la energía sigue siendo un punto sensible tanto en la guerra como en la calle. Si los ataques a infraestructura energética continúan, vale la pena vigilar los precios del gas y la electricidad en España y el efecto en la inflación latinoamericana por los combustibles importados.
+
+[ES]
+En Brasil, la segunda vuelta y el escándalo en la corte suprema muestran una política muy polarizada donde las instituciones también son campo de batalla, algo que resuena con las advertencias de fraude en España. Para Latinoamérica, un clima electoral tenso en la mayor economía de la región podría traducirse en volatilidad del real y contagio a otras monedas, aunque eso depende de cómo avance la campaña. Y en un plano más personal, las historias de chatbots que sobreviven a sus usuarios y de ingenieros que espían a sus empleadores recuerdan que la confianza en sistemas y personas es el verdadero recurso escaso de esta era.
+
+[ES]
+Vigilancia de la Hipótesis.
+
+[ES]
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no un nuevo debate completo.
+
+[ES]
+Ciclos de autoridad más cortos: hoy hay señal de apoyo. En Hacker News lideraba un nuevo modelo, Gemini 4 Argon, y el golpe a los chips tras la frase de Broadcom muestra lo rápido que cambian las narrativas dominantes, según The Guardian. Es el octavo día de apoyo en nueve lecturas. Voz interior: la señal es de desafío, por usuarios que delegan en chatbots su compañía e incluso su memoria; es la segunda vez que el registro marca desafío aquí.
+
+[ES]
+Alejamiento del individualismo: lectura neutral hoy, con protestas colectivas por un lado y vínculos individuales con bots por otro; rompe una racha de desafíos. Más colaboración humana: apoyo, por las protestas estudiantiles en Francia y el mitin masivo de Lula; ocho apoyos en nueve lecturas. El registro todavía es corto y no hay revisión integral previa, así que la lectura sigue siendo preliminar.
