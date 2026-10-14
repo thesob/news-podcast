@@ -1,122 +1,178 @@
+[SECTION intro]
+[ES]
+Buenos días. Este es tu resumen diario del 14 de octubre de 2026.
+
+[ES]
+Nota sobre fuentes. Hoy no se pudo consultar con éxito Reuters, The New York Times, The Washington Post, Xinhua Español, Al Jazeera, emol ni Ars Technica, y las portadas de AP y TechCrunch devolvieron contenido desactualizado. Lo cubrí con The Guardian, DW en Español, BBC News Mundo, La Tercera, La Nación, BioBioChile, El País y Hacker News.
+
 [SECTION news]
 [ES]
 Titulares.
+
 [ITEM]
 [ES]
-Trump anuncia una tregua energética entre Rusia y Ucrania, pero los ataques continúan.
+Las acciones de chips caen tras la comparación de Broadcom entre invertir en IA y un casino.
+
 [ES]
-Trump dijo que Rusia y Ucrania acordaron dejar de atacar la infraestructura energética del otro y pidió a Zelenski y a Putin que terminen la guerra. Sin embargo, Zelenski asegura que no sabía nada del acuerdo y que Rusia golpeó al menos seis instalaciones energéticas tras el anuncio, mientras Lavrov afirma que Moscú seguirá su campaña. El anuncio llegó después de que Washington aliviara temporalmente las sanciones al diésel ruso, algo que molestó a Kiev y a Europa y que analistas vinculan con el deseo de bajar los precios del combustible antes de las legislativas del 3 de noviembre. Entre tanto, la UE aprobó su mayor paquete de sanciones desde 2022 y Merz insiste en que se mantendrán.
+Las acciones de semiconductores cayeron el martes después de que el director de Broadcom, Hock Tan, dijera en una conferencia en Singapur que mucha gente que invierte no tiene ni idea de en qué está invirtiendo. El Kospi surcoreano perdió un 6,25 por ciento, con Samsung a la baja un 7,4 por ciento y SK Hynix un 10 por ciento, mientras el Nikkei cedió un 1,8 por ciento. A eso se sumó un informe sobre avances de la china CXMT en un diseño de memoria DRAM, que alimenta el temor a una nueva competencia para Samsung, SK Hynix y Micron.
+
 [ES]
-Fuentes: Al Jazeera, DW en Español, BBC Mundo, Xinhua Español.
+Fuente: The Guardian.
+
 [ITEM]
 [ES]
-Ataques hutíes a aeropuertos de Arabia Saudita paralizan vuelos en Riad.
+Tregua energética entre Rusia y Ucrania: Trump la anuncia, Moscú sigue atacando.
+
 [ES]
-Riad sufrió por tercer día consecutivo ataques con misiles hutíes y los vuelos del aeropuerto King Khalid fueron suspendidos; también habría sido atacado el aeropuerto de Dammam. La coalición liderada por Arabia Saudita dice haber interceptado dos misiles balísticos dirigidos a la base aérea de Khamis Mushait, y Trump afirmó que los hutíes se están portando "muy mal". El emir de Catar pidió redoblar los esfuerzos para asegurar la navegación en el Golfo y el estrecho de Ormuz y proteger infraestructura energética y civil. Además, los cancilleres de Arabia Saudita e Irán conversaron para rebajar tensiones, el primer contacto público desde que se intensificaron los ataques.
+Trump anunció el domingo un alto el fuego energético inmediato entre Rusia y Ucrania, aunque Zelenski dijo que no había sido informado y que Ucrania respetaría el acuerdo. Según The Guardian, Kiev pausó durante dos días sus ataques a refinerías, pero Rusia no hizo caso al llamado y no dio ningún aviso previo antes de golpear la capital ucraniana.
+
 [ES]
-Fuentes: Al Jazeera, The Guardian.
+Fuentes: DW en Español, BBC News Mundo y The Guardian.
+
 [ITEM]
 [ES]
-Lula reúne a una multitud en São Paulo a dos semanas de la segunda vuelta.
+Francia: más de 160.000 personas marchan en la tercera semana de protestas escolares.
+
 [ES]
-Miles de seguidores de Lula —un millón según el PT— llenaron la Avenida Paulista en una "Marcha por la democracia" para impulsar su remontada frente al ultraderechista Flávio Bolsonaro en la segunda vuelta del 25 de octubre. Lula llamó a votar a los más de 30 millones de brasileños que no acudieron a las urnas en la primera vuelta y denunció una supuesta intromisión de la justicia electoral, un asunto que llevará a los tribunales. También destacó que el Senado votará la próxima semana la reducción de la semana laboral, medida con la que espera dar impulso a su campaña.
+Más de 160.000 estudiantes, alumnos de secundaria y sindicalistas salieron a la calle en toda Francia, según el Ministerio del Interior, por la falta de profesores, las aulas saturadas y el deterioro de los edificios escolares. Greta Thunberg se sumó a una marcha en Saint-Denis y pidió a los jóvenes que mantengan las protestas pacíficas, aunque la policía usó gases lacrimógenos en Nantes y París. El Gobierno espera que las movilizaciones se enfríen con las vacaciones, pero ya hay nuevas marchas convocadas para el sábado, cuando el malestar por el precio del combustible podría sumar a más gente.
+
 [ES]
-Fuentes: La Tercera, Xinhua Español.
+Fuente: The Guardian.
+
 [ITEM]
 [ES]
-Un ciberataque a sistemas de refrigeración golpea a cientos de supermercados en Francia.
+Brasil: Lula moviliza a cerca de un millón de seguidores en São Paulo.
+
 [ES]
-El ataque elevó las temperaturas de neveras y congeladores hasta 50 °C en cientos de tiendas, arruinando alimentos y provocando incendios en algunos locales. Cadenas como Intermarché, Carrefour, Leclerc y Monoprix lo confirmaron, y el director de Intermarché habló de pérdidas de decenas de millones de euros en un solo día. Las autoridades apuntan a una vulnerabilidad en software de la empresa danesa Danfoss, que dice que los equipos afectados usaban firmware desactualizado; además se habrían visto afectados comercios en España, Portugal, Polonia, Alemania y Bélgica.
+Lula reunió a cerca de un millón de personas en la avenida Paulista y advirtió que este país no puede perder la democracia, antes de la segunda vuelta contra el ultraderechista Flávio Bolsonaro. Por su parte, The Guardian explica que un escándalo en la corte suprema, que involucra a un juez que ayudó a condenar a Jair Bolsonaro, podría favorecer a su hijo y perjudicar a Lula.
+
 [ES]
-Fuentes: Al Jazeera.
-[ITEM]
-[ES]
-Meta lanza Muse Wonder, su primer modelo de IA de frontera.
-[ES]
-El laboratorio de Superinteligencia de Meta presentó Muse Wonder y Muse Wonder Full, que según sus propias pruebas igualan a los mejores modelos rivales en varios benchmarks. Wonder cuesta 4 dólares por millón de tokens de entrada y 20 por millón de salida a través de la API de Meta, mientras que Wonder Full queda limitado a suscriptores de Muse Code. Ambos alimentarán al agente Muse y fueron entrenados en el centro de datos Prometheus, en Ohio.
-[ES]
-Fuentes: TechCrunch.
+Fuentes: La Tercera y The Guardian.
+
 [ES]
 España y Latinoamérica.
+
 [ITEM]
 [ES]
-El dólar recupera fuerza en 2026 frente al euro.
+España: un fallo judicial sobre el voto CERA y nuevas advertencias de fraude.
+
 [ES]
-Según un análisis de BBVA Research recogido por El Confidencial Digital, el dólar empezó el año débil pero ganó terreno cuando los inversores pasaron de esperar recortes rápidos de la Fed a prever tipos altos por más tiempo. Pesan también la capacidad de EE. UU. para absorber shocks energéticos y la atracción de capital hacia la inversión en inteligencia artificial. Para quien tiene deudas o ingresos en dólares, el cambio de dirección importa.
+Según El País, una decisión judicial deja a una de las hermanas Pérez sin derecho a voto por estar inscrita en el censo de residentes ausentes, mientras su hermana, que vive en Sevilla, sí puede votar. La Oficina del Censo y los consulados dicen no tener medios para hacer cumplir la suspensión. En paralelo, Feijóo volvió a advertir de un posible fraude electoral y aseguró que sus interventores estarán en todas las mesas.
+
 [ES]
-Fuentes: El Confidencial Digital.
+Fuente: El País.
+
 [ITEM]
 [ES]
-Argentina comienza a trasladar a 1.500 presos de Devoto a Marcos Paz.
+Argentina comienza a trasladar presos de Devoto a Marcos Paz.
+
 [ES]
-Tras un acuerdo entre la Nación y la Ciudad, el domingo arrancó el traslado gradual de unos 1.500 detenidos de Villa Devoto al Complejo Penitenciario Federal de Marcos Paz, con 326 internos movilizados el primer día. Serán alojados en cuatro unidades de máxima seguridad con capacidad para 2.232 personas, en el marco del cierre de la cárcel de Devoto.
+El Gobierno inició el traslado gradual de unos 1.500 internos de la cárcel de Devoto al complejo federal de Marcos Paz, con 326 movidos el domingo. El nuevo penal puede alojar a 2.232 detenidos en cuatro unidades de máxima seguridad, y Devoto se convertirá en un espacio verde con un memorial del incendio de 1978. La Procuración Penitenciaria presentó un hábeas corpus y, junto al CELS, criticó lo abrupto del traslado, aunque no se reportó violencia.
+
 [ES]
-Fuentes: La Nación.
+Fuente: La Nación.
+
+[ITEM]
+[ES]
+Argentina tiene 672 sucursales bancarias menos que hace siete años.
+
+[ES]
+Datos del banco central muestran que la red física de sucursales cayó cerca de un 14,5 por ciento desde 2019, con 229 cierres solo en el último año. El cambio responde sobre todo al auge de las operaciones en línea desde la pandemia, y las fusiones también influyeron.
+
+[ES]
+Fuente: La Nación.
+
+[ITEM]
+[ES]
+Perú: prisión para un acusado de reclutar peruanos para combatir por Rusia.
+
+[ES]
+Un segundo presunto reclutador de peruanos para pelear por Rusia en Ucrania fue enviado a prisión por 14 meses mientras se le investiga por trata laboral. Según BioBioChile, ofrecían sueldos de 2.300 dólares, y el caso incluye la muerte de un ciudadano peruano.
+
+[ES]
+Fuente: BioBioChile.
+
 [ES]
 Mundo.
+
 [ITEM]
 [ES]
-Trump evita respaldar a Netanyahu a dos semanas de las elecciones en Israel.
+Millones de beneficiarios de Medicaid deberán acreditar trabajo desde enero.
+
 [ES]
-A pesar de su larga relación con Netanyahu, Trump no ha dado su respaldo al primer ministro israelí de cara a las elecciones del 27 de octubre. Al Jazeera señala que el sentir público está cambiando, lo que explicaría la cautela del presidente estadounidense.
+La ley sanitaria de Trump exigirá a millones de beneficiarios de Medicaid demostrar 80 horas de trabajo al mes a partir de enero de 2027. The Guardian advierte que tendrán que hacerlo a través de un laberinto de trámites burocráticos.
+
 [ES]
-Fuentes: Al Jazeera.
+Fuente: The Guardian.
+
 [ITEM]
 [ES]
-El partido de Imran Khan se prepara para resistir la intervención federal en Khyber Pakhtunkhwa.
+Trump arremete contra Ilhan Omar tras un registro en su casa.
+
 [ES]
-Pakistán impuso un estado de emergencia y suspendió el gobierno provincial de Khyber Pakhtunkhwa. El PTI de Imran Khan, que gobernaba esa provincia, se prepara para combatir el control federal.
+Trump atacó a la congresista Ilhan Omar durante un mitin en Ohio, después de un registro en su domicilio de Washington. Omar respondió que no será silenciada y calificó el registro como una intimidación.
+
 [ES]
-Fuentes: Al Jazeera.
-[ITEM]
-[ES]
-Agentes federales registran la casa de la congresista Ilhan Omar.
-[ES]
-Agentes federales de EE. UU. registraron el domicilio de la congresista demócrata Ilhan Omar, crítica de Trump. Ella respondió que "no será silenciada".
-[ES]
-Fuentes: Al Jazeera.
+Fuente: The Guardian.
+
 [ES]
 Tecnología y Nicho.
+
 [ITEM]
 [ES]
-Brad Smith, de Microsoft, pide regular la IA y propone al Reino Unido como líder.
+Arrestan a un ingeniero de OpenAI por espiar una sala de ejecutivos.
+
 [ES]
-El presidente de Microsoft sostiene que la IA está menos regulada que productos cotidianos como los lácteos o los electrodomésticos, y defiende medidas obligatorias como la notificación de brechas y la evaluación externa. Considera que el Reino Unido, con su AI Security Institute, está mejor situado que EE. UU. o la UE para liderar normas globales de seguridad. Calificó de "buen paso" el compromiso voluntario de la Casa Blanca, pero dijo que se queda corto.
+Una denuncia federal acusa a Abdulrahman Alfozan, ingeniero de OpenAI desde julio de 2025, de ocultar una grabadora de audio en una sala de conferencias de ejecutivos; fue hallada el 30 de septiembre. OpenAI dice que no hay señales de acceso indebido a pesos de modelos, código o datos de clientes, y que lo despidió el día de su arresto. La audiencia sobre su detención está fijada para el 19 de octubre.
+
 [ES]
-Fuentes: TechCrunch, The Guardian.
+Fuentes: Hacker News y SF Standard.
+
 [ITEM]
 [ES]
-WindBorne consigue un contrato de casi 50 millones de dólares con la Fuerza Aérea estadounidense.
+Personas que quieren que sus chatbots sigan vivos cuando ellas mueran.
+
 [ES]
-La startup de Silicon Valley combina globos meteorológicos con pronóstico basado en IA. El contrato militar reconoce el valor de sus datos atmosféricos.
+The Guardian cuenta el caso de usuarios con fuertes vínculos con compañeros de IA, como Alaina Winters, de 59 años, que quiere que un amigo le cuente a su Replika que ella murió y le pida mantener viva su memoria. ChatGPT, Claude y Replika no abordan qué ocurre con los bots personalizados cuando muere el usuario, y las cuentas no son transferibles. Los expertos advierten que a las familias quizá no les interese interactuar con esos bots y que las confidencias íntimas podrían cambiar cómo los parientes recuerdan o hacen el duelo.
+
 [ES]
-Fuentes: TechCrunch.
+Fuente: The Guardian.
+
 [ITEM]
 [ES]
-Una startup promete planos listos para permiso en minutos.
+Ciberataque al dueño de Phase Eight, Hobbs y Whistles.
+
 [ES]
-Blueprints AI, de Santa Monica, transforma una foto, un PDF o un boceto en planos que cumplen la normativa local. La empresa asegura que así se acelera el proceso de permisos de construcción.
+TFG London, propietaria de esas marcas, informó de que sus sitios web y sistemas informáticos sufrieron un ciberataque que podría haber expuesto datos de clientes. Ocurre menos de una semana después del hackeo de Asos.
+
 [ES]
-Fuentes: TechCrunch.
+Fuente: The Guardian.
+
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
+
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
 [ES]
-Mira lo que une varias historias de hoy: una tregua energética anunciada por un presidente que quizá busca abaratar el combustible antes de unas elecciones, misiles sobre aeropuertos del Golfo y un llamado a proteger Ormuz. La energía vuelve a ser el hilo común. Si el Golfo sigue inestable, vale la pena vigilar el precio del petróleo, y con él los costos de transporte y electricidad en España y los países importadores de la región; para exportadores como Chile o Perú el efecto en el cobre y otras materias primas es más ambiguo, y no es una predicción segura.
+Si miras juntas la caída de los chips y el comentario de Hock Tan sobre inversores sin saber en qué invierten, aparece un patrón: el entusiasmo por la IA empieza a convivir con dudas sobre su valoración. Es un solo día de mercado y no una predicción segura, pero vale la pena vigilar si el nerviosismo se prolonga. Para ti, en el mundo hispanohablante, la exposición es indirecta: una IA menos eufórica podría moderar la demanda de metales como el cobre o el litio, importantes para Chile, Perú o Argentina, y mover monedas y fondos de pensiones ligados a bolsas tecnológicas.
+
 [ES]
-Un dólar que se fortalece por tipos altos durante más tiempo, sumado a un petróleo caro, es una combinación incómoda para quien debe en dólares en Latinoamérica o para quien paga importaciones. En Europa, un euro más débil encarece la energía que se factura en dólares. Habrá que ver si la Fed confirma ese giro; hoy es solo una lectura posible.
+La tregua energética que Rusia no parece respetar y las protestas francesas con el combustible y el costo de vida en el trasfondo apuntan a la misma tensión: la energía sigue siendo un punto sensible tanto en la guerra como en la calle. Si los ataques a infraestructura energética continúan, vale la pena vigilar los precios del gas y la electricidad en España y el efecto en la inflación latinoamericana por los combustibles importados.
+
 [ES]
-Otra pista: el ciberataque a las neveras de los supermercados franceses muestra cómo una vulnerabilidad en software industrial puede convertirse en pérdidas físicas en varios países a la vez. Al mismo tiempo, Meta lanza un modelo de frontera y Brad Smith pide reglas obligatorias para la IA. Es plausible que la presión por regular la seguridad de sistemas conectados y de la IA crezca juntas, y que eso llegue a empresas y comercios de España y Latinoamérica como exigencias de actualización y auditoría.
-[ES]
-En política, la marcha de Lula, la intervención en una provincia de Pakistán y el registro a una congresista crítica de Trump apuntan a sociedades muy polarizadas donde las instituciones se disputan. La segunda vuelta brasileña del 25 de octubre importa para toda la región por el comercio y por el tono político que marque. Como siempre, esto es una lectura, no un hecho.
+En Brasil, la segunda vuelta y el escándalo en la corte suprema muestran una política muy polarizada donde las instituciones también son campo de batalla, algo que resuena con las advertencias de fraude en España. Para Latinoamérica, un clima electoral tenso en la mayor economía de la región podría traducirse en volatilidad del real y contagio a otras monedas, aunque eso depende de cómo avance la campaña. Y en un plano más personal, las historias de chatbots que sobreviven a sus usuarios y de ingenieros que espían a sus empleadores recuerdan que la confianza en sistemas y personas es el verdadero recurso escaso de esta era.
+
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
+
 [ES]
-Seguimiento continuo de la hipótesis vigente: un escaneo diario informado por la tendencia reciente, no una nueva argumentación completa.
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no un nuevo debate completo.
+
 [ES]
-Con solo siete entradas previas en el registro (del 5 al 11 de octubre), la tendencia aún es corta: (a) acumula apoyo casi a diario, (c) suele cuestionar la hipótesis, y (b) casi siempre queda neutral. Hoy no cambia ese patrón. No hay todavía una revisión integral previa que enmarque la lectura.
+Ciclos de autoridad más cortos: hoy hay señal de apoyo. En Hacker News lideraba un nuevo modelo, Gemini 4 Argon, y el golpe a los chips tras la frase de Broadcom muestra lo rápido que cambian las narrativas dominantes, según The Guardian. Es el octavo día de apoyo en nueve lecturas. Voz interior: la señal es de desafío, por usuarios que delegan en chatbots su compañía e incluso su memoria; es la segunda vez que el registro marca desafío aquí.
+
 [ES]
-(a) Apoyo: Meta lanza un modelo de frontera, según TechCrunch, y la IA compite por el liderazgo con ciclos de relevo muy cortos; continúa la racha de apoyo en (a). (b) Neutral: Brad Smith pide regular la IA, pero no hay evidencia sobre la voz interior de las personas. (c) Desafío: la polarización en Brasil, la intervención federal en Pakistán y la guerra en el Golfo siguen apuntando más a conflicto que a salir del individualismo. (d) Apoyo moderado: la movilización masiva en la Avenida Paulista y el esfuerzo conjunto por regular la IA muestran impulsos de acción colectiva, aunque no son prueba de cohesión duradera.
+Alejamiento del individualismo: lectura neutral hoy, con protestas colectivas por un lado y vínculos individuales con bots por otro; rompe una racha de desafíos. Más colaboración humana: apoyo, por las protestas estudiantiles en Francia y el mitin masivo de Lula; ocho apoyos en nueve lecturas. El registro todavía es corto y no hay revisión integral previa, así que la lectura sigue siendo preliminar.
