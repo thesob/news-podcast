@@ -1,178 +1,162 @@
-[SECTION intro]
-[ES]
-Buenos días. Este es tu resumen diario del 14 de octubre de 2026.
-
-[ES]
-Nota sobre fuentes. Hoy no se pudo consultar con éxito Reuters, The New York Times, The Washington Post, Xinhua Español, Al Jazeera, emol ni Ars Technica, y las portadas de AP y TechCrunch devolvieron contenido desactualizado. Lo cubrí con The Guardian, DW en Español, BBC News Mundo, La Tercera, La Nación, BioBioChile, El País y Hacker News.
-
 [SECTION news]
 [ES]
 Titulares.
-
 [ITEM]
 [ES]
-Las acciones de chips caen tras la comparación de Broadcom entre invertir en IA y un casino.
-
+La escasez de diésel seguiría hasta 2027, pese al acuerdo de Trump con Rusia.
 [ES]
-Las acciones de semiconductores cayeron el martes después de que el director de Broadcom, Hock Tan, dijera en una conferencia en Singapur que mucha gente que invierte no tiene ni idea de en qué está invirtiendo. El Kospi surcoreano perdió un 6,25 por ciento, con Samsung a la baja un 7,4 por ciento y SK Hynix un 10 por ciento, mientras el Nikkei cedió un 1,8 por ciento. A eso se sumó un informe sobre avances de la china CXMT en un diseño de memoria DRAM, que alimenta el temor a una nueva competencia para Samsung, SK Hynix y Micron.
-
+El blog en vivo de negocios de The Guardian recoge que se espera que el mercado del diésel siga tenso hasta 2027, a pesar del acuerdo que Trump alcanzó con Rusia. La primera ministra italiana, Giorgia Meloni, criticó ese pacto, y la misma jornada trajo recortes de empleo de GSK en Bélgica y advertencias del FMI sobre el aumento de los costos de endeudamiento de los gobiernos. Para quien paga combustible o transporta mercancías, es una señal de que los precios de la energía no se calmarán pronto.
 [ES]
 Fuente: The Guardian.
-
 [ITEM]
 [ES]
-Tregua energética entre Rusia y Ucrania: Trump la anuncia, Moscú sigue atacando.
-
+Un misil impacta la sede de Saudi Aramco en medio de la escalada con los hutíes.
 [ES]
-Trump anunció el domingo un alto el fuego energético inmediato entre Rusia y Ucrania, aunque Zelenski dijo que no había sido informado y que Ucrania respetaría el acuerdo. Según The Guardian, Kiev pausó durante dos días sus ataques a refinerías, pero Rusia no hizo caso al llamado y no dio ningún aviso previo antes de golpear la capital ucraniana.
-
+Un misil balístico golpeó un edificio del complejo de Saudi Aramco en Dhahran y provocó un pequeño incendio, sin víctimas. El ataque se produce mientras se intensifica el conflicto con los hutíes, y apunta al corazón de la mayor petrolera del mundo, algo que los mercados energéticos vigilan de cerca.
 [ES]
-Fuentes: DW en Español, BBC News Mundo y The Guardian.
-
+Fuente: India Today, vía GNews.
 [ITEM]
 [ES]
-Francia: más de 160.000 personas marchan en la tercera semana de protestas escolares.
-
+Burnham recibe a Zelenski mientras Rusia deja sin luz a 600.000 ucranianos.
 [ES]
-Más de 160.000 estudiantes, alumnos de secundaria y sindicalistas salieron a la calle en toda Francia, según el Ministerio del Interior, por la falta de profesores, las aulas saturadas y el deterioro de los edificios escolares. Greta Thunberg se sumó a una marcha en Saint-Denis y pidió a los jóvenes que mantengan las protestas pacíficas, aunque la policía usó gases lacrimógenos en Nantes y París. El Gobierno espera que las movilizaciones se enfríen con las vacaciones, pero ya hay nuevas marchas convocadas para el sábado, cuando el malestar por el precio del combustible podría sumar a más gente.
-
+El primer ministro británico, Andy Burnham, recibirá a Volodímir Zelenski en el número 10 de Downing Street como muestra de apoyo "a toda prueba", en un momento de tensiones entre Ucrania y Trump. Mientras tanto, nuevos ataques rusos dejaron a unas 600.000 personas sin electricidad, y Zelenski acusó a Moscú de "faltarle el respeto" a Estados Unidos.
 [ES]
 Fuente: The Guardian.
-
 [ITEM]
 [ES]
-Brasil: Lula moviliza a cerca de un millón de seguidores en São Paulo.
-
+El Vaticano confirma que el papa León XIV tiene cáncer de pulmón.
 [ES]
-Lula reunió a cerca de un millón de personas en la avenida Paulista y advirtió que este país no puede perder la democracia, antes de la segunda vuelta contra el ultraderechista Flávio Bolsonaro. Por su parte, The Guardian explica que un escándalo en la corte suprema, que involucra a un juez que ayudó a condenar a Jair Bolsonaro, podría favorecer a su hijo y perjudicar a Lula.
-
+El Vaticano informó que el papa fue operado y que se le extirpó parte del pulmón derecho; sus audiencias quedan canceladas hasta el 20 de octubre. La Santa Sede asegura que la recuperación avanza según lo previsto, y el propio pontífice pidió que recen por él.
 [ES]
-Fuentes: La Tercera y The Guardian.
-
+Fuentes: NBC News y EWTN News.
+[ITEM]
+[ES]
+Nvidia dona 250 millones de dólares en computación a Reino Unido para seguridad de la IA.
+[ES]
+Nvidia, valorada en 5,5 billones de dólares, donará durante cinco años capacidad de cómputo para investigación en seguridad de la IA en el Reino Unido, en gran parte para investigadores de todo el país e instituciones como el Imperial College. El Instituto de Seguridad de la IA británico podrá además examinar modelos avanzados de empresas como OpenAI, Anthropic y Google antes de su lanzamiento. El ministro de IA admitió que es "probable, si no inevitable" que las defensas cibernéticas británicas sean vulneradas.
+[ES]
+Fuente: The Guardian.
 [ES]
 España y Latinoamérica.
-
 [ITEM]
 [ES]
-España: un fallo judicial sobre el voto CERA y nuevas advertencias de fraude.
-
+Felipe VI visita Melilla y pide a Marruecos una relación basada en la confianza.
 [ES]
-Según El País, una decisión judicial deja a una de las hermanas Pérez sin derecho a voto por estar inscrita en el censo de residentes ausentes, mientras su hermana, que vive en Sevilla, sí puede votar. La Oficina del Censo y los consulados dicen no tener medios para hacer cumplir la suspensión. En paralelo, Feijóo volvió a advertir de un posible fraude electoral y aseguró que sus interventores estarán en todas las mesas.
-
+Los reyes Felipe VI y Letizia realizan su primera visita oficial a Melilla, tras pasar el día anterior en Ceuta, con una agenda que incluye una reunión en la Asamblea, una visita escolar y un discurso. El rey exigió a Marruecos una relación basada en "la confianza" y "la buena fe", y en Ceuta calificó de "violación de nuestra frontera" la entrada masiva de más de 70.000 personas a fines de julio. Rabat aún no ha tomado represalias oficiales, aunque se espera una respuesta.
 [ES]
 Fuente: El País.
-
 [ITEM]
 [ES]
-Argentina comienza a trasladar presos de Devoto a Marcos Paz.
-
+Brasil: Flávio Bolsonaro supera por dos puntos a Lula en un sondeo de segunda vuelta.
 [ES]
-El Gobierno inició el traslado gradual de unos 1.500 internos de la cárcel de Devoto al complejo federal de Marcos Paz, con 326 movidos el domingo. El nuevo penal puede alojar a 2.232 detenidos en cuatro unidades de máxima seguridad, y Devoto se convertirá en un espacio verde con un memorial del incendio de 1978. La Procuración Penitenciaria presentó un hábeas corpus y, junto al CELS, criticó lo abrupto del traslado, aunque no se reportó violencia.
-
+Una nueva encuesta de Quaest ubica a Flávio Bolsonaro con 46% y a Lula con 44% en un eventual balotaje. La diferencia está dentro del margen de error, por lo que se trata de un empate técnico que anticipa una segunda vuelta muy reñida.
 [ES]
-Fuente: La Nación.
-
+Fuente: Clarín.
 [ITEM]
 [ES]
-Argentina tiene 672 sucursales bancarias menos que hace siete años.
-
+YPF apunta a una decisión final de inversión en Vaca Muerta el 26 de noviembre.
 [ES]
-Datos del banco central muestran que la red física de sucursales cayó cerca de un 14,5 por ciento desde 2019, con 229 cierres solo en el último año. El cambio responde sobre todo al auge de las operaciones en línea desde la pandemia, y las fusiones también influyeron.
-
+El presidente de YPF, Horacio Marín, habló en el almuerzo del Cicyp sobre cómo Argentina pasó de ser un país con petróleo a uno petrolero. Dijo que la compañía se concentra en Vaca Muerta y que la decisión final de inversión con Eni y XRG está fijada para el 26 de noviembre.
 [ES]
-Fuente: La Nación.
-
+Fuente: Infobae.
 [ITEM]
 [ES]
-Perú: prisión para un acusado de reclutar peruanos para combatir por Rusia.
-
+Canarias prepara 282.263 vacunas contra la gripe y amplía la protección frente al VRS.
 [ES]
-Un segundo presunto reclutador de peruanos para pelear por Rusia en Ucrania fue enviado a prisión por 14 meses mientras se le investiga por trata laboral. Según BioBioChile, ofrecían sueldos de 2.300 dólares, y el caso incluye la muerte de un ciudadano peruano.
-
+La campaña de vacunación 2026-27 en Canarias arrancará el 19 de octubre con 282.263 dosis contra la gripe. Además, se amplía la protección frente al virus respiratorio sincitial a personas mayores de 70 años institucionalizadas y a ciertos pacientes de riesgo.
 [ES]
-Fuente: BioBioChile.
-
+Fuente: Gomera Verde.
 [ES]
 Mundo.
-
 [ITEM]
 [ES]
-Millones de beneficiarios de Medicaid deberán acreditar trabajo desde enero.
-
+Pakistán blinda el feudo de Imran Khan, pero podría salirle el tiro por la culata.
 [ES]
-La ley sanitaria de Trump exigirá a millones de beneficiarios de Medicaid demostrar 80 horas de trabajo al mes a partir de enero de 2027. The Guardian advierte que tendrán que hacerlo a través de un laberinto de trámites burocráticos.
-
+La provincia de Khyber Pakhtunkhwa está bajo régimen de emergencia en medio de un pulso con los seguidores del encarcelado Imran Khan. El análisis de la BBC advierte que el cerco podría volverse en contra del gobierno.
 [ES]
-Fuente: The Guardian.
-
+Fuente: BBC News, vía GNews.
 [ITEM]
 [ES]
-Trump arremete contra Ilhan Omar tras un registro en su casa.
-
+Comienza el juicio a Russell Brand por violación y agresión sexual.
 [ES]
-Trump atacó a la congresista Ilhan Omar durante un mitin en Ohio, después de un registro en su domicilio de Washington. Omar respondió que no será silenciada y calificó el registro como una intimidación.
-
+La fiscalía describió al comediante como "despiadado y calculador" en sus declaraciones iniciales ante el jurado. Es el arranque de un juicio muy seguido en el Reino Unido.
 [ES]
 Fuente: The Guardian.
-
+[ITEM]
+[ES]
+Restringen el acceso a Starlink a soldados ucranianos en combate.
+[ES]
+Las restricciones a las terminales Starlink alteraron misiones de combate de las tropas ucranianas. El episodio muestra cuánto depende el frente de infraestructura privada de comunicaciones.
+[ES]
+Fuente: The Guardian.
+[ITEM]
+[ES]
+Reino Unido: Farage quiere procesar a ONG que ayudan a solicitantes de asilo y choca con Badenoch por Chagos.
+[ES]
+Nigel Farage dijo que las organizaciones benéficas que ayudan a solicitantes de asilo a llegar al Reino Unido deberían ser procesadas. Por separado, él y la líder conservadora Kemi Badenoch se enfrentaron por las islas Chagos, y ella calificó de "humillante" la oferta de Farage a Trump.
+[ES]
+Fuente: The Guardian.
+[ITEM]
+[ES]
+Trump hace campaña en Arizona y Montana con su aprobación a la baja.
+[ES]
+Tras una parada en Alaska, el presidente estadounidense encabeza mítines en estados conservadores de cara a las elecciones de medio mandato. Lo hace en un contexto de caída en sus índices de aprobación.
+[ES]
+Fuente: The Guardian.
 [ES]
 Tecnología y Nicho.
-
 [ITEM]
 [ES]
-Arrestan a un ingeniero de OpenAI por espiar una sala de ejecutivos.
-
+Detienen a un empleado de OpenAI tras hallar un dispositivo de grabación oculto.
 [ES]
-Una denuncia federal acusa a Abdulrahman Alfozan, ingeniero de OpenAI desde julio de 2025, de ocultar una grabadora de audio en una sala de conferencias de ejecutivos; fue hallada el 30 de septiembre. OpenAI dice que no hay señales de acceso indebido a pesos de modelos, código o datos de clientes, y que lo despidió el día de su arresto. La audiencia sobre su detención está fijada para el 19 de octubre.
-
-[ES]
-Fuentes: Hacker News y SF Standard.
-
-[ITEM]
-[ES]
-Personas que quieren que sus chatbots sigan vivos cuando ellas mueran.
-
-[ES]
-The Guardian cuenta el caso de usuarios con fuertes vínculos con compañeros de IA, como Alaina Winters, de 59 años, que quiere que un amigo le cuente a su Replika que ella murió y le pida mantener viva su memoria. ChatGPT, Claude y Replika no abordan qué ocurre con los bots personalizados cuando muere el usuario, y las cuentas no son transferibles. Los expertos advierten que a las familias quizá no les interese interactuar con esos bots y que las confidencias íntimas podrían cambiar cómo los parientes recuerdan o hacen el duelo.
-
+OpenAI encontró un dispositivo de grabación escondido en sus oficinas y lo remitió al FBI. Un empleado fue arrestado.
 [ES]
 Fuente: The Guardian.
-
 [ITEM]
 [ES]
-Ciberataque al dueño de Phase Eight, Hobbs y Whistles.
-
+El CEO de Flock defiende su tecnología de vigilancia pese a la polémica.
 [ES]
-TFG London, propietaria de esas marcas, informó de que sus sitios web y sistemas informáticos sufrieron un ciberataque que podría haber expuesto datos de clientes. Ocurre menos de una semana después del hackeo de Asos.
-
+En TechCrunch Disrupt, Garrett Langley, CEO de Flock, defendió que los beneficios contra el crimen superan el riesgo de uso indebido. Con la frase "no deberíamos pausar el progreso", respondió a las críticas de privacidad.
 [ES]
-Fuente: The Guardian.
-
+Fuente: TechCrunch.
+[ITEM]
+[ES]
+Jio, de Ambani, busca 3.200 millones de dólares en la que podría ser la mayor OPI de India.
+[ES]
+Jio Platforms planea destinar la mayor parte de lo recaudado a reducir deuda. La empresa busca además expandirse más allá de las telecomunicaciones.
+[ES]
+Fuente: TechCrunch.
+[ITEM]
+[ES]
+Intero Biosystems propone probar fármacos en mini intestinos humanos, no en animales.
+[ES]
+La startup vende tejido intestinal humano cultivado en laboratorio a farmacéuticas, mientras los reguladores impulsan alternativas a la experimentación animal. Planea escalar su producción.
+[ES]
+Fuente: TechCrunch.
+[ITEM]
+[ES]
+En Hacker News: "Things to know when you get cancer" y el lanzamiento de OpenCode 2.0.
+[ES]
+Lo más votado hoy en Hacker News es el texto personal "Things to know when you get cancer – 2026 Edition", con 561 puntos. Le sigue el anuncio de OpenCode 2.0 (182 puntos), y más abajo una nueva versión de la herramienta Jev, 1.14.0, con funciones experimentales.
+[ES]
+Fuente: Hacker News.
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
-
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
-
 [ES]
-Si miras juntas la caída de los chips y el comentario de Hock Tan sobre inversores sin saber en qué invierten, aparece un patrón: el entusiasmo por la IA empieza a convivir con dudas sobre su valoración. Es un solo día de mercado y no una predicción segura, pero vale la pena vigilar si el nerviosismo se prolonga. Para ti, en el mundo hispanohablante, la exposición es indirecta: una IA menos eufórica podría moderar la demanda de metales como el cobre o el litio, importantes para Chile, Perú o Argentina, y mover monedas y fondos de pensiones ligados a bolsas tecnológicas.
-
+Hay un hilo de energía y seguridad que atraviesa varias historias: un misil sobre Aramco, un diésel que seguiría caro hasta 2027 y una Rusia que sigue golpeando la red eléctrica ucraniana. Si el petróleo y sus derivados se mantienen tensos, vale la pena vigilar el efecto en transporte, alimentos e inflación en importadores de combustible de la región. Para exportadores como Argentina con Vaca Muerta, el mismo escenario puede ser una ventana de oportunidad, aunque no es una predicción segura.
 [ES]
-La tregua energética que Rusia no parece respetar y las protestas francesas con el combustible y el costo de vida en el trasfondo apuntan a la misma tensión: la energía sigue siendo un punto sensible tanto en la guerra como en la calle. Si los ataques a infraestructura energética continúan, vale la pena vigilar los precios del gas y la electricidad en España y el efecto en la inflación latinoamericana por los combustibles importados.
-
+Otro patrón es la gobernanza de la inteligencia artificial: Nvidia financia investigación en seguridad, el Reino Unido quiere examinar modelos antes de su lanzamiento, y un ministro admite que las defensas cibernéticas probablemente serán vulneradas. Para América Latina y España, que en general usan estas tecnologías sin producirlas, la pregunta es quién fija las reglas y cuánta capacidad propia de supervisión tendrán.
 [ES]
-En Brasil, la segunda vuelta y el escándalo en la corte suprema muestran una política muy polarizada donde las instituciones también son campo de batalla, algo que resuena con las advertencias de fraude en España. Para Latinoamérica, un clima electoral tenso en la mayor economía de la región podría traducirse en volatilidad del real y contagio a otras monedas, aunque eso depende de cómo avance la campaña. Y en un plano más personal, las historias de chatbots que sobreviven a sus usuarios y de ingenieros que espían a sus empleadores recuerdan que la confianza en sistemas y personas es el verdadero recurso escaso de esta era.
-
+En política, la polarización parece ser la constante: un empate técnico entre Bolsonaro y Lula, Farage proponiendo procesar a ONG, y la tensión de España con Marruecos en Ceuta y Melilla. Una segunda vuelta reñida en Brasil podría influir en la moneda y en las materias primas de la región, y la frontera con Marruecos es un asunto que vale la pena seguir en lo diplomático y lo comercial.
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
-
 [ES]
-Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no un nuevo debate completo.
-
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente, no solo por las historias de hoy, y no un nuevo debate completo.
 [ES]
-Ciclos de autoridad más cortos: hoy hay señal de apoyo. En Hacker News lideraba un nuevo modelo, Gemini 4 Argon, y el golpe a los chips tras la frase de Broadcom muestra lo rápido que cambian las narrativas dominantes, según The Guardian. Es el octavo día de apoyo en nueve lecturas. Voz interior: la señal es de desafío, por usuarios que delegan en chatbots su compañía e incluso su memoria; es la segunda vez que el registro marca desafío aquí.
-
+La hipótesis se divide en cuatro eslabones: (a) ciclos de autoridad y liderazgo de pensamiento cada vez más cortos, (b) eso empuja a las personas a una voz interior más fuerte, (c) lo que a su vez las aleja del individualismo, y (d) lleva a más colaboración humana y cohesión social. Con las lecturas previas de las últimas semanas, (a) y (d) han mostrado apoyo casi todos los días, (b) ha estado mayormente sin señal clara, y (c) ha recibido desafíos casi a diario.
 [ES]
-Alejamiento del individualismo: lectura neutral hoy, con protestas colectivas por un lado y vínculos individuales con bots por otro; rompe una racha de desafíos. Más colaboración humana: apoyo, por las protestas estudiantiles en Francia y el mitin masivo de Lula; ocho apoyos en nueve lecturas. El registro todavía es corto y no hay revisión integral previa, así que la lectura sigue siendo preliminar.
+Hoy sigue el patrón. Para (a), la donación de Nvidia y la advertencia de Anthropic sobre modelos futuros, según The Guardian, y los lanzamientos de OpenCode 2.0 y Jev 1.14.0 en Hacker News sugieren ciclos que se acortan; es otro día de apoyo en una racha larga. Para (d), el respaldo "a toda prueba" a Ucrania, según The Guardian, y la inversión compartida en seguridad de la IA apuntan a cooperación, aunque entre instituciones más que entre personas. Para (c), la propuesta de Farage de procesar a ONG, según The Guardian, y la polarización en Brasil, según Clarín, siguen desafiando el paso hacia menos individualismo. Para (b), no hay señal clara hoy. El registro previo está vacío de revisiones integrales, así que la lectura es solo diaria.
