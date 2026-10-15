@@ -1,0 +1,278 @@
+[EN]
+Good morning, Patricio. Here's your Daily News Brief for October fifteenth, twenty twenty-six — a calm read across your usual beats, from Santiago's wild weather to the AI market's case of nerves.
+
+[EN]
+A quick sourcing note before we start: Deutsche Welle and Ars Technica were both unreachable today, so I covered their international and tech ground through the Guardian, the headlines proxy, TechCrunch and Hacker News instead. El País's international section was also blocked, but El País itself came through for the Spain stories. Everything else resolved normally.
+
+[EN]
+Top Stories.
+
+[EN]
+Russia and Ukraine's energy truce collapses as a Musk and Starlink row flares up.
+
+[EN]
+Washington's push for an energy ceasefire has fallen apart. Russia sent a record drone swarm and Zelenskyy vowed to resume strikes on Russian refineries, with Moscow accusing Kyiv of hitting a refinery in Ryazan — the first such strike since Trump declared a ceasefire that neither side had actually agreed to. Tangled up in it is a fresh Musk controversy: Elon Musk suggested the US government, not SpaceX, was behind the Starlink and Starshield restrictions that reportedly forced Ukraine to abort drone missions, while also rejecting Kyiv's account of events. Zelenskyy says he feels betrayed.
+
+[EN]
+Sources: The Guardian, SVT, and NRK.
+
+[EN]
+Markets catch the AI jitters — CoreWeave slides, and US voters smell recession.
+
+[EN]
+CoreWeave's stock sank as a bond-market selloff flashed a warning sign about its debt load and future borrowing costs, feeding a wider wobble in tech shares. At almost the same moment, an exclusive Harris poll for the Guardian found a large share of US voters think the economy is getting worse — and that a recession has already begun — even though, by the textbook definition, the US isn't in one. The gap between the hard data and how people feel is itself becoming the story heading into the midterms.
+
+[EN]
+Sources: Barron's and The Guardian.
+
+[EN]
+Brazil's runoff is a coin toss: Flávio Bolsonaro edges Lula.
+
+[EN]
+The first second-round poll from Quaest puts Flávio Bolsonaro on forty-six percent and Lula on forty-four percent — a technical tie, comfortably inside the margin of error. The survey questioned two thousand one hundred fifty-four people between October tenth and thirteenth, and the dead-heat result underscores how sharply polarised Brazil remains as it heads toward the decisive vote. Expect both camps to treat the next two weeks as a knife-edge.
+
+[EN]
+Source: Clarín.
+
+[EN]
+An AI reportedly cracks three hundred seventy-two math problems — "revolutionary," says a mathematician.
+
+[EN]
+Swedish coverage reports that an AI system solved three hundred seventy-two mathematical problems, with mathematician Svante Linusson calling the result revolutionary. It lands in the same stretch that Meta shipped its first frontier model, Muse Wonder, and that Anthropic said it would cut its internal AI-agent evaluations off from the live internet because it can't reliably control those agents. Taken together, the week reads like the AI field sprinting and tripping over itself at once.
+
+[EN]
+Sources: SVT and TechCrunch.
+
+[ES]
+España y Latinoamérica.
+
+[ES]
+Felipe VI reclama a Marruecos una relación basada en la confianza y la buena fe.
+
+[ES]
+Durante la visita de los Reyes a Melilla, el rey Felipe VI exigió a Marruecos una relación asentada en la confianza y la buena fe, y pidió unidad institucional y civismo en Ceuta y Melilla. A su llegada se reunió con el presidente de la ciudad autónoma, Juan José Imbroda. El gesto llega en un momento delicado para las relaciones hispano-marroquíes.
+
+[ES]
+Fuente: El País.
+
+[ES]
+Chile: el fondo E de las AFP pierde siete mil setecientos millones de dólares y enciende las críticas.
+
+[ES]
+Las AFP acumulan pérdidas de unos siete mil setecientos millones de dólares en el multifondo más conservador, golpeado por apuestas ligadas a las tasas de interés estadounidenses. El superintendente reconoció estar preocupado y arrecian las críticas a la gestión de inversiones del sistema. Para muchos afiliados cercanos a la jubilación, que suelen refugiarse en el fondo E, el golpe es especialmente incómodo.
+
+[ES]
+Fuentes: Emol y La Tercera.
+
+[ES]
+El cobre bajo la lupa: Codelco convoca junta extraordinaria y Escondida evita la huelga.
+
+[ES]
+Codelco citó a una junta extraordinaria de accionistas tras detectar nuevas inconsistencias en sus cifras de producción, un nuevo traspié para la estatal. En paralelo, buenas noticias en el sector privado: Escondida y su sindicato sellaron un acuerdo a treinta y seis meses que incluye pagos y un préstamo, evitando la paralización. El contraste resume bien el momento del cobre chileno, entre la fragilidad estatal y la relativa paz laboral privada.
+
+[ES]
+Fuentes: La Tercera y Emol.
+
+[ES]
+Santiago, de récord en récord: tornado, granizo y más de mil viviendas dañadas.
+
+[ES]
+El inusual sistema frontal entre Coquimbo y Biobío dejó más de mil viviendas afectadas, y un tornado en la Región Metropolitana dañó cerca de trescientas casas y derribó unos cuarenta árboles. Los especialistas hablan de una combinación poco común de factores, y una climatóloga advierte que las lluvias podrían repetirse hasta diciembre. Un octubre decididamente fuera de libreto para la capital.
+
+[ES]
+Fuentes: La Tercera y Emol.
+
+[ES]
+Argentina: YPF celebra el salto de Vaca Muerta y una gran decisión de inversión en noviembre.
+
+[ES]
+En el almuerzo del Cicyp, el CEO de YPF, Horacio Marín, afirmó que Argentina pasó de ser un país con petróleo a un país petrolero, con Vaca Muerta como motor. Adelantó que el veintiséis de noviembre se tomará una decisión final de inversión junto a Eni y XRG. El optimismo petrolero argentino contrasta con las denuncias sobre los costos sanitarios del fracking en la zona.
+
+[ES]
+Fuente: Infobae.
+
+[ES]
+El papa León XIV pide oraciones mientras se recupera de una operación.
+
+[ES]
+El papa León XIV, que se recupera en Roma tras una cirugía, pidió oraciones a los participantes de una conferencia vaticana sobre Amoris laetitia. La Santa Sede informó que su recuperación posoperatoria avanza según lo previsto. El pontífice mantuvo así su agenda a distancia pese al reposo.
+
+[ES]
+Fuente: EWTN Noticias.
+
+[EN]
+US and International.
+
+[EN]
+Scrutiny of Trump's ambassadors grows after Guilfoyle's ouster.
+
+[EN]
+Attention has turned to Trump's diplomatic picks after Kimberly Guilfoyle was pushed out as ambassador to Greece. The president has leaned heavily on family members, friends and loyalists for key postings — including an election denier and a former auctioneer — raising fresh questions about qualifications and conflicts. It's a reminder of how personalised US foreign representation has become.
+
+[EN]
+Source: The Guardian.
+
+[EN]
+Germany debates recognising its colonial-era genocide in Namibia.
+
+[EN]
+German lawmakers debated opposition proposals to formally accept legal responsibility for the colonial genocide of the Herero and Nama peoples and to pay reparations directly to victims' descendants. It's a charged reckoning with a chapter of German history that Berlin has long been reluctant to frame in explicitly legal terms. How far parliament is willing to go remains very much open.
+
+[EN]
+Source: Anadolu Agency.
+
+[EN]
+Sudan: at least seventy-two miners reported killed in an airstrike.
+
+[EN]
+At least seventy-two miners were reportedly killed in an airstrike in northern Sudan, according to Reuters citing a human rights organisation. The toll is a grim marker in a war whose civilian cost keeps climbing largely out of the world's view. It landed amid a broader run of regional violence this week.
+
+[EN]
+Source: Dagens Nyheter, via Reuters.
+
+[EN]
+Saudi Arabia and Iran talk as Houthi strikes hit Saudi airports.
+
+[EN]
+Saudi Arabia's foreign minister discussed the latest regional escalation with his Iranian counterpart, as Riyadh's King Khalid airport and a second Saudi airport were hit in renewed attacks claimed by Yemen's Houthis. Several people were injured. The diplomacy and the drones are, awkwardly, happening at the same time — a sign of how fragile the Gulf's calm remains.
+
+[EN]
+Sources: Reuters and Corren.
+
+[EN]
+Alberta votes on leaving Canada — and Premier Smith says she voted to stay.
+
+[EN]
+In Alberta's separation referendum, Premier Danielle Smith said she personally voted to remain in Canada and urged support for the other nine ballot questions. She framed her choice as backing a united Canada while pointing to recent policy wins for the province. The vote itself is a striking marker of how far Canadian federal tensions have travelled.
+
+[EN]
+Source: Global News.
+
+[EN]
+From Norway: a loot-box ban, a censorship warning, and first light from a new satellite.
+
+[EN]
+Norway's government wants to ban loot boxes to stop children from sliding into gaming addiction, a notable move in the long fight over gambling-like game mechanics. Prime Minister Jonas Gahr Støre, meanwhile, used a commentary to warn of a worrying global rise in censorship. On the brighter side, the Smile satellite delivered its first images of the northern lights and space weather. This was originally reported in Norwegian by NRK.
+
+[EN]
+Source: NRK, Norway.
+
+[EN]
+Tech and Niche.
+
+[EN]
+Meta ships its first frontier model as Anthropic pulls its agents off the open internet.
+
+[EN]
+Meta released Muse Wonder, its first frontier AI model, pushing it belatedly into the top tier of model-makers. In the same window, Anthropic said it's cutting its internal AI-agent evaluations off from the live internet, candidly admitting it can't reliably control those agents. The two stories, side by side, capture the industry's split personality — raw capability racing ahead while the safety scaffolding visibly strains.
+
+[EN]
+Source: TechCrunch.
+
+[EN]
+Figma hands designers a rulebook for AI agents.
+
+[EN]
+Figma rolled out new features that let teams define how AI agents are allowed to operate inside its design tools. It's a small but telling move: as agents start doing real work in production software, the interesting product question shifts from "can it act" to "under what rules." Expect more of this guardrail-as-a-feature design across the industry.
+
+[EN]
+Source: TechCrunch.
+
+[EN]
+Ambani's Jio eyes a three-point-two billion dollar IPO; Bumble sells for one-point-three billion.
+
+[EN]
+Reliance's Jio is looking to raise about three-point-two billion dollars in what could be India's biggest-ever IPO, a milestone for the country's capital markets. Separately, Bumble agreed to a one-point-three billion dollar acquisition as the online-dating sector goes through a painful reset. Two very different signals about where investor appetite is — and isn't — flowing right now.
+
+[EN]
+Source: TechCrunch.
+
+[EN]
+Apple leans harder into the smart home with HomeView and a new Apple TV.
+
+[EN]
+Apple unveiled HomeView and the HomePod mini two — a screen-and-speaker combo pitched at a Siri-AI-powered smart home — alongside a new Apple TV four-K running the A nineteen chip. The push signals Apple's bet that the living room, not just the pocket, is where its AI assistant earns its keep. Chilean coverage flagged the launch locally.
+
+[EN]
+Source: La Tercera.
+
+[EN]
+On Hacker News: passkeys are not a trap, and OpenCode two-point-oh.
+
+[EN]
+The day's most-discussed developer reads included a spirited defence of passkeys, titled "Passkeys are not a trap," which drew nearly six hundred comments wrestling with lock-in and account-recovery fears, and the release of OpenCode two-point-oh, an open-source coding tool. It's the usual Hacker News tug-of-war between security ergonomics and developer autonomy — worth a skim if either topic is on your radar.
+
+[EN]
+Source: Hacker News.
+
+[SV]
+Sverige.
+
+[SV]
+Riksdagen väntas rösta nej till Magdalena Anderssons regering.
+
+[SV]
+Riksdagen väntas rösta nej till en S-ledd enpartiregering med Magdalena Andersson som statsminister. SVT:s kommentator Elisabeth Marmorstein menar att Andersson nu behöver en plan B, medan Andersson själv säger sig vara förberedd på utfallet. Regeringsbildningen förblir därmed osäker och utdragen.
+
+[SV]
+Källa: SVT.
+
+[SV]
+Sverige är ingen bankomat för EU — nej till långtidsbudgeten.
+
+[SV]
+Inför EU-toppmötet i Bryssel meddelar Sverige att man röstar nej till förslaget om EU:s långtidsbudget. Statsminister Ulf Kristersson sammanfattade hållningen skarpt: Sverige är ingen bankomat för EU. Striden om jättebudgeten väntas bli infekterad, med Ukrainastödet också högt på dagordningen.
+
+[SV]
+Källa: SVT.
+
+[SV]
+Nvidia säljer en superdator till Wallenbergsfären.
+
+[SV]
+Nvidia säljer en superdator till Wallenbergsfären, vilket ska göra det möjligt för svenska storföretag att köra avancerade simuleringar. Affären placerar svensk industri närmare den absoluta tekniska frontlinjen inom AI och beräkningskraft. Det är ett tydligt tecken på hur hårt kampen om datorkraft nu drivs även i Sverige.
+
+[SV]
+Källa: SVT.
+
+[SV]
+Sjuttiotvå vargar får fällas i vinterns licensjakt.
+
+[SV]
+Beslutet är fattat: sjuttiotvå vargar får fällas i vinterns licensjakt. Beskedet lär väcka den vanliga, laddade debatten mellan landsbygdens intressen och naturvårdssidan. Vargfrågan fortsätter att vara en av Sveriges mest polariserande natur- och landsbygdskonflikter.
+
+[SV]
+Källa: SVT.
+
+[EN]
+Connecting the Dots.
+
+[EN]
+A quick reminder: this section is interpretation and informed speculation, not reported news — me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+
+[EN]
+Patricio, the thread I'd pull on first today is copper and pensions, because both land squarely in your backyard. Codelco calling an extraordinary shareholders' meeting over more production-figure inconsistencies, right as Escondida narrowly dodges a strike, tells a story of a Chilean copper sector where the private side is buying labour peace while the state champion keeps stumbling on basic credibility. Overlay that with the AFP fondo E losing around seven-point-seven billion dollars on bets tied to US interest rates, and you get an uncomfortably clear picture: Chile's two great ballast assets — the metal in the ground and the savings of its near-retirees — are both being buffeted by forces largely set in Washington and global markets, not Santiago.
+
+[EN]
+That connects to the day's bigger market mood. CoreWeave's bond-driven slide and a US electorate that feels a recession even where the data doesn't show one are two faces of the same anxiety: a lot of value is riding on an AI build-out whose financing is suddenly being questioned. For Chile that matters through the copper price and the peso. If the AI-infrastructure trade wobbles, industrial-metal demand expectations wobble with it — and a weaker growth outlook, with Chile reportedly among the twenty slowest-growing economies this year, plus a fondo E already bleeding on rate bets, is not the combination you want going into a jittery global quarter. Worth watching, not a confident prediction.
+
+[EN]
+Energy is the quieter throughline. The Russia and Ukraine energy-strike resumption keeps a floor of risk under oil and refined-product prices, and locally you can see the real-economy bite in the Chilean government stepping in with state-backed credit guarantees for truckers squeezed by diesel costs. Argentina, meanwhile, is leaning all the way into Vaca Muerta, with YPF framing itself as a petro-state in the making. South America's two big energy stories right now point in opposite directions — Chile absorbing energy-cost shocks, Argentina betting the farm on producing its way out — and that divergence will shape the regional balance over the next few years.
+
+[EN]
+If I zoom out, the mood across today's stories — fragmenting alliances, with Sweden slamming the EU budget and the US pressuring Ukraine; institutions under strain, from Codelco's numbers to the Pope convalescing to Trump's ambassador picks; and an AI story that's equal parts triumph and loss-of-control — is one of systems that feel less steerable than they did a year ago. For someone sitting in Chile, the practical takeaway is less about any single headline and more about resilience: diversified exposure, a healthy skepticism toward anything whose story depends on cheap capital staying cheap, and an eye on copper as the single variable that most directly ties your local reality to all of the above.
+
+[EN]
+Hypothesis Watch.
+
+[EN]
+An ongoing, low-key watch on your standing hypothesis about AI, authority cycles and social cohesion — read against the recent trend in the log, not just today's stories, and not a full re-argument.
+
+[EN]
+On sub-claim (a), shrinking thought-leadership and authority cycles, today is another clear supporting signal, which makes it something like the fifth straight week running that way. An AI reportedly cracking three hundred seventy-two math problems, with a mathematician calling it revolutionary, Meta arriving late to the frontier with Muse Wonder, and Anthropic openly conceding it can't reliably control its own agents all compress the shelf-life of any single authority — including the AI labs' own. Musk's Starshield reversal, where the capability turns out to be steered by someone other than its supposed master, is a smaller echo of the same pattern.
+
+[EN]
+On sub-claim (b), individuals pushed toward a stronger internal voice, I'd also read today as mildly supporting. Norway's prime minister Støre publicly warning about rising censorship, Sally Rooney's conscience-driven stance over UK sales, and the recurring theme of mathematicians insisting human judgment still outranks machine output all point the same way: when institutional and machine authority gets slippery, the fallback is individual discernment. It's a soft signal, not a structural one.
+
+[EN]
+On sub-claim (c), a move away from individualism, and (d), more human collaboration and cohesion, today is neutral on both, consistent with the long run in the log. Chile's security debates and the Escondida labour deal are collective, but issue-based and transactional rather than any shedding of individualism; and on cohesion, the Saudi and Iran talks are offset by Sweden torpedoing the EU budget, the US leaning on Ukraine, and energy strikes resuming. The chain still isn't propagating past its first two links — (c) and (d) remain stubbornly flat, which is exactly the thing to keep an eye on over the coming weeks.
