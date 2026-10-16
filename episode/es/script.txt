@@ -1,162 +1,155 @@
+[SECTION intro]
+[ES]
+Resumen Diario — viernes 16 de octubre de 2026.
+[ES]
+Nota sobre fuentes: hoy no pude leer directamente BBC (Mundo y feeds), Ars Technica ni El País (bloqueados), y no llegué a consultar Reuters, AP, NYT, Washington Post ni Xinhua Español. Lo cubrí con Al Jazeera, DW en Español (vía el proxy de extracción), Emol, La Tercera, TechCrunch, Hacker News y el proxy de titulares (Guardian y GNews). La edición se apoya sobre todo en lo publicado el 14 y 15 de octubre.
 [SECTION news]
 [ES]
 Titulares.
 [ITEM]
 [ES]
-La escasez de diésel seguiría hasta 2027, pese al acuerdo de Trump con Rusia.
+Irán, Hormuz y Adén: la guerra regional sigue escalando.
 [ES]
-El blog en vivo de negocios de The Guardian recoge que se espera que el mercado del diésel siga tenso hasta 2027, a pesar del acuerdo que Trump alcanzó con Rusia. La primera ministra italiana, Giorgia Meloni, criticó ese pacto, y la misma jornada trajo recortes de empleo de GSK en Bélgica y advertencias del FMI sobre el aumento de los costos de endeudamiento de los gobiernos. Para quien paga combustible o transporta mercancías, es una señal de que los precios de la energía no se calmarán pronto.
+Al Jazeera, en su seguimiento en vivo de la guerra de EE. UU. e Israel contra Irán, informa de cinco muertos y 16 heridos en un ataque hutí contra el palacio presidencial de Adén. También reporta que EE. UU. destruyó un dhow sospechoso de servir como centro de mando iraní. El título del propio enlace habla de barcos hundiéndose en el estrecho de Ormuz y de Teherán prometiendo seguir luchando hasta que EE. UU. ceda, aunque el texto no da más detalles.
 [ES]
-Fuente: The Guardian.
+Fuente: Al Jazeera
 [ITEM]
 [ES]
-Un misil impacta la sede de Saudi Aramco en medio de la escalada con los hutíes.
+Brasil: la segunda vuelta, en empate técnico.
 [ES]
-Un misil balístico golpeó un edificio del complejo de Saudi Aramco en Dhahran y provocó un pequeño incendio, sin víctimas. El ataque se produce mientras se intensifica el conflicto con los hutíes, y apunta al corazón de la mayor petrolera del mundo, algo que los mercados energéticos vigilan de cerca.
+La primera encuesta Quaest de la segunda vuelta pone a Flávio Bolsonaro con 46 % frente al 44 % de Lula, una diferencia dentro del margen de error (2.154 personas, del 10 al 13 de octubre). Datafolha da 51 % a 49 % para Bolsonaro, también en empate técnico. En paralelo, el TSE prohibió a Meta limitar contenidos de campañas políticas.
 [ES]
-Fuente: India Today, vía GNews.
+Fuentes: Clarín, La Tercera, DW en Español
 [ITEM]
 [ES]
-Burnham recibe a Zelenski mientras Rusia deja sin luz a 600.000 ucranianos.
+Chile: la caída del Fondo E abre un debate sobre las AFP.
 [ES]
-El primer ministro británico, Andy Burnham, recibirá a Volodímir Zelenski en el número 10 de Downing Street como muestra de apoyo "a toda prueba", en un momento de tensiones entre Ucrania y Trump. Mientras tanto, nuevos ataques rusos dejaron a unas 600.000 personas sin electricidad, y Zelenski acusó a Moscú de "faltarle el respeto" a Estados Unidos.
+El Fondo E cayó 4,92 % en septiembre y acumula una baja real de 10,39 % en el año, por el alza de tasas en EE. UU. y por la fuerte exposición de las AFP a derivados, sobre todo swaps de tasas. El Banco Central afirma que advirtió de esos riesgos en sus Informes de Estabilidad Financiera de 2025 y 2026, y la nueva normativa de la Superintendencia incorpora límites de exposición y requisitos de liquidez. El exsuperintendente Osvaldo Macías sostiene que el regulador advirtió a las AFP de forma repetida.
 [ES]
-Fuente: The Guardian.
+Fuente: La Tercera
 [ITEM]
 [ES]
-El Vaticano confirma que el papa León XIV tiene cáncer de pulmón.
+Kast viaja a Bolivia en la primera visita de Estado chilena en 71 años.
 [ES]
-El Vaticano informó que el papa fue operado y que se le extirpó parte del pulmón derecho; sus audiencias quedan canceladas hasta el 20 de octubre. La Santa Sede asegura que la recuperación avanza según lo previsto, y el propio pontífice pidió que recen por él.
+El presidente José Antonio Kast se reúne hoy en La Paz con Rodrigo Paz, en una visita que Bolivia califica de "histórica" y que busca "reconstruir la confianza" entre países sin relaciones diplomáticas desde 1978. La agenda de un día tiene 11 puntos, entre ellos integración económica, energía y cooperación fronteriza, además de disputas por autos robados y madera incautada. Bolivia ya dijo que no renunciará a su reclamo histórico de una salida al mar.
 [ES]
-Fuentes: NBC News y EWTN News.
+Fuente: Emol
 [ITEM]
 [ES]
-Nvidia dona 250 millones de dólares en computación a Reino Unido para seguridad de la IA.
+Meta lanza Muse Spark Open, un modelo abierto gigante.
 [ES]
-Nvidia, valorada en 5,5 billones de dólares, donará durante cinco años capacidad de cómputo para investigación en seguridad de la IA en el Reino Unido, en gran parte para investigadores de todo el país e instituciones como el Imperial College. El Instituto de Seguridad de la IA británico podrá además examinar modelos avanzados de empresas como OpenAI, Anthropic y Google antes de su lanzamiento. El ministro de IA admitió que es "probable, si no inevitable" que las defensas cibernéticas británicas sean vulneradas.
+Meta presentó Muse Spark Open, que describe como el modelo de pesos abiertos "más capaz" de EE. UU.: 816.000 millones de parámetros, ventana de un millón de tokens y soporte multimodal nativo. Está pensado para programación y tareas con agentes y puede correr en local con chips de Apple, aunque se informa que requiere al menos 1 TB de RAM. El anuncio fue de lo más votado hoy en Hacker News.
 [ES]
-Fuente: The Guardian.
+Fuentes: TechCrunch, Hacker News
 [ES]
 España y Latinoamérica.
 [ITEM]
 [ES]
-Felipe VI visita Melilla y pide a Marruecos una relación basada en la confianza.
+El Niño golpea la economía chilena.
 [ES]
-Los reyes Felipe VI y Letizia realizan su primera visita oficial a Melilla, tras pasar el día anterior en Ceuta, con una agenda que incluye una reunión en la Asamblea, una visita escolar y un discurso. El rey exigió a Marruecos una relación basada en "la confianza" y "la buena fe", y en Ceuta calificó de "violación de nuestra frontera" la entrada masiva de más de 70.000 personas a fines de julio. Rabat aún no ha tomado represalias oficiales, aunque se espera una respuesta.
+Las proyecciones de crecimiento de Chile para 2026 pasaron de casi 3 % a entre 0 % y 0,7 %, y Scotiabank considera probable un resultado negativo. Las tormentas, inundaciones y granizo ligados a El Niño, incluido el deslizamiento en Las Condes, dejarían unos US$200 millones en daños, sobre una economía ya debilitada por una caída minera de 17,4 % en agosto. Los economistas advierten que el clima podría restar una o dos décimas más al PIB entre octubre y diciembre.
 [ES]
-Fuente: El País.
+Fuente: Emol
 [ITEM]
 [ES]
-Brasil: Flávio Bolsonaro supera por dos puntos a Lula en un sondeo de segunda vuelta.
+Chile reabre consulados en Venezuela.
 [ES]
-Una nueva encuesta de Quaest ubica a Flávio Bolsonaro con 46% y a Lula con 44% en un eventual balotaje. La diferencia está dentro del margen de error, por lo que se trata de un empate técnico que anticipa una segunda vuelta muy reñida.
+Los consulados de Chile en Venezuela se están reabriendo de forma gradual. La Cancillería apunta a normalizar las relaciones entre ambos países.
 [ES]
-Fuente: Clarín.
+Fuente: Emol
 [ITEM]
 [ES]
-YPF apunta a una decisión final de inversión en Vaca Muerta el 26 de noviembre.
+Argentina, "país petrolero": YPF fija fecha para su decisión con Eni y XRG.
 [ES]
-El presidente de YPF, Horacio Marín, habló en el almuerzo del Cicyp sobre cómo Argentina pasó de ser un país con petróleo a uno petrolero. Dijo que la compañía se concentra en Vaca Muerta y que la decisión final de inversión con Eni y XRG está fijada para el 26 de noviembre.
+El CEO de YPF, Horacio Marín, dijo en un almuerzo del CICyP en Buenos Aires que Argentina pasó de tener petróleo a ser un país petrolero. Anunció que la decisión final de inversión con Eni y XRG se firmará el 26 de noviembre.
 [ES]
-Fuente: Infobae.
+Fuente: Infobae
 [ITEM]
 [ES]
-Canarias prepara 282.263 vacunas contra la gripe y amplía la protección frente al VRS.
+Felipe VI en Melilla pide confianza con Marruecos.
 [ES]
-La campaña de vacunación 2026-27 en Canarias arrancará el 19 de octubre con 282.263 dosis contra la gripe. Además, se amplía la protección frente al virus respiratorio sincitial a personas mayores de 70 años institucionalizadas y a ciertos pacientes de riesgo.
+En su visita a Melilla, el rey Felipe VI llamó a la confianza y la buena fe en las relaciones con Marruecos. También pidió unidad institucional en torno a Ceuta y Melilla.
 [ES]
-Fuente: Gomera Verde.
+Fuente: El País
+[ITEM]
+[ES]
+Canarias prepara 282.263 vacunas contra la gripe.
+[ES]
+La campaña de la temporada 2026–27 arranca el 19 de octubre en las islas. Además, se amplía la protección frente al VRS a ciertos grupos de riesgo.
+[ES]
+Fuente: Gomera Verde
 [ES]
 Mundo.
 [ITEM]
 [ES]
-Pakistán blinda el feudo de Imran Khan, pero podría salirle el tiro por la culata.
+Trump arremete contra Zelenski tras nuevos ataques a refinerías rusas.
 [ES]
-La provincia de Khyber Pakhtunkhwa está bajo régimen de emergencia en medio de un pulso con los seguidores del encarcelado Imran Khan. El análisis de la BBC advierte que el cerco podría volverse en contra del gobierno.
+Según DW, Trump criticó a Zelenski por la nueva ofensiva de Ucrania contra refinerías rusas. Según el Guardian, Rusia y Ucrania retomaron los ataques a infraestructura energética tras el colapso de un alto el fuego energético mediado por EE. UU.
 [ES]
-Fuente: BBC News, vía GNews.
+Fuentes: DW en Español, The Guardian
 [ITEM]
 [ES]
-Comienza el juicio a Russell Brand por violación y agresión sexual.
+Israel frena la entrada de bienes comerciales a Gaza.
 [ES]
-La fiscalía describió al comediante como "despiadado y calculador" en sus declaraciones iniciales ante el jurado. Es el arranque de un juicio muy seguido en el Reino Unido.
+El organismo militar COGAT anunció la suspensión, alegando una tarifa de 10.000 shekels (unos US$3.220) por camión impuesta por Hamás. La oficina de prensa del gobierno de Gaza lo niega y habla de una donación voluntaria a un fondo de ayuda. Organizaciones humanitarias advierten que la medida puede encarecer aún más la vida en un territorio con riesgo de hambruna.
 [ES]
-Fuente: The Guardian.
+Fuente: Al Jazeera
 [ITEM]
 [ES]
-Restringen el acceso a Starlink a soldados ucranianos en combate.
+El papa León XIV se recupera de una cirugía pulmonar.
 [ES]
-Las restricciones a las terminales Starlink alteraron misiones de combate de las tropas ucranianas. El episodio muestra cuánto depende el frente de infraestructura privada de comunicaciones.
+El Vaticano informó que la recuperación del papa en Roma avanza según lo previsto tras una operación por cáncer de pulmón. Él mismo pidió oraciones.
 [ES]
-Fuente: The Guardian.
+Fuente: EWTN Noticias
 [ITEM]
 [ES]
-Reino Unido: Farage quiere procesar a ONG que ayudan a solicitantes de asilo y choca con Badenoch por Chagos.
+Farage y las ONG que ayudan a solicitantes de asilo.
 [ES]
-Nigel Farage dijo que las organizaciones benéficas que ayudan a solicitantes de asilo a llegar al Reino Unido deberían ser procesadas. Por separado, él y la líder conservadora Kemi Badenoch se enfrentaron por las islas Chagos, y ella calificó de "humillante" la oferta de Farage a Trump.
+El regulador de organizaciones benéficas del Reino Unido prepara críticas por intimidación, después de que Nigel Farage pidiera procesar a los grupos que ayudan a solicitantes de asilo. Es parte de un clima político cada vez más tenso en torno a la migración.
 [ES]
-Fuente: The Guardian.
-[ITEM]
-[ES]
-Trump hace campaña en Arizona y Montana con su aprobación a la baja.
-[ES]
-Tras una parada en Alaska, el presidente estadounidense encabeza mítines en estados conservadores de cara a las elecciones de medio mandato. Lo hace en un contexto de caída en sus índices de aprobación.
-[ES]
-Fuente: The Guardian.
+Fuente: The Guardian
 [ES]
 Tecnología y Nicho.
 [ITEM]
 [ES]
-Detienen a un empleado de OpenAI tras hallar un dispositivo de grabación oculto.
+Anthropic abre la puerta a METR con acceso de nivel empleado.
 [ES]
-OpenAI encontró un dispositivo de grabación escondido en sus oficinas y lo remitió al FBI. Un empleado fue arrestado.
+Seis investigadores de METR, organización sin fines de lucro que evalúa modelos de frontera, tendrán acceso de nivel empleado para evaluar de forma independiente los modelos, las prácticas de seguridad y la gestión de riesgos de Anthropic. METR publicará sus propias evaluaciones y Anthropic renunció a bloquearlas, aunque puede exigir ocultar información en categorías acotadas como datos de clientes o arquitectura del modelo.
 [ES]
-Fuente: The Guardian.
+Fuente: TechCrunch
 [ITEM]
 [ES]
-El CEO de Flock defiende su tecnología de vigilancia pese a la polémica.
+Benchmark: la IA erosiona el pacto de no apoyar a rivales.
 [ES]
-En TechCrunch Disrupt, Garrett Langley, CEO de Flock, defendió que los beneficios contra el crimen superan el riesgo de uso indebido. Con la frase "no deberíamos pausar el progreso", respondió a las críticas de privacidad.
+En TechCrunch Disrupt, los socios de Benchmark reconocieron que el auge de la IA tensiona la norma del capital de riesgo de no invertir en competidores directos, con conflictos que surgen más por necesidad que por elección. Peter Fenton lo llamó el problema más difícil de la firma, aunque no declararon muerto el pacto.
 [ES]
-Fuente: TechCrunch.
+Fuente: TechCrunch
 [ITEM]
 [ES]
-Jio, de Ambani, busca 3.200 millones de dólares en la que podría ser la mayor OPI de India.
+CoreWeave cae mientras sus bonos se venden.
 [ES]
-Jio Platforms planea destinar la mayor parte de lo recaudado a reducir deuda. La empresa busca además expandirse más allá de las telecomunicaciones.
+Las acciones de CoreWeave bajaron mientras sus bonos sufrían ventas, una señal de preocupación crediticia por su deuda. El episodio alimenta las dudas sobre cuánta financiación a crédito sostiene hoy la infraestructura de IA.
 [ES]
-Fuente: TechCrunch.
-[ITEM]
-[ES]
-Intero Biosystems propone probar fármacos en mini intestinos humanos, no en animales.
-[ES]
-La startup vende tejido intestinal humano cultivado en laboratorio a farmacéuticas, mientras los reguladores impulsan alternativas a la experimentación animal. Planea escalar su producción.
-[ES]
-Fuente: TechCrunch.
-[ITEM]
-[ES]
-En Hacker News: "Things to know when you get cancer" y el lanzamiento de OpenCode 2.0.
-[ES]
-Lo más votado hoy en Hacker News es el texto personal "Things to know when you get cancer – 2026 Edition", con 561 puntos. Le sigue el anuncio de OpenCode 2.0 (182 puntos), y más abajo una nueva versión de la herramienta Jev, 1.14.0, con funciones experimentales.
-[ES]
-Fuente: Hacker News.
+Fuente: The Guardian
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
 [ES]
-Hay un hilo de energía y seguridad que atraviesa varias historias: un misil sobre Aramco, un diésel que seguiría caro hasta 2027 y una Rusia que sigue golpeando la red eléctrica ucraniana. Si el petróleo y sus derivados se mantienen tensos, vale la pena vigilar el efecto en transporte, alimentos e inflación en importadores de combustible de la región. Para exportadores como Argentina con Vaca Muerta, el mismo escenario puede ser una ventana de oportunidad, aunque no es una predicción segura.
+Si miras las historias de hoy juntas, aparece un tema: la confianza como bien escaso. Anthropic abre sus puertas a un evaluador externo, Benchmark admite que el viejo pacto entre inversores ya no se sostiene, el Banco Central chileno dice que advirtió y las AFP deben explicar sus decisiones, y Kast viaja a Bolivia a "reconstruir confianza" tras décadas sin relaciones. En todos los casos, las reglas tácitas ceden y se sustituyen por mecanismos más explícitos. Vale la pena vigilar si esa tendencia continúa, aunque no es una predicción segura.
 [ES]
-Otro patrón es la gobernanza de la inteligencia artificial: Nvidia financia investigación en seguridad, el Reino Unido quiere examinar modelos antes de su lanzamiento, y un ministro admite que las defensas cibernéticas probablemente serán vulneradas. Para América Latina y España, que en general usan estas tecnologías sin producirlas, la pregunta es quién fija las reglas y cuánta capacidad propia de supervisión tendrán.
+Hay también una tensión de fondo entre bloques. Brasil llega a la segunda vuelta con un empate técnico, Trump cuestiona a Zelenski, y la guerra con Irán se extiende de Ormuz a Adén. Si el estrecho de Ormuz sigue siendo un punto de fricción, para ti podría significar más volatilidad en los precios de la energía, algo que pega directo a países importadores de combustibles como Chile o varios de Centroamérica y el Caribe, y que favorece, en cambio, a productores como Argentina, donde YPF habla de su salto petrolero.
 [ES]
-En política, la polarización parece ser la constante: un empate técnico entre Bolsonaro y Lula, Farage proponiendo procesar a ONG, y la tensión de España con Marruecos en Ceuta y Melilla. Una segunda vuelta reñida en Brasil podría influir en la moneda y en las materias primas de la región, y la frontera con Marruecos es un asunto que vale la pena seguir en lo diplomático y lo comercial.
+Para Chile, la combinación es particular: El Niño enfría el crecimiento, el Fondo E cae por tasas y derivados, y la política externa se mueve hacia Bolivia y Venezuela. Si tienes ahorro previsional o expuesto a renta fija, conviene seguir con atención la discusión regulatoria sobre derivados. En Brasil, una victoria de cualquiera de los dos podría mover al real y a los commodities regionales, así que el resultado importa más allá de sus fronteras.
+[ES]
+Por último, la IA sigue mostrando dos caras: modelos abiertos enormes como Muse Spark Open, que abaratan el acceso a quien tenga el hardware, y señales de tensión financiera como la de CoreWeave. Para quien trabaja o invierte en tecnología en España y Latinoamérica, la pregunta es si el ritmo actual se sostiene con deuda. No es una predicción, solo un punto a mirar.
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
 [ES]
-Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente, no solo por las historias de hoy, y no un nuevo debate completo.
+Seguimiento continuo de la hipótesis vigente: es una lectura diaria informada por la tendencia reciente del registro, no una re-argumentación completa.
 [ES]
-La hipótesis se divide en cuatro eslabones: (a) ciclos de autoridad y liderazgo de pensamiento cada vez más cortos, (b) eso empuja a las personas a una voz interior más fuerte, (c) lo que a su vez las aleja del individualismo, y (d) lleva a más colaboración humana y cohesión social. Con las lecturas previas de las últimas semanas, (a) y (d) han mostrado apoyo casi todos los días, (b) ha estado mayormente sin señal clara, y (c) ha recibido desafíos casi a diario.
+Hoy en relación con la tendencia reciente. Sobre (a), los ciclos de autoridad que se acortan: Meta lanza Muse Spark Open en plena carrera de modelos, y Benchmark admite que la IA está erosionando un pacto de capital de riesgo que parecía estable (TechCrunch, TechCrunch). Es la décima lectura seguida con señal de apoyo para (a), la racha más sólida del registro. Sobre (b), la voz interior, no hay señal clara hoy; en el registro nunca ha habido apoyo para este eslabón, solo lecturas neutrales y dos de desafío.
 [ES]
-Hoy sigue el patrón. Para (a), la donación de Nvidia y la advertencia de Anthropic sobre modelos futuros, según The Guardian, y los lanzamientos de OpenCode 2.0 y Jev 1.14.0 en Hacker News sugieren ciclos que se acortan; es otro día de apoyo en una racha larga. Para (d), el respaldo "a toda prueba" a Ucrania, según The Guardian, y la inversión compartida en seguridad de la IA apuntan a cooperación, aunque entre instituciones más que entre personas. Para (c), la propuesta de Farage de procesar a ONG, según The Guardian, y la polarización en Brasil, según Clarín, siguen desafiando el paso hacia menos individualismo. Para (b), no hay señal clara hoy. El registro previo está vacío de revisiones integrales, así que la lectura es solo diaria.
+Sobre (c), el individualismo, la polarización en Brasil (Clarín) y el choque entre Trump y Zelenski (DW) siguen reforzando bloques; la señal de desafío continúa la tendencia dominante. Sobre (d), la colaboración, la visita de Kast a Bolivia para reconstruir confianza (Emol) y la apertura de Anthropic a una evaluación externa (TechCrunch) suman otro apoyo. La cadena sigue más fuerte en sus extremos (a y d) que en los eslabones intermedios.
