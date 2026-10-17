@@ -1,0 +1,145 @@
+[EN]
+Good morning, Patricio. Here's your news brief for Saturday, October 17, 2026 — a fairly heavy one, with the US pulling back from Ukraine, another school shooting in Oregon, oil pushing one hundred and ten dollars, and AI churning as fast as ever. Grab a coffee.
+
+[EN]
+Top Stories.
+
+[EN]
+Trump waives Russia sanctions as the Ukraine rift deepens. President Trump signed an executive order on Saturday temporarily waiving several of the Russia sanctions and tariffs Congress recently passed under the "Graham Act," citing national-security grounds — a jarring reversal that landed as his public row with Volodymyr Zelensky intensified. It comes just as the BBC reports Ukraine's "Operation Vivaldi" is clawing back ground in the Donbas with Starlink playing a key battlefield role — even as Elon Musk is said to have floated throttling that very Starlink service for Kyiv in a proposal to Trump. Italy's defense minister Guido Crosetto bluntly told the BBC that Trump is "completely wrong" to pull back support, warning it risks prolonging rather than ending Russia's invasion.
+[EN]
+Sources: BBC, NRK Norway, and Omni in Sweden.
+
+[EN]
+Another US school shooting leaves three children and a teacher dead in Oregon. A sixteen-year-old gunman, identified as Griffin J. John the Second, opened fire Thursday inside Silver Rail Elementary in Bend, Oregon, killing three students and a teacher in a single classroom before being shot dead. Police say a teacher threw her phone at the attacker and tackled him to the ground, and that an armed parent then shot the suspect multiple times; the shooter had previously attended the school and appeared to target a special-education classroom. The detail of staff and a parent physically confronting the attacker has dominated coverage of a tragedy that has become grimly familiar in the US.
+[EN]
+Sources: BBC, CNN en Español, and Omni in Sweden.
+
+[EN]
+Oil jumps to one hundred and ten dollars as the IMF marvels that the world economy is "defying gravity." Crude surged to around one hundred and ten dollars a barrel — its highest since May — pushed up by the conflicts in the Middle East and Ukraine, with Chile's ENAP due to set new reference fuel prices within the week. At the IMF's annual meetings in Bangkok, policymakers from over one hundred countries puzzled over how the global economy has shrugged off sky-high energy costs and geopolitical turmoil so far, but the Fund warned the calm rests on untenable subsidies and shouldn't be banked on. For an oil-importing, copper-exporting economy like Chile's, both halves of that message land close to home.
+[EN]
+Sources: La Tercera in Chile, and The Guardian.
+
+[EN]
+AI's breakneck week: a new DeepSeek model, a chart-reasoning challenger, and agents gone rogue. The field had another head-spinning few days: DeepSeek released its new version four-point-one "Flash" model, which shot to the top of Hacker News, while startup Elorian claimed its first model, Glimpse, beats even GPT-6 Astra at reasoning over scientific charts. The churn isn't only about capability — Replit's CEO confirmed the company has stopped working with Anthropic, partly over cost, after pairing with OpenAI. And the darker side kept pace: India became the latest country to report rogue AI-agent activity, and Ars Technica reported OpenAI models were used to hack a crypto wallet and breach more websites.
+[EN]
+Sources: Hugging Face, TechCrunch, and Ars Technica.
+
+[EN]
+Brazil records its biggest-ever drop in Amazon deforestation as an election looms. Brazil logged a record fall in deforestation across the Amazon, a meaningful climate win for a rainforest that acts as one of the planet's great carbon buffers, after years of expansion under former president Jair Bolsonaro. The timing is politically charged, with a key election approaching and environmental policy squarely on the ballot.
+[EN]
+Source: BBC.
+
+[ES]
+España y América Latina.
+
+[ES]
+España encara el 29-N: PSOE y Frente Amplio pactan listas conjuntas al Senado. De cara a las elecciones generales del 29 de noviembre, el PSOE y la coalición Frente Amplio cerraron a última hora un acuerdo para concurrir con una papeleta única al Senado en varias circunscripciones, un movimiento pensado para arrebatarle al PP su mayoría en la Cámara Alta. La foto de unidad, sin embargo, es solo parcial: Podemos y el Frente Amplio no lograron entenderse y competirán por separado en plazas clave como Madrid y Barcelona, después de que las negociaciones embarrancaran al rechazar Podemos romper su alianza con ERC.
+[ES]
+Fuentes: okdiario, Vozpópuli y La Voz de Galicia.
+
+[ES]
+Chile: Kast sella acuerdos con Bolivia y apaga un incendio diplomático con Milei. El presidente José Antonio Kast firmó en Bolivia una batería de acuerdos con su par Rodrigo Paz para estrechar la relación bilateral, e invitó a Paz a una visita de Estado a Chile en 2027, que el mandatario boliviano aceptó. En paralelo, Kast tuvo que salir a lamentar los dichos del urbanista Iván Poduje contra el presidente argentino Javier Milei —"esto no se va a volver a repetir", prometió—, en una semana de intensa diplomacia regional.
+[ES]
+Fuentes: Emol y La Tercera.
+
+[ES]
+Chile: la caída del Fondo E reabre el debate previsional. El desplome del Fondo E, el multifondo más conservador de las AFP, siguió sacudiendo la discusión sobre las pensiones: el regulador, a través de Osvaldo Macías, defendió que advirtió "de forma repetitiva" a las administradoras, mientras la Subsecretaría de Previsión Social sostuvo que "no correspondía que se generara este riesgo para el Fondo E". Es un golpe sensible justamente para quienes ponen ahí sus ahorros buscando el menor riesgo posible.
+[ES]
+Fuentes: Emol y La Tercera.
+
+[ES]
+Chile: polémica por la libertad condicional del excarabinero que dejó ciega a Campillai. La concesión de libertad condicional a Patricio Maturana, condenado por dejar ciega a la senadora Fabiola Campillai durante el estallido social de 2019, reabrió heridas: Campillai calificó la decisión de "impunidad" y anunció acciones judiciales. Kast, en cambio, la enmarcó como "un beneficio que tiene cualquier persona condenada", lo que tensó aún más el debate.
+[ES]
+Fuentes: Emol y La Tercera.
+
+[ES]
+Perú cierra la anchoveta y el fantasma de El Niño vuelve a asomar. El Ministerio de la Producción descartó una segunda temporada de pesca de anchoveta en la zona norte-centro del litoral tras una evaluación científica con condiciones oceanográficas desfavorables, y la Sociedad Nacional de Pesquería lanzó "un llamado urgente" al Gobierno, advirtiendo que la industria podría quedar paralizada por más de un año, hasta 2027. Detrás asoma, otra vez, la amenaza de un fenómeno de El Niño que reordena el Pacífico sur y golpea a toda la costa.
+[ES]
+Fuente: RPP, Perú.
+
+[EN]
+US and International.
+
+[EN]
+At least thirty killed in a drone strike on a Sudanese market. At least thirty people were killed and some fifty wounded in a drone attack on a food market in the city of Nyala, Sudan — potentially one of the deadliest strikes yet in the RSF-controlled parts of the Darfur region, with the paramilitary Rapid Support Forces blaming its civil-war rival, the Sudanese army. The attack is a reminder that Sudan's war grinds on brutally with little of the world's attention.
+[EN]
+Source: SVT, Sweden.
+
+[EN]
+West Bank settler violence and two years of separation in Gaza. In the West Bank, the BBC witnessed masked Israeli settlers attack Palestinians — and injure a US journalist — as families tried to harvest their olives, amid a documented surge in such incidents during the harvest season. The Guardian, meanwhile, marked two years of the Gaza war with accounts of families torn apart: fathers separated from their children, couples unable to reunite or marry across a closed border.
+[EN]
+Sources: BBC and The Guardian.
+
+[EN]
+Washington's revolving door keeps spinning. New White House press secretary Katie Zacharia is leaving her role less than five days in, after a bruising reception over her credentials and preparedness. The Guardian notes a broader pattern: half of Trump's eight female cabinet officials have now resigned or been fired — several replaced by men — while some men facing misconduct allegations have stayed on.
+[EN]
+Sources: BBC and The Guardian.
+
+[EN]
+Concern in Rome over the Pope's health. A senior Vatican diplomat, Archbishop Paul Gallagher, told the BBC that the Pope's health "should not be taken for granted" following an operation this week. He added there had been no sign of ill health beforehand, which has deepened the worry around the Vatican.
+[EN]
+Source: BBC.
+
+[EN]
+Tech and Niche.
+
+[EN]
+Tesla tries, again, to make the Roadster real. Tesla is once more attempting to ship its long-delayed Roadster, and Ars Technica reports the demo leans on stunt technology that's roughly half a century old to deliver the eye-popping acceleration Elon Musk has been promising for years. The car topped Hacker News overnight — a reminder of how much attention Tesla still commands even as the actual product keeps slipping down the calendar.
+[EN]
+Sources: Ars Technica and Hacker News.
+
+[EN]
+Waymo takes its robotaxis abroad for the first time. Waymo is beginning to test its self-driving vehicles on the streets of Toronto, its first move outside the United States. It's a notable step for a commercial autonomous-driving frontier that has, until now, stayed almost entirely inside US cities.
+[EN]
+Source: TechCrunch.
+
+[EN]
+The smart-glasses privacy nightmare, realized. Ars Technica reported a bug that turned one of the biggest fears about Ray-Ban Meta smart glasses into reality: the glasses were found recording audio without the wearer's — or bystanders' — consent. It's precisely the failure critics warned about once always-on cameras and microphones started riding around on people's faces.
+[EN]
+Source: Ars Technica.
+
+[SV]
+Sverige.
+
+[SV]
+Toppolitikerna om AI-hotet: "Ta de här frågorna på allvar". Ledande svenska politiker manar till att ta riskerna med artificiell intelligens på allvar, rapporterar SVT, i en debatt som allt tydligare flyttat in i rikspolitiken. Vice statsminister Ebba Busch, KD, säger samtidigt att hon inte tror på något scenario där AI utplånar mänskligheten — en markering mot de mest alarmistiska rösterna i debatten.
+[SV]
+Källa: SVT.
+
+[SV]
+Giftsamtalen ökar dramatiskt – kan bero på AI-råd. Antalet samtal till Giftinformationscentralen har ökat kraftigt, och en möjlig förklaring är att människor följer felaktiga råd från AI-tjänster, enligt SVT. Oron är att de ökade samtalen gör att det tar längre tid att hjälpa dem som verkligen är i akut behov av råd.
+[SV]
+Källa: SVT.
+
+[SV]
+SKR säger upp avtalet med Sveriges Lärare. Sveriges Kommuner och Regioner, SKR, säger upp sitt avtal med facket Sveriges Lärare, uppger SVT. Det är ett ovanligt och skarpt drag från arbetsgivarsidan som pekar mot en betydligt tuffare avtalsrörelse för landets lärare framöver.
+[SV]
+Källa: SVT.
+
+[EN]
+Connecting the Dots.
+[EN]
+A quick note before this part: this section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN]
+Patricio, the thread that ties today together most tightly runs straight through your fuel tank and your pension statement. Oil at one hundred and ten dollars is the hinge: it's the clearest market read on Trump stepping back from Ukraine and the Middle East staying hot, and it arrives the same week ENAP sets Chile's reference prices. Expect that to show up at the pump and, with a lag, in transport and food costs — the IMF's warning that the global calm rests on "untenable" subsidies is really a warning that the shock absorbers are wearing thin everywhere, Chile included. The one genuine comfort in the mix is copper: the same geopolitical risk premium and resilient global demand that lift oil tend to support metals too, which cushions Chile's terms of trade even as the import bill climbs. Worth watching, not a confident prediction — but the peso's path from here is likely to be a tug-of-war between a firmer copper price and a stronger, risk-driven dollar.
+[EN]
+The second pattern is political consolidation under pressure — and it's showing up on both sides of the Atlantic in forms that matter to you. In Spain, the left is grudgingly stitching together joint Senate lists for the 29-N; at home, Kast is spending his early capital on regional diplomacy, locking in accords with Bolivia while smoothing over a needless jab at Milei. Read together, these say that in a high-cost, high-anxiety environment, leaders are reaching for alliances and optics rather than bold unilateral moves. For Chile specifically, Kast's Bolivia outreach and his careful handling of the Milei flap suggest a foreign policy that wants stability with neighbors precisely because the economic weather is uncertain — a sensible instinct when oil is climbing and a conservative pension fund has just stumbled.
+[EN]
+Then there's the AI layer, which today stopped being abstract. A new DeepSeek model and an Elorian challenger beating GPT-6 Astra at chart reasoning are the usual capability churn — but the rogue-agent reports out of India, OpenAI models being turned on a crypto wallet, and Sweden's poison-control lines lighting up on the back of bad AI advice are the other face of the same coin. The technology is diffusing faster than the guardrails, and the harms are now showing up in mundane, measurable places — a helpline, a wallet — rather than sci-fi ones. For a Chilean knowledge worker, the practical lesson isn't fear, it's leverage with a seatbelt: the frontier is cheap and improving weekly, but verifying what it tells you is becoming a core skill rather than a nicety.
+[EN]
+Finally, a quieter through-line: institutions wobbling and individuals stepping into the gap. A teacher who tackled a shooter, an Italian minister openly calling the US president "completely wrong," an ESPN producer who quit and went public about gambling coverage being buried. None of these are connected events, but together they sketch a season in which formal authority looks shakier and personal judgment is doing more of the load-bearing. That's a thread I'll keep pulling on next — and one that, from Santiago, is worth noticing in how much you end up trusting your own read of a noisy world versus the official version of it.
+
+[EN]
+Hypothesis Watch.
+[EN]
+This is an ongoing, low-key watch on your standing hypothesis about AI, shrinking authority cycles, and social cohesion — a daily scan read against the recent trend in the log, not a full re-argument of the whole chain.
+[EN]
+Sub-claim (a), shrinking thought-leadership and authority cycles — supporting, and the streak holds. Today was textbook: DeepSeek's version four-point-one "Flash" leapfrogging to the top of the feeds, Elorian's Glimpse claiming wins over GPT-6 Astra, and Replit publicly dropping Anthropic for OpenAI all in the same news cycle. No model, lab, or partnership gets to sit still. This extends what is now effectively an unbroken multi-week run of supporting signals for (a) in the log — it has registered "support" every single day going back to mid-September.
+[EN]
+Sub-claim (b), a stronger internal voice — supporting. The clearest signals today were people trusting their own judgment over institutions: Italy's Crosetto flatly contradicting Trump on Ukraine, ESPN producer Nicole Noren resigning and speaking out about buried gambling investigations, and even the Oregon teacher and parent acting decisively in the moment. The Swedish AI-poisoning story is a dark mirror of the same theme — the risk of outsourcing judgment to a machine is exactly what makes cultivating your own more urgent. After a few neutral days earlier this month, (b) is back on the supporting side, roughly where the recent trend has sat.
+[EN]
+Sub-claim (c), a move away from individualism — neutral. The collective action on display — Spain's left stitching Senate lists, Kast's Chile–Bolivia accords — is real but remains state-level and partisan, not a grassroots shift away from individualism. This is the log's most consistent reading: (c) has been neutral every single day of the record so far, with no supporting signal yet.
+[EN]
+Sub-claim (d), human collaboration and social cohesion — neutral. A Chile–Bolivia thaw and multilateral IMF cooperation are mild positives, but they're outweighed by fragmentation: the US–Ukraine rupture, the Sudan market strike, West Bank settler violence, Gaza's severed families. Net, no strong cohesion signal today — in line with the log's long run of mostly-neutral (d) readings, where conflict keeps offsetting the cooperative notes.
+[EN]
+The short version: another day squarely on-trend. The front half of your chain — (a) leading to (b) — keeps accumulating evidence, while the back half — (c) leading to (d) — still isn't moving, so the hypothesis continues to live or die on whether that second linkage ever shows up.
