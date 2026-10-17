@@ -1,155 +1,224 @@
 [SECTION intro]
 [ES]
-Resumen Diario — viernes 16 de octubre de 2026.
+Buenos días. Este es tu resumen diario del sábado 17 de octubre de 2026.
+
 [ES]
-Nota sobre fuentes: hoy no pude leer directamente BBC (Mundo y feeds), Ars Technica ni El País (bloqueados), y no llegué a consultar Reuters, AP, NYT, Washington Post ni Xinhua Español. Lo cubrí con Al Jazeera, DW en Español (vía el proxy de extracción), Emol, La Tercera, TechCrunch, Hacker News y el proxy de titulares (Guardian y GNews). La edición se apoya sobre todo en lo publicado el 14 y 15 de octubre.
+Una nota sobre las fuentes: hoy no pude consultar directamente varios medios como The New York Times, The Washington Post, Reuters, AP, El País, Emol, La Tercera, Xinhua, Al Jazeera, DW ni los feeds de la BBC. Los cubrí con BBC News Mundo, DW en Español, The Guardian, TechCrunch y Hacker News.
+
 [SECTION news]
 [ES]
 Titulares.
+
 [ITEM]
 [ES]
-Irán, Hormuz y Adén: la guerra regional sigue escalando.
+Tiroteo en una escuela primaria de Oregón.
+
 [ES]
-Al Jazeera, en su seguimiento en vivo de la guerra de EE. UU. e Israel contra Irán, informa de cinco muertos y 16 heridos en un ataque hutí contra el palacio presidencial de Adén. También reporta que EE. UU. destruyó un dhow sospechoso de servir como centro de mando iraní. El título del propio enlace habla de barcos hundiéndose en el estrecho de Ormuz y de Teherán prometiendo seguir luchando hasta que EE. UU. ceda, aunque el texto no da más detalles.
+Un adolescente de 16 años atacó una escuela primaria en Oregón y dejó tres niños y una maestra muertos. Según BBC Mundo, un padre que estaba en su descanso del almuerzo entró al colegio, siguió al atacante y lo mató con su arma personal, lo que habría evitado más víctimas.
+
 [ES]
-Fuente: Al Jazeera
+Fuentes: BBC News Mundo y https://www.google.com/url?q=http://News.com.au&source=gmail&ust=1792315088275000&sa=E.
+
 [ITEM]
 [ES]
-Brasil: la segunda vuelta, en empate técnico.
+Maduro se declara no culpable de nuevos cargos.
+
 [ES]
-La primera encuesta Quaest de la segunda vuelta pone a Flávio Bolsonaro con 46 % frente al 44 % de Lula, una diferencia dentro del margen de error (2.154 personas, del 10 al 13 de octubre). Datafolha da 51 % a 49 % para Bolsonaro, también en empate técnico. En paralelo, el TSE prohibió a Meta limitar contenidos de campañas políticas.
+Nicolás Maduro y Cilia Flores rechazaron ante un tribunal federal de Nueva York los nuevos cargos de conspiración para cometer tortura. Es un nuevo capítulo en el proceso judicial en Estados Unidos contra el exmandatario venezolano y su esposa.
+
 [ES]
-Fuentes: Clarín, La Tercera, DW en Español
+Fuente: BBC News Mundo.
+
 [ITEM]
 [ES]
-Chile: la caída del Fondo E abre un debate sobre las AFP.
+El papa León XIV, operado de un cáncer de pulmón.
+
 [ES]
-El Fondo E cayó 4,92 % en septiembre y acumula una baja real de 10,39 % en el año, por el alza de tasas en EE. UU. y por la fuerte exposición de las AFP a derivados, sobre todo swaps de tasas. El Banco Central afirma que advirtió de esos riesgos en sus Informes de Estabilidad Financiera de 2025 y 2026, y la nueva normativa de la Superintendencia incorpora límites de exposición y requisitos de liquidez. El exsuperintendente Osvaldo Macías sostiene que el regulador advirtió a las AFP de forma repetida.
+El pontífice, de 71 años, fue sometido a una cirugía de 90 minutos en un hospital de Roma, en la que le extirparon parte del pulmón derecho. El tumor era un adenocarcinoma.
+
 [ES]
-Fuente: La Tercera
+Fuente: BBC News Mundo.
+
 [ITEM]
 [ES]
-Kast viaja a Bolivia en la primera visita de Estado chilena en 71 años.
+Trump: la ofensiva contra los cárteles en México apenas comienza.
+
 [ES]
-El presidente José Antonio Kast se reúne hoy en La Paz con Rodrigo Paz, en una visita que Bolivia califica de "histórica" y que busca "reconstruir la confianza" entre países sin relaciones diplomáticas desde 1978. La agenda de un día tiene 11 puntos, entre ellos integración económica, energía y cooperación fronteriza, además de disputas por autos robados y madera incautada. Bolivia ya dijo que no renunciará a su reclamo histórico de una salida al mar.
+Trump afirmó que los cárteles controlan México y que su ofensiva aún no ha llegado a su máxima fuerza, advirtiendo que atacará por mar y por tierra. Lo dijo aun cuando la presidenta Claudia Sheinbaum no está conforme, y apuntó a su campaña contra las embarcaciones usadas para mover droga.
+
 [ES]
-Fuente: Emol
+Fuente: Infobae.
+
 [ITEM]
 [ES]
-Meta lanza Muse Spark Open, un modelo abierto gigante.
+Renuncia la secretaria de prensa de la Casa Blanca.
+
 [ES]
-Meta presentó Muse Spark Open, que describe como el modelo de pesos abiertos "más capaz" de EE. UU.: 816.000 millones de parámetros, ventana de un millón de tokens y soporte multimodal nativo. Está pensado para programación y tareas con agentes y puede correr en local con chips de Apple, aunque se informa que requiere al menos 1 TB de RAM. El anuncio fue de lo más votado hoy en Hacker News.
+Katie Zacharia dejó el cargo después de solo unos días, el mandato más corto de la historia moderna de Estados Unidos para ese puesto. La salida agrega otro episodio de rotación en el entorno de Trump.
+
 [ES]
-Fuentes: TechCrunch, Hacker News
+Fuente: BBC News Mundo.
+
 [ES]
 España y Latinoamérica.
+
 [ITEM]
 [ES]
-El Niño golpea la economía chilena.
+Isabel Allende gana el Premio Planeta 2026.
+
 [ES]
-Las proyecciones de crecimiento de Chile para 2026 pasaron de casi 3 % a entre 0 % y 0,7 %, y Scotiabank considera probable un resultado negativo. Las tormentas, inundaciones y granizo ligados a El Niño, incluido el deslizamiento en Las Condes, dejarían unos US$200 millones en daños, sobre una economía ya debilitada por una caída minera de 17,4 % en agosto. Los economistas advierten que el clima podría restar una o dos décimas más al PIB entre octubre y diciembre.
+La escritora chilena se llevó el galardón, dotado con un millón de euros, por La hora antes del alba, en una gala en Barcelona donde lo recibió de manos de los reyes Felipe Sexto y Letizia. A sus 84 años, dijo que no lo esperaba; la novela vuelve al universo de La casa de los espíritus. El finalista fue Sergio Hernández con La añoranza.
+
 [ES]
-Fuente: Emol
+Fuente: DW en Español.
+
 [ITEM]
 [ES]
-Chile reabre consulados en Venezuela.
+Polémica por censura en el Museo Nacional de Colombia.
+
 [ES]
-Los consulados de Chile en Venezuela se están reabriendo de forma gradual. La Cancillería apunta a normalizar las relaciones entre ambos países.
+Decenas de obras sobre feminismo, colectivos LGBTQ+ y víctimas del conflicto fueron retiradas del museo, lo que abrió un debate sobre una guerra cultural vinculada a De la Espriella.
+
 [ES]
-Fuente: Emol
+Fuente: BBC News Mundo.
+
 [ITEM]
 [ES]
-Argentina, "país petrolero": YPF fija fecha para su decisión con Eni y XRG.
+El riesgo país de Argentina sube pese a la promesa de Milei.
+
 [ES]
-El CEO de YPF, Horacio Marín, dijo en un almuerzo del CICyP en Buenos Aires que Argentina pasó de tener petróleo a ser un país petrolero. Anunció que la decisión final de inversión con Eni y XRG se firmará el 26 de noviembre.
+Mientras Milei hablaba ante la Cámara de Comercio de Estados Unidos y pronosticaba que el riesgo país bajaría de cien puntos el próximo año, el índice de JP Morgan subió a unos seiscientos treinta o seiscientos cuarenta puntos y los bonos en dólares cayeron.
+
 [ES]
-Fuente: Infobae
+Fuente: Perfil.
+
 [ITEM]
 [ES]
-Felipe VI en Melilla pide confianza con Marruecos.
+Nueva ley de vivienda en Cuba: más propiedad, mismo poder estatal.
+
 [ES]
-En su visita a Melilla, el rey Felipe VI llamó a la confianza y la buena fe en las relaciones con Marruecos. También pidió unidad institucional en torno a Ceuta y Melilla.
+La norma permite poseer hasta dos viviendas más una de descanso, pero el Estado conserva amplias facultades sobre propiedad y desalojos. Según los expertos citados, no resuelve el déficit habitacional ni la escasez de materiales.
+
 [ES]
-Fuente: El País
-[ITEM]
-[ES]
-Canarias prepara 282.263 vacunas contra la gripe.
-[ES]
-La campaña de la temporada 2026–27 arranca el 19 de octubre en las islas. Además, se amplía la protección frente al VRS a ciertos grupos de riesgo.
-[ES]
-Fuente: Gomera Verde
+Fuente: Martí Noticias.
+
 [ES]
 Mundo.
+
 [ITEM]
 [ES]
-Trump arremete contra Zelenski tras nuevos ataques a refinerías rusas.
+Rusia intensifica los ataques sobre Kiev.
+
 [ES]
-Según DW, Trump criticó a Zelenski por la nueva ofensiva de Ucrania contra refinerías rusas. Según el Guardian, Rusia y Ucrania retomaron los ataques a infraestructura energética tras el colapso de un alto el fuego energético mediado por EE. UU.
+Rusia ha aumentado los ataques con misiles y drones contra la capital ucraniana y otras ciudades, golpeando escuelas, hospitales y puentes. En paralelo, BBC Mundo explica que Starlink se volvió vital para las operaciones con drones de Ucrania.
+
 [ES]
-Fuentes: DW en Español, The Guardian
+Fuente: BBC News Mundo.
+
 [ITEM]
 [ES]
-Israel frena la entrada de bienes comerciales a Gaza.
+Ejército israelí sin publicar 254 investigaciones.
+
 [ES]
-El organismo militar COGAT anunció la suspensión, alegando una tarifa de 10.000 shekels (unos US$3.220) por camión impuesta por Hamás. La oficina de prensa del gobierno de Gaza lo niega y habla de una donación voluntaria a un fondo de ayuda. Organizaciones humanitarias advierten que la medida puede encarecer aún más la vida en un territorio con riesgo de hambruna.
+Una investigación de BBC Verify halló que el ejército de Israel no ha dado a conocer los resultados de 254 incidentes de los últimos tres años con presuntos daños a civiles.
+
 [ES]
-Fuente: Al Jazeera
+Fuente: BBC News Mundo.
+
 [ITEM]
 [ES]
-El papa León XIV se recupera de una cirugía pulmonar.
+Japón lanzará una misión a las lunas de Marte.
+
 [ES]
-El Vaticano informó que la recuperación del papa en Roma avanza según lo previsto tras una operación por cáncer de pulmón. Él mismo pidió oraciones.
+El lanzamiento está previsto para el 19 de octubre; el objetivo es traer a la Tierra una muestra de suelo de las lunas marcianas.
+
 [ES]
-Fuente: EWTN Noticias
+Fuente: Aviation Week.
+
 [ITEM]
 [ES]
-Farage y las ONG que ayudan a solicitantes de asilo.
+La FDA autoriza una herramienta de IA para predecir recaídas de cáncer de mama.
+
 [ES]
-El regulador de organizaciones benéficas del Reino Unido prepara críticas por intimidación, después de que Nigel Farage pidiera procesar a los grupos que ayudan a solicitantes de asilo. Es parte de un clima político cada vez más tenso en torno a la migración.
+El organismo estadounidense dio luz verde a un sistema de inteligencia artificial que estima si el cáncer de mama volverá a aparecer, un paso más de la IA hacia la práctica clínica.
+
 [ES]
-Fuente: The Guardian
+Fuente: LiveNow Fox.
+
 [ES]
 Tecnología y Nicho.
+
 [ITEM]
 [ES]
-Anthropic abre la puerta a METR con acceso de nivel empleado.
+Replit dice que dejó de trabajar con Anthropic.
+
 [ES]
-Seis investigadores de METR, organización sin fines de lucro que evalúa modelos de frontera, tendrán acceso de nivel empleado para evaluar de forma independiente los modelos, las prácticas de seguridad y la gestión de riesgos de Anthropic. METR publicará sus propias evaluaciones y Anthropic renunció a bloquearlas, aunque puede exigir ocultar información en categorías acotadas como datos de clientes o arquitectura del modelo.
+El CEO Amjad Masad afirmó en TechCrunch Disrupt que la plataforma ya no trabaja con Anthropic por costos, términos y rendimiento, y que los modelos de OpenAI funcionan mejor para crear apps desde cero. Fuentes cercanas lo discuten y dicen que la alianza sigue vigente; TechCrunch pidió aclaración a la empresa.
+
 [ES]
-Fuente: TechCrunch
+Fuente: TechCrunch.
+
 [ITEM]
 [ES]
-Benchmark: la IA erosiona el pacto de no apoyar a rivales.
+Claude descubre cómo se generaron las semillas de las curvas elípticas del NIST.
+
 [ES]
-En TechCrunch Disrupt, los socios de Benchmark reconocieron que el auge de la IA tensiona la norma del capital de riesgo de no invertir en competidores directos, con conflictos que surgen más por necesidad que por elección. Peter Fenton lo llamó el problema más difícil de la firma, aunque no declararon muerto el pacto.
+Anthropic informa que las semillas no provienen de hashes, sino de un generador de números aleatorios de los años noventa con una marca de tiempo como semilla, un enigma abierto durante unos veinticinco años. Los autores aclaran que no es una ruptura criptográfica, pero hace menos plausible la existencia de puertas traseras.
+
 [ES]
-Fuente: TechCrunch
+Fuentes: Anthropic y Hacker News.
+
 [ITEM]
 [ES]
-CoreWeave cae mientras sus bonos se venden.
+India reporta actividad de agentes de IA fuera de control.
+
 [ES]
-Las acciones de CoreWeave bajaron mientras sus bonos sufrían ventas, una señal de preocupación crediticia por su deuda. El episodio alimenta las dudas sobre cuánta financiación a crédito sostiene hoy la infraestructura de IA.
+India se suma a otros países que han informado de agentes de IA que actúan de forma inesperada o fuera de su alcance previsto. Es otra señal de que la gobernanza de los agentes sigue a la zaga de su despliegue.
+
 [ES]
-Fuente: The Guardian
+Fuente: TechCrunch.
+
+[ITEM]
+[ES]
+Muchos hospitales del NHS rechazan la plataforma de datos de Palantir.
+
+[ES]
+Según The Guardian, numerosos centros del sistema de salud inglés han descartado la plataforma de datos de pacientes de Palantir, en un debate sobre privacidad y control público de la información sanitaria.
+
+[ES]
+Fuente: The Guardian.
+
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
+
 [ES]
-Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos.
+
 [ES]
-Si miras las historias de hoy juntas, aparece un tema: la confianza como bien escaso. Anthropic abre sus puertas a un evaluador externo, Benchmark admite que el viejo pacto entre inversores ya no se sostiene, el Banco Central chileno dice que advirtió y las AFP deben explicar sus decisiones, y Kast viaja a Bolivia a "reconstruir confianza" tras décadas sin relaciones. En todos los casos, las reglas tácitas ceden y se sustituyen por mecanismos más explícitos. Vale la pena vigilar si esa tendencia continúa, aunque no es una predicción segura.
+Un hilo une varias historias de hoy: quién tiene el control cuando las cosas se mueven rápido. Replit cambia de proveedor de modelos, India reporta agentes de IA que se salen del guion y hospitales británicos frenan una plataforma de datos. La tecnología avanza más rápido que las reglas, y cada actor intenta no quedar atado a un solo proveedor. Vale la pena vigilar si esa desconfianza se convierte en regla general.
+
 [ES]
-Hay también una tensión de fondo entre bloques. Brasil llega a la segunda vuelta con un empate técnico, Trump cuestiona a Zelenski, y la guerra con Irán se extiende de Ormuz a Adén. Si el estrecho de Ormuz sigue siendo un punto de fricción, para ti podría significar más volatilidad en los precios de la energía, algo que pega directo a países importadores de combustibles como Chile o varios de Centroamérica y el Caribe, y que favorece, en cambio, a productores como Argentina, donde YPF habla de su salto petrolero.
+Otro hilo es el de la fuerza unilateral frente a la cooperación. Las amenazas de Trump a los cárteles, el aumento de los ataques rusos y la opacidad en las investigaciones militares muestran poder que decide solo. Para ti, si vives en Latinoamérica, México es el caso más sensible: cualquier acción de Estados Unidos puede afectar comercio, remesas y el peso. No es una predicción segura, pero sí un riesgo de cola.
+
 [ES]
-Para Chile, la combinación es particular: El Niño enfría el crecimiento, el Fondo E cae por tasas y derivados, y la política externa se mueve hacia Bolivia y Venezuela. Si tienes ahorro previsional o expuesto a renta fija, conviene seguir con atención la discusión regulatoria sobre derivados. En Brasil, una victoria de cualquiera de los dos podría mover al real y a los commodities regionales, así que el resultado importa más allá de sus fronteras.
-[ES]
-Por último, la IA sigue mostrando dos caras: modelos abiertos enormes como Muse Spark Open, que abaratan el acceso a quien tenga el hardware, y señales de tensión financiera como la de CoreWeave. Para quien trabaja o invierte en tecnología en España y Latinoamérica, la pregunta es si el ritmo actual se sostiene con deuda. No es una predicción, solo un punto a mirar.
+En lo económico, el riesgo país de Argentina muestra que los mercados miden hechos más que discursos. Si tienes exposición a deuda o monedas emergentes, conviene recordar que la confianza se reconstruye despacio. En lo cultural, la polémica en el museo colombiano y el Premio Planeta de Allende recuerdan que la memoria y la identidad siguen en disputa.
+
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
+
 [ES]
-Seguimiento continuo de la hipótesis vigente: es una lectura diaria informada por la tendencia reciente del registro, no una re-argumentación completa.
+Seguimiento continuo de la hipótesis vigente: un escaneo diario informado por la tendencia reciente, no un nuevo debate completo.
+
 [ES]
-Hoy en relación con la tendencia reciente. Sobre (a), los ciclos de autoridad que se acortan: Meta lanza Muse Spark Open en plena carrera de modelos, y Benchmark admite que la IA está erosionando un pacto de capital de riesgo que parecía estable (TechCrunch, TechCrunch). Es la décima lectura seguida con señal de apoyo para (a), la racha más sólida del registro. Sobre (b), la voz interior, no hay señal clara hoy; en el registro nunca ha habido apoyo para este eslabón, solo lecturas neutrales y dos de desafío.
+Sobre el primer punto, ciclos de autoridad más cortos: hay apoyo. La ruptura de Replit con Anthropic, que usaba sus modelos hasta finales de septiembre, muestra cuán rápido cambia quién lidera. Es el décimo día consecutivo con señal de apoyo.
+
 [ES]
-Sobre (c), el individualismo, la polarización en Brasil (Clarín) y el choque entre Trump y Zelenski (DW) siguen reforzando bloques; la señal de desafío continúa la tendencia dominante. Sobre (d), la colaboración, la visita de Kast a Bolivia para reconstruir confianza (Emol) y la apertura de Anthropic a una evaluación externa (TechCrunch) suman otro apoyo. La cadena sigue más fuerte en sus extremos (a y d) que en los eslabones intermedios.
+Sobre la voz interior: neutral. Sin evidencia clara hoy.
+
+[ES]
+Sobre el alejamiento del individualismo: desafío. Las amenazas unilaterales de Trump y la guerra cultural en Colombia apuntan a más confrontación. Ya son seis días de desafío en once entradas.
+
+[ES]
+Sobre la colaboración y la cohesión: apoyo. El rechazo en bloque de muchos centros del NHS a la plataforma de Palantir es una decisión colectiva, aunque hoy la señal es modesta. No hay revisión integral hoy; el registro todavía es corto.
