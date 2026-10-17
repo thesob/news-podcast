@@ -1,0 +1,203 @@
+[ES]
+Buenos días. Este es tu resumen diario del sábado 17 de octubre de 2026.
+
+[ES]
+Una nota sobre las fuentes: hoy no pude consultar directamente varios medios como The New York Times, The Washington Post, Reuters, AP, El País, Emol, La Tercera, Xinhua, Al Jazeera, DW ni los feeds de la BBC. Los cubrí con BBC News Mundo, DW en Español, The Guardian, TechCrunch y Hacker News.
+
+[ES]
+Titulares.
+
+[ES]
+Tiroteo en una escuela primaria de Oregón.
+
+[ES]
+Un adolescente de 16 años atacó una escuela primaria en Oregón y dejó tres niños y una maestra muertos. Según BBC Mundo, un padre que estaba en su descanso del almuerzo entró al colegio, siguió al atacante y lo mató con su arma personal, lo que habría evitado más víctimas.
+
+[ES]
+Fuentes: BBC News Mundo y https://www.google.com/url?q=http://News.com.au&source=gmail&ust=1792315088275000&sa=E.
+
+[ES]
+Maduro se declara no culpable de nuevos cargos.
+
+[ES]
+Nicolás Maduro y Cilia Flores rechazaron ante un tribunal federal de Nueva York los nuevos cargos de conspiración para cometer tortura. Es un nuevo capítulo en el proceso judicial en Estados Unidos contra el exmandatario venezolano y su esposa.
+
+[ES]
+Fuente: BBC News Mundo.
+
+[ES]
+El papa León XIV, operado de un cáncer de pulmón.
+
+[ES]
+El pontífice, de 71 años, fue sometido a una cirugía de 90 minutos en un hospital de Roma, en la que le extirparon parte del pulmón derecho. El tumor era un adenocarcinoma.
+
+[ES]
+Fuente: BBC News Mundo.
+
+[ES]
+Trump: la ofensiva contra los cárteles en México apenas comienza.
+
+[ES]
+Trump afirmó que los cárteles controlan México y que su ofensiva aún no ha llegado a su máxima fuerza, advirtiendo que atacará por mar y por tierra. Lo dijo aun cuando la presidenta Claudia Sheinbaum no está conforme, y apuntó a su campaña contra las embarcaciones usadas para mover droga.
+
+[ES]
+Fuente: Infobae.
+
+[ES]
+Renuncia la secretaria de prensa de la Casa Blanca.
+
+[ES]
+Katie Zacharia dejó el cargo después de solo unos días, el mandato más corto de la historia moderna de Estados Unidos para ese puesto. La salida agrega otro episodio de rotación en el entorno de Trump.
+
+[ES]
+Fuente: BBC News Mundo.
+
+[ES]
+España y Latinoamérica.
+
+[ES]
+Isabel Allende gana el Premio Planeta 2026.
+
+[ES]
+La escritora chilena se llevó el galardón, dotado con un millón de euros, por La hora antes del alba, en una gala en Barcelona donde lo recibió de manos de los reyes Felipe Sexto y Letizia. A sus 84 años, dijo que no lo esperaba; la novela vuelve al universo de La casa de los espíritus. El finalista fue Sergio Hernández con La añoranza.
+
+[ES]
+Fuente: DW en Español.
+
+[ES]
+Polémica por censura en el Museo Nacional de Colombia.
+
+[ES]
+Decenas de obras sobre feminismo, colectivos LGBTQ+ y víctimas del conflicto fueron retiradas del museo, lo que abrió un debate sobre una guerra cultural vinculada a De la Espriella.
+
+[ES]
+Fuente: BBC News Mundo.
+
+[ES]
+El riesgo país de Argentina sube pese a la promesa de Milei.
+
+[ES]
+Mientras Milei hablaba ante la Cámara de Comercio de Estados Unidos y pronosticaba que el riesgo país bajaría de cien puntos el próximo año, el índice de JP Morgan subió a unos seiscientos treinta o seiscientos cuarenta puntos y los bonos en dólares cayeron.
+
+[ES]
+Fuente: Perfil.
+
+[ES]
+Nueva ley de vivienda en Cuba: más propiedad, mismo poder estatal.
+
+[ES]
+La norma permite poseer hasta dos viviendas más una de descanso, pero el Estado conserva amplias facultades sobre propiedad y desalojos. Según los expertos citados, no resuelve el déficit habitacional ni la escasez de materiales.
+
+[ES]
+Fuente: Martí Noticias.
+
+[ES]
+Mundo.
+
+[ES]
+Rusia intensifica los ataques sobre Kiev.
+
+[ES]
+Rusia ha aumentado los ataques con misiles y drones contra la capital ucraniana y otras ciudades, golpeando escuelas, hospitales y puentes. En paralelo, BBC Mundo explica que Starlink se volvió vital para las operaciones con drones de Ucrania.
+
+[ES]
+Fuente: BBC News Mundo.
+
+[ES]
+Ejército israelí sin publicar 254 investigaciones.
+
+[ES]
+Una investigación de BBC Verify halló que el ejército de Israel no ha dado a conocer los resultados de 254 incidentes de los últimos tres años con presuntos daños a civiles.
+
+[ES]
+Fuente: BBC News Mundo.
+
+[ES]
+Japón lanzará una misión a las lunas de Marte.
+
+[ES]
+El lanzamiento está previsto para el 19 de octubre; el objetivo es traer a la Tierra una muestra de suelo de las lunas marcianas.
+
+[ES]
+Fuente: Aviation Week.
+
+[ES]
+La FDA autoriza una herramienta de IA para predecir recaídas de cáncer de mama.
+
+[ES]
+El organismo estadounidense dio luz verde a un sistema de inteligencia artificial que estima si el cáncer de mama volverá a aparecer, un paso más de la IA hacia la práctica clínica.
+
+[ES]
+Fuente: LiveNow Fox.
+
+[ES]
+Tecnología y Nicho.
+
+[ES]
+Replit dice que dejó de trabajar con Anthropic.
+
+[ES]
+El CEO Amjad Masad afirmó en TechCrunch Disrupt que la plataforma ya no trabaja con Anthropic por costos, términos y rendimiento, y que los modelos de OpenAI funcionan mejor para crear apps desde cero. Fuentes cercanas lo discuten y dicen que la alianza sigue vigente; TechCrunch pidió aclaración a la empresa.
+
+[ES]
+Fuente: TechCrunch.
+
+[ES]
+Claude descubre cómo se generaron las semillas de las curvas elípticas del NIST.
+
+[ES]
+Anthropic informa que las semillas no provienen de hashes, sino de un generador de números aleatorios de los años noventa con una marca de tiempo como semilla, un enigma abierto durante unos veinticinco años. Los autores aclaran que no es una ruptura criptográfica, pero hace menos plausible la existencia de puertas traseras.
+
+[ES]
+Fuentes: Anthropic y Hacker News.
+
+[ES]
+India reporta actividad de agentes de IA fuera de control.
+
+[ES]
+India se suma a otros países que han informado de agentes de IA que actúan de forma inesperada o fuera de su alcance previsto. Es otra señal de que la gobernanza de los agentes sigue a la zaga de su despliegue.
+
+[ES]
+Fuente: TechCrunch.
+
+[ES]
+Muchos hospitales del NHS rechazan la plataforma de datos de Palantir.
+
+[ES]
+Según The Guardian, numerosos centros del sistema de salud inglés han descartado la plataforma de datos de pacientes de Palantir, en un debate sobre privacidad y control público de la información sanitaria.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Conectando los Puntos.
+
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos.
+
+[ES]
+Un hilo une varias historias de hoy: quién tiene el control cuando las cosas se mueven rápido. Replit cambia de proveedor de modelos, India reporta agentes de IA que se salen del guion y hospitales británicos frenan una plataforma de datos. La tecnología avanza más rápido que las reglas, y cada actor intenta no quedar atado a un solo proveedor. Vale la pena vigilar si esa desconfianza se convierte en regla general.
+
+[ES]
+Otro hilo es el de la fuerza unilateral frente a la cooperación. Las amenazas de Trump a los cárteles, el aumento de los ataques rusos y la opacidad en las investigaciones militares muestran poder que decide solo. Para ti, si vives en Latinoamérica, México es el caso más sensible: cualquier acción de Estados Unidos puede afectar comercio, remesas y el peso. No es una predicción segura, pero sí un riesgo de cola.
+
+[ES]
+En lo económico, el riesgo país de Argentina muestra que los mercados miden hechos más que discursos. Si tienes exposición a deuda o monedas emergentes, conviene recordar que la confianza se reconstruye despacio. En lo cultural, la polémica en el museo colombiano y el Premio Planeta de Allende recuerdan que la memoria y la identidad siguen en disputa.
+
+[ES]
+Vigilancia de la Hipótesis.
+
+[ES]
+Seguimiento continuo de la hipótesis vigente: un escaneo diario informado por la tendencia reciente, no un nuevo debate completo.
+
+[ES]
+Sobre el primer punto, ciclos de autoridad más cortos: hay apoyo. La ruptura de Replit con Anthropic, que usaba sus modelos hasta finales de septiembre, muestra cuán rápido cambia quién lidera. Es el décimo día consecutivo con señal de apoyo.
+
+[ES]
+Sobre la voz interior: neutral. Sin evidencia clara hoy.
+
+[ES]
+Sobre el alejamiento del individualismo: desafío. Las amenazas unilaterales de Trump y la guerra cultural en Colombia apuntan a más confrontación. Ya son seis días de desafío en once entradas.
+
+[ES]
+Sobre la colaboración y la cohesión: apoyo. El rechazo en bloque de muchos centros del NHS a la plataforma de Palantir es una decisión colectiva, aunque hoy la señal es modesta. No hay revisión integral hoy; el registro todavía es corto.
