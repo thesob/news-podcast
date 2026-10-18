@@ -1,0 +1,114 @@
+[ES]
+Resumen Diario, 18 de octubre de 2026.
+[ES]
+Nota sobre fuentes: hoy no quedaron cubiertos The New York Times, The Washington Post, Reuters, AP, Xinhua Español, Al Jazeera, El País, Emol, Ars Technica ni el RSS de la BBC. BBC Mundo y DW en Español se leyeron mediante un servicio de extracción; el resto se cubrió con La Tercera, TechCrunch, Hacker News, France 24 y un agregador de titulares.
+[ES]
+Titulares.
+[ES]
+Francia, sacudida por protestas masivas y disturbios: cerca de 1.200 detenidos.
+[ES]
+Más de medio millón de personas marcharon el sábado en unas 110 manifestaciones por todo el país, según el Ministerio del Interior, en apoyo a las demandas de estudiantes de secundaria y en contra del alza del costo de vida y de los combustibles. Hubo enfrentamientos con la policía en Marsella y París, unas 270 tiendas fueron saqueadas y el ayuntamiento de Limoges quedó destruido por un incendio; el primer ministro habló de 150 policías heridos. Los arrestos pasaron de 400 a cerca de 1.200, y el presidente Macron prometió que los responsables serán procesados y castigados.
+[ES]
+Fuentes: La Tercera, DW en Español.
+[ES]
+Avalancha cerca de Portillo, en los Andes chilenos, deja al menos tres muertos.
+[ES]
+Una avalancha golpeó a un grupo de montañistas cerca de la Laguna del Inca, en el entorno del centro de esquí Portillo. Según Senapred hay al menos tres fallecidos y cuatro heridos, entre ellos una turista argentina, y queda pendiente el rescate de otra persona en la laguna; las cifras difieren algo entre medios. La administración de Ski Portillo aseguró que el accidente ocurrió fuera de la zona habilitada para esquiar y advirtió de los riesgos de entrar a áreas restringidas.
+[ES]
+Fuentes: La Tercera, DW en Español, Clarín, Los Andes.
+[ES]
+Zelenski teme que Trump siga levantando sanciones a Rusia.
+[ES]
+El presidente ucraniano, Volodímir Zelenski, dijo que le preocupa que Donald Trump continúe retirando sanciones contra Rusia, medidas que a su juicio terminan premiando a Vladimir Putin. La advertencia llega mientras, según DW, Ucrania lanzó contra San Petersburgo uno de sus mayores ataques con drones desde el inicio de la guerra.
+[ES]
+Fuentes: France 24, DW en Español.
+[ES]
+Un padre detuvo al atacante de una escuela primaria en Oregón.
+[ES]
+Un adolescente de 16 años abrió fuego en una escuela primaria de Oregón y mató a tres niños y a una maestra. Según BBC Mundo, un padre que pasaba en auto vio al atacante, lo siguió hasta el interior del colegio y lo abatió con su arma personal; ahora lo califican de héroe.
+[ES]
+Fuentes: BBC Mundo.
+[ES]
+España y Latinoamérica.
+[ES]
+Chile declara emergencia preventiva por lluvias intensas entre Coquimbo y Biobío.
+[ES]
+El gobierno chileno activó una emergencia climática preventiva en la franja que va de Coquimbo a Biobío, ante el pronóstico de lluvias intensas y posibles remociones en masa. La medida busca anticipar la respuesta ante deslizamientos en la zona centro-sur del país.
+[ES]
+Fuentes: La Tercera.
+[ES]
+Empiezan a regir las primeras normas de la megarreforma en Chile.
+[ES]
+Entre las primeras disposiciones de la megarreforma que entran en vigencia están las relativas a donaciones, al crédito al empleo y a la repatriación de capitales. Son las primeras piezas de un paquete más amplio de cambios.
+[ES]
+Fuentes: La Tercera.
+[ES]
+Polémica en Colombia por el retiro de obras del Museo Nacional.
+[ES]
+Decenas de obras sobre feminismo, comunidades LGBT y víctimas del conflicto fueron retiradas del Museo Nacional de Colombia. La decisión abrió un debate público que BBC Mundo recoge en su portada de hoy.
+[ES]
+Fuentes: BBC Mundo.
+[ES]
+El retiro de una placa de Salvador Allende en la OEA abre un flanco para la Cancillería chilena.
+[ES]
+La retirada de una placa conmemorativa de Salvador Allende en la sede de la OEA generó críticas de parlamentarios de oposición. El episodio crea una nueva fuente de tensión para la Cancillería de Chile.
+[ES]
+Fuentes: La Tercera.
+[ES]
+Mundo.
+[ES]
+Renuncia la secretaria de prensa de la Casa Blanca a los pocos días de asumir.
+[ES]
+Katie Zacharia dejó el cargo de secretaria de prensa de la Casa Blanca apenas unos días después de asumirlo, el mandato más corto de la historia reciente de Estados Unidos, según BBC Mundo. Por otro lado, The Guardian informa de que la mitad de las mujeres del gabinete de Trump ya se han ido y han sido reemplazadas por hombres.
+[ES]
+Fuentes: BBC Mundo, The Guardian.
+[ES]
+Helicóptero saudí cae en Yemen y los hutíes reclaman el derribo.
+[ES]
+Dos saudíes murieron al estrellarse un helicóptero militar de Arabia Saudí en Yemen, mientras los hutíes se atribuyen haberlo derribado, según DW. Por separado, The Guardian analiza cómo la amenaza de misiles hutíes ensombrece las ambiciones deportivas saudíes e incluso alteró un partido de fútbol.
+[ES]
+Fuentes: DW en Español, The Guardian.
+[ES]
+Tecnología y Nicho.
+[ES]
+La FDA autoriza una herramienta de IA que estima el riesgo de recurrencia del cáncer de mama.
+[ES]
+La FDA autorizó TumorSight Risk, de la empresa SimBioSys, que según la compañía es la primera herramienta basada en resonancia magnética para estimar si un cáncer de mama volverá. Combina las imágenes con datos como edad, etapa del cáncer y estado de los ganglios para dar estimaciones a 5 y 10 años y una puntuación de 0 a 100. La empresa afirma que usa información ya recopilada en la atención rutinaria, sin procedimientos adicionales.
+[ES]
+Fuentes: Fox LiveNOW.
+[ES]
+Replit pone a OpenAI como proveedor por defecto en lugar de Anthropic.
+[ES]
+El CEO de Replit, Amjad Masad, dijo en TechCrunch Disrupt que la empresa termina su colaboración con Anthropic por costos, condiciones y rendimiento, aunque luego aclaró que los modelos Claude siguen disponibles y que ChatGPT es ahora el predeterminado. Fuentes cercanas discuten que la alianza haya terminado. Masad añadió que los contratos empresariales ya son cerca del 15 % de los ingresos de Replit, frente a un 2 % el año anterior.
+[ES]
+Fuentes: TechCrunch.
+[ES]
+Corales blanqueados se recuperan en días al tocar a un vecino sano.
+[ES]
+Un artículo de Nature muestra que corales blanqueados pueden recuperarse en pocos días cuando están en contacto con un coral sano. Fue una de las historias más votadas de Hacker News hoy.
+[ES]
+Fuentes: Hacker News, Nature.
+[ES]
+Quitar represas devuelve los peces al noreste de Estados Unidos.
+[ES]
+Según Smithsonian Magazine, la remoción de represas está haciendo que los peces regresen a distintos ríos del noreste de Estados Unidos. El cambio llega al derribar barreras pequeñas, una a una. La nota también fue de las más comentadas en Hacker News.
+[ES]
+Fuentes: Hacker News, Smithsonian Magazine.
+[ES]
+Conectando los Puntos.
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+[ES]
+Una línea que cruza el día es la fragilidad de las alianzas y de los liderazgos: Replit cambia de proveedor de IA en cuestión de meses, una secretaria de prensa dura días en el cargo, y Zelenski teme que el apoyo de Washington a las sanciones se desdibuje. Cuando los pilares cambian tan rápido, a ti te conviene diversificar de dónde sacas información y no depender de una sola voz, sea una empresa, un político o un comentarista.
+[ES]
+Las protestas en Francia, motivadas por el costo de la vida y los combustibles, muestran cómo el malestar económico puede escalar rápido. Para América Latina, donde los precios de la energía y los alimentos pesan mucho en el bolsillo, vale la pena vigilar si este tipo de tensión se replica; no es una predicción segura, pero el patrón de inflación y descontento no es exclusivo de Europa.
+[ES]
+Por último, la FDA aprobando una IA en oncología y la noticia de los corales que se curan por contacto comparten una idea: tanto la tecnología como la naturaleza avanzan mejor conectadas. En Chile, con la emergencia por lluvias y el accidente de Portillo, la coordinación entre autoridades y ciudadanos será clave; vale la pena seguir cómo responden las instituciones en los próximos días.
+[ES]
+Vigilancia de la Hipótesis.
+[ES]
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no una nueva argumentación completa.
+[ES]
+La hipótesis sigue desglosada en cuatro eslabones: a, ciclos de autoridad cada vez más cortos; b, mayor voz interior individual; c, alejamiento del individualismo; y d, más colaboración y cohesión social. En el registro de los últimos 12 días, a y d han recibido apoyo casi a diario, c ha sido desafiado en 10 de 12 días y b ha quedado mayormente neutral. Aún no existe una revisión integral previa.
+[ES]
+Hoy, a recibe apoyo: Replit pasa de Anthropic a OpenAI y una secretaria de prensa de la Casa Blanca dura días en el cargo, según TechCrunch y BBC Mundo; continúa la racha. Para d hay apoyo en las marchas masivas en Francia, aunque violentas, según DW. A la vez, c vuelve a ser desafiado por los disturbios, saqueos y la fragmentación geopolítica en torno a Ucrania. Sobre b no hay señal clara hoy.
