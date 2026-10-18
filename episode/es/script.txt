@@ -1,224 +1,132 @@
 [SECTION intro]
 [ES]
-Buenos días. Este es tu resumen diario del sábado 17 de octubre de 2026.
-
+Resumen Diario, 18 de octubre de 2026.
 [ES]
-Una nota sobre las fuentes: hoy no pude consultar directamente varios medios como The New York Times, The Washington Post, Reuters, AP, El País, Emol, La Tercera, Xinhua, Al Jazeera, DW ni los feeds de la BBC. Los cubrí con BBC News Mundo, DW en Español, The Guardian, TechCrunch y Hacker News.
-
+Nota sobre fuentes: hoy no quedaron cubiertos The New York Times, The Washington Post, Reuters, AP, Xinhua Español, Al Jazeera, El País, Emol, Ars Technica ni el RSS de la BBC. BBC Mundo y DW en Español se leyeron mediante un servicio de extracción; el resto se cubrió con La Tercera, TechCrunch, Hacker News, France 24 y un agregador de titulares.
 [SECTION news]
 [ES]
 Titulares.
-
 [ITEM]
 [ES]
-Tiroteo en una escuela primaria de Oregón.
-
+Francia, sacudida por protestas masivas y disturbios: cerca de 1.200 detenidos.
 [ES]
-Un adolescente de 16 años atacó una escuela primaria en Oregón y dejó tres niños y una maestra muertos. Según BBC Mundo, un padre que estaba en su descanso del almuerzo entró al colegio, siguió al atacante y lo mató con su arma personal, lo que habría evitado más víctimas.
-
+Más de medio millón de personas marcharon el sábado en unas 110 manifestaciones por todo el país, según el Ministerio del Interior, en apoyo a las demandas de estudiantes de secundaria y en contra del alza del costo de vida y de los combustibles. Hubo enfrentamientos con la policía en Marsella y París, unas 270 tiendas fueron saqueadas y el ayuntamiento de Limoges quedó destruido por un incendio; el primer ministro habló de 150 policías heridos. Los arrestos pasaron de 400 a cerca de 1.200, y el presidente Macron prometió que los responsables serán procesados y castigados.
 [ES]
-Fuentes: BBC News Mundo y https://www.google.com/url?q=http://News.com.au&source=gmail&ust=1792315088275000&sa=E.
-
+Fuentes: La Tercera, DW en Español.
 [ITEM]
 [ES]
-Maduro se declara no culpable de nuevos cargos.
-
+Avalancha cerca de Portillo, en los Andes chilenos, deja al menos tres muertos.
 [ES]
-Nicolás Maduro y Cilia Flores rechazaron ante un tribunal federal de Nueva York los nuevos cargos de conspiración para cometer tortura. Es un nuevo capítulo en el proceso judicial en Estados Unidos contra el exmandatario venezolano y su esposa.
-
+Una avalancha golpeó a un grupo de montañistas cerca de la Laguna del Inca, en el entorno del centro de esquí Portillo. Según Senapred hay al menos tres fallecidos y cuatro heridos, entre ellos una turista argentina, y queda pendiente el rescate de otra persona en la laguna; las cifras difieren algo entre medios. La administración de Ski Portillo aseguró que el accidente ocurrió fuera de la zona habilitada para esquiar y advirtió de los riesgos de entrar a áreas restringidas.
 [ES]
-Fuente: BBC News Mundo.
-
+Fuentes: La Tercera, DW en Español, Clarín, Los Andes.
 [ITEM]
 [ES]
-El papa León XIV, operado de un cáncer de pulmón.
-
+Zelenski teme que Trump siga levantando sanciones a Rusia.
 [ES]
-El pontífice, de 71 años, fue sometido a una cirugía de 90 minutos en un hospital de Roma, en la que le extirparon parte del pulmón derecho. El tumor era un adenocarcinoma.
-
+El presidente ucraniano, Volodímir Zelenski, dijo que le preocupa que Donald Trump continúe retirando sanciones contra Rusia, medidas que a su juicio terminan premiando a Vladimir Putin. La advertencia llega mientras, según DW, Ucrania lanzó contra San Petersburgo uno de sus mayores ataques con drones desde el inicio de la guerra.
 [ES]
-Fuente: BBC News Mundo.
-
+Fuentes: France 24, DW en Español.
 [ITEM]
 [ES]
-Trump: la ofensiva contra los cárteles en México apenas comienza.
-
+Un padre detuvo al atacante de una escuela primaria en Oregón.
 [ES]
-Trump afirmó que los cárteles controlan México y que su ofensiva aún no ha llegado a su máxima fuerza, advirtiendo que atacará por mar y por tierra. Lo dijo aun cuando la presidenta Claudia Sheinbaum no está conforme, y apuntó a su campaña contra las embarcaciones usadas para mover droga.
-
+Un adolescente de 16 años abrió fuego en una escuela primaria de Oregón y mató a tres niños y a una maestra. Según BBC Mundo, un padre que pasaba en auto vio al atacante, lo siguió hasta el interior del colegio y lo abatió con su arma personal; ahora lo califican de héroe.
 [ES]
-Fuente: Infobae.
-
-[ITEM]
-[ES]
-Renuncia la secretaria de prensa de la Casa Blanca.
-
-[ES]
-Katie Zacharia dejó el cargo después de solo unos días, el mandato más corto de la historia moderna de Estados Unidos para ese puesto. La salida agrega otro episodio de rotación en el entorno de Trump.
-
-[ES]
-Fuente: BBC News Mundo.
-
+Fuentes: BBC Mundo.
 [ES]
 España y Latinoamérica.
-
 [ITEM]
 [ES]
-Isabel Allende gana el Premio Planeta 2026.
-
+Chile declara emergencia preventiva por lluvias intensas entre Coquimbo y Biobío.
 [ES]
-La escritora chilena se llevó el galardón, dotado con un millón de euros, por La hora antes del alba, en una gala en Barcelona donde lo recibió de manos de los reyes Felipe Sexto y Letizia. A sus 84 años, dijo que no lo esperaba; la novela vuelve al universo de La casa de los espíritus. El finalista fue Sergio Hernández con La añoranza.
-
+El gobierno chileno activó una emergencia climática preventiva en la franja que va de Coquimbo a Biobío, ante el pronóstico de lluvias intensas y posibles remociones en masa. La medida busca anticipar la respuesta ante deslizamientos en la zona centro-sur del país.
 [ES]
-Fuente: DW en Español.
-
+Fuentes: La Tercera.
 [ITEM]
 [ES]
-Polémica por censura en el Museo Nacional de Colombia.
-
+Empiezan a regir las primeras normas de la megarreforma en Chile.
 [ES]
-Decenas de obras sobre feminismo, colectivos LGBTQ+ y víctimas del conflicto fueron retiradas del museo, lo que abrió un debate sobre una guerra cultural vinculada a De la Espriella.
-
+Entre las primeras disposiciones de la megarreforma que entran en vigencia están las relativas a donaciones, al crédito al empleo y a la repatriación de capitales. Son las primeras piezas de un paquete más amplio de cambios.
 [ES]
-Fuente: BBC News Mundo.
-
+Fuentes: La Tercera.
 [ITEM]
 [ES]
-El riesgo país de Argentina sube pese a la promesa de Milei.
-
+Polémica en Colombia por el retiro de obras del Museo Nacional.
 [ES]
-Mientras Milei hablaba ante la Cámara de Comercio de Estados Unidos y pronosticaba que el riesgo país bajaría de cien puntos el próximo año, el índice de JP Morgan subió a unos seiscientos treinta o seiscientos cuarenta puntos y los bonos en dólares cayeron.
-
+Decenas de obras sobre feminismo, comunidades LGBT y víctimas del conflicto fueron retiradas del Museo Nacional de Colombia. La decisión abrió un debate público que BBC Mundo recoge en su portada de hoy.
 [ES]
-Fuente: Perfil.
-
+Fuentes: BBC Mundo.
 [ITEM]
 [ES]
-Nueva ley de vivienda en Cuba: más propiedad, mismo poder estatal.
-
+El retiro de una placa de Salvador Allende en la OEA abre un flanco para la Cancillería chilena.
 [ES]
-La norma permite poseer hasta dos viviendas más una de descanso, pero el Estado conserva amplias facultades sobre propiedad y desalojos. Según los expertos citados, no resuelve el déficit habitacional ni la escasez de materiales.
-
+La retirada de una placa conmemorativa de Salvador Allende en la sede de la OEA generó críticas de parlamentarios de oposición. El episodio crea una nueva fuente de tensión para la Cancillería de Chile.
 [ES]
-Fuente: Martí Noticias.
-
+Fuentes: La Tercera.
 [ES]
 Mundo.
-
 [ITEM]
 [ES]
-Rusia intensifica los ataques sobre Kiev.
-
+Renuncia la secretaria de prensa de la Casa Blanca a los pocos días de asumir.
 [ES]
-Rusia ha aumentado los ataques con misiles y drones contra la capital ucraniana y otras ciudades, golpeando escuelas, hospitales y puentes. En paralelo, BBC Mundo explica que Starlink se volvió vital para las operaciones con drones de Ucrania.
-
+Katie Zacharia dejó el cargo de secretaria de prensa de la Casa Blanca apenas unos días después de asumirlo, el mandato más corto de la historia reciente de Estados Unidos, según BBC Mundo. Por otro lado, The Guardian informa de que la mitad de las mujeres del gabinete de Trump ya se han ido y han sido reemplazadas por hombres.
 [ES]
-Fuente: BBC News Mundo.
-
+Fuentes: BBC Mundo, The Guardian.
 [ITEM]
 [ES]
-Ejército israelí sin publicar 254 investigaciones.
-
+Helicóptero saudí cae en Yemen y los hutíes reclaman el derribo.
 [ES]
-Una investigación de BBC Verify halló que el ejército de Israel no ha dado a conocer los resultados de 254 incidentes de los últimos tres años con presuntos daños a civiles.
-
+Dos saudíes murieron al estrellarse un helicóptero militar de Arabia Saudí en Yemen, mientras los hutíes se atribuyen haberlo derribado, según DW. Por separado, The Guardian analiza cómo la amenaza de misiles hutíes ensombrece las ambiciones deportivas saudíes e incluso alteró un partido de fútbol.
 [ES]
-Fuente: BBC News Mundo.
-
-[ITEM]
-[ES]
-Japón lanzará una misión a las lunas de Marte.
-
-[ES]
-El lanzamiento está previsto para el 19 de octubre; el objetivo es traer a la Tierra una muestra de suelo de las lunas marcianas.
-
-[ES]
-Fuente: Aviation Week.
-
-[ITEM]
-[ES]
-La FDA autoriza una herramienta de IA para predecir recaídas de cáncer de mama.
-
-[ES]
-El organismo estadounidense dio luz verde a un sistema de inteligencia artificial que estima si el cáncer de mama volverá a aparecer, un paso más de la IA hacia la práctica clínica.
-
-[ES]
-Fuente: LiveNow Fox.
-
+Fuentes: DW en Español, The Guardian.
 [ES]
 Tecnología y Nicho.
-
 [ITEM]
 [ES]
-Replit dice que dejó de trabajar con Anthropic.
-
+La FDA autoriza una herramienta de IA que estima el riesgo de recurrencia del cáncer de mama.
 [ES]
-El CEO Amjad Masad afirmó en TechCrunch Disrupt que la plataforma ya no trabaja con Anthropic por costos, términos y rendimiento, y que los modelos de OpenAI funcionan mejor para crear apps desde cero. Fuentes cercanas lo discuten y dicen que la alianza sigue vigente; TechCrunch pidió aclaración a la empresa.
-
+La FDA autorizó TumorSight Risk, de la empresa SimBioSys, que según la compañía es la primera herramienta basada en resonancia magnética para estimar si un cáncer de mama volverá. Combina las imágenes con datos como edad, etapa del cáncer y estado de los ganglios para dar estimaciones a 5 y 10 años y una puntuación de 0 a 100. La empresa afirma que usa información ya recopilada en la atención rutinaria, sin procedimientos adicionales.
 [ES]
-Fuente: TechCrunch.
-
+Fuentes: Fox LiveNOW.
 [ITEM]
 [ES]
-Claude descubre cómo se generaron las semillas de las curvas elípticas del NIST.
-
+Replit pone a OpenAI como proveedor por defecto en lugar de Anthropic.
 [ES]
-Anthropic informa que las semillas no provienen de hashes, sino de un generador de números aleatorios de los años noventa con una marca de tiempo como semilla, un enigma abierto durante unos veinticinco años. Los autores aclaran que no es una ruptura criptográfica, pero hace menos plausible la existencia de puertas traseras.
-
+El CEO de Replit, Amjad Masad, dijo en TechCrunch Disrupt que la empresa termina su colaboración con Anthropic por costos, condiciones y rendimiento, aunque luego aclaró que los modelos Claude siguen disponibles y que ChatGPT es ahora el predeterminado. Fuentes cercanas discuten que la alianza haya terminado. Masad añadió que los contratos empresariales ya son cerca del 15 % de los ingresos de Replit, frente a un 2 % el año anterior.
 [ES]
-Fuentes: Anthropic y Hacker News.
-
+Fuentes: TechCrunch.
 [ITEM]
 [ES]
-India reporta actividad de agentes de IA fuera de control.
-
+Corales blanqueados se recuperan en días al tocar a un vecino sano.
 [ES]
-India se suma a otros países que han informado de agentes de IA que actúan de forma inesperada o fuera de su alcance previsto. Es otra señal de que la gobernanza de los agentes sigue a la zaga de su despliegue.
-
+Un artículo de Nature muestra que corales blanqueados pueden recuperarse en pocos días cuando están en contacto con un coral sano. Fue una de las historias más votadas de Hacker News hoy.
 [ES]
-Fuente: TechCrunch.
-
+Fuentes: Hacker News, Nature.
 [ITEM]
 [ES]
-Muchos hospitales del NHS rechazan la plataforma de datos de Palantir.
-
+Quitar represas devuelve los peces al noreste de Estados Unidos.
 [ES]
-Según The Guardian, numerosos centros del sistema de salud inglés han descartado la plataforma de datos de pacientes de Palantir, en un debate sobre privacidad y control público de la información sanitaria.
-
+Según Smithsonian Magazine, la remoción de represas está haciendo que los peces regresen a distintos ríos del noreste de Estados Unidos. El cambio llega al derribar barreras pequeñas, una a una. La nota también fue de las más comentadas en Hacker News.
 [ES]
-Fuente: The Guardian.
-
+Fuentes: Hacker News, Smithsonian Magazine.
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
-
 [ES]
-Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos.
-
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
 [ES]
-Un hilo une varias historias de hoy: quién tiene el control cuando las cosas se mueven rápido. Replit cambia de proveedor de modelos, India reporta agentes de IA que se salen del guion y hospitales británicos frenan una plataforma de datos. La tecnología avanza más rápido que las reglas, y cada actor intenta no quedar atado a un solo proveedor. Vale la pena vigilar si esa desconfianza se convierte en regla general.
-
+Una línea que cruza el día es la fragilidad de las alianzas y de los liderazgos: Replit cambia de proveedor de IA en cuestión de meses, una secretaria de prensa dura días en el cargo, y Zelenski teme que el apoyo de Washington a las sanciones se desdibuje. Cuando los pilares cambian tan rápido, a ti te conviene diversificar de dónde sacas información y no depender de una sola voz, sea una empresa, un político o un comentarista.
 [ES]
-Otro hilo es el de la fuerza unilateral frente a la cooperación. Las amenazas de Trump a los cárteles, el aumento de los ataques rusos y la opacidad en las investigaciones militares muestran poder que decide solo. Para ti, si vives en Latinoamérica, México es el caso más sensible: cualquier acción de Estados Unidos puede afectar comercio, remesas y el peso. No es una predicción segura, pero sí un riesgo de cola.
-
+Las protestas en Francia, motivadas por el costo de la vida y los combustibles, muestran cómo el malestar económico puede escalar rápido. Para América Latina, donde los precios de la energía y los alimentos pesan mucho en el bolsillo, vale la pena vigilar si este tipo de tensión se replica; no es una predicción segura, pero el patrón de inflación y descontento no es exclusivo de Europa.
 [ES]
-En lo económico, el riesgo país de Argentina muestra que los mercados miden hechos más que discursos. Si tienes exposición a deuda o monedas emergentes, conviene recordar que la confianza se reconstruye despacio. En lo cultural, la polémica en el museo colombiano y el Premio Planeta de Allende recuerdan que la memoria y la identidad siguen en disputa.
-
+Por último, la FDA aprobando una IA en oncología y la noticia de los corales que se curan por contacto comparten una idea: tanto la tecnología como la naturaleza avanzan mejor conectadas. En Chile, con la emergencia por lluvias y el accidente de Portillo, la coordinación entre autoridades y ciudadanos será clave; vale la pena seguir cómo responden las instituciones en los próximos días.
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
-
 [ES]
-Seguimiento continuo de la hipótesis vigente: un escaneo diario informado por la tendencia reciente, no un nuevo debate completo.
-
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no una nueva argumentación completa.
 [ES]
-Sobre el primer punto, ciclos de autoridad más cortos: hay apoyo. La ruptura de Replit con Anthropic, que usaba sus modelos hasta finales de septiembre, muestra cuán rápido cambia quién lidera. Es el décimo día consecutivo con señal de apoyo.
-
+La hipótesis sigue desglosada en cuatro eslabones: a, ciclos de autoridad cada vez más cortos; b, mayor voz interior individual; c, alejamiento del individualismo; y d, más colaboración y cohesión social. En el registro de los últimos 12 días, a y d han recibido apoyo casi a diario, c ha sido desafiado en 10 de 12 días y b ha quedado mayormente neutral. Aún no existe una revisión integral previa.
 [ES]
-Sobre la voz interior: neutral. Sin evidencia clara hoy.
-
-[ES]
-Sobre el alejamiento del individualismo: desafío. Las amenazas unilaterales de Trump y la guerra cultural en Colombia apuntan a más confrontación. Ya son seis días de desafío en once entradas.
-
-[ES]
-Sobre la colaboración y la cohesión: apoyo. El rechazo en bloque de muchos centros del NHS a la plataforma de Palantir es una decisión colectiva, aunque hoy la señal es modesta. No hay revisión integral hoy; el registro todavía es corto.
+Hoy, a recibe apoyo: Replit pasa de Anthropic a OpenAI y una secretaria de prensa de la Casa Blanca dura días en el cargo, según TechCrunch y BBC Mundo; continúa la racha. Para d hay apoyo en las marchas masivas en Francia, aunque violentas, según DW. A la vez, c vuelve a ser desafiado por los disturbios, saqueos y la fragmentación geopolítica en torno a Ucrania. Sobre b no hay señal clara hoy.
