@@ -1,132 +1,218 @@
 [SECTION intro]
 [ES]
-Resumen Diario, 18 de octubre de 2026.
-[ES]
-Nota sobre fuentes: hoy no quedaron cubiertos The New York Times, The Washington Post, Reuters, AP, Xinhua Español, Al Jazeera, El País, Emol, Ars Technica ni el RSS de la BBC. BBC Mundo y DW en Español se leyeron mediante un servicio de extracción; el resto se cubrió con La Tercera, TechCrunch, Hacker News, France 24 y un agregador de titulares.
+Hola, este es tu resumen diario del lunes 19 de octubre de 2026.
+
 [SECTION news]
 [ES]
 Titulares.
+
 [ITEM]
 [ES]
-Francia, sacudida por protestas masivas y disturbios: cerca de 1.200 detenidos.
+Francia, tras un fin de semana de disturbios: Macron habla de «ira y vergüenza».
 [ES]
-Más de medio millón de personas marcharon el sábado en unas 110 manifestaciones por todo el país, según el Ministerio del Interior, en apoyo a las demandas de estudiantes de secundaria y en contra del alza del costo de vida y de los combustibles. Hubo enfrentamientos con la policía en Marsella y París, unas 270 tiendas fueron saqueadas y el ayuntamiento de Limoges quedó destruido por un incendio; el primer ministro habló de 150 policías heridos. Los arrestos pasaron de 400 a cerca de 1.200, y el presidente Macron prometió que los responsables serán procesados y castigados.
+El presidente Emmanuel Macron condenó en un mensaje televisado la violencia de los últimos días, separó a los estudiantes que protestan de quienes saquean y prometió que los responsables pagarán. Según Al Jazeera, el sábado hubo cerca de 2.400 detenciones y alrededor de mil policías y gendarmes heridos, aunque no se decretó estado de emergencia ni toque de queda. Reuters añade que Macron rechazó la renuncia que le ofreció su ministro del Interior y que una turba enmascarada incendió el ayuntamiento de Limoges.
 [ES]
-Fuentes: La Tercera, DW en Español.
+Fuentes: Al Jazeera, Reuters, DW en Español y El País.
+
 [ITEM]
 [ES]
-Avalancha cerca de Portillo, en los Andes chilenos, deja al menos tres muertos.
+Trump suspende sanciones a Rusia y arremete contra Zelenski.
 [ES]
-Una avalancha golpeó a un grupo de montañistas cerca de la Laguna del Inca, en el entorno del centro de esquí Portillo. Según Senapred hay al menos tres fallecidos y cuatro heridos, entre ellos una turista argentina, y queda pendiente el rescate de otra persona en la laguna; las cifras difieren algo entre medios. La administración de Ski Portillo aseguró que el accidente ocurrió fuera de la zona habilitada para esquiar y advirtió de los riesgos de entrar a áreas restringidas.
+Trump defendió haber levantado varias sanciones a Rusia días antes de que entraran en vigor, con el argumento de que quiere mantener a Moscú en la mesa de negociación, y acusó a Zelenski de no querer terminar la guerra. Zelenski respondió que el alivio «perjudicará a Ucrania», y los socios europeos criticaron la medida. Reuters informa que el petróleo bajó desde un máximo de cinco meses ante la posibilidad de más suministro ruso, y La Tercera recoge que Putin sugirió una reunión con Trump y Xi Jinping para hablar del fin de la guerra.
 [ES]
-Fuentes: La Tercera, DW en Español, Clarín, Los Andes.
+Fuentes: Al Jazeera, BBC, Reuters, La Tercera y DW en Español.
+
 [ITEM]
 [ES]
-Zelenski teme que Trump siga levantando sanciones a Rusia.
+Brasil: primer debate entre Lula y Flávio Bolsonaro, a una semana del balotaje.
 [ES]
-El presidente ucraniano, Volodímir Zelenski, dijo que le preocupa que Donald Trump continúe retirando sanciones contra Rusia, medidas que a su juicio terminan premiando a Vladimir Putin. La advertencia llega mientras, según DW, Ucrania lanzó contra San Petersburgo uno de sus mayores ataques con drones desde el inicio de la guerra.
+En su primer cara a cara en São Paulo, Lula y Flávio Bolsonaro se llamaron mentirosos y se acusaron mutuamente de corrupción, con choques sobre seguridad pública y salud. Bolsonaro encabezó la primera vuelta por 47% a 45%, el balotaje es el 25 de octubre y hay un segundo debate previsto para el 23. Al Jazeera añade que la policía federal pidió al Supremo investigar a Bolsonaro por una acusación de lavado de dinero vinculada a un colaborador cercano.
 [ES]
-Fuentes: France 24, DW en Español.
+Fuentes: Al Jazeera, La Tercera y Emol.
+
 [ITEM]
 [ES]
-Un padre detuvo al atacante de una escuela primaria en Oregón.
+La aprobación de Trump cae a su mínimo histórico a dos semanas de las legislativas.
 [ES]
-Un adolescente de 16 años abrió fuego en una escuela primaria de Oregón y mató a tres niños y a una maestra. Según BBC Mundo, un padre que pasaba en auto vio al atacante, lo siguió hasta el interior del colegio y lo abatió con su arma personal; ahora lo califican de héroe.
+Una encuesta de Ipsos, Washington Post y ABC News sitúa la aprobación de Trump en 33%, con 52% de desaprobación firme, a pocos días de las elecciones del 3 de noviembre que definirán el control republicano del Congreso. El País cuenta que los aranceles y la guerra con Irán han encarecido los precios y desencantado a agricultores de Iowa, un estado clave para el Senado. BBC Mundo informa además de la salida de la secretaria de prensa Katie Zacharia tras apenas unos días en el cargo.
 [ES]
-Fuentes: BBC Mundo.
+Fuentes: Clarín, TN, El País y BBC News Mundo.
+
 [ES]
 España y Latinoamérica.
+
 [ITEM]
 [ES]
-Chile declara emergencia preventiva por lluvias intensas entre Coquimbo y Biobío.
+Chile: la aprobación de Kast toca su nivel más bajo.
 [ES]
-El gobierno chileno activó una emergencia climática preventiva en la franja que va de Coquimbo a Biobío, ante el pronóstico de lluvias intensas y posibles remociones en masa. La medida busca anticipar la respuesta ante deslizamientos en la zona centro-sur del país.
+La encuesta Cadem muestra que la aprobación del presidente Kast es la más baja desde que asumió, con una caída generalizada en todo el gabinete. Además, 60% apoya eliminar la facultad presidencial de conceder indultos y 64% rechaza beneficiar a exuniformados condenados por violaciones a los derechos humanos.
 [ES]
-Fuentes: La Tercera.
+Fuentes: La Tercera y Emol.
+
 [ITEM]
 [ES]
-Empiezan a regir las primeras normas de la megarreforma en Chile.
+Chile: alerta roja por un nuevo sistema frontal y una avalancha en Portillo.
 [ES]
-Entre las primeras disposiciones de la megarreforma que entran en vigencia están las relativas a donaciones, al crédito al empleo y a la repatriación de capitales. Son las primeras piezas de un paquete más amplio de cambios.
+La Región Metropolitana enfrenta un nuevo sistema frontal que podría dejar hasta 75 milímetros de lluvia: habrá clases suspendidas el martes en 10 comunas y el Gobierno definió tres perímetros de seguridad por riesgo de remoción en masa. Por otra parte, la Fiscalía confirmó tres muertos y cuatro lesionados por una avalancha en Portillo, y según Emol la búsqueda de la tercera víctima se reanudará el jueves por el clima.
 [ES]
-Fuentes: La Tercera.
+Fuentes: La Tercera, Emol y DW en Español.
+
 [ITEM]
 [ES]
-Polémica en Colombia por el retiro de obras del Museo Nacional.
+Chile: 29 detenidos en las protestas del aniversario del 18-O.
 [ES]
-Decenas de obras sobre feminismo, comunidades LGBT y víctimas del conflicto fueron retiradas del Museo Nacional de Colombia. La decisión abrió un debate público que BBC Mundo recoge en su portada de hoy.
+Carabineros reportó 29 detenidos y funcionarios lesionados tras las marchas en el centro de Santiago que recordaron el estallido de 2019. El ministro Arrau afirmó que «Chile no quiere más violencia».
 [ES]
-Fuentes: BBC Mundo.
+Fuentes: La Tercera y Emol.
+
 [ITEM]
 [ES]
-El retiro de una placa de Salvador Allende en la OEA abre un flanco para la Cancillería chilena.
+Guadalajara vuelve a marchar por agua limpia.
 [ES]
-La retirada de una placa conmemorativa de Salvador Allende en la sede de la OEA generó críticas de parlamentarios de oposición. El episodio crea una nueva fuente de tensión para la Cancillería de Chile.
+Una segunda marcha en Guadalajara para exigir agua limpia se detuvo a los pocos metros, después de que personas enmascaradas con bates y petardos causaran daños en el centro. Los organizadores acusan a un «grupo de choque» enviado por el gobierno estatal de haber impedido la marcha y protestan también por la represión.
 [ES]
-Fuentes: La Tercera.
+Fuentes: El País.
+
+[ITEM]
+[ES]
+Argentina: el consumo no repunta.
+[ES]
+Las ventas por el Día de la Madre cayeron 1,4% interanual, la quinta baja consecutiva. Una encuesta indica que 65,3% de los argentinos se queda sin ingresos a más tardar el día 20 de cada mes.
+[ES]
+Fuentes: Perfil.
+
+[ITEM]
+[ES]
+España: siete de cada diez creen que los niños vivirán peor que sus padres.
+[ES]
+Una encuesta del CIS refleja que la mayoría de los españoles cree que las nuevas generaciones tendrán peor vida que sus padres. La preocupación incluye el uso de pantallas, el acoso escolar y el futuro de los más jóvenes.
+[ES]
+Fuentes: DW en Español.
+
 [ES]
 Mundo.
+
 [ITEM]
 [ES]
-Renuncia la secretaria de prensa de la Casa Blanca a los pocos días de asumir.
+Yemen: los hutíes arrastran a Arabia Saudita.
 [ES]
-Katie Zacharia dejó el cargo de secretaria de prensa de la Casa Blanca apenas unos días después de asumirlo, el mandato más corto de la historia reciente de Estados Unidos, según BBC Mundo. Por otro lado, The Guardian informa de que la mitad de las mujeres del gabinete de Trump ya se han ido y han sido reemplazadas por hombres.
+El Consejo de Cooperación del Golfo condenó los ataques hutíes contra Arabia Saudita mientras los combates en Yemen se intensifican, y las embajadas de Estados Unidos en la región emitieron una alerta de seguridad. DW informa de dos saudíes muertos al estrellarse un helicóptero militar en Yemen, que los hutíes dicen haber derribado.
 [ES]
-Fuentes: BBC Mundo, The Guardian.
+Fuentes: Al Jazeera y DW en Español.
+
 [ITEM]
 [ES]
-Helicóptero saudí cae en Yemen y los hutíes reclaman el derribo.
+Ucrania ataca San Petersburgo; Rusia golpea Kyiv.
 [ES]
-Dos saudíes murieron al estrellarse un helicóptero militar de Arabia Saudí en Yemen, mientras los hutíes se atribuyen haberlo derribado, según DW. Por separado, The Guardian analiza cómo la amenaza de misiles hutíes ensombrece las ambiciones deportivas saudíes e incluso alteró un partido de fútbol.
+Ucrania lanzó contra San Petersburgo uno de los mayores ataques con drones desde el inicio de la guerra, según DW. Reuters informa de que un ataque ruso mató a una mujer e impactó una estación de metro en Kyiv, y Ars Technica cuenta que drones ucranianos dañaron un centro de datos de inteligencia artificial de Yandex, la «Google rusa».
 [ES]
-Fuentes: DW en Español, The Guardian.
+Fuentes: DW en Español, Reuters, Ars Technica y El País.
+
+[ITEM]
+[ES]
+Las protestas juveniles se extienden por Europa.
+[ES]
+Según El País, las protestas se propagan por Francia, Italia, Bélgica, Albania y España, con jóvenes que se niegan a ceder. Al Jazeera informa de la sexta jornada de protestas violentas en Tirana mientras el primer ministro albanés se niega a renunciar, y DW cuenta que una protesta por la crisis de vivienda se propaga a Portugal.
+[ES]
+Fuentes: Al Jazeera, El País y DW en Español.
+
+[ITEM]
+[ES]
+El papa León XIV reaparece ante las multitudes.
+[ES]
+El pontífice fue recibido por multitudes en su primera aparición pública importante desde la cirugía por cáncer de pulmón. El País lo vio saludar desde su ventana en el Vaticano durante el Ángelus, y BBC Mundo explica qué es el adenocarcinoma pulmonar que le extirparon.
+[ES]
+Fuentes: Al Jazeera, El País y BBC News Mundo.
+
+[ITEM]
+[ES]
+China crece más de lo esperado, impulsada por las exportaciones.
+[ES]
+El crecimiento chino del tercer trimestre superó las expectativas gracias a un auge exportador. El consumo interno sigue débil, y los analistas advierten que los desequilibrios estructurales se profundizan.
+[ES]
+Fuentes: Reuters.
+
+[ITEM]
+[ES]
+Venta de pánico en Indonesia tras la advertencia de MSCI.
+[ES]
+Las acciones indonesias sufrieron una caída récord en dos días después de que MSCI advirtiera de una posible expulsión de su índice. La advertencia asustó a los inversores y dejó golpeados a unos mercados descritos como frágiles.
+[ES]
+Fuentes: Reuters.
+
 [ES]
 Tecnología y Nicho.
+
 [ITEM]
 [ES]
-La FDA autoriza una herramienta de IA que estima el riesgo de recurrencia del cáncer de mama.
+Anthropic destinará el 5% de sus acciones a un fondo de beneficio público.
 [ES]
-La FDA autorizó TumorSight Risk, de la empresa SimBioSys, que según la compañía es la primera herramienta basada en resonancia magnética para estimar si un cáncer de mama volverá. Combina las imágenes con datos como edad, etapa del cáncer y estado de los ganglios para dar estimaciones a 5 y 10 años y una puntuación de 0 a 100. La empresa afirma que usa información ya recopilada en la atención rutinaria, sin procedimientos adicionales.
+Anthropic anunció que comprometerá el 5% de sus acciones a un nuevo «Fondo de Beneficio Público», sujeto a aprobación de los accionistas, y sumará otro 2% por cada 50% que aumente su valor. El fondo podría apoyar a organizaciones sin fines de lucro y a poblaciones afectadas por la disrupción laboral de la inteligencia artificial, pero no financiará cabildeo ni donaciones políticas. El anuncio llega mientras la empresa se prepara para una posible salida a bolsa antes de fin de año.
 [ES]
-Fuentes: Fox LiveNOW.
+Fuentes: Al Jazeera y TechCrunch.
+
 [ITEM]
 [ES]
-Replit pone a OpenAI como proveedor por defecto en lugar de Anthropic.
+Replit cambia de proveedor de IA y Disney contrata al equipo de Character.AI.
 [ES]
-El CEO de Replit, Amjad Masad, dijo en TechCrunch Disrupt que la empresa termina su colaboración con Anthropic por costos, condiciones y rendimiento, aunque luego aclaró que los modelos Claude siguen disponibles y que ChatGPT es ahora el predeterminado. Fuentes cercanas discuten que la alianza haya terminado. Masad añadió que los contratos empresariales ya son cerca del 15 % de los ingresos de Replit, frente a un 2 % el año anterior.
+El CEO de Replit dijo que la plataforma cambió su modelo de inteligencia artificial por defecto de Anthropic a OpenAI. Por otro lado, Disney acordó contratar a la mayor parte de la plantilla de Character.AI, tras la quiebra que se informó de esta empresa.
 [ES]
 Fuentes: TechCrunch.
+
 [ITEM]
 [ES]
-Corales blanqueados se recuperan en días al tocar a un vecino sano.
+Los agentes de programación con IA generan más código, pero no más software.
 [ES]
-Un artículo de Nature muestra que corales blanqueados pueden recuperarse en pocos días cuando están en contacto con un coral sano. Fue una de las historias más votadas de Hacker News hoy.
+Un estudio encuentra que las ganancias de eficiencia al escribir código se ven compensadas por un cuello de botella en la revisión humana. En otras palabras, producir código es cada vez más barato, pero revisarlo sigue dependiendo de personas.
 [ES]
-Fuentes: Hacker News, Nature.
+Fuentes: Ars Technica.
+
 [ITEM]
 [ES]
-Quitar represas devuelve los peces al noreste de Estados Unidos.
+Los envíos de PC caen 20,1%.
 [ES]
-Según Smithsonian Magazine, la remoción de represas está haciendo que los peces regresen a distintos ríos del noreste de Estados Unidos. El cambio llega al derribar barreras pequeñas, una a una. La nota también fue de las más comentadas en Hacker News.
+Los envíos de computadoras personales bajaron 20,1%, la caída más fuerte desde el primer trimestre de 2023. Un analista sugiere que podría ser el comienzo de un descenso más largo.
 [ES]
-Fuentes: Hacker News, Smithsonian Magazine.
+Fuentes: Ars Technica.
+
+[ITEM]
+[ES]
+IA pequeña para países en desarrollo, y centros de datos como tema electoral.
+[ES]
+El Banco Mundial sostiene que los países en desarrollo deberían construir modelos de inteligencia artificial pequeños y adaptados localmente, según The Guardian. Mientras tanto, BBC Mundo cuenta que la oposición a los centros de datos de inteligencia artificial se está convirtiendo en un asunto de campaña en las legislativas de Estados Unidos.
+[ES]
+Fuentes: The Guardian y BBC News Mundo.
+
+[ITEM]
+[ES]
+Lo más votado en Hacker News.
+[ES]
+Entre lo más votado figura el ensayo «Someone behind the software», de Karri Saarinen, con 275 puntos, y un video de 3Blue1Brown titulado «There's never been a better time to go into math», con 114 puntos. También destaca un artículo en arXiv sobre agentes de razonamiento híbrido que piensan en espacio latente y actúan mediante texto, con 143 puntos.
+[ES]
+Fuentes: Hacker News.
+
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
 [ES]
-Una línea que cruza el día es la fragilidad de las alianzas y de los liderazgos: Replit cambia de proveedor de IA en cuestión de meses, una secretaria de prensa dura días en el cargo, y Zelenski teme que el apoyo de Washington a las sanciones se desdibuje. Cuando los pilares cambian tan rápido, a ti te conviene diversificar de dónde sacas información y no depender de una sola voz, sea una empresa, un político o un comentarista.
+Un hilo que cruza las noticias de hoy es la energía: la guerra con Irán lleva meses encareciendo el combustible, y la decisión de Trump de aliviar sanciones a Rusia busca, según los reportes, más diésel en el mercado. Si eso se materializa, podría aliviar precios para economías importadoras de combustible como las de gran parte de Latinoamérica; pero también muestra cómo las decisiones de política exterior de unos pocos están moviendo el costo de vida de millones. Vale la pena vigilar el petróleo y el diésel en las próximas semanas, aunque no es una predicción segura.
 [ES]
-Las protestas en Francia, motivadas por el costo de la vida y los combustibles, muestran cómo el malestar económico puede escalar rápido. Para América Latina, donde los precios de la energía y los alimentos pesan mucho en el bolsillo, vale la pena vigilar si este tipo de tensión se replica; no es una predicción segura, pero el patrón de inflación y descontento no es exclusivo de Europa.
+Otro hilo es el de la demanda global. China creció más de lo esperado gracias a las exportaciones mientras su consumo interno sigue débil, y Indonesia vivió una venta de pánico por una advertencia de MSCI. Para quien vive de las materias primas, como Chile con el cobre o Brasil con la soja, un crecimiento chino apoyado en exportaciones y no en consumo podría significar una demanda menos firme de lo que parece; y un clima de nerviosismo en mercados emergentes puede presionar monedas de la región. De nuevo: son señales a vigilar, no un veredicto.
 [ES]
-Por último, la FDA aprobando una IA en oncología y la noticia de los corales que se curan por contacto comparten una idea: tanto la tecnología como la naturaleza avanzan mejor conectadas. En Chile, con la emergencia por lluvias y el accidente de Portillo, la coordinación entre autoridades y ciudadanos será clave; vale la pena seguir cómo responden las instituciones en los próximos días.
+En lo político, hay una tensión visible entre calle y urnas. Francia vive disturbios y protestas juveniles que se extienden por Europa, Chile registró detenidos en el 18-O con un gobierno que pierde aprobación, México vio otra marcha por agua limpia, y Brasil se encamina a un balotaje muy polarizado el 25 de octubre. Para el mundo hispanohablante, el resultado brasileño importa por su peso regional y por su efecto en el real y en el comercio del Mercosur; la inestabilidad social, por su parte, suele pasar factura a la inversión y al turismo.
+[ES]
+Por último, la IA aparece a la vez como promesa y como fricción: Anthropic reserva parte de su capital para un fondo de beneficio público, Character.AI se desploma, Replit cambia de proveedor, los envíos de PC caen con fuerza y un estudio sugiere que generar más código no equivale a más software. Podría ser un mercado que se ordena más rápido de lo esperado; para quien trabaja o emprende en español, quizá convenga no depender de un solo proveedor y mirar también las propuestas de modelos pequeños y locales que plantea el Banco Mundial.
+
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
 [ES]
-Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no una nueva argumentación completa.
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no solo por las historias de hoy, y no una nueva discusión completa.
 [ES]
-La hipótesis sigue desglosada en cuatro eslabones: a, ciclos de autoridad cada vez más cortos; b, mayor voz interior individual; c, alejamiento del individualismo; y d, más colaboración y cohesión social. En el registro de los últimos 12 días, a y d han recibido apoyo casi a diario, c ha sido desafiado en 10 de 12 días y b ha quedado mayormente neutral. Aún no existe una revisión integral previa.
+El registro de los últimos 13 días, del 5 al 18 de octubre, muestra un patrón estable: la subhipótesis a, ciclos de autoridad cada vez más cortos, tiene apoyo en 12 días; la b, el fortalecimiento de la voz interior, es casi siempre neutral; la c, el alejamiento del individualismo, ha sido desafiada en 11 días; y la d, más colaboración humana y cohesión, tiene apoyo en 12 días. Es una muestra aún corta para hablar de una tendencia firme, y no hay revisiones integrales previas que enmarquen la lectura de hoy.
 [ES]
-Hoy, a recibe apoyo: Replit pasa de Anthropic a OpenAI y una secretaria de prensa de la Casa Blanca dura días en el cargo, según TechCrunch y BBC Mundo; continúa la racha. Para d hay apoyo en las marchas masivas en Francia, aunque violentas, según DW. A la vez, c vuelve a ser desafiado por los disturbios, saqueos y la fragmentación geopolítica en torno a Ucrania. Sobre b no hay señal clara hoy.
+Hoy la a suma otra señal de apoyo: Replit cambió su modelo por defecto de Anthropic a OpenAI y Disney contrata al equipo de Character.AI tras su quiebra reportada, según TechCrunch, lo que continúa la racha de las últimas semanas. En la b no hay una señal clara: sigue neutral. En la c hay desafío otra vez, con un debate brasileño de insultos mutuos, según Al Jazeera, y la pelea entre Trump y Zelenski por las sanciones, también según Al Jazeera.
+[ES]
+En la d sigue habiendo apoyo, con matices: protestas juveniles que se extienden por Europa, según El País y DW, y una nueva marcha por agua limpia en Guadalajara, según El País, muestran acción colectiva, aunque en Francia derivó en violencia, algo que complica leerlo como cohesión. Es otro día en que el patrón se repite: la a y la d avanzan, la c retrocede y la b no se mueve.
