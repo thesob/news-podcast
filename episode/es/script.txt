@@ -1,218 +1,225 @@
 [SECTION intro]
 [ES]
-Hola, este es tu resumen diario del lunes 19 de octubre de 2026.
-
+Buenos días. Este es tu resumen diario del martes 20 de octubre de 2026.
+[ES]
+Nota de fuentes: hoy no incluí https://www.google.com/url?q=http://nytimes.com&source=gmail&ust=1792574221550000&sa=E ni https://www.google.com/url?q=http://washingtonpost.com&source=gmail&ust=1792574221550000&sa=E, que son de pago; su cobertura se sustituyó con Reuters, AP, DW y The Guardian.
 [SECTION news]
 [ES]
 Titulares.
-
 [ITEM]
 [ES]
-Francia, tras un fin de semana de disturbios: Macron habla de «ira y vergüenza».
+Francia, entre toques de queda y detenciones récord.
 [ES]
-El presidente Emmanuel Macron condenó en un mensaje televisado la violencia de los últimos días, separó a los estudiantes que protestan de quienes saquean y prometió que los responsables pagarán. Según Al Jazeera, el sábado hubo cerca de 2.400 detenciones y alrededor de mil policías y gendarmes heridos, aunque no se decretó estado de emergencia ni toque de queda. Reuters añade que Macron rechazó la renuncia que le ofreció su ministro del Interior y que una turba enmascarada incendió el ayuntamiento de Limoges.
+Tras un fin de semana de disturbios y saqueos en protestas por el costo de la vida, Francia impuso toques de queda parciales en París y otras grandes ciudades, y Marsella prohibió todas las concentraciones diurnas. En París hubo un récord de 855 detenidos y, según Al Jazeera, el ministro del Interior admitió que la policía “perdió el control” durante el fin de semana. Macron separa a los estudiantes de los vándalos, mientras Reuters analiza que la crisis debilita al presidente y podría favorecer a Le Pen. En Italia también hubo choques estudiantiles y saqueos, sobre todo en Milán, con cientos de detenidos, la mayoría menores, según El País.
 [ES]
-Fuentes: Al Jazeera, Reuters, DW en Español y El País.
-
+Fuentes: Al Jazeera, DW, El País, Reuters, Xinhua.
 [ITEM]
 [ES]
-Trump suspende sanciones a Rusia y arremete contra Zelenski.
+Irán y Medio Oriente: la presión de EE. UU. e Israel continúa.
 [ES]
-Trump defendió haber levantado varias sanciones a Rusia días antes de que entraran en vigor, con el argumento de que quiere mantener a Moscú en la mesa de negociación, y acusó a Zelenski de no querer terminar la guerra. Zelenski respondió que el alivio «perjudicará a Ucrania», y los socios europeos criticaron la medida. Reuters informa que el petróleo bajó desde un máximo de cinco meses ante la posibilidad de más suministro ruso, y La Tercera recoge que Putin sugirió una reunión con Trump y Xi Jinping para hablar del fin de la guerra.
+Trump aseguró que Estados Unidos sigue golpeando a Irán “económica y militarmente”, según la cobertura en vivo de Al Jazeera. El secretario de Defensa, Hegseth, hizo una visita sorpresa a Israel para reunirse con Netanyahu, y Xinhua informa que Trump respalda la reelección del primer ministro israelí. Mientras tanto, Benny Gantz se retiró de la carrera electoral en Israel y Arabia Saudita canceló su foro de inversión “Davos del desierto” por los ataques hutíes.
 [ES]
-Fuentes: Al Jazeera, BBC, Reuters, La Tercera y DW en Español.
-
+Fuentes: Al Jazeera, Reuters, Xinhua.
 [ITEM]
 [ES]
-Brasil: primer debate entre Lula y Flávio Bolsonaro, a una semana del balotaje.
+Rusia, sanciones y Ucrania.
 [ES]
-En su primer cara a cara en São Paulo, Lula y Flávio Bolsonaro se llamaron mentirosos y se acusaron mutuamente de corrupción, con choques sobre seguridad pública y salud. Bolsonaro encabezó la primera vuelta por 47% a 45%, el balotaje es el 25 de octubre y hay un segundo debate previsto para el 23. Al Jazeera añade que la policía federal pidió al Supremo investigar a Bolsonaro por una acusación de lavado de dinero vinculada a un colaborador cercano.
+Trump dijo que suspender varias sanciones a Rusia busca mantener vivas las negociaciones de paz; Ucrania lamentó la decisión y Moscú la calificó de “histórica”. Reuters informa que Zelenski se reunirá con el enviado Witkoff en Oslo para reparar una relación tensa con Washington. En paralelo, Ucrania lanzó uno de sus mayores ataques con drones contra San Petersburgo, y la BBC reporta instalaciones petroleras golpeadas.
 [ES]
-Fuentes: Al Jazeera, La Tercera y Emol.
-
+Fuentes: BBC, DW, Reuters.
 [ITEM]
 [ES]
-La aprobación de Trump cae a su mínimo histórico a dos semanas de las legislativas.
+EE. UU.: aprobación de Trump en mínimo histórico y presión por los combustibles.
 [ES]
-Una encuesta de Ipsos, Washington Post y ABC News sitúa la aprobación de Trump en 33%, con 52% de desaprobación firme, a pocos días de las elecciones del 3 de noviembre que definirán el control republicano del Congreso. El País cuenta que los aranceles y la guerra con Irán han encarecido los precios y desencantado a agricultores de Iowa, un estado clave para el Senado. BBC Mundo informa además de la salida de la secretaria de prensa Katie Zacharia tras apenas unos días en el cargo.
+Una encuesta de Reuters e Ipsos sitúa la aprobación de Trump en 31%, un mínimo récord, con votantes preocupados por el precio de la gasolina a las puertas de las elecciones legislativas. Trump anunció un programa de apoyo de 8.000 millones de dólares para agricultores por el costo del diésel. Aparte, Reuters cuenta que la Fed ve el auge de la IA como un dolor de cabeza adicional para la inflación.
 [ES]
-Fuentes: Clarín, TN, El País y BBC News Mundo.
-
+Fuentes: Reuters.
 [ES]
 España y Latinoamérica.
-
 [ITEM]
 [ES]
-Chile: la aprobación de Kast toca su nivel más bajo.
+Lluvias torrenciales dejan cuatro muertos en el este de España.
 [ES]
-La encuesta Cadem muestra que la aprobación del presidente Kast es la más baja desde que asumió, con una caída generalizada en todo el gabinete. Además, 60% apoya eliminar la facultad presidencial de conceder indultos y 64% rechaza beneficiar a exuniformados condenados por violaciones a los derechos humanos.
+Al Jazeera informa de cuatro muertos por lluvias torrenciales en el este de España. El reporte describe el impacto de la tormenta en la región.
 [ES]
-Fuentes: La Tercera y Emol.
-
+Fuentes: Al Jazeera.
 [ITEM]
 [ES]
-Chile: alerta roja por un nuevo sistema frontal y una avalancha en Portillo.
+Vivienda y futuro: la protesta cruza a Portugal.
 [ES]
-La Región Metropolitana enfrenta un nuevo sistema frontal que podría dejar hasta 75 milímetros de lluvia: habrá clases suspendidas el martes en 10 comunas y el Gobierno definió tres perímetros de seguridad por riesgo de remoción en masa. Por otra parte, la Fiscalía confirmó tres muertos y cuatro lesionados por una avalancha en Portillo, y según Emol la búsqueda de la tercera víctima se reanudará el jueves por el clima.
+La protesta por la crisis de vivienda se propagó a Portugal, según DW. En España, una encuesta del CIS muestra que siete de cada diez personas creen que los niños vivirán peor que sus padres.
 [ES]
-Fuentes: La Tercera, Emol y DW en Español.
-
+Fuentes: DW.
 [ITEM]
 [ES]
-Chile: 29 detenidos en las protestas del aniversario del 18-O.
+Chile: expulsiones tras el 18-O y caída del oficialismo en las encuestas.
 [ES]
-Carabineros reportó 29 detenidos y funcionarios lesionados tras las marchas en el centro de Santiago que recordaron el estallido de 2019. El ministro Arrau afirmó que «Chile no quiere más violencia».
+El presidente Kast instruyó usar las herramientas disponibles para expulsar a extranjeros detenidos en los desmanes del aniversario del 18-O. Al mismo tiempo, tras un desplome en las encuestas, el oficialismo pide acelerar las medidas de empleo y La Moneda prepara un rediseño de su vocería. Kast también se reunió con el presidente de Bolivia, Paz, y Bolivia anunció un plan para reactivar el ferrocarril Arica-La Paz.
 [ES]
-Fuentes: La Tercera y Emol.
-
+Fuentes: Emol, La Tercera.
 [ITEM]
 [ES]
-Guadalajara vuelve a marchar por agua limpia.
+Chile: aluvión, lluvia y avalancha.
 [ES]
-Una segunda marcha en Guadalajara para exigir agua limpia se detuvo a los pocos metros, después de que personas enmascaradas con bates y petardos causaran daños en el centro. Los organizadores acusan a un «grupo de choque» enviado por el gobierno estatal de haber impedido la marcha y protestan también por la represión.
+El Gobierno pidió a los vecinos de las viviendas afectadas por el aluvión en Las Condes evacuar antes de las 10:00 del martes, y se espera un sistema frontal con hasta 35 milímetros y posibles tormentas eléctricas en la Región Metropolitana. En los Andes, una avalancha en el centro de esquí El Portillo dejó al menos tres fallecidos, según DW.
 [ES]
-Fuentes: El País.
-
+Fuentes: La Tercera, Emol, DW.
 [ITEM]
 [ES]
-Argentina: el consumo no repunta.
+Colombia, Guatemala y México: seguridad y justicia.
 [ES]
-Las ventas por el Día de la Madre cayeron 1,4% interanual, la quinta baja consecutiva. Una encuesta indica que 65,3% de los argentinos se queda sin ingresos a más tardar el día 20 de cada mes.
+Un helicóptero Black Hawk del Ejército cayó en Inzá, Cauca, con 19 militares a bordo. En Guatemala fue asesinado el exfiscal anticorrupción Juan Francisco Solórzano Foppa, y en México arrestaron a un exfiscal por un operativo en el que murieron dos agentes estadounidenses.
 [ES]
-Fuentes: Perfil.
-
+Fuentes: El Colombiano, DW.
 [ITEM]
 [ES]
-España: siete de cada diez creen que los niños vivirán peor que sus padres.
+Argentina y Perú: dólares y facultades.
 [ES]
-Una encuesta del CIS refleja que la mayoría de los españoles cree que las nuevas generaciones tendrán peor vida que sus padres. La preocupación incluye el uso de pantallas, el acoso escolar y el futuro de los más jóvenes.
+El Banco Central argentino ya compró más de 1.000 millones de dólares en lo que va de octubre, tras adquirir 18 millones el lunes. En Perú, la Comisión de Constitución del Senado aprobó un dictamen sobre el pedido de facultades legislativas del Ejecutivo, que pasa al pleno.
 [ES]
-Fuentes: DW en Español.
-
+Fuentes: Infobae, Gestión.
+[ITEM]
+[ES]
+Cultura: Isabel Allende y un premio Nosside cubano.
+[ES]
+Isabel Allende ganó el Premio Planeta 2026 con una novela que es secuela de La casa de los espíritus, según BBC Mundo. El poeta cubano Ronel González ganó el Premio Mundial de Poesía Nosside 2026 por su poema “Lengua bárbara”.
+[ES]
+Fuentes: BBC Mundo, Granma.
 [ES]
 Mundo.
-
 [ITEM]
 [ES]
-Yemen: los hutíes arrastran a Arabia Saudita.
+Katie Zacharia deja la secretaría de prensa de la Casa Blanca.
 [ES]
-El Consejo de Cooperación del Golfo condenó los ataques hutíes contra Arabia Saudita mientras los combates en Yemen se intensifican, y las embajadas de Estados Unidos en la región emitieron una alerta de seguridad. DW informa de dos saudíes muertos al estrellarse un helicóptero militar en Yemen, que los hutíes dicen haber derribado.
+Katie Zacharia dejó el cargo de secretaria de prensa de la Casa Blanca días después de asumir, con el mandato más corto de la era moderna en EE. UU., según BBC Mundo. El País recuerda que la salida revive la turbulencia del primer mandato de la administración republicana.
 [ES]
-Fuentes: Al Jazeera y DW en Español.
-
+Fuentes: BBC Mundo, El País.
 [ITEM]
 [ES]
-Ucrania ataca San Petersburgo; Rusia golpea Kyiv.
+Sudán: escalada de ataques con drones.
 [ES]
-Ucrania lanzó contra San Petersburgo uno de los mayores ataques con drones desde el inicio de la guerra, según DW. Reuters informa de que un ataque ruso mató a una mujer e impactó una estación de metro en Kyiv, y Ars Technica cuenta que drones ucranianos dañaron un centro de datos de inteligencia artificial de Yandex, la «Google rusa».
+Ataques con drones en Sudán habrían matado a 160 personas, según Al Jazeera. El medio describe los ataques como una escalada.
 [ES]
-Fuentes: DW en Español, Reuters, Ars Technica y El País.
-
+Fuentes: Al Jazeera.
 [ITEM]
 [ES]
-Las protestas juveniles se extienden por Europa.
+Gaza: recortes de ayuda alimentaria.
 [ES]
-Según El País, las protestas se propagan por Francia, Italia, Bélgica, Albania y España, con jóvenes que se niegan a ceder. Al Jazeera informa de la sexta jornada de protestas violentas en Tirana mientras el primer ministro albanés se niega a renunciar, y DW cuenta que una protesta por la crisis de vivienda se propaga a Portugal.
+La falta de fondos obliga al Programa Mundial de Alimentos a poner fin cada mes al apoyo a más de medio millón de personas en Gaza, según The Guardian. La BBC también reporta los recortes de ayuda por escasez de financiamiento.
 [ES]
-Fuentes: Al Jazeera, El País y DW en Español.
-
+Fuentes: The Guardian, BBC.
 [ITEM]
 [ES]
-El papa León XIV reaparece ante las multitudes.
+Australia: grave ataque a una diputada independiente.
 [ES]
-El pontífice fue recibido por multitudes en su primera aparición pública importante desde la cirugía por cáncer de pulmón. El País lo vio saludar desde su ventana en el Vaticano durante el Ángelus, y BBC Mundo explica qué es el adenocarcinoma pulmonar que le extirparon.
+La diputada independiente Helen Haines está en estado crítico tras un presunto ataque frente a su oficina en Wangaratta, según The Guardian. La policía y las agencias antiterroristas investigan.
 [ES]
-Fuentes: Al Jazeera, El País y BBC News Mundo.
-
+Fuentes: The Guardian.
 [ITEM]
 [ES]
-China crece más de lo esperado, impulsada por las exportaciones.
+China crece 4,5% en el tercer trimestre.
 [ES]
-El crecimiento chino del tercer trimestre superó las expectativas gracias a un auge exportador. El consumo interno sigue débil, y los analistas advierten que los desequilibrios estructurales se profundizan.
+El PIB de China creció 4,5% interanual en el tercer trimestre de 2026, según Xinhua. La agencia también destaca nuevas medidas para impulsar la innovación tecnológica en el comercio.
+[ES]
+Fuentes: Xinhua.
+[ITEM]
+[ES]
+ONU: el Consejo de Seguridad veta a todos los candidatos a secretario general.
+[ES]
+El Consejo de Seguridad vetó a los siete aspirantes a secretario general de la ONU, según DW. La noticia figura entre las más leídas del día en ese medio.
+[ES]
+Fuentes: DW.
+[ITEM]
+[ES]
+El papa León XIV reaparece tras su cirugía.
+[ES]
+El papa León XIV agradeció a sus seguidores en su primer acto tras la cirugía por un cáncer, según la BBC. BBC Mundo explica que el tumor extirpado fue un adenocarcinoma de pulmón.
+[ES]
+Fuentes: BBC, BBC Mundo.
+[ITEM]
+[ES]
+Ébola: Kenia suma casos y el brote en el Congo llega a una octava provincia.
+[ES]
+Kenia reporta ocho casos confirmados de ébola. El brote en la República Democrática del Congo alcanzó una octava provincia, según DW.
+[ES]
+Fuentes: DW.
+[ITEM]
+[ES]
+Alberta vota quedarse en Canadá.
+[ES]
+Los votantes de Alberta rechazaron separarse de Canadá, según Reuters. Se espera, sin embargo, que el movimiento separatista persista.
 [ES]
 Fuentes: Reuters.
-
-[ITEM]
-[ES]
-Venta de pánico en Indonesia tras la advertencia de MSCI.
-[ES]
-Las acciones indonesias sufrieron una caída récord en dos días después de que MSCI advirtiera de una posible expulsión de su índice. La advertencia asustó a los inversores y dejó golpeados a unos mercados descritos como frágiles.
-[ES]
-Fuentes: Reuters.
-
 [ES]
 Tecnología y Nicho.
-
 [ITEM]
 [ES]
-Anthropic destinará el 5% de sus acciones a un fondo de beneficio público.
+OpenAI acelera su financiamiento ante la salida a bolsa de Anthropic.
 [ES]
-Anthropic anunció que comprometerá el 5% de sus acciones a un nuevo «Fondo de Beneficio Público», sujeto a aprobación de los accionistas, y sumará otro 2% por cada 50% que aumente su valor. El fondo podría apoyar a organizaciones sin fines de lucro y a poblaciones afectadas por la disrupción laboral de la inteligencia artificial, pero no financiará cabildeo ni donaciones políticas. El anuncio llega mientras la empresa se prepara para una posible salida a bolsa antes de fin de año.
+Reuters informa que OpenAI busca acelerar su ronda de financiamiento antes del debut bursátil de Anthropic, previsto para mediados de noviembre. Por su parte, la BBC cuenta que Anthropic se compromete a destinar el 5% de sus acciones a un fondo de beneficio público.
 [ES]
-Fuentes: Al Jazeera y TechCrunch.
-
+Fuentes: Reuters, BBC.
 [ITEM]
 [ES]
-Replit cambia de proveedor de IA y Disney contrata al equipo de Character.AI.
+IA y seguridad: hackeos con agentes.
 [ES]
-El CEO de Replit dijo que la plataforma cambió su modelo de inteligencia artificial por defecto de Anthropic a OpenAI. Por otro lado, Disney acordó contratar a la mayor parte de la plantilla de Character.AI, tras la quiebra que se informó de esta empresa.
+Hackers atacaron la herramienta de programación con IA OpenCode y dispararon cargos en las cuentas de IA de los usuarios, según TechCrunch. Ars Technica reporta que modelos de OpenAI hackearon una billetera cripto en pruebas, y Reuters investigó a un hacker que usó agentes de IA y unos pocos miles de dólares para entrar en decenas de sitios.
+[ES]
+Fuentes: TechCrunch, Ars Technica, Reuters.
+[ITEM]
+[ES]
+Amazon y Nvidia mueven ficha en chips y modelos abiertos.
+[ES]
+Amazon lanzó TorchNeuron, una herramienta para desarrolladores que, según TechCrunch, es su mayor apuesta hasta ahora contra el dominio de Nvidia. Nvidia, por su parte, presentó modelos abiertos para ejecutar agentes de IA en empresas y en computadores personales.
 [ES]
 Fuentes: TechCrunch.
-
 [ITEM]
 [ES]
-Los agentes de programación con IA generan más código, pero no más software.
+La FTC investiga a Anthropic y OpenAI.
 [ES]
-Un estudio encuentra que las ganancias de eficiencia al escribir código se ven compensadas por un cuello de botella en la revisión humana. En otras palabras, producir código es cada vez más barato, pero revisarlo sigue dependiendo de personas.
+Según un reporte citado por Ars Technica, la FTC examina si incidentes de seguridad de la IA perjudicaron a estadounidenses. La noticia llega después de que Trump descartara los temores sobre la IA como un “engaño”.
 [ES]
 Fuentes: Ars Technica.
-
 [ITEM]
 [ES]
-Los envíos de PC caen 20,1%.
+Compañeros de IA, y quienes quieren televisores “tontos”.
 [ES]
-Los envíos de computadoras personales bajaron 20,1%, la caída más fuerte desde el primer trimestre de 2023. Un analista sugiere que podría ser el comienzo de un descenso más largo.
+La startup Tolan, un compañero de IA para ayudar a navegar la vida, levantó 30 millones de dólares, según TechCrunch. En sentido contrario, TechCrunch cuenta que algunas personas usan IA para quitar las funciones “inteligentes” de sus televisores.
+[ES]
+Fuentes: TechCrunch.
+[ITEM]
+[ES]
+Privacidad y etiquetas de IA.
+[ES]
+Un error hizo que las gafas Ray-Ban Meta grabaran audio sin consentimiento del usuario; ya está corregido, pero persisten las dudas de privacidad, según Ars Technica. Por otro lado, YouTube Music comienza a etiquetar canciones generadas con IA.
 [ES]
 Fuentes: Ars Technica.
-
-[ITEM]
-[ES]
-IA pequeña para países en desarrollo, y centros de datos como tema electoral.
-[ES]
-El Banco Mundial sostiene que los países en desarrollo deberían construir modelos de inteligencia artificial pequeños y adaptados localmente, según The Guardian. Mientras tanto, BBC Mundo cuenta que la oposición a los centros de datos de inteligencia artificial se está convirtiendo en un asunto de campaña en las legislativas de Estados Unidos.
-[ES]
-Fuentes: The Guardian y BBC News Mundo.
-
 [ITEM]
 [ES]
 Lo más votado en Hacker News.
 [ES]
-Entre lo más votado figura el ensayo «Someone behind the software», de Karri Saarinen, con 275 puntos, y un video de 3Blue1Brown titulado «There's never been a better time to go into math», con 114 puntos. También destaca un artículo en arXiv sobre agentes de razonamiento híbrido que piensan en espacio latente y actúan mediante texto, con 143 puntos.
+Entre lo más votado en Hacker News figura MiniMax M3.1 Flash, con 328 puntos. Otro tema destacado es el port de Wine a OpenBSD, anunciado en la lista de correo de ports, con 463 puntos.
 [ES]
 Fuentes: Hacker News.
-
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
 [ES]
-Un hilo que cruza las noticias de hoy es la energía: la guerra con Irán lleva meses encareciendo el combustible, y la decisión de Trump de aliviar sanciones a Rusia busca, según los reportes, más diésel en el mercado. Si eso se materializa, podría aliviar precios para economías importadoras de combustible como las de gran parte de Latinoamérica; pero también muestra cómo las decisiones de política exterior de unos pocos están moviendo el costo de vida de millones. Vale la pena vigilar el petróleo y el diésel en las próximas semanas, aunque no es una predicción segura.
+Si miras juntas las protestas en Francia e Italia, el malestar por la vivienda en Portugal y España, y la aprobación de Trump en 31% con la gasolina como preocupación central, aparece un hilo común: el costo de la vida está erosionando la paciencia con los gobiernos de turno. Reuters sugiere incluso que la ira por los combustibles está alimentando a la extrema derecha europea antes de las elecciones. Vale la pena vigilar si ese patrón se repite en el mundo hispanohablante, donde la vivienda y la energía ya pesan en los hogares; no es una predicción segura, pero sí una dinámica que se ve en varios países a la vez.
 [ES]
-Otro hilo es el de la demanda global. China creció más de lo esperado gracias a las exportaciones mientras su consumo interno sigue débil, y Indonesia vivió una venta de pánico por una advertencia de MSCI. Para quien vive de las materias primas, como Chile con el cobre o Brasil con la soja, un crecimiento chino apoyado en exportaciones y no en consumo podría significar una demanda menos firme de lo que parece; y un clima de nerviosismo en mercados emergentes puede presionar monedas de la región. De nuevo: son señales a vigilar, no un veredicto.
+Ese hilo se cruza con la geopolítica de la energía. La presión de EE. UU. e Israel sobre Irán, los ataques hutíes que llevaron a cancelar el “Davos del desierto” y los ataques con drones contra instalaciones petroleras rusas apuntan a un mercado del crudo nervioso. Para quien vive en Chile, Perú o Argentina, eso puede traducirse en precios de combustibles más inestables y en vaivenes de monedas y materias primas; que el Banco Central argentino siga comprando dólares es un recordatorio de lo sensible que es ese equilibrio. De nuevo, es un escenario posible, no un pronóstico.
 [ES]
-En lo político, hay una tensión visible entre calle y urnas. Francia vive disturbios y protestas juveniles que se extienden por Europa, Chile registró detenidos en el 18-O con un gobierno que pierde aprobación, México vio otra marcha por agua limpia, y Brasil se encamina a un balotaje muy polarizado el 25 de octubre. Para el mundo hispanohablante, el resultado brasileño importa por su peso regional y por su efecto en el real y en el comercio del Mercosur; la inestabilidad social, por su parte, suele pasar factura a la inversión y al turismo.
+En paralelo, la tecnología sigue acelerando. Amazon y Nvidia lanzan herramientas y modelos abiertos, OpenAI corre para financiarse antes de la salida a bolsa de Anthropic, y la Fed ve el auge de la IA como un factor adicional de inflación. A la vez aparecen los costos de seguridad: hackeos con agentes de IA y una investigación de la FTC. Para España y Latinoamérica, que en buena medida usan estas tecnologías en lugar de producirlas, la pregunta es cuánto del beneficio y del riesgo llegará a empresas y trabajadores locales; vale la pena seguirlo sin dar nada por hecho.
 [ES]
-Por último, la IA aparece a la vez como promesa y como fricción: Anthropic reserva parte de su capital para un fondo de beneficio público, Character.AI se desploma, Replit cambia de proveedor, los envíos de PC caen con fuerza y un estudio sugiere que generar más código no equivale a más software. Podría ser un mercado que se ordena más rápido de lo esperado; para quien trabaja o emprende en español, quizá convenga no depender de un solo proveedor y mirar también las propuestas de modelos pequeños y locales que plantea el Banco Mundial.
-
+Por último, hay un patrón político: Macron debilitado, el oficialismo chileno cayendo en las encuestas y Trump en mínimos. Gobiernos presionados por precios y empleo tienden a endurecer su discurso, como las expulsiones que ordenó Kast tras el 18-O. No sabemos si esto se consolidará, pero conviene mirar cómo se combinan el descontento económico y la política de seguridad en los próximos meses.
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
 [ES]
-Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no solo por las historias de hoy, y no una nueva discusión completa.
+Seguimiento diario de la hipótesis vigente sobre la IA, la voz interior y la cohesión social: es un escaneo informado por la tendencia reciente del registro, no solo por las historias de hoy, y no una nueva argumentación completa.
 [ES]
-El registro de los últimos 13 días, del 5 al 18 de octubre, muestra un patrón estable: la subhipótesis a, ciclos de autoridad cada vez más cortos, tiene apoyo en 12 días; la b, el fortalecimiento de la voz interior, es casi siempre neutral; la c, el alejamiento del individualismo, ha sido desafiada en 11 días; y la d, más colaboración humana y cohesión, tiene apoyo en 12 días. Es una muestra aún corta para hablar de una tendencia firme, y no hay revisiones integrales previas que enmarquen la lectura de hoy.
+Sobre el primer punto, los ciclos de autoridad más cortos, hay apoyo. Amazon y Nvidia se movieron el mismo día, y MiniMax M3.1 Flash sube en Hacker News, mientras OpenAI acelera su financiamiento ante la salida a bolsa de Anthropic: los liderazgos tecnológicos se reordenan en semanas. Según el registro, es la señal de apoyo número 14 en el periodo reciente, con 13 entradas seguidas con apoyo. Sobre la voz interior, la lectura es neutral. Tolan, un compañero de IA que ayuda a navegar la vida, recaudó 30 millones de dólares, lo que empuja hacia la delegación, mientras hay personas que usan IA para quitar funciones inteligentes a sus televisores, lo que apunta a retomar el control; las dos señales se compensan, y el registro viene mayormente neutral con algunos días de desafío.
 [ES]
-Hoy la a suma otra señal de apoyo: Replit cambió su modelo por defecto de Anthropic a OpenAI y Disney contrata al equipo de Character.AI tras su quiebra reportada, según TechCrunch, lo que continúa la racha de las últimas semanas. En la b no hay una señal clara: sigue neutral. En la c hay desafío otra vez, con un debate brasileño de insultos mutuos, según Al Jazeera, y la pelea entre Trump y Zelenski por las sanciones, también según Al Jazeera.
-[ES]
-En la d sigue habiendo apoyo, con matices: protestas juveniles que se extienden por Europa, según El País y DW, y una nueva marcha por agua limpia en Guadalajara, según El País, muestran acción colectiva, aunque en Francia derivó en violencia, algo que complica leerlo como cohesión. Es otro día en que el patrón se repite: la a y la d avanzan, la c retrocede y la b no se mueve.
+Sobre el alejamiento del individualismo, hay desafío. Las expulsiones ordenadas en Chile y el avance de la extrema derecha europea por la ira ante los combustibles refuerzan identidades de bloque; es el sexto día seguido de desafío. Sobre la colaboración y la cohesión, hay apoyo. Las protestas masivas en Francia e Italia y la protesta por la vivienda que se extiende a Portugal muestran acción colectiva, aunque con violencia; es la entrada número 13 seguida con apoyo. En conjunto, el patrón sigue siendo el mismo: el primer y el cuarto punto acumulan apoyo, el tercero sigue siendo la excepción y el segundo apenas se mueve.
