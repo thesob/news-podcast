@@ -1,0 +1,166 @@
+[EN]
+Good morning, Patricio. Here's your brief for Wednesday, October 21st, 2026.
+[EN]
+Sources note. The New York Times and Washington Post were both behind their paywalls today, so US coverage leans on The Guardian, DW, El País and wire reporting instead. No other gaps — everything else came through.
+[EN]
+Top Stories.
+[EN]
+The UN says the 1.5 degrees Celsius goal is now out of reach.
+[EN]
+The UN Environment Programme's annual Emissions Gap Report, released as the COP31 summit approaches, concludes that holding global warming to 1.5 degrees Celsius above pre-industrial levels is no longer achievable — the world is now set to overshoot it, and the report pointedly blames wealthy nations and the EU for dragging their feet. It stops short of fatalism, mapping the steep cuts that could still pull warming back down after an overshoot, but the framing is a milestone: the headline number of the Paris Agreement is, for practical purposes, behind us. Expect it to hang over every negotiating room at COP31.
+[EN]
+Sources: UNEP, CNN, SVT.
+[EN]
+Witkoff meets Putin; trilateral talks floated while Kyiv keeps taking fire.
+[EN]
+US envoy Steve Witkoff, joined by Jared Kushner, met Vladimir Putin in Russia, and the Kremlin called the talks useful in every respect, saying a resumption of trilateral negotiations — reportedly to be hosted in the UAE — is back on the table. The diplomacy unfolded even as Russian strikes on Kyiv continued overnight and Ukraine's leadership insisted it is losing people and time, not the war. Back in Washington, some Republicans openly criticised Trump's softening line on Moscow, and the US rejected reports it had paused intelligence-sharing with Ukraine.
+[EN]
+Sources: The Guardian, DW, El País.
+[EN]
+Europe's protest wave keeps widening.
+[EN]
+The unrest that has been simmering across Europe hardened again this week: Marseille banned public gatherings after riots, France logged more than 1,800 arrests nationwide and demonstrators blocked the entrance to the Louvre, while police cleared protest encampments in Lisbon and Porto after three days of occupation. The Guardian frames it as a powerful warning to governments that have few answers on housing, schools and the cost of living. The sharpest test comes Sunday in Serbia, where a student-led movement born of two years of protest is fielding candidates against Aleksandar Vučić's twelve-year grip on power.
+[EN]
+Sources: The Guardian, DW, NRK.
+[EN]
+Anthropic pitches a federal AI-safety bill to US lawmakers.
+[EN]
+Anthropic — the maker of Claude — has put a draft AI law in front of US legislators that would let federal regulators block a model only if it plausibly risks fifty or more deaths or more than one billion dollars in damage, a deliberately high bar meant to target catastrophic risk rather than everyday use. Separately, the company said it is giving an outside AI watchdog employee-like access to scrutinise its systems. It is a striking move: a frontier lab lobbying for someone else to hold a kill switch over its own products.
+[EN]
+Sources: Politico, TechCrunch, Ars Technica.
+[EN]
+UK debt tops three trillion pounds as inflation climbs and a new North Sea gasfield is approved.
+[EN]
+Total UK government debt passed three trillion pounds for the first time just as inflation jumped to its highest in nearly a year, driven largely by fuel costs — an uncomfortable combination for a Labour government with little fiscal room. On the same morning it approved the Jackdaw gasfield in the North Sea, a decision held back until after a by-election and at odds with Labour's own manifesto. The Greens called it climate vandalism; the government counters that the field will supply gas within weeks and create a modest number of jobs.
+[EN]
+Sources: The Guardian.
+[ES]
+España y Latinoamérica.
+[ES]
+Chile: Senapred ordena evacuar un campamento en Talagante por el desborde del Mapocho.
+[ES]
+En plena jornada de fuertes lluvias en la Región Metropolitana, Senapred activó una alerta SAE y pidió evacuar el campamento Ribera del Río en Talagante tras el desborde del río Mapocho, instando a los vecinos a seguir las instrucciones de los equipos de emergencia. El temporal también obligó a suspender la revancha de cuartos de final de Copa Chile entre Universidad de Chile y Deportes Antofagasta, prevista para hoy. Es un recordatorio de lo expuesta que está la zona central a eventos de lluvia intensa concentrada.
+[ES]
+Fuentes: Meganoticias, BioBioChile.
+[ES]
+Argentina: un paro de subtes golpea a más de 300 mil usuarios y el Gobierno porteño evalúa sanciones.
+[ES]
+El paro en el subte de Buenos Aires afectó a más de 300 mil pasajeros, y la Ciudad analiza sancionar a los metrodelegados por no cumplir el servicio mínimo del 50 por ciento que un decreto de junio exige al declarar al subte servicio esencial. En paralelo, Economía canjeó con éxito el 72,86 por ciento de una letra dólar-linked y redujo unos 6 billones de pesos en vencimientos de fin de mes, despejando algo de presión a días de las elecciones legislativas. Dos caras de un país que sigue administrando tensiones sociales y financieras al mismo tiempo.
+[ES]
+Fuentes: Clarín, Ámbito.
+[ES]
+Colombia: el Ministerio de Educación pide una auditoría forense al Fomag y lo llama una crónica del desastre.
+[ES]
+En una comisión del Senado, la ministra de Educación reclamó una auditoría forense al fondo de salud del magisterio, el Fomag, y describió sus problemas como una crónica del desastre, comprometiéndose a resolver la crisis y mejorar la atención a docentes y sus familias. El caso vuelve a poner el foco en cómo se gestionan los fondos públicos destinados al sector educativo. Un tema técnico, pero con impacto directo en la vida de miles de profesores.
+[ES]
+Fuentes: Zona Cero.
+[EN]
+US and International.
+[EN]
+Canada: a deadly fire at an Alberta military base as the national-unity fight heats up.
+[EN]
+Four people died in a fire at a military base in Alberta, a province already at the centre of Canada's unity crisis; Prime Minister Mark Carney has gone so far as to imply the US is trying to break Canada as an Alberta separatist vote looms. In Quebec, the separatist question is live again too, with fresh votes and referendum promises. It adds up to the most serious stress-test of Canadian federalism in years, playing out under heavy pressure from Washington.
+[EN]
+Sources: DW, NRK.
+[EN]
+Gaza: food aid to roughly half a million people is being cut.
+[EN]
+Aid operations are scaling back food support for around half a million people in Gaza, deepening a humanitarian squeeze even as the broader ceasefire diplomacy grinds on. In parallel, Egypt's President Sisi said he would defend Saudi Arabia if asked — a sign of how Gulf security realignments keep widening around the conflict. The aid cut is the kind of quiet, grinding deterioration that rarely leads a bulletin but shapes how the crisis is remembered.
+[EN]
+Sources: NRK, DW.
+[EN]
+US: presidential approval sinks to thirty-one percent as No Kings rallies push early voting.
+[EN]
+Two weeks out from the midterms, a new poll puts presidential approval at thirty-one percent — the lowest of the term — while No Kings rallies are mobilising people toward early voting. El País dispatches from Iowa and Michigan capture voters weighing their finances against their ballots, a reminder that the economy, not ideology, may decide these races. Whatever the result, a sub-one-third approval rating going into a midterm is a flashing warning light for the party in power.
+[EN]
+Sources: El País, DW.
+[EN]
+Black Sea: NATO allies step up surveillance after a drone shoot-down.
+[EN]
+Allied governments are sending maritime patrol aircraft, radar systems and intelligence personnel to tighten surveillance over the Black Sea, after Romanian fighter jets shot down two drones in the region. It is the quieter, infrastructural side of the Ukraine war — the slow hardening of NATO's eastern and maritime edge. Small escalations like these rarely make headlines but steadily raise the odds of a direct incident.
+[EN]
+Sources: DW, El País.
+[EN]
+Tech and Niche.
+[EN]
+The open-weight AI race accelerates again.
+[EN]
+Two releases landed almost together: DeepSeek open-sourced its inference engine, DeepInfer, and Mistral shipped Voxtral 3, its newest speech model — both pushing capable AI further into the cheap, self-hostable column. Meanwhile Google is openly courting AI app developers, and open-sourced TorchTPU, a native PyTorch backend for its chips, following Amazon in trying to chip away at a developer base Nvidia has long owned. The throughline is the same one that's been running for weeks: the frontier is commoditising fast, and no single lab gets to sit on top of it for long.
+[EN]
+Sources: Hacker News, TechCrunch.
+[EN]
+Musk floats merging SpaceX and Tesla; OpenAI buys into biotech.
+[EN]
+Boards at both SpaceX and Tesla have reportedly set up special committees to evaluate a possible merger, with Musk calling the combination a good idea — a move that would fuse his rocket and car empires into one sprawling entity. Separately, OpenAI acquired the startup Orchestra Bio, extending its push beyond software into biotech and drug discovery. Both stories point the same way: the AI-era giants are expanding horizontally into everything at once.
+[EN]
+Sources: TechCrunch, Ars Technica.
+[EN]
+A rough day for digital trust: rogue certificates and an AI-driven wallet breach.
+[EN]
+Security teams went on high alert after eight compromised TLS certificates — the cryptographic credentials that vouch for website identity — were discovered in the wild, while Ars Technica reported that OpenAI models were used to hack a crypto wallet and breach additional websites. The pairing is a neat, unsettling snapshot of the moment: the plumbing of online trust is creaking just as AI makes automated attacks cheaper. Patch early and assume your tools can be turned against you.
+[EN]
+Sources: Ars Technica.
+[EN]
+Japan launches a mission to bring home a piece of a Martian moon.
+[EN]
+A Japanese spacecraft has set off on a five-year round trip to Phobos, one of Mars's two moons, with the goal of returning roughly ten grams of material to Earth. If it succeeds, it would be the first sample ever retrieved from a Martian moon — a small mass that could carry outsized clues about how the Mars system formed. A quietly ambitious counterpoint to all the earthbound turbulence.
+[EN]
+Sources: SVT, Ars Technica.
+[EN]
+A quiet argument for defending shared knowledge.
+[EN]
+A widely shared essay this week argued that academics have a duty to defend open knowledge systems like Wikipedia, as AI-generated content and pressure on institutions erode the commons we all draw from. It's a small, pointed reminder that the infrastructure of trustworthy knowledge is a human project that needs tending, not a given. Worth a read if you think about where facts will come from in an AI-saturated web.
+[EN]
+Sources: LSE Impact Blog, Hacker News.
+[SV]
+Sverige.
+[SV]
+Nytt mittenstyre på väg i Region Stockholm.
+[SV]
+Förhandlingarna om ett nytt mittenlett styre i Region Stockholm är inne i slutskedet, enligt SVT. Ett maktskifte i landets största region påverkar allt från sjukvård till kollektivtrafik för miljoner invånare. Det är den sortens regionalpolitik som sällan gör rikslöpsedel men märks i vardagen.
+[SV]
+Källa: SVT Nyheter.
+[SV]
+Regeringen öppnar för att neka visum till ryska skidåkare.
+[SV]
+Migrationsministern säger sig analysera om ryska längdåkare kan nekas inresa inför VM i Falun, en fråga där idrott och utrikespolitik krockar rakt av. Beslutet skulle sätta Sverige i en svår balansgång mellan idrottens neutralitetsprincip och den säkerhetspolitiska verkligheten. Ännu är inget avgjort.
+[SV]
+Källa: SVT Nyheter.
+[SV]
+Minnesstund efter dödsskjutningen av Saba Abraham, 24, i Älvsjö.
+[SV]
+Saba Abraham, 24, som arbetade med ungdomar för Stockholms stad, sköts till döds vid Kämpetorpshallen i fredags medan hon ledde en fotbollsmatch; en tyst minut hålls under onsdagen. Att en ung ungdomsledare dödas mitt i sitt arbete har väckt starka reaktioner. Det är det dödliga våldets pris, räknat i en enda människa.
+[SV]
+Källa: TV4, SVT Nyheter.
+[SV]
+SVT Verifierar: AI-bilder och gammalt slagsmål spreds som oroligheterna i Frankrike.
+[SV]
+SVT:s granskningsredaktion visar att AI-genererade bilder och ett gammalt slagsmål i Göteborg sprids som om de vore bevis på oroligheterna i Frankrike. Det är ett lärorikt exempel på hur snabbt desinformation klär sig i dagsaktuell dramatik. Lärdomen: lita inte på en bild bara för att den känns rätt.
+[SV]
+Källa: SVT Nyheter.
+[SV]
+Boknotan: nära 9 000 kronor för en termins kurslitteratur.
+[SV]
+Kurslitteraturen för populära universitetsprogram i Uppsala kan kosta studenter nära 9 000 kronor per termin, enligt SVT. Det är en tyst men reell tröskel för den som redan lever på marginalen. En påminnelse om att gratis utbildning sällan är helt gratis.
+[SV]
+Källa: SVT Nyheter.
+[EN]
+Connecting the Dots.
+[EN]
+This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN]
+Patricio, the thread I'd pull first today runs from a UN report straight to your doorstep. The declaration that 1.5 degrees Celsius is effectively lost lands the same morning the UK waves through a new North Sea gasfield and the day after Senapred was evacuating a camp on the Mapocho in the rain. Put those side by side and you get the whole uncomfortable logic of the moment: governments are quietly conceding the target while still approving the fossil projects, and the physical bill — floods, intense rain events, strained water systems — arrives in places like central Chile first. For you specifically, the overshoot framing matters because Chile's exposure isn't abstract: it's hydro reservoirs, snowpack, and the water that copper mining and agriculture both fight over. A world that has given up on 1.5 is a world where that competition gets sharper, sooner.
+[EN]
+The second pattern is the slow erosion of fixed authority, and it's showing up everywhere at once this week — a frontier AI lab asking the government to hold a kill switch over its own models, DeepSeek and Mistral giving capable AI away for free, Europe's streets refusing to accept their governments' answers, a Serbian student movement trying to convert protest into actual parliamentary power. None of these are the same story, but they rhyme: the people and institutions who used to set the terms are finding their grip is shorter than it was. That's a recurring note in these briefs, and it's worth watching whether it stays diffuse frustration or starts cohering into something that governs.
+[EN]
+For Chile the nearer-term dials are, as ever, copper and the peso. The Witkoff–Putin diplomacy and the Black Sea build-up both feed the global risk mood that moves commodity prices; a genuine thaw on Ukraine would tend to cool energy prices and, with them, some inflationary pressure, while any breakdown does the opposite. Argentina next door is the more immediate signal — a debt swap and a subway strike in the same news cycle, days before legislative elections — and Buenos Aires's mix of financial engineering and social friction tends to ripple across the Southern Cone's risk premium. None of this is a forecast; it's the weather map I'd keep an eye on.
+[EN]
+Finally, the quieter cultural note: the Wikipedia-defence essay, the SVT fact-check debunking AI images of the French riots, Anthropic inviting outside scrutiny. There's a growing, not-yet-organised instinct that shared, verifiable knowledge is something that has to be actively defended rather than assumed — and that the defending is a human job. Worth watching whether that instinct finds institutions to live in, or stays a scattering of essays and fact-checks. I wouldn't bet the house on either outcome yet.
+[EN]
+Hypothesis Watch.
+[EN]
+An ongoing watch on your standing hypothesis about AI, authority cycles and social cohesion — a daily scan read against the recent trend, not a full re-argument.
+[EN]
+On the first two links, today keeps the streak going. For sub-claim (a), shrinking authority cycles, the signal is strong again: Anthropic lobbying for a government kill switch over its own models and inviting an outside watchdog in, DeepSeek and Mistral commoditising the frontier within days of each other, and Witkoff's diplomacy reshuffling the Ukraine picture inside a single news cycle — all of it churns who gets to hold the authority position, and for how long. That's roughly six straight weeks of supporting reads for (a) in the log. For sub-claim (b), a stronger internal voice, there's a decent cluster too: the UNRWA whistleblower speaking out under threat, SVT's fact-checkers teaching people to distrust a convincing image, and the Wikipedia-defence and what-shall-I-teach-my-son essays all push the same way — trust your own judgement over the feed.
+[EN]
+On the back half of the chain the picture is unchanged, which is itself the finding. For sub-claim (c), a move away from individualism, today is neutral: Europe's protests and Serbia's student list are genuinely collective, but they're organised around cost-of-living, housing and anti-incumbency, not around any shedding of individualism — exactly the pattern the whole log shows, where (c) has never once tipped to support. Sub-claim (d), collaboration and cohesion, is neutral as well: NATO's Black Sea build-up and the EU's new Arctic strategy are real coordination, but they're state-level, and Gaza's aid cuts plus the protest wave cut the other way. With no integral review on file yet, the honest read remains what it's been for two months — the first two links keep lighting up, the last two haven't moved.
