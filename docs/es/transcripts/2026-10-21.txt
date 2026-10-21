@@ -1,0 +1,106 @@
+[ES]
+Titulares.
+[ES]
+Witkoff llega a Rusia para reunirse con Putin.
+[ES]
+El enviado estadounidense Steve Witkoff aterrizó en Rusia para hablar con Vladimir Putin sobre Ucrania. La reunión llega después de conversaciones que el propio Witkoff calificó de constructivas con Zelenski en Noruega. Mientras tanto, algunos republicanos han criticado el tono más blando de Donald Trump hacia Moscú.
+[ES]
+Fuente: The Guardian.
+[ES]
+Las protestas europeas: ¿un aviso que cambiará la política?
+[ES]
+Las manifestaciones por la vivienda, el costo de vida y los servicios públicos se han extendido por Francia, España, Italia, Portugal, Bélgica y Albania. En Francia el Gobierno tiene poco margen por una deuda superior al cien por ciento del PIB y un parlamento bloqueado, y en Portugal los precios de la vivienda más que se duplicaron entre 2015 y 2024. El analista Mujtaba Rahman, de Eurasia Group, habla de una convergencia de movimientos nacionales y espera más descontento a mediano plazo.
+[ES]
+Fuente: The Guardian.
+[ES]
+Reino Unido aprueba el yacimiento de gas Jackdaw.
+[ES]
+El Gobierno británico aprobó el yacimiento Jackdaw en el Mar del Norte, operado por Adura, de Equinor y Shell, después de que un tribunal anulara antes su permiso ambiental por no contabilizar las emisiones de la quema del gas. La ministra de Energía dice que creará 27 empleos y asegurará 273, y que el gas fluirá este invierno; los críticos señalan que cubrirá solo cerca del dos por ciento de la demanda durante una década. La líder verde Zack Polanski habló de vandalismo climático.
+[ES]
+Fuentes: The Guardian.
+[ES]
+La inflación británica sube al nivel más alto en casi un año.
+[ES]
+El costo de la gasolina y el diésel registró su mayor alza en cuatro años, aunque los alimentos bajaron en el mes. Además, la deuda total del Gobierno británico superó por primera vez los tres billones de libras, justo antes del presupuesto de otoño.
+[ES]
+Fuente: The Guardian.
+[ES]
+España y Latinoamérica.
+[ES]
+Cae un helicóptero Black Hawk del Ejército en Cauca, Colombia.
+[ES]
+Un Black Hawk UH-60 con 19 personas a bordo, cuatro tripulantes y 15 soldados, se precipitó el lunes en Inzá, Cauca. Todos los ocupantes sobreviven, algunos con heridas estables, y las autoridades han descartado por ahora un ataque; la hipótesis preliminar es un accidente y un equipo de expertos investiga la causa.
+[ES]
+Fuente: El Colombiano.
+[ES]
+El Banco Central argentino ya compró más de mil millones de dólares en octubre.
+[ES]
+La entidad compró 18 millones de dólares el lunes y acumula más de mil millones en lo que va del mes. Su meta es cerrar 2026 con compras cercanas a los veinte mil millones de dólares.
+[ES]
+Fuente: Infobae.
+[ES]
+Perú: comisión del Senado aprueba 27 puntos del pedido de facultades.
+[ES]
+La Comisión de Constitución del Senado aprobó el dictamen con 27 puntos sobre la solicitud de facultades legislativas del Ejecutivo. La propuesta pasa ahora al pleno del Senado.
+[ES]
+Fuente: Gestión.
+[ES]
+Mundo.
+[ES]
+Un movimiento estudiantil serbio intenta llegar al poder.
+[ES]
+Tras dos años de protestas, el movimiento estudiantil de Serbia presenta este fin de semana una lista electoral para desafiar los doce años de gobierno del partido oficialista. Voluntarios recorren barrios de viviendas haciendo campaña en lo que se describe como un audaz experimento democrático.
+[ES]
+Fuente: The Guardian.
+[ES]
+Ciencia: el agua cambia de estructura bajo presión extrema.
+[ES]
+Investigadores de UNLV muestran que el agua puede modificar su estructura en condiciones extremas como las de otros planetas. Por otro lado, un estudio halló que Camp Century, en Groenlandia, estuvo libre de hielo cuando los veranos eran unos 4,7 grados más cálidos que los actuales.
+[ES]
+Fuente: EurekAlert.
+[ES]
+Tecnología y Nicho.
+[ES]
+Las alianzas en la nube de Anthropic se complican.
+[ES]
+Según TechCrunch, Anthropic tiene dificultades para conseguir suficiente capacidad de cómputo de proveedores que cada vez la ven más como competidora. Su gasto en infraestructura crece antes de una salida a bolsa prevista para noviembre.
+[ES]
+Fuente: TechCrunch.
+[ES]
+Google se une a Amazon para desafiar el dominio de Nvidia.
+[ES]
+Google lanzó una herramienta que facilita a los usuarios de PyTorch migrar sus aplicaciones fuera de las GPU de Nvidia, siguiendo un movimiento similar de Amazon. Es otra señal de que los grandes proveedores de nube quieren reducir su dependencia de Nvidia.
+[ES]
+Fuente: TechCrunch.
+[ES]
+El negocio de IA de SpaceX supera las expectativas.
+[ES]
+SpaceX reportó un tercer trimestre rentable, con 4.400 millones de dólares de ganancia neta. Según TechCrunch, su negocio de inteligencia artificial impulsó esos resultados.
+[ES]
+Fuente: TechCrunch.
+[ES]
+DeepSeek libera su motor de inferencia y OpenAI compra Orchestra Bio.
+[ES]
+En Hacker News destaca que DeepSeek publicó como código abierto su motor de inferencia, con 237 puntos. Por su parte, OpenAI adquirió la startup Orchestra Bio para reforzar Rosalind, su modelo de IA para ciencias de la vida, y su herramienta de planificación de experimentos.
+[ES]
+Fuentes: Hacker News y TechCrunch.
+[ES]
+Conectando los Puntos.
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+[ES]
+Hay un hilo común entre la inflación británica empujada por los combustibles, la aprobación del gas de Jackdaw y las protestas europeas por el costo de vida: la energía y la vivienda siguen siendo el punto donde la frustración ciudadana se vuelve política. Vale la pena vigilar si los gobiernos responden con más producción de combustibles fósiles, como en el Reino Unido, o con otras medidas, porque eso afecta los precios globales de energía.
+[ES]
+Para ti, en el mundo hispanohablante, eso podría importar por varias vías: el precio de los combustibles y del gas influye en el transporte y la electricidad, y el malestar por la vivienda en Portugal, España o Italia podría reflejarse en las urnas. No es una predicción segura, pero Europa parece entrar en una etapa de más inestabilidad política.
+[ES]
+En tecnología, la carrera por el cómputo se está volviendo estratégica: Anthropic lucha por capacidad, Google y Amazon buscan alternativas a Nvidia y SpaceX presume ganancias gracias a la IA. Si el cómputo se concentra en pocas manos, podría encarecer o condicionar el acceso a estas herramientas, algo relevante para startups y profesionales en América Latina y España que dependen de ellas.
+[ES]
+Por último, las compras de dólares del Banco Central argentino y el pedido de facultades en Perú recuerdan que muchos países de la región navegan este entorno con monedas y gobiernos bajo presión. Con negociaciones sobre Ucrania en marcha, cualquier cambio en el precio de la energía o en la aversión global al riesgo podría sentirse rápido en las divisas y las materias primas de la región; conviene seguirlo sin dramatizar.
+[ES]
+Vigilancia de la Hipótesis.
+[ES]
+Seguimiento continuo de la hipótesis en curso: es un escaneo diario informado por la tendencia reciente del registro, no una nueva argumentación completa.
+[ES]
+Hoy la señal más clara es para a, ciclos de autoridad cada vez más cortos: el reacomodo entre Anthropic, Google, Amazon y Nvidia, y el empuje de DeepSeek con código abierto, según TechCrunch y Hacker News, muestran liderazgos tecnológicos que se disputan en semanas. Es un apoyo más en una racha larga: en el registro reciente, de 14 entradas, casi todos los días apuntan a a como apoyo. Para b no hay señal directa, y viene siendo neutral casi todos los días.
+[ES]
+Para c y d, las protestas europeas y el movimiento estudiantil serbio, según The Guardian, muestran acción colectiva, lo que apoya d; pero esa acción nace de la ira contra las instituciones y no demuestra un alejamiento del individualismo, así que c queda neutral hoy, a diferencia de los días recientes en que el registro la marcaba como desafío por la polarización. El registro todavía es corto y no hay revisiones integrales previas.
