@@ -1,0 +1,93 @@
+[EN] Good morning, Patricio. Here's your news brief for Thursday, October 22nd, 2026.
+[EN] A quick note on sources first: El País was unreachable on a direct read today, so the Spain and Latin America segment is built from Emol in Chile and the Spanish-language headlines feed covering Argentina and Colombia. The New York Times and Washington Post remain paywalled as usual, so the US and international stories run through The Guardian, NRK, and wire coverage instead.
+[EN] Top Stories.
+[EN] A critical PHP flaw became the whole web's problem today.
+[EN] The PHP project pushed out emergency releases to patch two critical remote-code-execution bugs that an unauthenticated attacker could use to run code on servers in certain circumstances. Because PHP quietly underpins a huge slice of the internet, the ripple was immediate: Scottish councils and NHS boards pulled websites offline as a precaution, and Australia's own cybersecurity website got caught up in it, with one report claiming the underlying weakness had gone undetected for more than a decade. The PHP Foundation walked back the scarier ten-point-zero severity score that leaked early — the real figure is nine-point-two — but was blunt about the remedy: it is imperative that you update now.
+[EN] Sources: PHP Foundation, BBC, Sydney Morning Herald, and Hacker News.
+[EN] Zelenskyy needled Washington as missiles fell on Kyiv.
+[EN] After another night of Russian ballistic missiles over the Ukrainian capital, Volodymyr Zelenskyy pointedly mocked US envoy Steve Witkoff for having praised Vladimir Putin as humanitarian — a jab that underscores how far apart Kyiv and parts of the US team still are on how to read Moscow. On the same day, the International Criminal Court was awarded the European Parliament's 2026 Sakharov Prize, a symbolic counterweight at a moment when international justice feels under real pressure.
+[EN] Sources: The Guardian.
+[EN] Barclays is shedding five thousand jobs as AI and a bank tax loom.
+[EN] The bank said it will cut around five thousand roles — one thousand already gone and four thousand more before year-end — even as profits jumped, pointing partly to AI-driven efficiency ahead of a UK budget expected to raise taxes on banks. The mood across European markets was jittery more broadly: French government bond yields hit a fresh twenty-four-year high, and Sainsbury's warned of a tough run into Christmas and pressed the government to ease business costs.
+[EN] Sources: The Guardian.
+[EN] The UN is bracing for a behemoth El Niño.
+[EN] The World Meteorological Organization warned that the 2026 El Niño is shaping up to be a behemoth that will intensify extreme weather across Latin America, Africa, and Asia. For anyone in the southern hemisphere it reads as a direct heads-up heading into summer — more erratic rainfall, heat, and drought risk in the months ahead.
+[EN] Sources: USA Today and the WMO.
+[EN] Meta cut Zuckerberg a deal to keep him in California.
+[EN] Meta agreed to hand Mark Zuckerberg shares to offset a possible new billionaire tax in return for him committing to remain a California resident for eight years — a striking arrangement tied to Proposition 40, a one-time five percent wealth-tax measure on the early-November ballot. It's a small but telling window into how the very wealthy, and the companies they run, are already maneuvering around state tax policy.
+[EN] Sources: The Guardian.
+[ES] España y América Latina.
+[ES] Chile endurece las expulsiones de migrantes.
+[ES] Emol desglosa las claves de una nueva ley que agiliza la expulsión de migrantes irregulares y amplía las facultades de la PDI, que incluso podría solicitar el ingreso a domicilios. Es un giro notable en el debate migratorio chileno, en un momento político especialmente cargado.
+[ES] Fuente: Emol.
+[ES] Quinta alza consecutiva de las bencinas.
+[ES] Los combustibles vuelven a subir en Chile por quinta semana seguida: la gasolina aumenta alrededor de cuarenta y un pesos por litro y el diésel más de noventa pesos. Es una presión que se siente directo en el bolsillo y en el costo del transporte.
+[ES] Fuente: Emol.
+[ES] Bajo la lupa: investigan a las siete AFP.
+[ES] Joaquín Cortez, expresidente de la CMF, asume como superintendente a cargo de investigar a las siete administradoras de fondos de pensiones del país. Llega en un momento en que el sistema previsional sigue en el centro del debate público.
+[ES] Fuente: Emol.
+[ES] Emergencias climáticas en Chile: el Mapocho y un tornado en el Maule.
+[ES] Senapred pidió evacuar un campamento en Talagante por el desborde del río Mapocho tras fuertes lluvias en la Región Metropolitana, mientras un tornado en Retiro, en la Región del Maule, dañó alrededor de diez viviendas. Los fenómenos extremos siguen marcando la pauta del clima chileno.
+[ES] Fuentes: Meganoticias, Biobío Chile y Emol.
+[ES] Argentina: paro de subtes y canje de deuda.
+[ES] Un paro en el subte de Buenos Aires afectó a más de trescientos mil usuarios y la Ciudad analiza sanciones contra los metrodelegados, apoyándose en un decreto que exige un servicio mínimo del cincuenta por ciento. En lo económico, el Ministerio de Economía canjeó con éxito cerca del setenta y tres por ciento de una letra dólar-linked y redujo vencimientos de fin de mes.
+[ES] Fuentes: Clarín y Ámbito.
+[ES] Colombia: piden auditoría forense al Fomag.
+[ES] El Ministerio de Educación de Colombia solicitó una auditoría forense al fondo de salud del magisterio, el Fomag, y lo describió como una crónica del desastre durante un debate en el Senado, reafirmando el compromiso del Gobierno de corregir la crisis.
+[ES] Fuente: Zona Cero.
+[EN] US and International.
+[EN] Norway's labor market softens amid a jittery map abroad.
+[EN] From NRK in Norway: unemployment ticked up to four-point-six percent in September, a small but real sign of a cooling labor market in one of Europe's wealthiest economies. NRK's front page also carried a tense international picture — drone strikes on Ukrainian energy sites and a large drone attack on Moscow, plus Iran's Revolutionary Guard reporting seven ships hit by attacks and mines — a reminder of how many flashpoints are simmering at once.
+[EN] Sources: NRK, Norway.
+[EN] US measles deaths are rising as the CDC turns opaque.
+[EN] The CDC confirmed a third US measles death this year but declined to say which state it occurred in, citing privacy law — a reticence that has public-health experts worried the agency is becoming less transparent. Confirmed cases have now reached four thousand four hundred and ten, nearly double last year's tally.
+[EN] Sources: The Guardian.
+[EN] Two Senate races are scrambling the midterm map.
+[EN] With US midterms close, a pro-oil Democrat, Mary Peltola, is running on cost-of-living pain to try to flip an Alaska Senate seat battered by tariffs, while in reliably blue Minnesota a fraud scandal has narrowed Democrat Peggy Flanagan's lead enough that forecasters downgraded the race to lean Democrat. Together they're a reminder that this cycle's map is more fluid than the usual red-and-blue shorthand suggests.
+[EN] Sources: The Guardian.
+[EN] Amanpour's parting shot: truth over neutrality.
+[EN] As Christiane Amanpour leaves CNN, her advice to younger journalists — be truthful rather than merely neutral — drew praise as a kind of mission statement for covering a messy, high-stakes news environment. It's a small moment that doubles as a debate about what journalism is for.
+[EN] Sources: The Guardian.
+[EN] Tech and Niche.
+[EN] Walmart is letting AI agents do your shopping.
+[EN] Walmart unveiled tools that let outside AI agents — including Meta's Muse agent — shop on customers' behalf, a bet in the opposite direction from Amazon, which has been blocking such bots. It's an early signal of retailers choosing to court the coming wave of autonomous shopping assistants rather than wall them out.
+[EN] Sources: Le Monde.
+[EN] Xbox wants to charge by the hour to stream games you already own.
+[EN] Microsoft is planning to charge non-subscribers twenty-four to forty cents per hour to cloud-stream Xbox games they've already bought, selling cloud playtime separately on top of the purchase price. It's a move likely to irritate players who assumed buying a game meant unlimited access to it.
+[EN] Sources: Ars Technica.
+[EN] A beloved game studio is going dark.
+[EN] BioWare, the storied studio behind Mass Effect, Dragon Age, and Baldur's Gate, is being shut down — a melancholy marker of consolidation in the games industry and the end of an era for a generation of players.
+[EN] Sources: SVT.
+[EN] Google published its Rust style guide.
+[EN] In quieter developer news, Google released a public Rust style guide — a small but telling sign of how far the memory-safe language has moved into the mainstream at large engineering shops. Fittingly, it lands on a day when a memory-related class of bugs took down part of the web.
+[EN] Sources: Google and Hacker News.
+[SV] Sverige.
+[SV] Regeringskris och snack om extraval.
+[SV] Svensk politik befinner sig i ett låst läge: regeringsbildningen står still, Centerpartiet skissar nu på en egen budget, och förre statsministern Carl Bildt varnar för en betydande risk för extraval. Samtidigt visar en mätning att Ulf Kristerssons förtroende stiger medan Vänsterpartiets Nooshi Dadgostar rasar till en bottennotering.
+[SV] Källa: SVT.
+[SV] Tiotusentals överklagar valet.
+[SV] Exceptionellt många – tiotusentals personer – har överklagat valet, och utredningen om det kan vara klar först till våren. Det håller osäkerheten kring det politiska läget vid liv ett bra tag till.
+[SV] Källa: SVT.
+[SV] Nytt mittenstyre i Stockholm.
+[SV] Fem partier – S, MP, KD, C och L – har enats om ett nytt mittenstyre i Region Stockholm, även om ett av partierna riktat kritik mot uppgörelsen. Det är en ovanlig blocköverskridande lösning i en annars spänd politisk höst.
+[SV] Källa: SVT.
+[SV] EU kan riva upp förbudet mot bensin- och dieselbilar.
+[SV] EU:s planerade förbud mot nya bensin- och dieselbilar kan komma att rivas upp, vilket skulle låta sådana bilar fortsätta säljas efter 2035 – trots svensk kritik. Beslutet skulle få stor betydelse för både klimatpolitiken och bilindustrin.
+[SV] Källa: SVT.
+[SV] Dyr utbyggnad av fängelserna.
+[SV] En kraftig utbyggnad av fängelserna kan krävas framöver och beräknas kosta omkring åttiofem miljarder kronor om året, enligt uppgifterna. Det sätter press på en redan ansträngd statsbudget.
+[SV] Källa: SVT.
+[SV] Sorg efter dödsskjutning i Älvsjö.
+[SV] Saba Abraham, 24 år, sköts till döds i Kämpetorpshallen i Älvsjö medan hon arbetade som ungdomsledare för Stockholms stad under en fotbollsmatch. En tyst minut hölls till hennes minne.
+[SV] Källa: TV4.
+[EN] Connecting the Dots.
+[EN] A quick disclaimer: this section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN] Patricio, the thread that quietly runs through almost everything today is fragility — of infrastructure, of institutions, and of the labor arrangements we've taken for granted. A single memory-handling bug in PHP, a language most people have never heard of, was enough to knock government and health websites offline across an entire country. On the very same day, Google was out promoting a style guide for Rust, a language whose entire reason for existing is to make that class of bug impossible. That's not a coincidence so much as a snapshot of a slow, expensive migration the whole digital world is halfway through — and a reminder that the systems we lean on are often held up by volunteers and foundations asking governments and companies to please chip in.
+[EN] The economic signals point the same direction. Barclays is cutting five thousand jobs and openly naming AI as part of why, while Walmart is handing the shopping cart to AI agents. These are two sides of the same transition: the same technology that trims the payroll is being pushed to the front of the customer relationship. Layer on French bond yields at a twenty-four-year high and a UK bracing for higher bank taxes, and you get a picture of rich economies trying to fund themselves while the ground shifts under how work and spending actually happen. None of this is a crisis today — but it's the kind of structural pressure that tends to show up in prices and politics before it shows up in headlines.
+[EN] For you in Chile specifically, a few of these threads land close to home. The WMO's behemoth El Niño warning is the one I'd watch most: Chile just saw the Mapocho overflow and a tornado in the Maule in the same news cycle, and a strong El Niño summer can mean more of that volatility — with knock-on effects for agriculture, water, and energy. Meanwhile fuel prices are up for a fifth straight week, which is the everyday face of the same global energy-and-inflation story that's rattling European bond markets. If copper and the peso wobble on any broad risk-off move — and jittery sovereign debt markets abroad are exactly the kind of thing that triggers one — Chile tends to feel it quickly through the exchange rate and import costs.
+[EN] And then there's the political texture, which rhymes across hemispheres in a way worth noticing. Sweden is staring at a possible snap election and tens of thousands of election appeals; Chile is tightening migration law and investigating its pension system in a charged pre-election climate; the US midterm map is more fluid than the usual shorthand admits. I wouldn't over-read any single one of these, but the common feature is that voters in a lot of stable democracies are visibly unsettled about cost of living and about who, exactly, is in charge of fixing it. That's the backdrop I'd keep in mind — not a confident prediction, just a pattern worth watching.
+[EN] Hypothesis Watch.
+[EN] An ongoing, lightweight daily scan of your standing hypothesis — read against the recent trend in the log rather than today's stories alone, and not a full re-argument of the whole chain.
+[EN] On sub-claim (a), shrinking authority cycles, today keeps the streak alive — this is now well over a month of unbroken supporting signals. Barclays naming AI as it sheds five thousand jobs, Walmart handing shopping to AI agents, BioWare — a studio that once defined its genre — being shut down, and Christiane Amanpour exiting the anchor's chair all point the same way: the half-life of any given institution or incumbent keeps getting shorter. The PHP story adds a subtler version — the Foundation is restructuring its own governance and adding an AI-assisted validation layer precisely so that no single stalled maintainer can hold up a critical fix. Authority is being forced to churn and distribute.
+[EN] On sub-claim (b), a stronger internal voice, I'd call today a mild supporting signal, consistent with the log's long run of support. Amanpour's parting advice — be truthful, not merely neutral — is almost a literal argument for trusting and acting on one's own judgment rather than deferring to a hollow institutional default. The PHP episode cuts the same way in miniature: a premature ten-point-zero panic leaked, and independent voices pushed back with their own reasoning rather than taking the loudest claim at face value.
+[EN] On sub-claim (c), a move away from individualism, today is neutral, exactly as every prior day in the log has been — this link simply isn't moving. The clearest collective action on offer, Stockholm's five-party coalition, is ordinary partisan coalition-building, not a cultural turn away from individualism. And on sub-claim (d), collaboration and social cohesion, also neutral: the Cali biodiversity fund attracting a near-empty seven thousand dollars is a collective-action failure, and today's conflict signals offset the one genuine cooperation note — the PHP Foundation asking companies and governments to jointly fund shared infrastructure. Net read: the front of the chain stays strongly supported, while the back half remains stuck where it's been all along — which, if anything, is the quietly important signal to keep watching.
