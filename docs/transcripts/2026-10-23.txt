@@ -1,0 +1,148 @@
+[EN]
+Good morning, Patricio. Here's your news brief for Friday, October 23rd, 2026. It's a fairly heavy news day: markets are jittery about AI, Ukraine's Starlink is back in the headlines, and closer to home Chile is wrestling with a sentencing controversy and a soggy south.
+[EN]
+One quick note on sources: El País's international section wouldn't load today, so I covered international news through The Guardian, NRK, and the Spanish-language headlines feed instead. Everything else came through fine.
+[EN]
+Top Stories.
+[EN]
+Oil hits a five-month high as AI jitters rattle global stocks.
+[EN]
+Crude climbed to its highest level in five months on Friday even as equity markets wobbled, with investors increasingly worried that the AI-driven rally has run ahead of itself. In the UK, retail sales fell as shoppers pulled back, and the same unease showed up on Wall Street, and in Stockholm, where tech shares sold off sharply the week before. It's the clearest sign yet that the AI bubble conversation has moved from think-pieces onto actual trading desks.
+[EN]
+Source: The Guardian.
+[EN]
+Starlink still capped for Ukraine despite Trump's claim it was restored.
+[EN]
+Ukrainian officials say Starlink's military service remains limited, contradicting Donald Trump's public assurance that full access had been switched back on. The friction comes as Romania blames Russia for a strike in the Black Sea and France braces for more unrest. Sweden's SVT carried the same contradiction, a reminder of how much battlefield connectivity now hinges on a single company's, and a single president's, word.
+[EN]
+Sources: The Guardian, SVT.
+[EN]
+Personalized mRNA cancer vaccine cuts melanoma death and recurrence by 42 percent.
+[EN]
+Moderna and Merck reported that their personalized mRNA vaccine, given alongside standard immunotherapy, cut the risk of death or recurrence in high-risk melanoma patients by 42 percent in a late-stage trial. The shot is tailored to each patient's own tumor mutations, a bespoke approach that would have read as science fiction a decade ago. If the results hold up with regulators, it points toward a genuinely new class of cancer treatment.
+[EN]
+Sources: Ars Technica, GNews.
+[EN]
+Deadly floods hit eastern Spain as Britain takes its first named storm of winter.
+[EN]
+Storm Adam dumped enough rain on eastern Spain to trigger deadly flooding, while Storm Austen, the winter's first named system, battered England and Wales with damaging gusts. It's the kind of back-to-back extreme-weather week that has become the new normal across Europe. Spanish authorities are still assessing the damage.
+[EN]
+Source: The Guardian.
+[EN]
+US midterms take shape: Supreme Court blocks New Hampshire student IDs, and 145 ballot measures loom.
+[EN]
+The Supreme Court sided with New Hampshire in barring student IDs as valid voter identification in November, a late ruling that could dent turnout among younger voters. Meanwhile, voters across 39 states will weigh 145 statewide ballot initiatives covering everything from a billionaires' tax to abortion and trans rights. Together they sketch the battle lines for a consequential midterm.
+[EN]
+Sources: The Guardian, NBC News.
+[ES]
+España y América Latina.
+[ES]
+La rebaja de condenas a agresores sexuales desata una tormenta política en Chile.
+[ES]
+El oficialismo y la oposición buscan a contrarreloj cómo revertir la rebaja de penas que benefició a condenados por delitos sexuales: se evalúa desde dejar sin efecto decretos hasta cambios legales y constitucionales. La presidenta del Senado se reunió con el ministro Arenas y pidió dejar sin efecto esta excepción. Es el tema que domina la agenda chilena esta semana.
+[ES]
+Fuentes: Emol, La Tercera.
+[ES]
+La economía chilena coquetea con el rojo mientras los combustibles rozan récords.
+[ES]
+Expertos advierten que la actividad tendría que acelerar con fuerza para que Chile no cierre 2026 con una caída del PIB. Al mismo tiempo, un nuevo aumento dejó a la bencina cerca de su máximo histórico y al diésel en otro récord, una combinación incómoda para los bolsillos y para la inflación. La AFP Cuprum, por su parte, salió a explicar a sus afiliados el impacto del desplome del fondo E.
+[ES]
+Fuentes: La Tercera, Emol.
+[ES]
+Un sistema frontal golpea el sur: cientos de viviendas dañadas y clases suspendidas en el Biobío.
+[ES]
+El Senapred informa que el sistema frontal sigue activo y que las lluvias han dejado cientos de viviendas afectadas, con suspensión de clases en parte de la región del Biobío. Las cifras bailan según la fuente: La Tercera habla de más de 300 viviendas y Emol de 565, pero el cuadro es el mismo, un invierno tardío que todavía causa estragos.
+[ES]
+Fuentes: Emol, La Tercera.
+[ES]
+El peronismo se sienta a hablar en medio de la interna.
+[ES]
+Axel Kicillof, Sergio Massa y Máximo Kirchner vuelven a reunirse esta noche, más de dos meses después de su último encuentro, para ordenar la interna junto a gobernadores y legisladores y discutir las PASO y el presupuesto nacional. La foto importa tanto como el contenido: el peronismo busca mostrar unidad tras semanas de tensiones.
+[ES]
+Fuente: La Nación.
+[EN]
+US and International.
+[EN]
+Protests flare across France, Greece and Serbia.
+[EN]
+Demonstrations in several European countries have in places tipped into rioting and looting, with France cracking down hard as anger over the cost of living and politics spills into the streets. SVT walked through the unrest country by country, while The Guardian is running a reader Q and A on what comes next for France, including its debt worries and a looming election. The common thread is economic strain meeting political distrust.
+[EN]
+Sources: SVT, The Guardian.
+[EN]
+40,000 tonnes of Russian diesel is reportedly heading to the US.
+[EN]
+NRK in Norway reports that a shipment of roughly 40,000 tonnes of Russian diesel is on its way to the United States, a striking data point given the on-again, off-again sanctions posture of recent weeks. It lands awkwardly against Washington's own rhetoric on Russian energy. This is translated and summarized from NRK's Norwegian-language coverage.
+[EN]
+Source: NRK, Norway.
+[EN]
+Indigenous groups fear Bolsonaro's grip on Amazon voters.
+[EN]
+In Brazil's Amazon towns, Indigenous groups describe a lethal threat as Flávio Bolsonaro's brand of politics finds traction among voters who favor more mining. The Guardian's reporting captures how pro-extraction sentiment is reshaping local races in the very region whose forests are a global climate linchpin. It's a quiet but important sub-plot ahead of Brazil's elections.
+[EN]
+Source: The Guardian.
+[EN]
+Tech and Niche.
+[EN]
+Large language models are starting to make formal software verification practical at scale.
+[EN]
+Anthropic says Claude, paired with a tool called Theorem, wrote formal proofs that 239 entry points across 123 open-source libraries can't crash on inputs under 64 megabytes, work that has traditionally taken experts years. The proofs even surfaced bugs that had eluded years of fuzz testing, though the authors are careful to note that formally verified is not the same as bug-free, since everything rests on modeling assumptions. It's a concrete example of AI compressing deep expert labor into something far cheaper.
+[EN]
+Source: Anthropic.
+[EN]
+Spotify purges 75 million tracks.
+[EN]
+Spotify is removing some 75 million tracks from its service, according to SVT, a staggering number that underlines how much of the catalog is spam, duplicates or AI-generated filler rather than music anyone actually seeks out. The cull is part of a broader fight over what even counts as a real song in the streaming era.
+[EN]
+Source: SVT.
+[EN]
+Privacy-focused DNS resolver Quad9 is leaving France.
+[EN]
+The nonprofit DNS resolver Quad9 announced it will exit France, citing legal pressure to block domains, a move that drew heavy attention on Hacker News. It's a small but telling skirmish in the broader tug-of-war between content-blocking mandates and an open internet. Expect more of these jurisdictional fights as governments lean on infrastructure providers.
+[EN]
+Source: Quad9, via Hacker News.
+[EN]
+Ask any AI model about humanity and you get oddly similar answers.
+[EN]
+A widely-shared analysis found that virtually every major AI model converges on the same controversial take when asked about humans, a quirk that says as much about shared training data as about any machine insight. It's a useful reminder that today's models often reflect a single cultural mirror rather than independent judgment. Worth a skeptical read if you use these tools daily.
+[EN]
+Source: ModelCompare, via Hacker News.
+[SV]
+Sverige.
+[SV]
+Volvo Cars varslar: omkring 2 000 tjänster bort i Sverige.
+[SV]
+Volvo Cars presenterar ett sparpaket som väntas beröra cirka 2 000 tjänster i Sverige, och vissa uppgifter talar om upp till 2 500. Aktien föll kraftigt när Stockholmsbörsen öppnade, och NRK i Norge rapporterar samma siffra. Det är ännu ett tungt besked för svensk industri i en tid av omställning och pressade marginaler.
+[SV]
+Källor: SVT, NRK.
+[SV]
+Kristersson stärks i förtroende medan regeringsfrågan gäckar.
+[SV]
+En ny SVT/Verian-mätning visar att statsminister Ulf Kristersson ökar i förtroende, medan Vänsterns Dadgostar ligger lågt. Samtidigt säger KD:s Busch att partiet inte tänker möjliggöra en mittenregering, även om hon menar att svensk politik borde röra sig mot mitten. Talmannen träffar C-ledaren på måndag för att se var förhandlingarna står.
+[SV]
+Källa: SVT.
+[SV]
+Förlag bryter med prisnominerad författare efter plagiat och AI-användning.
+[SV]
+Ett förlag bryter med författaren Thélyson Orélien, som medger både plagiat och att ha använt AI, efter att ha varit nominerad till ett prestigefyllt pris. Fallet sätter fingret på en öm punkt i kulturvärlden: var går gränsen när AI och andras ord smälter in i det som säljs som eget verk?
+[SV]
+Källa: SVT.
+[EN]
+Connecting the Dots.
+[EN]
+This section is interpretation and informed speculation, not reported news. It's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN]
+Patricio, the through-line today is nervous money. Oil pushing to a five-month high and a wobble in global stocks on AI fears are two faces of the same unease, a market that borrowed a lot of future from the AI story and is now checking whether it can pay it back. For you in Chile this matters twice over: higher crude feeds straight into the bencina and diésel records that La Tercera and Emol are both flagging, and any serious shake in AI-heavy US tech tends to drag risk assets, and the peso, around with it.
+[EN]
+Then there's copper, which is never far from the Chilean story. An AI-bubble scare that dents global growth expectations is exactly the kind of thing that can soften sentiment on industrial metals, and copper is still what underwrites a big chunk of the fiscal math. I wouldn't over-read a single jittery session, but it's worth watching whether this AI fears selloff deepens or turns out to be a one-day flinch. That's the channel through which a story about Nvidia's valuation quietly reaches Santiago.
+[EN]
+On energy, the picture rhymes: fuel near record highs while a frontal system floods the Biobío is a blunt reminder that Chile imports its energy shocks and absorbs its weather ones. The odd little NRK item, 40,000 tonnes of Russian diesel apparently heading to the US against weeks of sanctions whiplash, underlines how scrambled global energy flows still are. When the plumbing is this chaotic, small, open, import-dependent economies feel the pressure changes first.
+[EN]
+Finally, politics. Chile's sentencing-reduction storm, Argentina's peronista infighting and the US midterms taking shape are all, in their own register, stories about institutions fumbling while publics watch closely and trust thinly. That's not a confident prediction of anything, but the shared mood across today's democracies is less who wins and more do the institutions still work, and that's a mood that tends to reward whoever can project competence and honesty. Worth keeping an eye on as Chile's own cycle heats up.
+[EN]
+Hypothesis Watch.
+[EN]
+An ongoing, lightweight watch on your standing hypothesis, sub-claims a through d, a daily scan read against the recent trend in the log, not a full re-argument of the whole chain.
+[EN]
+Today keeps the long support streak for sub-claim a, shrinking authority cycles, alive. The AI-fear selloff, Anthropic's formal-verification result compressing years of specialist labor into something cheap and repeatable, and Trump's Starlink claim being contradicted almost in real time all churn authority fast. Nobody's word, market or model stays unquestioned for long. Sub-claim b, a stronger internal voice, gets a genuine nudge too: that same verification work pointedly separates formally verified from bug-free, insisting human modeling judgment still carries the weight, and a Swedish publisher dropped a prize-nominated author who leaned on plagiarism and AI, conscience chosen over output.
+[EN]
+As on almost every day in the log, sub-claim c, a move away from individualism, and sub-claim d, more collaboration and cohesion, stay neutral. Europe's protests are collective but cost-of-living and issue-based, not a cultural turn away from individualism, and the faint cooperation signals are offset by sanctions whiplash and Ukraine friction. So today reads as front half of the chain firing, back half still parked: a and b keep ticking over as they have for weeks, while c and d haven't moved. Nothing today is strong enough to bend that pattern either way.
