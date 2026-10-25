@@ -1,0 +1,188 @@
+[EN]
+Good morning, Patricio. It's a heavy election-and-weather Sunday: Brazil is voting, France is still in the streets, oil has punched through 115 dollars, and a storm named Boelo is hammering the Nordics. Here's the rundown.
+
+[EN]
+Top Stories.
+
+[EN]
+Brazil votes today in a knife-edge Lula–Bolsonaro runoff.
+[EN]
+More than 158 million Brazilians head to the polls to choose between President Lula da Silva and Senator Flávio Bolsonaro, who narrowly led the October 4 first round 47 percent to 45 percent. Polls are open until 5pm Brasília time, so no results yet — but with some 48 million voters who backed neither finalist now up for grabs, and abstention a wild card, it's genuinely too close to call. Lula is framing it as a defense of democracy and leaning on social spending; Flávio is promising hardline security and anti-corruption crackdowns.
+[EN]
+Sources: Infobae, El País, Emol.
+
+[EN]
+Nearly a thousand arrested as France's protest wave rolls on.
+[EN]
+Hundreds of thousands marched across France again, with close to a thousand arrests following late-day clashes — though notably without a repeat of the previous weekend's rioting. It's part of a broader European pattern: El País counts more than 170 separate demonstrations by students, unions and residents across the continent in just over a month, with fresh police clashes also flaring in Tirana.
+[EN]
+Sources: BBC News, El País.
+
+[EN]
+Oil blasts past 115 dollars, piling pressure on markets.
+[EN]
+Crude broke the 115 dollar barrier and is now testing the highs it hit right after the Middle East war erupted, driven by the ongoing regional conflict. The surge tightens the screws on import-dependent economies and feeds straight into inflation and currency worries worldwide — a thread that runs right down to Santiago.
+[EN]
+Sources: Emol.
+
+[EN]
+Ten days that could shake the world.
+[EN]
+The Guardian frames this stretch as a stress test for democratic norms, with four pivotal votes — Brazil today, plus Israel, Serbia and the US midterms — landing inside ten days. Taken together, they could set the tone for whether democratic guardrails firm up or keep eroding into 2027.
+[EN]
+Sources: The Guardian.
+
+[EN]
+Riyadh's main airport reopens after a Houthi missile strike.
+[EN]
+King Khalid International Airport brought two terminals back online Sunday after a Houthi missile attack forced a shutdown, with domestic flights resuming from Terminal 1 and international from Terminal 2. It's a concrete reminder that the Middle East conflict driving oil prices is still very much live.
+[EN]
+Sources: Arab News.
+
+[ES]
+España y América Latina.
+
+[ES]
+La crisis del Fondo E sacude a Chile.
+[ES]
+El enredo en torno al Fondo E de las AFP sigue escalando, con el gobierno, parlamentarios, el regulador y los ejecutivos de las administradoras todos señalados como protagonistas del lío. Es una de esas tormentas regulatorias que empiezan técnicas y terminan políticas, y promete dar que hablar toda la semana.
+[ES]
+Fuentes: Emol.
+
+[ES]
+El dólar supera los mil pesos y el peso sufre.
+[ES]
+En las casas de cambio el dólar ya pasó la barrera de los mil pesos, y los expertos apuntan a varias variables jugando en contra de la moneda chilena. El alza del petróleo por encima de los 115 dólares no ayuda: encarece las importaciones y presiona la inflación justo cuando el peso está débil.
+[ES]
+Fuentes: Emol.
+
+[ES]
+Sistema frontal deja más de 700 viviendas con daños.
+[ES]
+Senapred mantiene alerta por probables trombas marinas entre Coquimbo y Los Lagos, con cientos de casas afectadas tras el paso del sistema frontal. Las lluvias intensas de este fin de semana dejaron un rastro de destrozos que las autoridades todavía están contabilizando.
+[ES]
+Fuentes: Emol.
+
+[ES]
+El Ejército de Chile tendrá por primera vez una mujer general.
+[ES]
+En el Alto Mando anunciado para 2027 figura, por primera vez en la historia de la institución, el nombramiento de una mujer al grado de general. Es un hito simbólico importante para una de las instituciones más tradicionales del país.
+[ES]
+Fuentes: Emol.
+
+[EN]
+US and International.
+
+[EN]
+Storm Boelo batters the Nordics and the UK.
+[EN]
+The storm — unusually given a Dutch male name, which Sweden's SMHI flagged as rare — has slammed into Norway, where NRK reports several thousand homes losing power, and is sweeping into Sweden with rain, heavy wind and disrupted train traffic. It first hit the UK with gusts over 30 meters per second and danger-to-life warnings from the Met Office.
+[EN]
+Sources: NRK Norway, SVT, Aftonbladet.
+
+[EN]
+Ukraine endures another round of strikes.
+[EN]
+El País paints daily life in Kyiv as lived under constant missile threat, while NRK reports three killed in Ukrainian drone attacks and Russia claiming to have struck a cargo ship. The grind continues even as diplomatic chatter swirls in the background.
+[EN]
+Sources: El País, NRK.
+
+[EN]
+Zadie Smith warns inequality has made culture clashes feel existential.
+[EN]
+In a Southbank Centre conversation with Dua Lipa, the novelist linked widening inequality and the hollowing-out of Britain's welfare state to social divisions that now feel less like disagreements and more like existential battles. It's a sharp cultural read on why political fights have gotten so bitter.
+[EN]
+Sources: The Guardian.
+
+[EN]
+The US midterms loom on November 3.
+[EN]
+With just over a week to go, campaigning is intensifying: Trump has already cast an early vote in Florida, while opposition canvassers are going door to door — NRK highlighted one activist who knocked on 1,563 doors in a single day trying to flip Florida. It's one of the four democracy-testing votes the Guardian flagged earlier.
+[EN]
+Sources: NRK, Dagens Nyheter.
+
+[EN]
+Tech and Niche.
+
+[EN]
+America has shed 200,000 creative-industry jobs — how much is AI?
+[EN]
+A deep data dive finds more than 200,000 jobs lost across media, film and the arts over four years, with movie and TV alone down over 100,000 — nearly a third of the sector — and publishing off 70,000. The author is refreshingly careful: isolating AI's exact share is extremely difficult with offshoring, consolidation and creator competition all in the mix, though every digital-arts subsector is shrinking while live entertainment grows. His bet is that AI's damage will be more cultural than macroeconomic.
+[EN]
+Sources: Apricitas, via Hacker News.
+
+[EN]
+The AI graveyard grows.
+[EN]
+TechCrunch is now keeping a running list of AI projects and startups that didn't make it — a quiet counterweight to the hype cycle — alongside a piece asking whether AI will finally expose the internet's rickety underlying infrastructure. After two years of relentless this-changes-everything, the failure column is starting to fill in.
+[EN]
+Sources: TechCrunch.
+
+[EN]
+Block's new voice model sounds eerily human.
+[EN]
+Block released a text-to-speech model whose speech is strikingly lifelike, the latest entry in a fast-moving race to erase the line between synthetic and human voices. Impressive and a little unsettling in equal measure — especially for anyone whose job involves talking for a living.
+[EN]
+Sources: TechCrunch.
+
+[EN]
+Starlink is working normally again in Ukraine.
+[EN]
+After a disruption that had raised real alarm about Ukraine's battlefield connectivity, service appears to have fully recovered. It's a reminder of just how much critical wartime infrastructure now hangs on a single private satellite network.
+[EN]
+Sources: TechCrunch.
+
+[EN]
+Physicists may have accidentally built a qubit that runs backward in time.
+[EN]
+Researchers report a qubit that appears to reverse the direction of quantum evolution — a genuinely strange result with possible implications for quantum computing. File under: we're not entirely sure what we made, but it's fascinating.
+[EN]
+Sources: ScienceAlert.
+
+[SV]
+Sverige.
+
+[SV]
+Dags att ställa om — vintertid är här.
+[SV]
+I natt gick Sverige och övriga EU över till vintertid, med en extra timmes sömn som bonus. Många förknippar omställningen med mörker och trötthet, men sömnforskare menar faktiskt att vintertiden är bra för oss — och tipsar om att ställa om gradvis för att mjuka upp övergången.
+[SV]
+Källor: Dagens Nyheter, Corren.
+
+[SV]
+Svenskt ölkoncentrat kan bli revolutionerande.
+[SV]
+Alfa Laval har byggt en maskin som tillverkar ölkoncentrat, som sedan späds ut med kolsyrat vatten när ölen serveras. Uppfinningen beskrivs som något som kan förändra bryggeribranschen i grunden — både logistiken och klimatavtrycket av att frakta runt stora mängder vatten.
+[SV]
+Källor: Omni, Sydsvenskan.
+
+[SV]
+Varannan tonåring väntas dricka på höstlovet.
+[SV]
+Nästan hälften av tonåringarna räknar med att dricka alkohol under höstlovet och Halloween, enligt en ny undersökning — samtidigt som många föräldrar är övertygade om att just deras barn avstår. Gapet mellan vad föräldrarna tror och vad ungdomarna själva säger är den verkligt oroande biten.
+[SV]
+Källor: Drugnews.
+
+[EN]
+Connecting the Dots.
+[EN]
+This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN]
+Patricio, the single thread that ties today most tightly to your doorstep in Chile is oil at 115 dollars. That number doesn't stay abstract for you: it props up a weak peso that's already over 1,000 to the dollar, feeds domestic inflation, and raises the cost of everything imported and fuel-driven. The one offsetting force is copper — a jittery, conflict-driven commodity cycle that lifts oil often lifts industrial metals too, and a firmer copper price is the natural hedge for Chile's terms of trade. Worth watching this week: whether copper is riding the same risk-premium wave or whether Chile is simply importing expensive energy while its export anchor lags. If it's the latter, the peso pressure and the Fondo E anxiety start to rhyme in an uncomfortable way.
+[EN]
+Zoom out to the politics, and the Guardian's ten days framing is the right lens. Brazil today is the one that matters most for you regionally: a Flávio Bolsonaro win would hand the hard right its biggest South American prize since his father, reshaping Mercosur dynamics and the diplomatic weather around Chile's own politics, while a Lula comeback keeps the current regional balance roughly intact. Either way, a near fifty-fifty result guarantees a bitterly divided Brazil next door — and divided big neighbors tend to export volatility, not calm.
+[EN]
+The protest wave is the quieter signal. One hundred and seventy-plus demonstrations across Europe in a month, France arresting a thousand people in a day, Tirana clashing — this isn't about one grievance, it's a broad cost-of-living and legitimacy strain in wealthy democracies. Chile has lived its own version of this since 2019, so you know the pattern: when the economic squeeze — hello, 115 dollar oil and a sagging peso — meets a sense that institutions aren't delivering, the street fills up. Not a prediction, just a weather system worth tracking.
+[EN]
+And then there's the AI undercurrent, which keeps showing up as a story about limits rather than triumph — 200,000 lost creative jobs that even the analyst won't cleanly pin on AI, a growing graveyard of failed AI startups, Block's uncanny voice model arriving the same week. The honest read is that we're entering the disillusionment-and-reckoning phase of the cycle, where the interesting question shifts from what can it do to what did it actually cost, and who's left holding judgment. That shift, more than any single model release, is the thing I'd keep my eye on.
+
+[EN]
+Hypothesis Watch.
+[EN]
+An ongoing watch on your standing hypothesis — a daily scan read against the recent trend in the log, not a full re-argument of the whole chain. Sub-claims: a, shrinking thought-leadership and authority cycles; b, individuals pushed toward a stronger internal voice; c, a move away from individualism; d, more human collaboration and social cohesion.
+[EN]
+On a, today keeps a very long supporting streak alive — roughly six weeks now of near-daily support readings. TechCrunch's growing AI graveyard of dead startups, the 200,000 vanished creative jobs no one can cleanly attribute, and yet another human-mimicking voice model from Block all point the same way: AI authority and incumbency churning faster than anyone can consolidate a durable lead. The shrinking-cycle signal isn't subtle anymore; it's the baseline.
+[EN]
+On b, I'd call today another mild support. The clearest tell is the apricitas analyst refusing the easy headline — insisting that isolating AI's share of the job losses is extremely difficult rather than blaming the machine — which is exactly the kind of independent, resist-the-narrative judgment the sub-claim predicts people will reach for. It's a modest signal, not a loud one, but it continues the run.
+[EN]
+On c and d, nothing moves, same as essentially every day in the log. Europe's 170-plus protests and France's mass arrests are collective action, but they're cost-of-living and legitimacy grievances channeled through unions and parties — not individuals shedding individualism for a new social fabric. Brazil's vote and the scattered storm-response solidarity are state-level or partisan, not the grassroots cohesion d is really about. So: a support, b support, c neutral, d neutral — a faithful continuation of the recent trend, with the back half of your chain still stubbornly quiet.
