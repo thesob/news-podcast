@@ -1,6 +1,6 @@
 [SECTION intro]
 [EN]
-Good morning, Patricio. Here is your news brief for Saturday, October 24th, 2026.
+Good morning, Patricio. It's a heavy election-and-weather Sunday: Brazil is voting, France is still in the streets, oil has punched through 115 dollars, and a storm named Boelo is hammering the Nordics. Here's the rundown.
 
 [SECTION news]
 [EN]
@@ -8,190 +8,206 @@ Top Stories.
 
 [ITEM]
 [EN]
-US sanctions on Rosneft and Lukoil take effect as Trump scraps the Putin summit.
+Brazil votes today in a knife-edge Lula–Bolsonaro runoff.
 [EN]
-Washington's sanctions on Russia's two largest oil producers, Rosneft and Lukoil, are now in force, and the US Treasury says they are already biting into Moscow's oil revenues. The move landed alongside Trump cancelling his planned meeting with Vladimir Putin and declining to supply Ukraine with Tomahawk missiles, while Russia kept up strikes on Ukraine's energy grid — DTEK reported a fresh attack on a thermal power plant. It's a sharp hardening of the US line after weeks of stalled peace talks, and the market read it immediately.
+More than 158 million Brazilians head to the polls to choose between President Lula da Silva and Senator Flávio Bolsonaro, who narrowly led the October 4 first round 47 percent to 45 percent. Polls are open until 5pm Brasília time, so no results yet — but with some 48 million voters who backed neither finalist now up for grabs, and abstention a wild card, it's genuinely too close to call. Lula is framing it as a defense of democracy and leaning on social spending; Flávio is promising hardline security and anti-corruption crackdowns.
 [EN]
-Sources: The Guardian, Energy Intelligence, and NRK.
+Sources: Infobae, El País, Emol.
 
 [ITEM]
 [EN]
-Oil hits a five-month high while AI-valuation nerves drag stocks down.
+Nearly a thousand arrested as France's protest wave rolls on.
 [EN]
-Crude jumped to its highest level in five months on the back of the Russia sanctions, even as global equities slipped on renewed worries that AI stocks are overvalued. UK retail sales also came in weak, adding to a generally jittery mood across markets. The split screen — energy up on geopolitics, tech down on bubble fears — captures where investor anxiety sits right now.
+Hundreds of thousands marched across France again, with close to a thousand arrests following late-day clashes — though notably without a repeat of the previous weekend's rioting. It's part of a broader European pattern: El País counts more than 170 separate demonstrations by students, unions and residents across the continent in just over a month, with fresh police clashes also flaring in Tirana.
 [EN]
-Source: The Guardian business live.
+Sources: BBC News, El País.
 
 [ITEM]
 [EN]
-Personalized mRNA cancer vaccine cuts melanoma death and recurrence by 42 percent.
+Oil blasts past 115 dollars, piling pressure on markets.
 [EN]
-Moderna and Merck reported that their individualized mRNA vaccine, paired with immunotherapy, reduced the risk of death or recurrence in melanoma patients by 42 percent in a late-stage trial. Because each shot is tailored to a patient's own tumor mutations, the result is being read as a milestone for personalized cancer medicine. If it holds up through regulatory review, it points toward a very different template for how some cancers get treated.
+Crude broke the 115 dollar barrier and is now testing the highs it hit right after the Middle East war erupted, driven by the ongoing regional conflict. The surge tightens the screws on import-dependent economies and feeds straight into inflation and currency worries worldwide — a thread that runs right down to Santiago.
 [EN]
-Source: Ars Technica.
+Sources: Emol.
 
 [ITEM]
 [EN]
-Unrest spreads across France as cities brace for mass protests.
+Ten days that could shake the world.
 [EN]
-Police fired tear gas at demonstrators in Lyon, and shops along parts of Paris boarded up their windows ahead of large planned marches, with authorities granting permits only to trade unions. The demonstrations are part of a wider wave of protest rippling across Europe over the cost of living and political direction. France's government is watching nervously as the autumn turns tense.
+The Guardian frames this stretch as a stress test for democratic norms, with four pivotal votes — Brazil today, plus Israel, Serbia and the US midterms — landing inside ten days. Taken together, they could set the tone for whether democratic guardrails firm up or keep eroding into 2027.
 [EN]
-Sources: SVT Nyheter, The Guardian.
+Sources: The Guardian.
 
 [ITEM]
 [EN]
-US heads into the midterms with 145 ballot measures on the table.
+Riyadh's main airport reopens after a Houthi missile strike.
 [EN]
-Voters across the states will weigh in on 145 ballot initiatives next month, including a billionaire wealth tax and a slate of abortion and trans-rights questions — a snapshot of where the country's fault lines run. Separately, the Supreme Court ruled that student IDs can't be used to vote in New Hampshire's November elections. Together they underline how much of this cycle is being fought over the mechanics and boundaries of participation itself.
+King Khalid International Airport brought two terminals back online Sunday after a Houthi missile attack forced a shutdown, with domestic flights resuming from Terminal 1 and international from Terminal 2. It's a concrete reminder that the Middle East conflict driving oil prices is still very much live.
 [EN]
-Sources: The Guardian, NBC News.
+Sources: Arab News.
 
-[EN]
+[ES]
 España y América Latina.
 
 [ITEM]
 [ES]
-La tormenta Adam deja al menos cuatro muertos e inundaciones en el este de España.
+La crisis del Fondo E sacude a Chile.
 [ES]
-La DANA bautizada como Adam descargó lluvias torrenciales sobre el este de España, dejando al menos cuatro fallecidos, miles de evacuados y pueblos incomunicados antes de que la calma empezara a volver a las zonas turísticas afectadas. El episodio reaviva el debate sobre cómo se preparan el Mediterráneo y sus infraestructuras ante lluvias cada vez más extremas. Las autoridades mantienen la vigilancia mientras el temporal se desplaza hacia Italia.
+El enredo en torno al Fondo E de las AFP sigue escalando, con el gobierno, parlamentarios, el regulador y los ejecutivos de las administradoras todos señalados como protagonistas del lío. Es una de esas tormentas regulatorias que empiezan técnicas y terminan políticas, y promete dar que hablar toda la semana.
 [ES]
-Fuente: Al Jazeera.
+Fuentes: Emol.
 
 [ITEM]
 [ES]
-Cuba rechaza lo que llama las "ambiciones" de Estados Unidos sobre la isla.
+El dólar supera los mil pesos y el peso sufre.
 [ES]
-El presidente cubano Miguel Díaz-Canel afirmó que el gobierno estadounidense no ha abandonado sus aspiraciones de dominar Cuba, en una declaración cargada de referencias históricas publicada por Granma. El mensaje llega en un momento de tensión renovada en la relación bilateral. Es, sobre todo, un gesto político hacia dentro y hacia fuera de la isla.
+En las casas de cambio el dólar ya pasó la barrera de los mil pesos, y los expertos apuntan a varias variables jugando en contra de la moneda chilena. El alza del petróleo por encima de los 115 dólares no ayuda: encarece las importaciones y presiona la inflación justo cuando el peso está débil.
 [ES]
-Fuente: Granma.
+Fuentes: Emol.
 
 [ITEM]
 [ES]
-Guatemala prepara el regreso de los restos de Miguel Ángel Asturias, 52 años después.
+Sistema frontal deja más de 700 viviendas con daños.
 [ES]
-Los restos del Nobel guatemalteco Miguel Ángel Asturias volverán a su país y serán inhumados el 15 de noviembre en el Centro Cultural que lleva su nombre, con actividades culturales y honras fúnebres previstas. El retorno, más de medio siglo después de su muerte, se vive como un acto de reconciliación con una de las grandes figuras de la literatura latinoamericana. Es una nota cultural luminosa en una semana cargada de política.
+Senapred mantiene alerta por probables trombas marinas entre Coquimbo y Los Lagos, con cientos de casas afectadas tras el paso del sistema frontal. Las lluvias intensas de este fin de semana dejaron un rastro de destrozos que las autoridades todavía están contabilizando.
 [ES]
-Fuente: Prensa Libre.
+Fuentes: Emol.
+
+[ITEM]
+[ES]
+El Ejército de Chile tendrá por primera vez una mujer general.
+[ES]
+En el Alto Mando anunciado para 2027 figura, por primera vez en la historia de la institución, el nombramiento de una mujer al grado de general. Es un hito simbólico importante para una de las instituciones más tradicionales del país.
+[ES]
+Fuentes: Emol.
 
 [EN]
 US and International.
 
 [ITEM]
 [EN]
-Kim Jong Un visits China as South Korea floats military talks.
+Storm Boelo batters the Nordics and the UK.
 [EN]
-North Korean leader Kim Jong Un has traveled to China, and in a parallel development Seoul has proposed holding military talks with Pyongyang — a rare diplomatic opening on a tense peninsula. The two moves hint at some loosening after a long stretch of frozen contact. Whether it leads anywhere is an open question, but the signalling alone is notable.
+The storm — unusually given a Dutch male name, which Sweden's SMHI flagged as rare — has slammed into Norway, where NRK reports several thousand homes losing power, and is sweeping into Sweden with rain, heavy wind and disrupted train traffic. It first hit the UK with gusts over 30 meters per second and danger-to-life warnings from the Met Office.
 [EN]
-Sources: SVT Nyheter, NRK Norway.
+Sources: NRK Norway, SVT, Aftonbladet.
 
 [ITEM]
 [EN]
-Volvo Cars to cut around 2,000 jobs in Sweden.
+Ukraine endures another round of strikes.
 [EN]
-Volvo Cars is cutting roughly 2,000 positions in Sweden, a significant blow to the country's industrial heartland as carmakers squeeze costs amid a tough market. The move reflects broader pressure on the European auto sector from the EV transition and soft demand. It lands as a reminder that the continent's manufacturing base is still under strain. Originally reported by NRK, Norway.
+El País paints daily life in Kyiv as lived under constant missile threat, while NRK reports three killed in Ukrainian drone attacks and Russia claiming to have struck a cargo ship. The grind continues even as diplomatic chatter swirls in the background.
 [EN]
-Source: NRK Norway.
+Sources: El País, NRK.
 
 [ITEM]
 [EN]
-Brazil's Indigenous Amazon communities wary of a Bolsonaro revival.
+Zadie Smith warns inequality has made culture clashes feel existential.
 [EN]
-Indigenous groups in the Brazilian Amazon say they fear Flávio Bolsonaro's appeal to voters in towns that want more mining, worried it could reopen pressure on protected land. The anxiety speaks to how fragile hard-won environmental protections feel heading into another electoral cycle. For the Amazon, politics and climate are never separate questions.
+In a Southbank Centre conversation with Dua Lipa, the novelist linked widening inequality and the hollowing-out of Britain's welfare state to social divisions that now feel less like disagreements and more like existential battles. It's a sharp cultural read on why political fights have gotten so bitter.
 [EN]
-Source: The Guardian.
+Sources: The Guardian.
 
 [ITEM]
 [EN]
-Heineken warns weight-loss drugs may be denting beer sales.
+The US midterms loom on November 3.
 [EN]
-Heineken has told UK pubs that the surge in weight-loss drugs like Wegovy may be eating into beer and cider sales, as appetite-suppressing medication reshapes consumer habits. It's an early, concrete sign of how a medical trend can ripple into an entirely different industry. Breweries, it seems, are now watching pharmacology as closely as the weather.
+With just over a week to go, campaigning is intensifying: Trump has already cast an early vote in Florida, while opposition canvassers are going door to door — NRK highlighted one activist who knocked on 1,563 doors in a single day trying to flip Florida. It's one of the four democracy-testing votes the Guardian flagged earlier.
 [EN]
-Source: The Guardian.
+Sources: NRK, Dagens Nyheter.
 
 [EN]
 Tech and Niche.
 
 [ITEM]
 [EN]
-Kimi releases K3.1 Pro, the latest in a relentless model churn.
+America has shed 200,000 creative-industry jobs — how much is AI?
 [EN]
-AI lab Moonshot has put out K3.1 Pro and a faster Highspeed variant of its Kimi model, the newest entry in a release cycle that now turns over in weeks rather than months. Each drop briefly becomes the model to beat before the next one arrives. The cadence itself has become the story in AI.
+A deep data dive finds more than 200,000 jobs lost across media, film and the arts over four years, with movie and TV alone down over 100,000 — nearly a third of the sector — and publishing off 70,000. The author is refreshingly careful: isolating AI's exact share is extremely difficult with offshoring, consolidation and creator competition all in the mix, though every digital-arts subsector is shrinking while live entertainment grows. His bet is that AI's damage will be more cultural than macroeconomic.
 [EN]
-Source: Hacker News and Kimi.
+Sources: Apricitas, via Hacker News.
 
 [ITEM]
 [EN]
-New http2shell exploit chain and fresh PHP flaws keep security teams busy.
+The AI graveyard grows.
 [EN]
-Researchers flagged http2shell, a remote-code-execution technique affecting Node, Python and other runtimes, while separately newly disclosed PHP vulnerabilities are being probed by attackers — though reports of widespread damage remain limited so far. The pair is a reminder that the plumbing of the web stays a live target. Patching discipline, as ever, is the unglamorous front line.
+TechCrunch is now keeping a running list of AI projects and startups that didn't make it — a quiet counterweight to the hype cycle — alongside a piece asking whether AI will finally expose the internet's rickety underlying infrastructure. After two years of relentless this-changes-everything, the failure column is starting to fill in.
 [EN]
-Sources: Hacker News, Aikido Security, and NBC News.
+Sources: TechCrunch.
 
 [ITEM]
 [EN]
-Block unveils Dessa, billed as the most authentic full-duplex speech model yet.
+Block's new voice model sounds eerily human.
 [EN]
-Block has released Dessa, a speech model designed for genuine full-duplex conversation — listening and speaking at the same time rather than waiting for turns. If it lives up to the billing, it chips away at one of the most stubborn awkwardnesses in voice AI. Natural back-and-forth is the holy grail here, and this is a notable swing at it.
+Block released a text-to-speech model whose speech is strikingly lifelike, the latest entry in a fast-moving race to erase the line between synthetic and human voices. Impressive and a little unsettling in equal measure — especially for anyone whose job involves talking for a living.
 [EN]
-Source: Hacker News and Block.
+Sources: TechCrunch.
 
 [ITEM]
 [EN]
-Canva builds its own image model, Craft, in-house.
+Starlink is working normally again in Ukraine.
 [EN]
-Canva has launched Craft, an image-generation model built from scratch by its own research lab rather than licensed from a third party. The move signals that even design-tool companies now see a bespoke model as core infrastructure. Owning the model, not just renting it, is becoming a competitive line in the sand.
+After a disruption that had raised real alarm about Ukraine's battlefield connectivity, service appears to have fully recovered. It's a reminder of just how much critical wartime infrastructure now hangs on a single private satellite network.
 [EN]
-Source: https://www.google.com/url?q=http://unite.ai&source=gmail&ust=1792923592528000&sa=E.
+Sources: TechCrunch.
 
+[ITEM]
 [EN]
+Physicists may have accidentally built a qubit that runs backward in time.
+[EN]
+Researchers report a qubit that appears to reverse the direction of quantum evolution — a genuinely strange result with possible implications for quantum computing. File under: we're not entirely sure what we made, but it's fascinating.
+[EN]
+Sources: ScienceAlert.
+
+[SV]
 Sverige.
 
 [ITEM]
 [SV]
-C-ledaren träffade Åkesson men håller fast vid den röda linjen.
+Dags att ställa om — vintertid är här.
 [SV]
-Centerpartiets ledare Elisabeth Thand Ringqvist säger att hon har träffat Sverigedemokraternas Jimmie Åkesson inom ramen för sitt sonderingsuppdrag, men betonar att den röda linjen mot SD ligger fast även om partierna står nära varandra i vissa sakfrågor. Mötet säger en del om hur det politiska landskapet förhandlas just nu. Signalerna tolkas noga inför nästa steg i regeringsfrågan.
+I natt gick Sverige och övriga EU över till vintertid, med en extra timmes sömn som bonus. Många förknippar omställningen med mörker och trötthet, men sömnforskare menar faktiskt att vintertiden är bra för oss — och tipsar om att ställa om gradvis för att mjuka upp övergången.
 [SV]
-Källa: SVT Nyheter.
+Källor: Dagens Nyheter, Corren.
 
 [ITEM]
 [SV]
-Man i 25-årsåldern skjuten till döds i Bagarmossen.
+Svenskt ölkoncentrat kan bli revolutionerande.
 [SV]
-En man i 25-årsåldern har skjutits ihjäl i Bagarmossen i södra Stockholm, och ingen är ännu gripen för dådet. Skjutningen är ännu ett inslag i det dödliga våld som fortsätter att prägla delar av storstadsregionerna. Polisens arbete på platsen pågår.
+Alfa Laval har byggt en maskin som tillverkar ölkoncentrat, som sedan späds ut med kolsyrat vatten när ölen serveras. Uppfinningen beskrivs som något som kan förändra bryggeribranschen i grunden — både logistiken och klimatavtrycket av att frakta runt stora mängder vatten.
 [SV]
-Källa: SVT Nyheter.
+Källor: Omni, Sydsvenskan.
 
 [ITEM]
 [SV]
-Kökaos när hundratals köade för goodiebags i Mall of Scandinavia.
+Varannan tonåring väntas dricka på höstlovet.
 [SV]
-Hundratals ungdomar köade i Mall of Scandinavia i Stockholm för att få tag på goodiebags, vilket fick polis och ordningsvakter att rycka ut för att hålla ordning. Händelsen blev en påminnelse om hur snabbt en kampanj kan dra folk i stora mängder. Lugnet återställdes efter hand.
+Nästan hälften av tonåringarna räknar med att dricka alkohol under höstlovet och Halloween, enligt en ny undersökning — samtidigt som många föräldrar är övertygade om att just deras barn avstår. Gapet mellan vad föräldrarna tror och vad ungdomarna själva säger är den verkligt oroande biten.
 [SV]
-Källa: SVT Nyheter.
+Källor: Drugnews.
 
 [SECTION connecting_dots]
 [EN]
 Connecting the Dots.
 [EN]
-This section is interpretation and informed speculation, not reported news. It's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
 [EN]
-Patricio, the loudest through-line today is energy turned into a political instrument. The US sanctions on Rosneft and Lukoil pushed crude to a five-month high, and that price move doesn't stay in a chart somewhere abroad — Chile imports most of its fuel, so a sustained climb in oil feeds fairly directly into pump prices, freight costs, and eventually the inflation number the central bank is trying to tame. It's worth watching how the peso and local combustible prices behave over the next couple of weeks; if sanctions stick rather than getting negotiated away, the cost-of-living pinch travels a long way from Moscow.
+Patricio, the single thread that ties today most tightly to your doorstep in Chile is oil at 115 dollars. That number doesn't stay abstract for you: it props up a weak peso that's already over 1,000 to the dollar, feeds domestic inflation, and raises the cost of everything imported and fuel-driven. The one offsetting force is copper — a jittery, conflict-driven commodity cycle that lifts oil often lifts industrial metals too, and a firmer copper price is the natural hedge for Chile's terms of trade. Worth watching this week: whether copper is riding the same risk-premium wave or whether Chile is simply importing expensive energy while its export anchor lags. If it's the latter, the peso pressure and the Fondo E anxiety start to rhyme in an uncomfortable way.
 [EN]
-The copper angle is subtler and cuts both ways. Today's equity wobble was driven by fear that AI stocks are overvalued, and if that fear hardens into a genuine risk-off mood, growth expectations soften and industrial-metal demand — copper included — usually softens with them. That's the near-term worry for a copper-exposed fiscal budget like Chile's. The counterweight is that the very AI buildout people are nervous about is wildly copper-intensive, from data centers to grid upgrades to electrification, so the long arc could still favor copper even if AI equities get a haircut first. I'd hold both of those in mind at once rather than pick one.
+Zoom out to the politics, and the Guardian's ten days framing is the right lens. Brazil today is the one that matters most for you regionally: a Flávio Bolsonaro win would hand the hard right its biggest South American prize since his father, reshaping Mercosur dynamics and the diplomatic weather around Chile's own politics, while a Lula comeback keeps the current regional balance roughly intact. Either way, a near fifty-fifty result guarantees a bitterly divided Brazil next door — and divided big neighbors tend to export volatility, not calm.
 [EN]
-Zoom out to the political weather and you see a defensive West: France boarding up shop windows ahead of protests, Volvo shedding two thousand jobs, weak UK retail, cost-of-living anger rippling across Europe. None of that is a crisis on its own, but together it sketches a wealthy world that feels economically on the back foot and politically volatile — at the same moment the US is taking a harder, more unilateral line on Russia. For a country like Chile, that adds up to a more fragmented global order where middle and small powers have to steer carefully between blocs rather than lean on one stable hegemon.
+The protest wave is the quieter signal. One hundred and seventy-plus demonstrations across Europe in a month, France arresting a thousand people in a day, Tirana clashing — this isn't about one grievance, it's a broad cost-of-living and legitimacy strain in wealthy democracies. Chile has lived its own version of this since 2019, so you know the pattern: when the economic squeeze — hello, 115 dollar oil and a sagging peso — meets a sense that institutions aren't delivering, the street fills up. Not a prediction, just a weather system worth tracking.
 [EN]
-On the technology side, the simultaneity is striking: a personalized mRNA vaccine posting a real 42 percent result in melanoma on the same day that three new AI models land. Medicine and machine intelligence are both compounding fast. The honest question for someone located in Chile is less whether these will arrive than with what lag, and at what price — breakthroughs like these tend to reach the global south on a delay, and the gap between the frontier and the clinic or the app store is itself something to track.
-[EN]
-None of this is a confident prediction — more a set of dials I'd keep an eye on: oil feeding into local inflation, an AI pullback tugging at copper in the short run even as electrification supports it long-term, and European fragility nudging the wider order toward less predictability. If any one of them moves sharply, the others are where I'd look next.
+And then there's the AI undercurrent, which keeps showing up as a story about limits rather than triumph — 200,000 lost creative jobs that even the analyst won't cleanly pin on AI, a growing graveyard of failed AI startups, Block's uncanny voice model arriving the same week. The honest read is that we're entering the disillusionment-and-reckoning phase of the cycle, where the interesting question shifts from what can it do to what did it actually cost, and who's left holding judgment. That shift, more than any single model release, is the thing I'd keep my eye on.
 
 [SECTION hypothesis_watch]
 [EN]
 Hypothesis Watch.
 [EN]
-An ongoing watch on your standing hypothesis about AI, internal voice, and social cohesion — a daily scan read against the recent trend in the log, not a full re-argument of the whole chain.
+An ongoing watch on your standing hypothesis — a daily scan read against the recent trend in the log, not a full re-argument of the whole chain. Sub-claims: a, shrinking thought-leadership and authority cycles; b, individuals pushed toward a stronger internal voice; c, a move away from individualism; d, more human collaboration and social cohesion.
 [EN]
-On sub-claim (a), shrinking authority and thought-leadership cycles, today is another clear supporting day. A single tech roundup carried three fresh model launches — Kimi's K3.1 Pro, Canva's in-house Craft, and Block's Dessa — each briefly the one to beat, plus a US foreign-policy reversal, summit on then off, that fits the same pattern of ever-shorter tenure for any given authority. That extends what the log shows as an unbroken run: (a) has registered support in every one of the roughly 35 entries since mid-September.
+On a, today keeps a very long supporting streak alive — roughly six weeks now of near-daily support readings. TechCrunch's growing AI graveyard of dead startups, the 200,000 vanished creative jobs no one can cleanly attribute, and yet another human-mimicking voice model from Block all point the same way: AI authority and incumbency churning faster than anyone can consolidate a durable lead. The shrinking-cycle signal isn't subtle anymore; it's the baseline.
 [EN]
-On sub-claim (b), a stronger internal voice, there's no sharp signal in today's stories, so I'd call it neutral — consistent with a sub-claim that has mostly supported but drops to neutral on quieter days, five such days in the log so far. Sub-claim (c), a move away from individualism, again shows nothing that really counts: the French mobilization is collective, but it's union- and state-channeled, which is exactly the not-an-individualist-to-collective-pivot caveat the log has flagged every single day — (c) has never once moved off neutral. Sub-claim (d), collaboration and cohesion, is similar today: the coordination on display, US and EU sanctions, Seoul's proposal of military talks with Pyongyang, is state-level statecraft, not grassroots social cohesion, so neutral, in line with the log's neutral run on (d) since late September. No integral review yet exists to frame this against — the reviews file is still empty — so this is a same-day read sitting on top of the recent trend.
+On b, I'd call today another mild support. The clearest tell is the apricitas analyst refusing the easy headline — insisting that isolating AI's share of the job losses is extremely difficult rather than blaming the machine — which is exactly the kind of independent, resist-the-narrative judgment the sub-claim predicts people will reach for. It's a modest signal, not a loud one, but it continues the run.
+[EN]
+On c and d, nothing moves, same as essentially every day in the log. Europe's 170-plus protests and France's mass arrests are collective action, but they're cost-of-living and legitimacy grievances channeled through unions and parties — not individuals shedding individualism for a new social fabric. Brazil's vote and the scattered storm-response solidarity are state-level or partisan, not the grassroots cohesion d is really about. So: a support, b support, c neutral, d neutral — a faithful continuation of the recent trend, with the back half of your chain still stubbornly quiet.
