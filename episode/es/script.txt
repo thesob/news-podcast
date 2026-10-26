@@ -1,176 +1,241 @@
 [SECTION intro]
 [ES]
-Buenos días. Este es tu resumen diario del domingo 25 de octubre de 2026.
+Buenos días. Este es tu resumen diario del 26 de octubre de 2026.
+
 [ES]
-Hoy no pudimos consultar directamente algunas fuentes, como The New York Times, Washington Post, Reuters, AP, Xinhua, Al Jazeera, TechCrunch, La Tercera y Ars Technica. Lo cubrimos con BBC, BBC Mundo, DW en Español, El País, Emol, The Guardian y Hacker News.
+Nota sobre fuentes. Hoy no pude leer directamente El País, Xinhua Español, The New York Times, The Washington Post, Reuters, AP, La Tercera ni los feeds de la BBC. Cubrí esos huecos con BBC News Mundo, DW en Español, Emol, TechCrunch, Ars Technica y The Guardian.
+
 [SECTION news]
 [ES]
 Titulares.
+
 [ITEM]
 [ES]
-Brasil decide entre Lula y Flávio Bolsonaro en una segunda vuelta muy reñida.
+Lula gana un cuarto mandato en Brasil y Bolsonaro habla de pedir la anulación.
+
 [ES]
-Los brasileños votan hoy en el balotaje presidencial entre el presidente Lula da Silva y Flávio Bolsonaro, hijo de Jair Bolsonaro. Según The Guardian, ambos están virtualmente empatados y la participación podría ser clave. El País recoge el optimismo en el sindicato metalúrgico de São Bernardo do Campo, donde empezó la leyenda de Lula, y BBC Mundo analiza por qué este duelo importa para América Latina y para Donald Trump.
+Luiz Inácio Lula da Silva se impuso a Flávio Bolsonaro en la segunda vuelta y será presidente de Brasil por cuarta vez. En su discurso dijo que su victoria es una derrota de la mentira y del negacionismo, mientras el campo de Bolsonaro se resiste a reconocer el resultado y asegura que pedirá la anulación de las elecciones. A la vez, la derecha gobernará la mayoría de los estados, así que Lula tendrá un mapa político regional nada fácil.
+
 [ES]
-Fuentes: BBC News, BBC News Mundo, El País, The Guardian.
+Fuentes: DW en Español, The Guardian, Emol y BBC News Mundo.
+
 [ITEM]
 [ES]
-Francia: nuevas protestas masivas dejan casi un millar de detenidos.
+Serbia: Vučić reconoce la derrota ante el movimiento estudiantil.
+
 [ES]
-Otra jornada de manifestaciones multitudinarias en Francia terminó con choques tardíos y cerca de 1.000 detenidos, según la BBC; DW habla de un récord de 855 arrestos en París y de medio millón de manifestantes en el país. El ministro del Interior destacó que hubo menos destrozos que el fin de semana anterior, con tensión en París, Marsella y Lyon. El País enmarca estas protestas en una ola europea de más de 170 manifestaciones en poco más de un mes.
+El presidente serbio, Aleksandar Vučić, admitió la derrota en las elecciones parlamentarias frente al movimiento liderado por estudiantes. El movimiento ya se declaró vencedor, y The Guardian cuenta que el país empieza a asimilar el resultado con la esperanza de mejorar su relación con la Unión Europea.
+
 [ES]
-Fuentes: BBC News, DW en Español, El País.
+Fuentes: BBC News, ABC News de Australia, The Guardian y DW en Español.
+
 [ITEM]
 [ES]
-El petróleo supera los 115 dólares por barril.
+Las protestas se expanden por Europa: vivienda, educación y costo de vida.
+
 [ES]
-El precio internacional del crudo rompió la barrera de los 115 dólares y apunta a superar el máximo alcanzado tras el estallido de la guerra en Medio Oriente. Emol advierte que esto añade presión por mayores costos para economías importadoras de energía.
+Lo que empezó en Albania, España y Francia se ha extendido a Italia, Grecia, Bélgica, Portugal y Austria, con jóvenes y estudiantes al frente. Los detonantes son locales, pero el hilo común es el costo de la vida; en Francia hubo cerca de 2.400 detenidos entre el 17 y el 18 de octubre. En España, Pedro Sánchez disolvió las Cortes y convocó elecciones anticipadas para el 29 de noviembre tras el rechazo de dos decretos de vivienda.
+
 [ES]
-Fuentes: Emol.
+Fuente: Emol.
+
 [ITEM]
 [ES]
-Israel va a elecciones con Cisjordania cerrada y los votantes árabes con miedo.
+La IA no da ningún retorno financiero a la mayoría de las empresas, dice un economista de Apollo.
+
 [ES]
-Israel cerrará los cruces de Cisjordania el día de las elecciones, en medio de una escalada de la ofensiva de seguridad, según la BBC. El País cuenta que votantes árabes de Israel dicen haber sufrido ataques racistas y restricciones a la libertad de expresión bajo el gobierno de extrema derecha, y que votan para acabar con ese miedo. The Guardian incluye estos comicios entre cuatro elecciones decisivas para las normas democráticas en diez días, junto a Brasil, Serbia y Estados Unidos.
+Torsten Slok, economista jefe de Apollo, sostiene que fuera de las grandes tecnológicas los márgenes y los ingresos por empleado siguen planos, sin señales de mejoras de productividad por la IA. Su argumento es que la IA puede ser una gran calculadora, pero en los negocios la inteligencia es sobre todo criterio. TechCrunch aclara que Apollo fue dueña de TechCrunch.
+
 [ES]
-Fuentes: BBC News, El País, The Guardian.
-[ITEM]
-[ES]
-Ucrania lanza uno de sus mayores ataques con drones contra San Petersburgo.
-[ES]
-Según DW, Ucrania atacó San Petersburgo con uno de los mayores ensambles de drones desde el inicio de la guerra. Por otro lado, la BBC informa de que Elon Musk dice que SpaceX restringió la conexión Starlink de Ucrania, y que el servicio ya fue restablecido. El País retrata la vida cotidiana en Kiev, con colchones en los pasillos y mochilas escolares con torniquetes.
-[ES]
-Fuentes: DW en Español, BBC News, El País.
+Fuente: TechCrunch.
+
 [ES]
 España y Latinoamérica.
+
 [ITEM]
 [ES]
-Trump: "Nos ocuparemos de Cuba después de Irán".
+Bukele envía tropas a Haití para liberar a soldados salvadoreños secuestrados.
+
 [ES]
-En un mitin en Florida, el presidente estadounidense afirmó que su gobierno se ocupará de Cuba una vez resuelto el asunto de Irán, según El País. Desde La Habana, Miguel Díaz-Canel respondió que Washington no ha renunciado a dominar la isla y que Cuba está decidida a defender su independencia, según el diario oficial Granma.
+El presidente de El Salvador envió un contingente a Haití tras pedir a las pandillas que liberen a los soldados retenidos, que formaban parte de una misión de la ONU. Bukele negó que los cuerpos hallados en Puerto Príncipe, según un reporte del New York Times, sean los de los cuatro soldados desaparecidos.
+
 [ES]
-Fuentes: El País, Granma.
+Fuente: BBC News Mundo.
+
 [ITEM]
 [ES]
-Chile: sistema frontal deja más de 700 viviendas dañadas y una avalancha en El Portillo.
+Por qué las protestas no desgastan a Sheinbaum.
+
 [ES]
-Senapred mantiene la alerta por posibles trombas marinas tras el sistema frontal, que dejó más de 700 viviendas con daños entre Coquimbo y Los Lagos, según Emol. Además, una avalancha en el centro de esquí El Portillo, en los Andes chilenos, causó al menos tres muertos, informa DW.
+Pese a las protestas casi diarias en México, el país no muestra un malestar social generalizado, y Claudia Sheinbaum sigue siendo una de las líderes más populares de la región. El análisis de BBC Mundo explora por qué las manifestaciones no se traducen en desgaste político.
+
 [ES]
-Fuentes: Emol, DW en Español.
+Fuente: BBC News Mundo.
+
 [ITEM]
 [ES]
-Bukele envía un contingente a Haití para liberar a cuatro soldados.
+Argentina: el dinero se acaba antes que el mes.
+
 [ES]
-El presidente salvadoreño envió tropas a Haití para ayudar a liberar a cuatro militares retenidos por pandillas, después de haber pedido públicamente su liberación, según BBC Mundo.
+Una encuesta indica que casi dos de cada tres argentinos dicen que sus ingresos no les alcanzan hasta fin de mes, dato que el gobierno de Milei discute. El tema pone en el centro el choque entre las cifras macroeconómicas y la experiencia cotidiana de los hogares.
+
 [ES]
-Fuentes: BBC News Mundo.
+Fuente: DW en Español.
+
 [ITEM]
 [ES]
-México arresta a un exfiscal por el operativo en el que murieron dos agentes de Estados Unidos.
+Chile: la agenda internacional de Kast y límites al uso de IA en la justicia.
+
 [ES]
-DW informa de la detención de un exfiscal mexicano vinculado con un operativo en el que murieron dos agentes estadounidenses. El caso se suma a la tensión de seguridad entre ambos países.
+El presidente Kast tendrá en noviembre una agenda recargada con viajes a Madrid, Roma y Asia, en medio de un escenario global complejo. Por otra parte, el sistema de justicia chileno fija límites al uso de inteligencia artificial para evitar que reemplace decisiones de jueces y abogados, y la Corte Suprema estudia nuevas obligaciones para su personal.
+
 [ES]
-Fuentes: DW en Español.
-[ITEM]
-[ES]
-Venezuela: un portal ciudadano para buscar desaparecidos tras los terremotos.
-[ES]
-Jorge Bastidas creó un portal para reportar personas desaparecidas tras los sismos en Venezuela, ante la falta de cifras oficiales. Es una iniciativa ciudadana nacida de la necesidad de información, según BBC Mundo.
-[ES]
-Fuentes: BBC News Mundo.
-[ITEM]
-[ES]
-Los restos de Miguel Ángel Asturias vuelven a Guatemala.
-[ES]
-Tras 52 años de su fallecimiento, los restos del Nobel guatemalteco regresarán al país en noviembre. Su inhumación está prevista para el 15 de noviembre en el Centro Cultural que lleva su nombre, según Prensa Libre.
-[ES]
-Fuentes: Prensa Libre.
+Fuente: Emol.
+
 [ES]
 Mundo.
+
 [ITEM]
 [ES]
-La protesta por la vivienda se extiende a Portugal.
+Zelenski anuncia una reunión entre Ucrania, Rusia y Estados Unidos en noviembre.
+
 [ES]
-Las manifestaciones por la crisis de vivienda se propagan por Portugal, según DW. El País señala que estudiantes, sindicatos y vecinos han convocado más de 170 protestas en Europa en poco más de un mes, a menudo por motivos que se superponen.
+El presidente ucraniano anunció que habrá un encuentro entre las tres partes el próximo mes. Todavía no hay detalles sobre el formato, así que conviene esperar a ver si se concreta.
+
 [ES]
-Fuentes: DW en Español, El País.
+Fuente: DW en Español.
+
 [ITEM]
 [ES]
-Kenia registra una segunda muerte por ébola.
+Canadá y Estados Unidos, cerca de un acuerdo comercial.
+
 [ES]
-Una mujer de 65 años se convirtió en la segunda paciente fallecida por ébola en Kenia, según la BBC. La noticia mantiene la atención sobre la evolución del brote en el país.
+Un asesor de Trump dijo que ambos países están cerca de cerrar un acuerdo, días después de nuevos aranceles estadounidenses a productos canadienses. También atribuyó parte de la demora al referéndum de Alberta.
+
 [ES]
-Fuentes: BBC News.
+Fuente: CP24.
+
 [ITEM]
 [ES]
-Yemen y Arabia Saudita: helicóptero militar caído y aeropuerto de Riad que reabre.
+Cisjordania: fuerzas israelíes toman casas palestinas en Hebrón.
+
 [ES]
-Dos saudíes murieron al estrellarse un helicóptero militar en Yemen, que los hutíes dicen haber derribado, según DW. Arab News informa de que el aeropuerto internacional King Khalid de Riad reabrirá dos terminales este domingo, dos semanas después de un mortal ataque con misiles hutíes.
+Tras un ataque a un puesto de control, las fuerzas israelíes ocuparon viviendas palestinas en Hebrón y desplazaron a casi 2.000 personas. El texto de The Guardian lo presenta como un castigo colectivo.
+
 [ES]
-Fuentes: DW en Español, Arab News.
+Fuente: The Guardian.
+
 [ITEM]
 [ES]
-India: un camión sin control mata a 13 personas en un festival hindú.
+Kenia: al menos 24 muertos en un choque de autobús.
+
 [ES]
-Un camión fuera de control arrolló a asistentes a un festival hindú en India y dejó 13 muertos, según DW.
+Un autobús que transportaba a personas que asistían a un funeral chocó con un camión. El gobierno prometió endurecer las medidas de seguridad vial.
+
 [ES]
-Fuentes: DW en Español.
+Fuente: Al Jazeera.
+
 [ITEM]
 [ES]
-Incendio en el "Nido del Águila" y un detenido.
+Sismo de magnitud 7 frente a Japón, sin alerta de tsunami.
+
 [ES]
-Unos 200 efectivos de emergencia combatieron un incendio en el antiguo refugio alpino de Hitler en Alemania. La policía detuvo a un hombre, según la BBC y BBC Mundo.
+Un terremoto de magnitud 7 sacudió la costa de Japón. No se activó alerta de tsunami y por ahora no hay daños reportados.
+
 [ES]
-Fuentes: BBC News, BBC News Mundo.
+Fuente: Emol.
+
+[ITEM]
+[ES]
+ONU: el mundo superará los 1,5 grados de calentamiento.
+
+[ES]
+La ONU acepta ahora que el planeta superará el umbral de 1,5 grados, por lo que la remoción de carbono a gran escala pasa a ser necesaria. Es un cambio de tono importante en la política climática.
+
+[ES]
+Fuente: Ars Technica.
+
 [ES]
 Tecnología y Nicho.
+
 [ITEM]
 [ES]
-Empleados de DeepMind renuncian por el uso militar de la IA.
+Vacuna personalizada de ARNm contra el melanoma reduce 42 por ciento la muerte o recurrencia.
+
 [ES]
-Trabajadores actuales y antiguos de Google DeepMind cuentan a BBC Mundo que se fueron por la promoción que hace la empresa de la IA para la guerra. El caso alimenta el debate sobre quién decide los usos de estas tecnologías.
+Moderna y Merck informan que su vacuna personalizada de ARNm redujo en 42 por ciento el riesgo de muerte o recurrencia en melanoma. Son datos de un ensayo, así que habrá que ver su revisión y aprobación.
+
 [ES]
-Fuentes: BBC News Mundo.
+Fuente: Ars Technica.
+
 [ITEM]
 [ES]
-Lo más comentado en Hacker News.
+Google actualiza su política: tu Gmail podría usarse para publicidad.
+
 [ES]
-Un artículo de Apricitas pregunta cuánto de los 200.000 empleos perdidos en medios, cine y artes en Estados Unidos se debe a la IA. Aparte, el post "We should be more ambitious with the software we build" de Dan Luu reúne más de 100 puntos, y el lenguaje de programación Goose suma 175 puntos.
+La política revisada permite a Google usar datos de Gmail para segmentar anuncios si el usuario activa su función Personal Intelligence. Conviene revisar esa opción si usas Gmail.
+
 [ES]
-Fuentes: Hacker News, Apricitas, Dan Luu.
+Fuente: Ars Technica.
+
 [ITEM]
 [ES]
-Físicos podrían haber construido un cúbit que corre hacia atrás en el tiempo.
+Meta recibirá una multa de 25.000 millones de dólares en Nuevo México.
+
 [ES]
-ScienceAlert informa de que un cúbit habría invertido la dirección de la evolución cuántica, con posibles aplicaciones en computación. Es un resultado preliminar que conviene leer con cautela.
+Meta planea apelar la multa histórica, impuesta después de que Nuevo México rechazara sumarse a un acuerdo entre varios estados. La compañía se queja de que el estado es imposible de complacer.
+
 [ES]
-Fuentes: ScienceAlert.
+Fuente: Ars Technica.
+
 [ITEM]
 [ES]
-Robo de cookies: la llave digital de tus cuentas.
+333 nodos de salida de Tor secuestrados para interceptar tráfico SSH.
+
 [ES]
-The Guardian explica que las cookies de sesión son un objetivo principal del secuestro de sesión, que permite a los atacantes tomar el control de cuentas ya abiertas. Es un fraude que evita incluso algunas contraseñas.
+Durante tres días, atacantes comprometieron 333 nodos de salida de Tor para interceptar tráfico sensible, incluido correo en texto plano. Es un recordatorio de que el cifrado extremo a extremo importa incluso en redes de anonimato.
+
 [ES]
-Fuentes: The Guardian.
+Fuente: Ars Technica.
+
+[ITEM]
+[ES]
+Hacker News: el resultado de la votación de C++26.
+
+[ES]
+Entre lo más votado en Hacker News hoy está un análisis del resultado de la votación del borrador final del estándar C++26 y sus contracts. La comunidad de programadores sigue de cerca cómo queda el lenguaje.
+
+[ES]
+Fuente: Hacker News.
+
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
+
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
 [ES]
-Un petróleo por encima de los 115 dólares, la guerra en Medio Oriente y los ataques hutíes en torno a Riad apuntan en la misma dirección: energía cara. Si esto se sostiene, vale la pena vigilar el efecto en combustibles y transporte en países importadores de la región, y en la factura energética de España. No es una predicción segura, pero es el hilo que más se repite hoy.
+Hay un hilo que cruza Brasil, Serbia y Europa: la política se está jugando en la calle y en las urnas con una energía joven y desconfiada de las élites. Un movimiento estudiantil que desplaza a un presidente en Serbia, protestas por vivienda que obligan a convocar elecciones en España, y a la vez una derecha que sigue ganando estados en Brasil: no es un giro en una sola dirección, sino una polarización con mucha movilización de ambos lados. Vale la pena vigilar si ese ruido se convierte en reformas concretas o solo en desgaste.
+
 [ES]
-Las protestas en Francia, la vivienda en Portugal y las más de 170 manifestaciones europeas sugieren un malestar por costo de vida y vivienda que se extiende. Combinado con energía cara, podría presionar a gobiernos europeos y, por rebote, al turismo y la inversión que miran España y Latinoamérica.
+Para ti, en el mundo hispanohablante, hay un puente claro: el costo de la vivienda y de la vida que mueve a Europa también aparece en Argentina, donde casi dos de cada tres personas dicen que el sueldo no llega a fin de mes. Si el descontento por el costo de vida es el denominador común, no sería raro ver más presión política sobre los gobiernos de la región. No es una predicción segura, pero sí un patrón que conviene tener presente.
+
 [ES]
-La segunda vuelta en Brasil, con un empate técnico, es el evento regional más relevante. Dependiendo del resultado, podrían moverse el real y las expectativas sobre materias primas y comercio regional. Y el tono de Trump sobre Cuba recuerda que la política de Estados Unidos hacia la región sigue siendo un factor de incertidumbre.
-[ES]
-En tecnología, las renuncias en DeepMind y el debate sobre empleos creativos y IA sugieren que la discusión sobre quién gobierna esta tecnología se está volviendo más pública. Para quien trabaja en sectores creativos o de servicios en el mundo hispanohablante, quizá valga la pena seguir cómo evoluciona esto, sin dar por hecho nada todavía.
+En lo económico, el mensaje del economista de Apollo es que la IA aún no se refleja en los márgenes de la mayoría de las empresas fuera de tecnología. Si eso persiste, podría enfriar parte del entusiasmo de los mercados, con efectos posibles sobre divisas y materias primas como el cobre o el litio, importantes para Chile y otros países de la región. Y con la ONU asumiendo que se superará 1,5 grados, los costos energéticos y climáticos seguirán entrando en las cuentas de gobiernos y hogares.
+
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
+
 [ES]
-Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no solo por las historias de hoy, y no una nueva discusión completa.
+Seguimiento continuo de la hipótesis permanente: es una lectura diaria informada por la tendencia reciente del registro, no una nueva discusión completa.
+
 [ES]
-Hoy el registro de los últimos 19 días mantiene su patrón: (a) y (d) suman casi siempre señales de apoyo, (c) casi siempre desafía, y (b) sigue mayormente neutral. Hoy continúa esa racha en (a): las renuncias en DeepMind y el debate sobre la IA y el empleo creativo, según BBC Mundo y Hacker News, sugieren que las autoridades tecnológicas pierden legitimidad con rapidez. En (b) no hay señal clara hoy.
+La hipótesis: el auge de la IA en la vida cotidiana obligará a las personas a fortalecer su voz interior y a aprender a actuar según ella, porque nadie puede ocupar por mucho tiempo el papel de líder de pensamiento: los ciclos de renovación son cada vez más cortos. Este acortamiento siempre ha sido el orden natural del cambio, y la IA quizá lo esté acelerando en lugar de causarlo. A medida que las personas desarrollen esa voz interior, se darán cuenta de que necesitan volver a colaborar con otros seres humanos, alejándose del individualismo hacia la fortaleza social inherente a la especie. El resultado a largo plazo: una cohesión social creciente. Sus subafirmaciones: a, ciclos de autoridad cada vez más cortos; b, eso empuja hacia una voz interior más fuerte; c, eso lleva a alejarse del individualismo; d, lo que conduce a más colaboración humana y cohesión social.
+
 [ES]
-En (c), la segunda vuelta casi empatada en Brasil, entre Lula y Flávio Bolsonaro, según The Guardian y la BBC, refleja polarización más que alejamiento del individualismo, otro día de señal en contra. En (d), el apoyo vuelve: más de 170 protestas en Europa por vivienda y trabajo, según El País y DW, muestran acción colectiva, aunque protestar no equivale a cohesión social duradera. Todavía no existe una revisión integral previa.
+Contexto reciente: en las últimas 20 entradas del registro, del 5 al 25 de octubre, a y d han acumulado señales de apoyo casi diarias, 18 y 19 respectivamente, c ha sido desafiada en 16 ocasiones por la polarización política, y b se ha mantenido mayormente neutral. Aún no existe una revisión integral previa que enmarque la lectura de hoy, y el registro es corto para hablar de tendencias firmes.
+
+[ES]
+Hoy, a no tiene una señal clara, lo que corta la racha de apoyo. b recibe una señal débil de apoyo: el economista de Apollo sostiene que en los negocios la inteligencia es sobre todo criterio y que la IA no puede asumir responsabilidad ni confianza, según TechCrunch. c vuelve a ser desafiada: Bolsonaro habla de pedir anular las elecciones y la polarización brasileña persiste, según DW. d suma otro apoyo con la acción colectiva estudiantil y ciudadana en Serbia y en Europa, según BBC y Emol.
