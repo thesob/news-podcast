@@ -1,241 +1,115 @@
 [SECTION intro]
 [ES]
-Buenos días. Este es tu resumen diario del 26 de octubre de 2026.
-
+Buenos días. Este es tu resumen diario del 27 de octubre de 2026.
 [ES]
-Nota sobre fuentes. Hoy no pude leer directamente El País, Xinhua Español, The New York Times, The Washington Post, Reuters, AP, La Tercera ni los feeds de la BBC. Cubrí esos huecos con BBC News Mundo, DW en Español, Emol, TechCrunch, Ars Technica y The Guardian.
-
+Nota sobre las fuentes: hoy la cobertura vino sobre todo del proxy de titulares (Guardian, BBC News Mundo, CNN en Español, TechCrunch y otros), de la API de Hacker News y de lecturas por /extract. No pude revisar directamente a tiempo NYT, Washington Post, Reuters, AP, El País, Emol, La Tercera, DW, Xinhua ni Ars Technica, así que la edición de hoy es más corta de lo habitual.
 [SECTION news]
 [ES]
 Titulares.
-
 [ITEM]
 [ES]
-Lula gana un cuarto mandato en Brasil y Bolsonaro habla de pedir la anulación.
-
+Lula gana la segunda vuelta en Brasil y Trump habla de elección «amañada».
 [ES]
-Luiz Inácio Lula da Silva se impuso a Flávio Bolsonaro en la segunda vuelta y será presidente de Brasil por cuarta vez. En su discurso dijo que su victoria es una derrota de la mentira y del negacionismo, mientras el campo de Bolsonaro se resiste a reconocer el resultado y asegura que pedirá la anulación de las elecciones. A la vez, la derecha gobernará la mayoría de los estados, así que Lula tendrá un mapa político regional nada fácil.
-
+Con el 100% de los votos escrutados, Lula da Silva obtuvo el 51,7% frente al 48,2% de Flávio Bolsonaro, y se convirtió en el primer candidato desde el regreso de la democracia en Brasil que, tras perder en primera vuelta, remonta y gana el balotaje. Donald Trump dijo que le pareció «otra elección amañada», aunque no ofreció argumentos concretos y añadió que «no está gobernando Brasil». Según medios cubanos y CNN en Español, Washington habría aplazado un comunicado de reconocimiento, y Flávio Bolsonaro dice que la policía le pidió entregar sus pasaportes y le prohibió salir del país.
 [ES]
-Fuentes: DW en Español, The Guardian, Emol y BBC News Mundo.
-
+Fuentes: BBC News Mundo, CNN en Español, Escambray, Times of India.
 [ITEM]
 [ES]
-Serbia: Vučić reconoce la derrota ante el movimiento estudiantil.
-
+Israel vota en unas elecciones que se describen como las más decisivas de su historia.
 [ES]
-El presidente serbio, Aleksandar Vučić, admitió la derrota en las elecciones parlamentarias frente al movimiento liderado por estudiantes. El movimiento ya se declaró vencedor, y The Guardian cuenta que el país empieza a asimilar el resultado con la esperanza de mejorar su relación con la Unión Europea.
-
+Las urnas abrieron hoy en la mayoría del país en una votación que The Guardian califica como la más trascendental de la historia israelí. El partido Lista Árabe Unida (Ra’am) denunció ante la Comisión Central Electoral una campaña sistemática para entorpecer el voto a su favor, y asegura que la policía detuvo antes del amanecer a varios activistas en el Néguev sin motivo claro.
 [ES]
-Fuentes: BBC News, ABC News de Australia, The Guardian y DW en Español.
-
+Fuentes: The Guardian.
 [ITEM]
 [ES]
-Las protestas se expanden por Europa: vivienda, educación y costo de vida.
-
+Rusia lanza más de 280 drones sobre Ucrania mientras empieza un alto el fuego local en Oleshky.
 [ES]
-Lo que empezó en Albania, España y Francia se ha extendido a Italia, Grecia, Bélgica, Portugal y Austria, con jóvenes y estudiantes al frente. Los detonantes son locales, pero el hilo común es el costo de la vida; en Francia hubo cerca de 2.400 detenidos entre el 17 y el 18 de octubre. En España, Pedro Sánchez disolvió las Cortes y convocó elecciones anticipadas para el 29 de noviembre tras el rechazo de dos decretos de vivienda.
-
+Durante la noche Rusia disparó 16 misiles balísticos y más de 280 drones, con al menos 15 heridos en Kyiv y ataques en Chernihiv, Chernivtsi, Dnipro y Donetsk, entre otras zonas. Aun así, ambos bandos iniciaron una tregua localizada para permitir una operación humanitaria en la ciudad ocupada de Oleshky.
 [ES]
-Fuente: Emol.
-
+Fuentes: The Guardian.
 [ITEM]
 [ES]
-La IA no da ningún retorno financiero a la mayoría de las empresas, dice un economista de Apollo.
-
+Reino Unido: récord de empresas en apuros a dos días del presupuesto.
 [ES]
-Torsten Slok, economista jefe de Apollo, sostiene que fuera de las grandes tecnológicas los márgenes y los ingresos por empleado siguen planos, sin señales de mejoras de productividad por la IA. Su argumento es que la IA puede ser una gran calculadora, pero en los negocios la inteligencia es sobre todo criterio. TechCrunch aclara que Apollo fue dueña de TechCrunch.
-
+Unas 738.144 empresas británicas están en dificultades financieras «significativas», la cifra más alta en más de dos décadas según BTG, justo cuando se presiona al gobierno para que apoye al sector privado en el presupuesto del miércoles. Mientras, la oposición conservadora ridiculiza las «soluciones cotidianas» del primer ministro Andy Burnham como poco más que «pepinillos más baratos», y las ganancias de HSBC subieron un 32%, lo que reabre el debate sobre impuestos a la banca.
 [ES]
-Fuente: TechCrunch.
-
+Fuentes: The Guardian.
 [ES]
 España y Latinoamérica.
-
 [ITEM]
 [ES]
-Bukele envía tropas a Haití para liberar a soldados salvadoreños secuestrados.
-
+Por qué las elecciones intermedias de EE.UU. importan también en América Latina.
 [ES]
-El presidente de El Salvador envió un contingente a Haití tras pedir a las pandillas que liberen a los soldados retenidos, que formaban parte de una misión de la ONU. Bukele negó que los cuerpos hallados en Puerto Príncipe, según un reporte del New York Times, sean los de los cuatro soldados desaparecidos.
-
+CNN en Español parte de historias cotidianas: un camionero de Michoacán, una venezolana que trabaja de moza en Buenos Aires y una familia en Ciudad de Guatemala que sobrevive con largas jornadas y remesas. La tesis es que lo que se decida en el Congreso estadounidense termina tocando el bolsillo y las oportunidades de millones de personas en la región.
 [ES]
-Fuente: BBC News Mundo.
-
-[ITEM]
-[ES]
-Por qué las protestas no desgastan a Sheinbaum.
-
-[ES]
-Pese a las protestas casi diarias en México, el país no muestra un malestar social generalizado, y Claudia Sheinbaum sigue siendo una de las líderes más populares de la región. El análisis de BBC Mundo explora por qué las manifestaciones no se traducen en desgaste político.
-
-[ES]
-Fuente: BBC News Mundo.
-
-[ITEM]
-[ES]
-Argentina: el dinero se acaba antes que el mes.
-
-[ES]
-Una encuesta indica que casi dos de cada tres argentinos dicen que sus ingresos no les alcanzan hasta fin de mes, dato que el gobierno de Milei discute. El tema pone en el centro el choque entre las cifras macroeconómicas y la experiencia cotidiana de los hogares.
-
-[ES]
-Fuente: DW en Español.
-
-[ITEM]
-[ES]
-Chile: la agenda internacional de Kast y límites al uso de IA en la justicia.
-
-[ES]
-El presidente Kast tendrá en noviembre una agenda recargada con viajes a Madrid, Roma y Asia, en medio de un escenario global complejo. Por otra parte, el sistema de justicia chileno fija límites al uso de inteligencia artificial para evitar que reemplace decisiones de jueces y abogados, y la Corte Suprema estudia nuevas obligaciones para su personal.
-
-[ES]
-Fuente: Emol.
-
+Fuentes: CNN en Español.
 [ES]
 Mundo.
-
 [ITEM]
 [ES]
-Zelenski anuncia una reunión entre Ucrania, Rusia y Estados Unidos en noviembre.
-
+El ébola se extiende a nuevos países y la financiación no alcanza.
 [ES]
-El presidente ucraniano anunció que habrá un encuentro entre las tres partes el próximo mes. Todavía no hay detalles sobre el formato, así que conviene esperar a ver si se concreta.
-
+Ministros de salud africanos se reúnen para acordar una respuesta a casos en África occidental, central y oriental, mientras la brecha de financiación se ensancha. Según Africa Confidential, no habrá vacuna contra la variante Bundibugyo en los próximos meses.
 [ES]
-Fuente: DW en Español.
-
+Fuentes: Africa Confidential.
 [ITEM]
 [ES]
-Canadá y Estados Unidos, cerca de un acuerdo comercial.
-
+Harry Kane gana el Balón de Oro, entre un error de filtración.
 [ES]
-Un asesor de Trump dijo que ambos países están cerca de cerrar un acuerdo, días después de nuevos aranceles estadounidenses a productos canadienses. También atribuyó parte de la demora al referéndum de Alberta.
-
+Harry Kane fue el ganador masculino de 2026 en una gala en el Palladium de Londres, un final que The Guardian describe como un respiro frente a una ceremonia larga y ruidosa. Antes del evento, la web oficial publicó por error artículos con distintos ganadores (Kane, Mbappé y Yamal), y la organización ya dio explicaciones.
 [ES]
-Fuente: CP24.
-
+Fuentes: The Guardian, Goal.
 [ITEM]
 [ES]
-Cisjordania: fuerzas israelíes toman casas palestinas en Hebrón.
-
+Advierten que el gobierno de Burnham «camina dormido» hacia un desastre climático.
 [ES]
-Tras un ataque a un puesto de control, las fuerzas israelíes ocuparon viviendas palestinas en Hebrón y desplazaron a casi 2.000 personas. El texto de The Guardian lo presenta como un castigo colectivo.
-
+Grupos ecologistas dicen que decisiones pendientes sobre perforación en el Mar del Norte, ampliación de Heathrow, vehículos eléctricos y ayudas a bombas de calor podrían, sumadas, hacer inviable el objetivo de cero emisiones netas. Piden que se evalúen en conjunto y no una por una.
 [ES]
-Fuente: The Guardian.
-
-[ITEM]
-[ES]
-Kenia: al menos 24 muertos en un choque de autobús.
-
-[ES]
-Un autobús que transportaba a personas que asistían a un funeral chocó con un camión. El gobierno prometió endurecer las medidas de seguridad vial.
-
-[ES]
-Fuente: Al Jazeera.
-
-[ITEM]
-[ES]
-Sismo de magnitud 7 frente a Japón, sin alerta de tsunami.
-
-[ES]
-Un terremoto de magnitud 7 sacudió la costa de Japón. No se activó alerta de tsunami y por ahora no hay daños reportados.
-
-[ES]
-Fuente: Emol.
-
-[ITEM]
-[ES]
-ONU: el mundo superará los 1,5 grados de calentamiento.
-
-[ES]
-La ONU acepta ahora que el planeta superará el umbral de 1,5 grados, por lo que la remoción de carbono a gran escala pasa a ser necesaria. Es un cambio de tono importante en la política climática.
-
-[ES]
-Fuente: Ars Technica.
-
+Fuentes: The Guardian.
 [ES]
 Tecnología y Nicho.
-
 [ITEM]
 [ES]
-Vacuna personalizada de ARNm contra el melanoma reduce 42 por ciento la muerte o recurrencia.
-
+OpenAI anuncia tres descubrimientos en matemáticas, informática y física.
 [ES]
-Moderna y Merck informan que su vacuna personalizada de ARNm redujo en 42 por ciento el riesgo de muerte o recurrencia en melanoma. Son datos de un ensayo, así que habrá que ver su revisión y aprobación.
-
+La compañía presentó resultados sobre análisis armónico, teoría de la complejidad y teoría cuántica de campos, y dice que sus manuscritos son «datos de investigación en bruto» que necesitan ser convertidos en comprensión científica. Para eso probó tres estrategias de publicación con expertos externos como guías, entre ellas un grupo de colaboradores independientes. Uno de los preprints, que afirma que la Hipótesis del Tiempo Exponencial es falsa, encabezó Hacker News con más de 600 puntos; conviene esperar la revisión de la comunidad antes de darlo por válido.
 [ES]
-Fuente: Ars Technica.
-
+Fuentes: OpenAI, Hacker News.
 [ITEM]
 [ES]
-Google actualiza su política: tu Gmail podría usarse para publicidad.
-
+Instagram pasa del video corto a videos de hasta 90 minutos.
 [ES]
-La política revisada permite a Google usar datos de Gmail para segmentar anuncios si el usuario activa su función Personal Intelligence. Conviene revisar esa opción si usas Gmail.
-
+Tras años en que todas las plataformas, incluso LinkedIn, apostaron por el video corto, TechCrunch ve en este cambio un giro notable de Instagram. La jugada apunta directamente al terreno de YouTube, donde hoy está el dinero para los creadores.
 [ES]
-Fuente: Ars Technica.
-
+Fuentes: TechCrunch.
 [ITEM]
 [ES]
-Meta recibirá una multa de 25.000 millones de dólares en Nuevo México.
-
+Identifican un subtipo «circadiano» de depresión que afectaría a 1 de cada 4 pacientes.
 [ES]
-Meta planea apelar la multa histórica, impuesta después de que Nuevo México rechazara sumarse a un acuerdo entre varios estados. La compañía se queja de que el estado es imposible de complacer.
-
+Un estudio, destacado hoy en Hacker News, propone que una parte importante de los pacientes con depresión tiene un patrón ligado a los ritmos circadianos. Si se confirma, podría orientar tratamientos más personalizados.
 [ES]
-Fuente: Ars Technica.
-
-[ITEM]
-[ES]
-333 nodos de salida de Tor secuestrados para interceptar tráfico SSH.
-
-[ES]
-Durante tres días, atacantes comprometieron 333 nodos de salida de Tor para interceptar tráfico sensible, incluido correo en texto plano. Es un recordatorio de que el cifrado extremo a extremo importa incluso en redes de anonimato.
-
-[ES]
-Fuente: Ars Technica.
-
-[ITEM]
-[ES]
-Hacker News: el resultado de la votación de C++26.
-
-[ES]
-Entre lo más votado en Hacker News hoy está un análisis del resultado de la votación del borrador final del estándar C++26 y sus contracts. La comunidad de programadores sigue de cerca cómo queda el lenguaje.
-
-[ES]
-Fuente: Hacker News.
-
+Fuentes: ScienceAlert, Hacker News.
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
-
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
-
 [ES]
-Hay un hilo que cruza Brasil, Serbia y Europa: la política se está jugando en la calle y en las urnas con una energía joven y desconfiada de las élites. Un movimiento estudiantil que desplaza a un presidente en Serbia, protestas por vivienda que obligan a convocar elecciones en España, y a la vez una derecha que sigue ganando estados en Brasil: no es un giro en una sola dirección, sino una polarización con mucha movilización de ambos lados. Vale la pena vigilar si ese ruido se convierte en reformas concretas o solo en desgaste.
-
+Hoy se repite un patrón: las instituciones que deberían dar certezas, como una elección o un árbitro, aparecen cuestionadas mientras la tecnología avanza más rápido que los procesos para validarla. Trump dudando de la elección brasileña y OpenAI pidiendo a académicos que «expliquen» sus resultados muestran dos formas de la misma tensión: ¿quién tiene la autoridad para decir qué es verdadero y cuándo?
 [ES]
-Para ti, en el mundo hispanohablante, hay un puente claro: el costo de la vivienda y de la vida que mueve a Europa también aparece en Argentina, donde casi dos de cada tres personas dicen que el sueldo no llega a fin de mes. Si el descontento por el costo de vida es el denominador común, no sería raro ver más presión política sobre los gobiernos de la región. No es una predicción segura, pero sí un patrón que conviene tener presente.
-
+Para ti, en el mundo hispanohablante, Brasil importa por su peso económico: una disputa postelectoral prolongada podría presionar al real y, por contagio, a otras monedas y materias primas de la región. No es una predicción segura, pero vale la pena vigilar si Washington termina reconociendo el resultado y con qué tono.
 [ES]
-En lo económico, el mensaje del economista de Apollo es que la IA aún no se refleja en los márgenes de la mayoría de las empresas fuera de tecnología. Si eso persiste, podría enfriar parte del entusiasmo de los mercados, con efectos posibles sobre divisas y materias primas como el cobre o el litio, importantes para Chile y otros países de la región. Y con la ONU asumiendo que se superará 1,5 grados, los costos energéticos y climáticos seguirán entrando en las cuentas de gobiernos y hogares.
-
+Los datos británicos, con récord de empresas en apuros y bancos con ganancias altas, recuerdan que las tasas elevadas siguen repartiendo desigualmente. Si ese malestar se mantiene en economías grandes, podría traducirse en financiamiento más caro para países emergentes; es una hipótesis, no un hecho.
+[ES]
+Por último, el ébola y la guerra en Ucrania muestran que la cooperación humanitaria avanza a pedazos, con treguas locales y fondos insuficientes. Conviene mirar si los sistemas de salud y de energía en América Latina y España están preparados para choques externos que llegan cada vez más rápido.
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
-
 [ES]
-Seguimiento continuo de la hipótesis permanente: es una lectura diaria informada por la tendencia reciente del registro, no una nueva discusión completa.
-
+Seguimiento diario de la hipótesis vigente, leído a la luz de la tendencia reciente y no solo de las historias de hoy; no es una nueva argumentación completa.
 [ES]
-La hipótesis: el auge de la IA en la vida cotidiana obligará a las personas a fortalecer su voz interior y a aprender a actuar según ella, porque nadie puede ocupar por mucho tiempo el papel de líder de pensamiento: los ciclos de renovación son cada vez más cortos. Este acortamiento siempre ha sido el orden natural del cambio, y la IA quizá lo esté acelerando en lugar de causarlo. A medida que las personas desarrollen esa voz interior, se darán cuenta de que necesitan volver a colaborar con otros seres humanos, alejándose del individualismo hacia la fortaleza social inherente a la especie. El resultado a largo plazo: una cohesión social creciente. Sus subafirmaciones: a, ciclos de autoridad cada vez más cortos; b, eso empuja hacia una voz interior más fuerte; c, eso lleva a alejarse del individualismo; d, lo que conduce a más colaboración humana y cohesión social.
-
+(a) Ciclos de autoridad más cortos: señal de apoyo. OpenAI publica tres resultados a la vez y reconoce que su proceso de publicación «sigue evolucionando», e Instagram da un giro de estrategia tras años de video corto. Tras el día neutral de ayer, (a) vuelve a la racha de apoyo que domina las últimas tres semanas.
 [ES]
-Contexto reciente: en las últimas 20 entradas del registro, del 5 al 25 de octubre, a y d han acumulado señales de apoyo casi diarias, 18 y 19 respectivamente, c ha sido desafiada en 16 ocasiones por la polarización política, y b se ha mantenido mayormente neutral. Aún no existe una revisión integral previa que enmarque la lectura de hoy, y el registro es corto para hablar de tendencias firmes.
-
+(b) Voz interior: sin señal clara hoy, igual que en la mayoría de los días recientes. (c) Alejamiento del individualismo: señal en contra, otra vez. La disputa sobre la elección en Brasil, con Trump hablando de «elección amañada», refuerza bloques; es la racha larga de desafío de (c). (d) Colaboración y cohesión: señal de apoyo, en continuidad con el patrón diario: la tregua humanitaria local en Oleshky, la reunión de ministros de salud africanos por el ébola y el esquema de colaboradores externos de OpenAI apuntan a cooperación, aunque modesta.
 [ES]
-Hoy, a no tiene una señal clara, lo que corta la racha de apoyo. b recibe una señal débil de apoyo: el economista de Apollo sostiene que en los negocios la inteligencia es sobre todo criterio y que la IA no puede asumir responsabilidad ni confianza, según TechCrunch. c vuelve a ser desafiada: Bolsonaro habla de pedir anular las elecciones y la polarización brasileña persiste, según DW. d suma otro apoyo con la acción colectiva estudiantil y ciudadana en Serbia y en Europa, según BBC y Emol.
+Lectura conjunta: sigue el patrón de las semanas previas, con (a) y (d) acumulando apoyo y (c) estancado en desafío, sin que (b) se mueva. Todavía no hay una cadena que se vea conectada de principio a fin.
