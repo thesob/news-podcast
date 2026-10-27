@@ -1,0 +1,166 @@
+[EN]
+Good morning, Patricio. Here's your news brief for Tuesday, October 27th, 2026. A quick note on sources: the New York Times and Washington Post were paywalled today, so their stories came via The Guardian, El País and Al Jazeera, and the Latin American, Swedish and Norwegian coverage came through Emol, El País and the public broadcasters SVT and NRK. Nothing was left genuinely uncovered.
+[EN]
+Top Stories.
+[EN]
+OpenAI says its AI cracked three landmark problems in math, physics and computer science — overnight.
+[EN]
+In a jointly released announcement, OpenAI published model-generated proofs claiming to resolve the Exponential Time Hypothesis, shown to be false and formally verified in Lean; the existence of four-dimensional Yang–Mills theory, part of a Clay Millennium Prize problem; and Sogge's local smoothing conjecture, which also sweeps in the Kakeya and Stein restriction conjectures in all dimensions. OpenAI is careful to frame the manuscripts as raw research data that human experts must still turn into understanding, and separate academic groups led by figures like Russell Impagliazzo, Ryan Williams, David Gross and Arthur Jaffe have formed to verify or hold back the results. It's a genuinely extraordinary claim; the caution and the independent verification are the real story underneath the headline.
+[EN]
+Sources: OpenAI, Hacker News.
+[EN]
+Israel votes in what's being called its most consequential election ever.
+[EN]
+Polls are open in the first national vote since Hamas's 2023 attack, and surveys suggest the opposition bloc is leading Netanyahu's coalition — by as much as 18 seats in one poll — though analysts expect no party to win an outright majority, which would make government-formation a drawn-out fight. Strikingly, the future of Gaza is almost absent from the campaign, with the main candidates offering no real plan for the devastated Strip. First-time voters could tip the outcome.
+[EN]
+Sources: The Guardian, El País, SVT.
+[EN]
+Finland and Norway's leaders hold a rare, frank call with Putin on Ukraine as explosions hit Kyiv.
+[EN]
+Finnish President Stubb and Norwegian Prime Minister Gahr Støre spoke directly with Vladimir Putin about ending the war — an unusual Nordic opening in the stalled diplomacy — even as Reuters reported fresh explosions over Kyiv. The contact signals European leaders testing whether any negotiating track exists, with little sign yet that it does.
+[EN]
+Sources: The Guardian, NRK of Norway.
+[EN]
+AI-generated disinformation is flooding US feeds ahead of next month's midterms.
+[EN]
+Experts, including Facebook whistleblower Frances Haugen, warn that cheap, convincing AI content is slipping past moderation at scale — from a fabricated rumor about a Texas candidate being hospitalized, which mutated in Spanish-language media into a false suicide claim, to AI deepfake ads and viral lies about campaign staff that even a federal agency amplified. The backdrop is platforms having gutted trust-and-safety teams and leaned on AI and crowdsourced Community Notes instead of human reviewers. Haugen's point is that the fix lies in the systems of distribution, not in chasing individual posts.
+[EN]
+Sources: The Guardian.
+[EN]
+HSBC profits jump 32%, reigniting the UK bank-tax debate days before the budget.
+[EN]
+The bank's surging earnings landed just as the government floats modest everyday fixes and faces record UK business-distress figures, handing critics fresh ammunition to demand a levy on bank profits. It's a neat snapshot of the budget bind: big-bank windfalls on one side, strained households and firms on the other.
+[EN]
+Sources: The Guardian.
+[ES]
+España y América Latina.
+[ES]
+Kast reconoce un "error" por la rebaja de penas y blinda a su ministro Rabat.
+[ES]
+El Presidente admitió públicamente una equivocación en torno a un proyecto de rebaja de penas y anunció su suspensión, mientras respalda al cuestionado ministro Rabat, que activó un control de daños con reuniones parlamentarias y una agenda de fast-track legislativo y rastreo de condenados. Hasta en la propia derecha hubo críticas: Diego Schalper, de Renovación Nacional, calificó el episodio como un error político para el oficialismo. Es el primer tropiezo político visible del nuevo gobierno, y llega mientras la seguridad sigue siendo su bandera central.
+[ES]
+Fuentes: Emol.
+[ES]
+El "efecto Lula" golpea a los mercados chilenos.
+[ES]
+Tras la confirmación de la victoria de Lula en Brasil y el rechazo de la justicia electoral a anular los comicios, la Bolsa de São Paulo llegó a caer con fuerza y el real se hundió, arrastrando también a las acciones chilenas. En paralelo, el Grupo de Política Monetaria recomendó mantener la tasa del Banco Central en 4,5% pese a la debilidad de la economía, y las AFP tuvieron su primer cara a cara con el Congreso entre duras críticas. Para un mercado tan expuesto a la región como el chileno, el contagio brasileño es la señal a vigilar.
+[ES]
+Fuentes: Emol, El País.
+[ES]
+María Corina Machado y la presión de Estados Unidos sobre Venezuela.
+[ES]
+La líder opositora venezolana, tras meses de advertencias sobre su regreso al país, vuelve al centro de la escena mientras Washington endurece el tono: el secretario de Estado Marco Rubio ha planteado que Venezuela debe cambiar su infraestructura electoral. El pulso entre la oposición, el chavismo y una administración estadounidense cada vez más intervencionista marca el momento más tenso del ciclo venezolano reciente.
+[ES]
+Fuentes: El País, SVT.
+[ES]
+Santander, BBVA y Sabadell relanzan la banca personal para frenar a los neobancos.
+[ES]
+Los grandes bancos españoles están rearmando su oferta de banca personal para retener a los clientes con entre 100.000 y 500.000 euros en activos, un segmento que los neobancos les están disputando con fuerza. Es una señal de cómo la presión digital está reconfigurando incluso la banca tradicional más rentable.
+[ES]
+Fuentes: Expansión.
+[EN]
+US and International.
+[EN]
+Comey hit with a third set of charges under the Trump administration.
+[EN]
+Former FBI director James Comey faces new charges tied to the alleged unlawful disclosure of national security information — the third such move against him. Critics see a pattern of the justice system being turned against perceived adversaries; supporters frame it as accountability. Either way, it deepens the confrontation between the administration and the institutions Comey once led.
+[EN]
+Sources: Al Jazeera.
+[EN]
+The White House is reportedly backing Viktor Orbán to lead the UN.
+[EN]
+According to the Wall Street Journal, Washington is pushing Hungary's former prime minister to succeed António Guterres as Secretary-General — a candidacy that would almost certainly draw a European veto. The mere floating of Orbán's name is a signpost of how contested multilateral institutions have become.
+[EN]
+Sources: El País, citing the Wall Street Journal.
+[EN]
+A 3,000-year-old Norwegian glacier has vanished entirely.
+[EN]
+Researchers describe the complete disappearance of a millennia-old glacier as quite dramatic, a stark marker of accelerating warming, even as southern Norway was battered by storms, flooding in Bergen's historic Bryggen quarter and power outages. The two stories together — slow loss and sudden violence — capture the texture of a changing climate.
+[EN]
+Sources: NRK of Norway.
+[EN]
+Rights groups fear Iranian athletes face execution after a mountaineer is hanged.
+[EN]
+Several Iranian athletes are reportedly on death row, with a mountaineer the latest to be executed, prompting alarm from human-rights organizations. It's a grim reminder of the Iranian state's continued use of capital punishment against public figures.
+[EN]
+Sources: The Guardian.
+[EN]
+Berlin's incoming government plans to expropriate 160,000 homes.
+[EN]
+The radical-left Die Linke is set to govern Berlin on a platform that includes expropriating 160,000 apartments from large corporate landlords — one of Europe's boldest experiments in tackling a housing crisis through public ownership. Watch whether it survives the courts.
+[EN]
+Sources: El País.
+[EN]
+Tech and Niche.
+[EN]
+Cloudflare patched a cross-request data leak in an AI model running on its edge.
+[EN]
+A bug exposed key-value cache data across requests in the GLM-5.3 model served via Workers AI, meaning fragments of one user's session could surface in another's — 155 responses were affected before remediation. It's a pointed reminder that the rush to serve AI models at scale is opening genuinely new classes of security bugs.
+[EN]
+Sources: Cloudflare, Hacker News.
+[EN]
+Firefox is courting users with a nostalgic, anti-tracking and anti-AI campaign.
+[EN]
+Mozilla's new come-back-to-Firefox push leans on late-2000s internet personalities and memes, positioning the browser around privacy and a deliberate rejection of shoved-in AI features. It's a bet that the browser that leaves you alone is now a selling point.
+[EN]
+Sources: Mashable.
+[EN]
+Gen Z is pushing back on big tech with digital-detox tools.
+[EN]
+A growing number of young people are turning to detox apps and stripped-down dumbphones to claw back attention from social media, with one describing how their social life completely plummeted before they reset their relationship with their phone. The irony of using apps to escape apps aside, it reflects a real generational re-think about who's in control.
+[EN]
+Sources: The Guardian.
+[EN]
+The oldest GUI app that still runs on Windows 11.
+[EN]
+A developer traced the oldest graphical Windows application that still launches on the latest operating system — a small monument to Microsoft's decades-long obsession with backward compatibility. A fun, nerdy reminder that under the shiny surface, a lot of very old code is still quietly running.
+[EN]
+Sources: the enlyth blog, Hacker News.
+[SV]
+Sverige.
+[SV]
+Regeringsbildningen: S håller korten tätt intill bröstet.
+[SV]
+Det är fortfarande hemligt vilka partier Socialdemokraterna vill regera tillsammans med, och Centerpartiets ledare har sagt nej till en renodlad mittenregering, vilket krånglar till pusslet. Dragkampen om vem som bildar regering fortsätter alltså utan tydligt facit, och väljarna får vänta på besked.
+[SV]
+Källa: SVT.
+[SV]
+AI-genererade matbilder väcker ilska på nätet.
+[SV]
+Restauranger som lockar gäster med aptitretande men AI-genererade bilder av sina rätter får nu hård kritik på sociala medier, där besökare känner sig lurade när verkligheten inte matchar bilden. Det är en liten men talande strid om var gränsen går för AI i vardagen.
+[SV]
+Källa: SVT.
+[SV]
+Metallicas James Hetfield vill vara opolitisk — och får kritik för det.
+[SV]
+Frontmannen säger sig vilja hålla musiken fri från politik, men i ett polariserat klimat möts även neutralitet av motstånd från dem som menar att tystnad i sig är ett ställningstagande. Debatten säger nästan mer om samtiden än om bandet.
+[SV]
+Källa: SVT.
+[SV]
+Nederländerna hoppar av Eurovision 2027 på grund av Israels deltagande.
+[SV]
+Nederländerna meddelar att landet drar sig ur nästa års Eurovision om Israel får delta, vilket spär på en redan laddad kulturpolitisk konflikt kring tävlingen. Frågan om var kultur slutar och politik börjar lär följa Eurovision ett tag till.
+[SV]
+Källa: SVT.
+[EN]
+Connecting the Dots.
+[EN]
+This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN]
+Patricio, the thread I can't stop pulling today is authority — who gets to say what's true, and how fast that right is changing hands. OpenAI claiming to settle problems that have resisted the best human minds for decades, and doing it faster than anyone can check the work, sits at one end. AI-generated lies swamping US election feeds, and even AI-generated photos of restaurant food fooling Swedish diners, sit at the other. Same underlying shift: the cost of producing something that looks authoritative — a proof, a news story, a dinner — has collapsed, and the slow human work of verifying it hasn't. Notice that the serious response in both the math and the disinformation stories is identical: don't trust the output, trust the process and the people checking it. That's a world that rewards judgment over credulity, which is worth internalizing.
+[EN]
+For you in Chile specifically, the market story is the one with teeth this week. The Lula effect dragging down the real and spilling into Chilean equities is a reminder that Chile's financial weather is still substantially made in Brasília and Washington, not just Santiago. With the Banco Central holding at 4.5% despite a soft economy, the peso is caught between a weak domestic picture and regional contagion — and copper, your perennial bellwether, will feel any wobble in global risk appetite that a US-midterm disinformation mess or an Israeli government crisis could feed. If you have peso-denominated exposure or are thinking about dollar timing, this is a watch, don't lunge moment.
+[EN]
+The Kast government's rebaja de penas stumble is small in isolation but worth filing. A new administration whose entire brand is security admitting an error on exactly that terrain, and being criticized from inside its own coalition, tells you the honeymoon math is already tightening. How Kast handles the 2027 budget fight from here — the spending priorities he's staked on employment, security and reconstruction — will matter more to your daily cost of living than any single headline.
+[EN]
+Zooming out, there's a quieter through-line between the glacier that simply vanished in Norway and the storms flooding Bergen: the climate stories are no longer about distant projections but about things that are already gone or already breaking. For a country like Chile, where water, hydro and mining are all climate-exposed, that's not abstract. Worth watching — not a confident prediction — is whether the next year brings more of these it's-already-happened climate markers into the economic conversation, because that's when they start moving budgets and insurance premiums, not just consciences.
+[EN]
+Hypothesis Watch.
+[EN]
+An ongoing, trend-aware watch on your standing hypothesis about AI, internal voice and social cohesion — a daily scan read against the recent log, not a full re-argument of the whole chain.
+[EN]
+Today is a strong day for sub-claim a — shrinking thought-leadership and authority cycles. OpenAI claiming to crack the Exponential Time Hypothesis, Yang–Mills existence and the Kakeya conjecture essentially overnight is almost a caricature of the thesis: authority that took generations to build, compressed into a press release, with the human experts reduced, for now, to verifiers. Add the AI-disinformation flood eroding the authority of shared facts and the restaurant-photo deception, and the who-can-you-trust, and-for-how-long cycle looks shorter than ever. This extends a very long unbroken run of supporting signals for a.
+[EN]
+Sub-claim b — individuals pushed toward a stronger internal voice — also gets real support today, and from an unusually clean source. The entire architecture of the OpenAI announcement is an admission that the machine's output is raw data and that trained human judgment is what turns it into knowledge; separate math, computer-science and physics communities are organizing precisely to scrutinize it rather than accept it. Alongside Gen Z reaching for digital-detox tools and Firefox selling we'll leave you alone, the signal is people reasserting their own discernment against automated noise. Call it continued support for b.
+[EN]
+Sub-claims c and d stay where they've sat for weeks: neutral. There's a faint positive for d in the way academic communities are spontaneously banding together to verify the AI proofs — a genuinely collaborative, human-scale response — but it's offset by Israeli political polarization, the grinding Ukraine war, and the fragmentation that disinformation feeds. Europe's protests and Serbia's student-driven upset remain collective but issue-based, not a cultural turn away from individualism. So no strong signal either way for the back half of the chain today — the familiar pattern where the evidence keeps piling up at the first two links and barely propagates to the last two.
