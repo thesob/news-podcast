@@ -1,115 +1,167 @@
 [SECTION intro]
 [ES]
-Buenos días. Este es tu resumen diario del 27 de octubre de 2026.
-[ES]
-Nota sobre las fuentes: hoy la cobertura vino sobre todo del proxy de titulares (Guardian, BBC News Mundo, CNN en Español, TechCrunch y otros), de la API de Hacker News y de lecturas por /extract. No pude revisar directamente a tiempo NYT, Washington Post, Reuters, AP, El País, Emol, La Tercera, DW, Xinhua ni Ars Technica, así que la edición de hoy es más corta de lo habitual.
+Resumen diario, miércoles 28 de octubre de 2026.
+
+Nota sobre las fuentes: hoy no pude leer directamente DW en Español, Ars Technica, Reuters, AP, The New York Times, The Washington Post, Xinhua, emol, La Tercera ni El País. Cubrí esos huecos con BBC Mundo, RTVE, BioBioChile, Infobae, La Nación y Cinco Días, además de Al Jazeera, The Guardian y TechCrunch.
+
 [SECTION news]
 [ES]
 Titulares.
+
 [ITEM]
 [ES]
-Lula gana la segunda vuelta en Brasil y Trump habla de elección «amañada».
+Serbia: la lista estudiantil derrota a Vučić y la televisión pública pide perdón.
+
 [ES]
-Con el 100% de los votos escrutados, Lula da Silva obtuvo el 51,7% frente al 48,2% de Flávio Bolsonaro, y se convirtió en el primer candidato desde el regreso de la democracia en Brasil que, tras perder en primera vuelta, remonta y gana el balotaje. Donald Trump dijo que le pareció «otra elección amañada», aunque no ofreció argumentos concretos y añadió que «no está gobernando Brasil». Según medios cubanos y CNN en Español, Washington habría aplazado un comunicado de reconocimiento, y Flávio Bolsonaro dice que la policía le pidió entregar sus pasaportes y le prohibió salir del país.
+Aleksandar Vučić reconoció su derrota ante el movimiento liderado por estudiantes en las elecciones parlamentarias, un giro político de enorme calado en Serbia. Tras el resultado, la radiotelevisión pública serbia pidió perdón por haber manipulado su cobertura a favor del presidente. Es una señal de cómo una protesta ciudadana prolongada puede terminar cambiando el mapa de poder en las urnas.
+
 [ES]
-Fuentes: BBC News Mundo, CNN en Español, Escambray, Times of India.
+Fuentes: RTVE y Reuters.
+
 [ITEM]
 [ES]
-Israel vota en unas elecciones que se describen como las más decisivas de su historia.
+Flávio Bolsonaro llega a Estados Unidos en medio de una investigación en Brasil.
+
 [ES]
-Las urnas abrieron hoy en la mayoría del país en una votación que The Guardian califica como la más trascendental de la historia israelí. El partido Lista Árabe Unida (Ra’am) denunció ante la Comisión Central Electoral una campaña sistemática para entorpecer el voto a su favor, y asegura que la policía detuvo antes del amanecer a varios activistas en el Néguev sin motivo claro.
+Flávio Bolsonaro, que perdió la elección presidencial frente a Lula, llegó a Estados Unidos tras horas de incertidumbre sobre su paradero. El Departamento de Estado había dicho que le daría visa a él y a su familia, mientras el juez Alexandre de Moraes le había ordenado entregar sus pasaportes en una investigación por lavado de dinero ligada al sector de apuestas. Bolsonaro sostiene que la orden fue injustificada y coincidió con la elección; Lula calificó su salida de vergonzosa.
+
 [ES]
-Fuentes: The Guardian.
+Fuente: BBC News Mundo.
+
 [ITEM]
 [ES]
-Rusia lanza más de 280 drones sobre Ucrania mientras empieza un alto el fuego local en Oleshky.
+James Comey enfrenta un tercer conjunto de cargos penales.
+
 [ES]
-Durante la noche Rusia disparó 16 misiles balísticos y más de 280 drones, con al menos 15 heridos en Kyiv y ataques en Chernihiv, Chernivtsi, Dnipro y Donetsk, entre otras zonas. Aun así, ambos bandos iniciaron una tregua localizada para permitir una operación humanitaria en la ciudad ocupada de Oleshky.
+Los fiscales acusaron al exdirector del FBI de dos cargos por difundir ilegalmente información de defensa nacional, los terceros que el gobierno de Trump busca contra él. La acusación sostiene que Comey instruyó a colegas a filtrar a un periodista información sobre una nota de 2016 del New York Times. Se presentó mediante una criminal information, que evita al gran jurado; Comey niega las acusaciones y pidió desestimar el caso.
+
 [ES]
-Fuentes: The Guardian.
+Fuente: Al Jazeera.
+
 [ITEM]
 [ES]
-Reino Unido: récord de empresas en apuros a dos días del presupuesto.
+Hackers explotan fallos graves en PHP, descubiertos con ayuda de IA.
+
 [ES]
-Unas 738.144 empresas británicas están en dificultades financieras «significativas», la cifra más alta en más de dos décadas según BTG, justo cuando se presiona al gobierno para que apoye al sector privado en el presupuesto del miércoles. Mientras, la oposición conservadora ridiculiza las «soluciones cotidianas» del primer ministro Andy Burnham como poco más que «pepinillos más baratos», y las ganancias de HSBC subieron un 32%, lo que reabre el debate sobre impuestos a la banca.
+La agencia de ciberseguridad CISA confirmó que se están explotando activamente dos fallos críticos en PHP, que permiten a atacantes externos tomar control de servidores sin credenciales. Las agencias federales tienen tres días para aplicar los parches, publicados menos de una semana antes. Los fallos llevaban años sin corregirse porque se creía que no había forma práctica de explotarlos; investigadores de Calif habrían creado un exploit funcional con ayuda de IA.
+
 [ES]
-Fuentes: The Guardian.
+Fuente: TechCrunch.
+
 [ES]
 España y Latinoamérica.
+
 [ITEM]
 [ES]
-Por qué las elecciones intermedias de EE.UU. importan también en América Latina.
+Chile: el Banco Central mantiene la tasa en 4,5% y advierte más riesgos de inflación.
+
 [ES]
-CNN en Español parte de historias cotidianas: un camionero de Michoacán, una venezolana que trabaja de moza en Buenos Aires y una familia en Ciudad de Guatemala que sobrevive con largas jornadas y remesas. La tesis es que lo que se decida en el Congreso estadounidense termina tocando el bolsillo y las oportunidades de millones de personas en la región.
+El Banco Central acordó por unanimidad mantener su tasa de política en 4,5%, pero avisó que los riesgos para la inflación han aumentado. Los precios de energía y alimentos, empujados por tensiones en Medio Oriente y un El Niño inusualmente fuerte, son la principal preocupación, y el petróleo ha subido cerca de 25% desde septiembre. La próxima reunión será el 15 de diciembre y la meta sigue siendo 3% en dos años.
+
 [ES]
-Fuentes: CNN en Español.
+Fuente: BioBioChile.
+
+[ITEM]
+[ES]
+Argentina: el Banco Central frena sus compras de divisas y el FMI avanza con la revisión.
+
+[ES]
+Por primera vez en el año, el BCRA no compró dólares por dos ruedas seguidas, tras una racha de 19 días comprando. El dólar mayorista bajó a 1.538 pesos y las reservas subieron a unos 50.580 millones de dólares, en un clima regional tenso tras la segunda vuelta en Brasil, que debilitó al real. Por otro lado, el FMI aprobó a nivel técnico la tercera revisión del acuerdo con Argentina; falta el visto bueno del directorio para liberar unos 900 millones de dólares.
+
+[ES]
+Fuentes: Infobae y La Nación.
+
+[ITEM]
+[ES]
+Ferrovial crece 7,1% en ventas gracias a las autopistas de Estados Unidos.
+
+[ES]
+La constructora española informó un aumento de 7,1% en ventas hasta el tercer trimestre y una mejora de su rentabilidad. Busca más proyectos de autopistas en Estados Unidos tras ganar dos contratos en carreteras interestatales.
+
+[ES]
+Fuente: Cinco Días, de El País.
+
 [ES]
 Mundo.
+
 [ITEM]
 [ES]
-El ébola se extiende a nuevos países y la financiación no alcanza.
+Desinformación generada con IA inunda las redes antes de las legislativas de Estados Unidos.
+
 [ES]
-Ministros de salud africanos se reúnen para acordar una respuesta a casos en África occidental, central y oriental, mientras la brecha de financiación se ensancha. Según Africa Confidential, no habrá vacuna contra la variante Bundibugyo en los próximos meses.
+Expertos advierten que la desinformación creada con IA satura las redes antes de las elecciones de medio mandato de noviembre, y parte logra pasar la moderación. Las plataformas han reducido sus equipos de confianza y seguridad y dependen más de la IA, lo que deja brechas, sobre todo en contenido en otros idiomas. Un ejemplo: un rumor falso sobre el candidato texano James Talarico mutó en una falsa acusación de suicidio en medios en español.
+
 [ES]
-Fuentes: Africa Confidential.
+Fuente: The Guardian.
+
 [ITEM]
 [ES]
-Harry Kane gana el Balón de Oro, entre un error de filtración.
+La generación Z recupera su atención con apps de desintoxicación digital.
+
 [ES]
-Harry Kane fue el ganador masculino de 2026 en una gala en el Palladium de Londres, un final que The Guardian describe como un respiro frente a una ceremonia larga y ruidosa. Antes del evento, la web oficial publicó por error artículos con distintos ganadores (Kane, Mbappé y Yamal), y la organización ya dio explicaciones.
+Cada vez más jóvenes rechazan el dominio de las grandes tecnológicas sobre su atención, con apps como Opal, que pide resolver problemas de matemáticas antes de reabrir aplicaciones distractoras, o teléfonos minimalistas como el Light Phone. La industria de la desintoxicación digital vale cerca de mil millones de dólares y podría llegar a unos ocho mil millones en 2035. También crece Pie, una app que propone encuentros presenciales en lugar de redes en línea.
+
 [ES]
-Fuentes: The Guardian, Goal.
-[ITEM]
-[ES]
-Advierten que el gobierno de Burnham «camina dormido» hacia un desastre climático.
-[ES]
-Grupos ecologistas dicen que decisiones pendientes sobre perforación en el Mar del Norte, ampliación de Heathrow, vehículos eléctricos y ayudas a bombas de calor podrían, sumadas, hacer inviable el objetivo de cero emisiones netas. Piden que se evalúen en conjunto y no una por una.
-[ES]
-Fuentes: The Guardian.
+Fuente: The Guardian.
+
 [ES]
 Tecnología y Nicho.
+
 [ITEM]
 [ES]
-OpenAI anuncia tres descubrimientos en matemáticas, informática y física.
+Un director de IA de Meta se va para crear un rival de Office y Google Workspace.
+
 [ES]
-La compañía presentó resultados sobre análisis armónico, teoría de la complejidad y teoría cuántica de campos, y dice que sus manuscritos son «datos de investigación en bruto» que necesitan ser convertidos en comprensión científica. Para eso probó tres estrategias de publicación con expertos externos como guías, entre ellas un grupo de colaboradores independientes. Uno de los preprints, que afirma que la Hipótesis del Tiempo Exponencial es falsa, encabezó Hacker News con más de 600 puntos; conviene esperar la revisión de la comunidad antes de darlo por válido.
+Rohit Patel, tras ocho años en Meta en evaluación de IA y aprendizaje por refuerzo, fundó Ndoc, que reúne presentaciones, análisis y datos y código en un mismo espacio y deja ver los scripts detrás de cada documento. Es un equipo de tres personas sin financiación externa que planea abrir un formato universal de archivo y lanzar una beta en las próximas semanas, frente a rivales como OpenAI, Anthropic y Google.
+
 [ES]
-Fuentes: OpenAI, Hacker News.
+Fuente: TechCrunch.
+
 [ITEM]
 [ES]
-Instagram pasa del video corto a videos de hasta 90 minutos.
+Genie 4 de DeepMind genera mundos interactivos con sonido en tiempo real.
+
 [ES]
-Tras años en que todas las plataformas, incluso LinkedIn, apostaron por el video corto, TechCrunch ve en este cambio un giro notable de Instagram. La jugada apunta directamente al terreno de YouTube, donde hoy está el dinero para los creadores.
+Google DeepMind presentó Genie 4, un modelo de mundos que crea simulaciones interactivas con sonido sincronizado, incluidos ambiente, música y diálogos. Los modelos Gemini ayudan a mantener la coherencia y permiten dirigir las escenas con texto, con física y movimientos más realistas. Está en vista previa para probadores seleccionados y aún sufre deriva visual en sesiones largas; fue de lo más votado en Hacker News.
+
 [ES]
-Fuentes: TechCrunch.
+Fuentes: Google DeepMind y Hacker News.
+
 [ITEM]
 [ES]
-Identifican un subtipo «circadiano» de depresión que afectaría a 1 de cada 4 pacientes.
+Apple presenta el MacBook Pro de 14 pulgadas con chip M6.
+
 [ES]
-Un estudio, destacado hoy en Hacker News, propone que una parte importante de los pacientes con depresión tiene un patrón ligado a los ritmos circadianos. Si se confirma, podría orientar tratamientos más personalizados.
+Apple lanzó un MacBook Pro de 14 pulgadas con el nuevo chip M6 desde 1.999 dólares, con cerca de un día de batería. El M6 también llega a un iMac renovado desde 1.499 dólares, con mejoras en gráficos e IA frente al M5. La preventa abre el 28 de octubre y salen a la venta el 6 de noviembre.
+
 [ES]
-Fuentes: ScienceAlert, Hacker News.
+Fuente: TechCrunch.
+
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
+
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
 [ES]
-Hoy se repite un patrón: las instituciones que deberían dar certezas, como una elección o un árbitro, aparecen cuestionadas mientras la tecnología avanza más rápido que los procesos para validarla. Trump dudando de la elección brasileña y OpenAI pidiendo a académicos que «expliquen» sus resultados muestran dos formas de la misma tensión: ¿quién tiene la autoridad para decir qué es verdadero y cuándo?
+Hay un hilo que une al PHP vulnerado con ayuda de IA, la desinformación electoral automatizada y los lanzamientos de Genie 4 y del chip M6: la capacidad técnica avanza más rápido que nuestra capacidad de verificarla y gobernarla. Para ti, que consumes noticias en español, el riesgo es concreto: la desinformación se filtra más fácil en idiomas distintos del inglés, donde la moderación es más débil. Vale la pena desconfiar más de lo que circula en redes en vísperas de elecciones, también en la región.
+
 [ES]
-Para ti, en el mundo hispanohablante, Brasil importa por su peso económico: una disputa postelectoral prolongada podría presionar al real y, por contagio, a otras monedas y materias primas de la región. No es una predicción segura, pero vale la pena vigilar si Washington termina reconociendo el resultado y con qué tono.
+Al mismo tiempo, aparecen contrapesos humanos: jóvenes que reducen su dependencia del teléfono, estudiantes serbios que lograron desplazar a un gobierno y una televisión pública que se disculpa. No es una predicción segura, pero sugiere que la presión social puede reaccionar cuando la manipulación se vuelve evidente.
+
 [ES]
-Los datos británicos, con récord de empresas en apuros y bancos con ganancias altas, recuerdan que las tasas elevadas siguen repartiendo desigualmente. Si ese malestar se mantiene en economías grandes, podría traducirse en financiamiento más caro para países emergentes; es una hipótesis, no un hecho.
-[ES]
-Por último, el ébola y la guerra en Ucrania muestran que la cooperación humanitaria avanza a pedazos, con treguas locales y fondos insuficientes. Conviene mirar si los sistemas de salud y de energía en América Latina y España están preparados para choques externos que llegan cada vez más rápido.
+En lo económico, el Banco Central de Chile menciona un petróleo que sube cerca de 25% desde septiembre y un El Niño fuerte, mientras en Argentina el real brasileño más débil y el pulso del dólar mayorista marcan el ánimo. Si la energía y los alimentos siguen caros, podrías ver tasas altas por más tiempo y monedas regionales sensibles a Brasil; no es una predicción segura, pero vale la pena vigilar los costos de combustible, los alimentos y las deudas en dólares.
+
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
+
 [ES]
-Seguimiento diario de la hipótesis vigente, leído a la luz de la tendencia reciente y no solo de las historias de hoy; no es una nueva argumentación completa.
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente, no una nueva argumentación completa.
+
 [ES]
-(a) Ciclos de autoridad más cortos: señal de apoyo. OpenAI publica tres resultados a la vez y reconoce que su proceso de publicación «sigue evolucionando», e Instagram da un giro de estrategia tras años de video corto. Tras el día neutral de ayer, (a) vuelve a la racha de apoyo que domina las últimas tres semanas.
+Hoy hay señal de apoyo para (a): Genie 4, el MacBook Pro y iMac con M6 y la salida de un director de IA de Meta para fundar Ndoc ocurrieron el mismo día, según Google DeepMind y TechCrunch. En el registro reciente, (a) apoya en 18 de 21 días, y hoy retoma el apoyo tras un día neutral. Para (b), el reportaje de The Guardian sobre jóvenes que limitan sus apps y buscan reconectar con su atención es el segundo día seguido con apoyo, algo nuevo en un registro mayormente neutral.
+
 [ES]
-(b) Voz interior: sin señal clara hoy, igual que en la mayoría de los días recientes. (c) Alejamiento del individualismo: señal en contra, otra vez. La disputa sobre la elección en Brasil, con Trump hablando de «elección amañada», refuerza bloques; es la racha larga de desafío de (c). (d) Colaboración y cohesión: señal de apoyo, en continuidad con el patrón diario: la tregua humanitaria local en Oleshky, la reunión de ministros de salud africanos por el ébola y el esquema de colaboradores externos de OpenAI apuntan a cooperación, aunque modesta.
-[ES]
-Lectura conjunta: sigue el patrón de las semanas previas, con (a) y (d) acumulando apoyo y (c) estancado en desafío, sin que (b) se mueva. Todavía no hay una cadena que se vea conectada de principio a fin.
+Para (c) la señal sigue en contra: Flávio Bolsonaro sale de Brasil en plena investigación y el caso Comey alimentan la polarización, según BBC Mundo y Al Jazeera; (c) lleva 17 de 21 días en desafío. Para (d), la victoria de la lista estudiantil en Serbia y los encuentros presenciales de Pie apoyan la idea de cohesión, según RTVE; (d) suma 20 días de apoyo en 21. Aún no existe una revisión integral previa.
