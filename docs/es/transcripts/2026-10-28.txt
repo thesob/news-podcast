@@ -1,0 +1,151 @@
+[ES]
+Resumen diario, miércoles 28 de octubre de 2026.
+
+Nota sobre las fuentes: hoy no pude leer directamente DW en Español, Ars Technica, Reuters, AP, The New York Times, The Washington Post, Xinhua, emol, La Tercera ni El País. Cubrí esos huecos con BBC Mundo, RTVE, BioBioChile, Infobae, La Nación y Cinco Días, además de Al Jazeera, The Guardian y TechCrunch.
+
+[ES]
+Titulares.
+
+[ES]
+Serbia: la lista estudiantil derrota a Vučić y la televisión pública pide perdón.
+
+[ES]
+Aleksandar Vučić reconoció su derrota ante el movimiento liderado por estudiantes en las elecciones parlamentarias, un giro político de enorme calado en Serbia. Tras el resultado, la radiotelevisión pública serbia pidió perdón por haber manipulado su cobertura a favor del presidente. Es una señal de cómo una protesta ciudadana prolongada puede terminar cambiando el mapa de poder en las urnas.
+
+[ES]
+Fuentes: RTVE y Reuters.
+
+[ES]
+Flávio Bolsonaro llega a Estados Unidos en medio de una investigación en Brasil.
+
+[ES]
+Flávio Bolsonaro, que perdió la elección presidencial frente a Lula, llegó a Estados Unidos tras horas de incertidumbre sobre su paradero. El Departamento de Estado había dicho que le daría visa a él y a su familia, mientras el juez Alexandre de Moraes le había ordenado entregar sus pasaportes en una investigación por lavado de dinero ligada al sector de apuestas. Bolsonaro sostiene que la orden fue injustificada y coincidió con la elección; Lula calificó su salida de vergonzosa.
+
+[ES]
+Fuente: BBC News Mundo.
+
+[ES]
+James Comey enfrenta un tercer conjunto de cargos penales.
+
+[ES]
+Los fiscales acusaron al exdirector del FBI de dos cargos por difundir ilegalmente información de defensa nacional, los terceros que el gobierno de Trump busca contra él. La acusación sostiene que Comey instruyó a colegas a filtrar a un periodista información sobre una nota de 2016 del New York Times. Se presentó mediante una criminal information, que evita al gran jurado; Comey niega las acusaciones y pidió desestimar el caso.
+
+[ES]
+Fuente: Al Jazeera.
+
+[ES]
+Hackers explotan fallos graves en PHP, descubiertos con ayuda de IA.
+
+[ES]
+La agencia de ciberseguridad CISA confirmó que se están explotando activamente dos fallos críticos en PHP, que permiten a atacantes externos tomar control de servidores sin credenciales. Las agencias federales tienen tres días para aplicar los parches, publicados menos de una semana antes. Los fallos llevaban años sin corregirse porque se creía que no había forma práctica de explotarlos; investigadores de Calif habrían creado un exploit funcional con ayuda de IA.
+
+[ES]
+Fuente: TechCrunch.
+
+[ES]
+España y Latinoamérica.
+
+[ES]
+Chile: el Banco Central mantiene la tasa en 4,5% y advierte más riesgos de inflación.
+
+[ES]
+El Banco Central acordó por unanimidad mantener su tasa de política en 4,5%, pero avisó que los riesgos para la inflación han aumentado. Los precios de energía y alimentos, empujados por tensiones en Medio Oriente y un El Niño inusualmente fuerte, son la principal preocupación, y el petróleo ha subido cerca de 25% desde septiembre. La próxima reunión será el 15 de diciembre y la meta sigue siendo 3% en dos años.
+
+[ES]
+Fuente: BioBioChile.
+
+[ES]
+Argentina: el Banco Central frena sus compras de divisas y el FMI avanza con la revisión.
+
+[ES]
+Por primera vez en el año, el BCRA no compró dólares por dos ruedas seguidas, tras una racha de 19 días comprando. El dólar mayorista bajó a 1.538 pesos y las reservas subieron a unos 50.580 millones de dólares, en un clima regional tenso tras la segunda vuelta en Brasil, que debilitó al real. Por otro lado, el FMI aprobó a nivel técnico la tercera revisión del acuerdo con Argentina; falta el visto bueno del directorio para liberar unos 900 millones de dólares.
+
+[ES]
+Fuentes: Infobae y La Nación.
+
+[ES]
+Ferrovial crece 7,1% en ventas gracias a las autopistas de Estados Unidos.
+
+[ES]
+La constructora española informó un aumento de 7,1% en ventas hasta el tercer trimestre y una mejora de su rentabilidad. Busca más proyectos de autopistas en Estados Unidos tras ganar dos contratos en carreteras interestatales.
+
+[ES]
+Fuente: Cinco Días, de El País.
+
+[ES]
+Mundo.
+
+[ES]
+Desinformación generada con IA inunda las redes antes de las legislativas de Estados Unidos.
+
+[ES]
+Expertos advierten que la desinformación creada con IA satura las redes antes de las elecciones de medio mandato de noviembre, y parte logra pasar la moderación. Las plataformas han reducido sus equipos de confianza y seguridad y dependen más de la IA, lo que deja brechas, sobre todo en contenido en otros idiomas. Un ejemplo: un rumor falso sobre el candidato texano James Talarico mutó en una falsa acusación de suicidio en medios en español.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+La generación Z recupera su atención con apps de desintoxicación digital.
+
+[ES]
+Cada vez más jóvenes rechazan el dominio de las grandes tecnológicas sobre su atención, con apps como Opal, que pide resolver problemas de matemáticas antes de reabrir aplicaciones distractoras, o teléfonos minimalistas como el Light Phone. La industria de la desintoxicación digital vale cerca de mil millones de dólares y podría llegar a unos ocho mil millones en 2035. También crece Pie, una app que propone encuentros presenciales en lugar de redes en línea.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Tecnología y Nicho.
+
+[ES]
+Un director de IA de Meta se va para crear un rival de Office y Google Workspace.
+
+[ES]
+Rohit Patel, tras ocho años en Meta en evaluación de IA y aprendizaje por refuerzo, fundó Ndoc, que reúne presentaciones, análisis y datos y código en un mismo espacio y deja ver los scripts detrás de cada documento. Es un equipo de tres personas sin financiación externa que planea abrir un formato universal de archivo y lanzar una beta en las próximas semanas, frente a rivales como OpenAI, Anthropic y Google.
+
+[ES]
+Fuente: TechCrunch.
+
+[ES]
+Genie 4 de DeepMind genera mundos interactivos con sonido en tiempo real.
+
+[ES]
+Google DeepMind presentó Genie 4, un modelo de mundos que crea simulaciones interactivas con sonido sincronizado, incluidos ambiente, música y diálogos. Los modelos Gemini ayudan a mantener la coherencia y permiten dirigir las escenas con texto, con física y movimientos más realistas. Está en vista previa para probadores seleccionados y aún sufre deriva visual en sesiones largas; fue de lo más votado en Hacker News.
+
+[ES]
+Fuentes: Google DeepMind y Hacker News.
+
+[ES]
+Apple presenta el MacBook Pro de 14 pulgadas con chip M6.
+
+[ES]
+Apple lanzó un MacBook Pro de 14 pulgadas con el nuevo chip M6 desde 1.999 dólares, con cerca de un día de batería. El M6 también llega a un iMac renovado desde 1.499 dólares, con mejoras en gráficos e IA frente al M5. La preventa abre el 28 de octubre y salen a la venta el 6 de noviembre.
+
+[ES]
+Fuente: TechCrunch.
+
+[ES]
+Conectando los Puntos.
+
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
+[ES]
+Hay un hilo que une al PHP vulnerado con ayuda de IA, la desinformación electoral automatizada y los lanzamientos de Genie 4 y del chip M6: la capacidad técnica avanza más rápido que nuestra capacidad de verificarla y gobernarla. Para ti, que consumes noticias en español, el riesgo es concreto: la desinformación se filtra más fácil en idiomas distintos del inglés, donde la moderación es más débil. Vale la pena desconfiar más de lo que circula en redes en vísperas de elecciones, también en la región.
+
+[ES]
+Al mismo tiempo, aparecen contrapesos humanos: jóvenes que reducen su dependencia del teléfono, estudiantes serbios que lograron desplazar a un gobierno y una televisión pública que se disculpa. No es una predicción segura, pero sugiere que la presión social puede reaccionar cuando la manipulación se vuelve evidente.
+
+[ES]
+En lo económico, el Banco Central de Chile menciona un petróleo que sube cerca de 25% desde septiembre y un El Niño fuerte, mientras en Argentina el real brasileño más débil y el pulso del dólar mayorista marcan el ánimo. Si la energía y los alimentos siguen caros, podrías ver tasas altas por más tiempo y monedas regionales sensibles a Brasil; no es una predicción segura, pero vale la pena vigilar los costos de combustible, los alimentos y las deudas en dólares.
+
+[ES]
+Vigilancia de la Hipótesis.
+
+[ES]
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente, no una nueva argumentación completa.
+
+[ES]
+Hoy hay señal de apoyo para (a): Genie 4, el MacBook Pro y iMac con M6 y la salida de un director de IA de Meta para fundar Ndoc ocurrieron el mismo día, según Google DeepMind y TechCrunch. En el registro reciente, (a) apoya en 18 de 21 días, y hoy retoma el apoyo tras un día neutral. Para (b), el reportaje de The Guardian sobre jóvenes que limitan sus apps y buscan reconectar con su atención es el segundo día seguido con apoyo, algo nuevo en un registro mayormente neutral.
+
+[ES]
+Para (c) la señal sigue en contra: Flávio Bolsonaro sale de Brasil en plena investigación y el caso Comey alimentan la polarización, según BBC Mundo y Al Jazeera; (c) lleva 17 de 21 días en desafío. Para (d), la victoria de la lista estudiantil en Serbia y los encuentros presenciales de Pie apoyan la idea de cohesión, según RTVE; (d) suma 20 días de apoyo en 21. Aún no existe una revisión integral previa.
