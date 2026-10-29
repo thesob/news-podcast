@@ -1,0 +1,188 @@
+[ES]
+Buenos días. Este es tu resumen diario del jueves 29 de octubre de 2026.
+
+[ES]
+Una nota sobre las fuentes: hoy no se pudo leer BBC News, Reuters, AP, The New York Times, The Washington Post, Xinhua, Emol ni Ars Technica. Se cubrió con Al Jazeera, The Guardian, DW en Español, BBC Mundo, El País, TechCrunch y Hacker News.
+
+[ES]
+Titulares.
+
+[ES]
+Choque de trenes en Toledo deja al menos 68 muertos.
+
+[ES]
+Un tren de alta velocidad Renfe AVE con 397 pasajeros chocó por detrás contra un tren Iryo detenido, cerca de Urda, en Toledo, en la línea Madrid–Sevilla. Hay al menos 68 fallecidos y unos 80 heridos, 15 de ellos en estado crítico. El ministro de Transportes, Óscar Puente, habló de una falla en la señalización y calificó de inexplicable la decisión del centro de control de reanudar la marcha. España decretó tres días de luto oficial, y el accidente llega nueve meses después de otro en la misma línea que dejó 46 muertos.
+
+[ES]
+Fuentes: Al Jazeera y El Español.
+
+[ES]
+Israel: elecciones muy ajustadas, sin ganador claro.
+
+[ES]
+El recuento de votos por correo sigue en marcha y ni el bloque de Netanyahu ni el del exgeneral Gadi Eisenkot ha logrado una victoria nítida. Se esperan negociaciones de coalición en las que los partidos pequeños tendrán un papel clave. Según El País, el partido de Netanyahu ya acusa a la oposición de haber robado las elecciones.
+
+[ES]
+Fuentes: Al Jazeera, The Guardian, BBC Mundo y El País.
+
+[ES]
+Lula gana un cuarto mandato en Brasil.
+
+[ES]
+Lula se impuso a Flávio Bolsonaro y dijo que su victoria es una derrota de la mentira y del negacionismo. Bolsonaro afirma que pedirá la anulación de las elecciones, mientras El País y Al Jazeera informan de que el candidato derrotado salió hacia Miami, con una investigación por lavado de dinero pendiente.
+
+[ES]
+Fuentes: DW en Español, Al Jazeera y El País.
+
+[ES]
+Guerra con Irán: diplomacia en marcha y petroleras con ganancias récord.
+
+[ES]
+El canciller iraní, Abás Araghchi, dice estar en contacto cercano con mediadores que trabajan en un plan para terminar la guerra. Mientras tanto, las ganancias trimestrales de Shell se duplicaron hasta 10.800 millones de dólares, impulsadas por los mayores márgenes del petróleo y el gas, y la empresa planea mayores recompras de acciones.
+
+[ES]
+Fuentes: Al Jazeera y The Guardian.
+
+[ES]
+La salida a bolsa de Anthropic abre el debate sobre quién manda.
+
+[ES]
+Tras su debut bursátil, TechCrunch analiza una estructura de gobierno poco habitual: un fideicomiso de beneficio a largo plazo puede elegir y destituir a la mayoría del consejo, y los siete fundadores controlan juntos el 50,1 por ciento de los votos. Los accionistas comunes tendrán poca voz, y se estima que Amazon será una de las grandes beneficiadas.
+
+[ES]
+Fuentes: TechCrunch.
+
+[ES]
+España y Latinoamérica.
+
+[ES]
+Luis Hermosilla vuelve a prisión preventiva en Chile.
+
+[ES]
+El abogado fue formalizado por soborno en la investigación contra el exfiscal Manuel Guerra. La Fiscalía no pidió la prisión preventiva, pero sí lo hizo el querellante particular, y el tribunal la aceptó.
+
+[ES]
+Fuentes: La Tercera.
+
+[ES]
+El Banco Central argentino no compra reservas por tercer día.
+
+[ES]
+El dólar mayorista subió levemente mientras la entidad no adquirió divisas en tres ruedas seguidas. Las reservas internacionales aun así subieron a unos 50.600 millones de dólares.
+
+[ES]
+Fuentes: Infobae.
+
+[ES]
+Colombia: el Ejército inutiliza dragas ilegales en el río Nechí.
+
+[ES]
+Un video viral mostró el río repleto de dragas de minería ilegal en el Bajo Cauca antioqueño. Las autoridades inutilizaron maquinaria valorada en más de mil millones de pesos.
+
+[ES]
+Fuentes: El Colombiano.
+
+[ES]
+Mundo.
+
+[ES]
+Reino Unido: un presupuesto sin daños para los mercados, criticado por mal focalizado.
+
+[ES]
+Los rendimientos de la deuda británica bajaron tras el presupuesto, aunque el margen fiscal se redujo. La Resolution Foundation dice que el apoyo energético está mal dirigido, por lo que muchos británicos seguirán enfrentando facturas altas.
+
+[ES]
+Fuentes: The Guardian.
+
+[ES]
+La Fed mantiene tasas y el dólar se debilita.
+
+[ES]
+La Reserva Federal dejó las tasas en el rango de 3,75 por ciento sin grandes sorpresas. Las bolsas subieron, lideradas por Oracle, y el dólar se debilitó.
+
+[ES]
+Fuentes: XTB.
+
+[ES]
+Midterms de Estados Unidos: los demócratas lideran a seis días del voto.
+
+[ES]
+Las encuestas nacionales favorecen a los demócratas mientras Trump y Obama hacen campaña en estados clave. El 3 de noviembre se decidirá quién controla el Congreso en la segunda mitad del mandato de Trump.
+
+[ES]
+Fuentes: Al Jazeera.
+
+[ES]
+Sanrio rompe con una serie japonesa tras críticas de China.
+
+[ES]
+La dueña de Hello Kitty puso fin a su acuerdo comercial con el drama de espías Vivant. La decisión llegó después de las críticas desde China.
+
+[ES]
+Fuentes: The Guardian.
+
+[ES]
+Tecnología y Nicho.
+
+[ES]
+Nvidia lanza un modelo abierto de transcripción de voz.
+
+[ES]
+El nuevo modelo de voz a texto está disponible de forma abierta, en medio del creciente interés por la inteligencia artificial de voz.
+
+[ES]
+Fuentes: TechCrunch.
+
+[ES]
+Kodiak firma su primer contrato comercial de camiones autónomos.
+
+[ES]
+El acuerdo prevé suministrar camiones sin conductor para carreteras públicas, un paso comercial importante para el sector.
+
+[ES]
+Fuentes: TechCrunch.
+
+[ES]
+Jio se dispara 21 por ciento en su debut bursátil en India.
+
+[ES]
+Tras una gran oferta pública inicial, las acciones subieron un 21 por ciento en su primer día. La operación es una de las mayores recientes del mercado indio.
+
+[ES]
+Fuentes: TechCrunch.
+
+[ES]
+Hacker News: un script antibots con texto oculto para frenar a las IA.
+
+[ES]
+Un investigador que rastreó unos 10.000 sitios halló un script de servicepipe punto tech con un bloque de texto Unicode invisible que parece diseñado para que los modelos de IA se nieguen a analizarlo. Por lo demás es una herramienta antibots estándar, y su operador se vincula con una empresa rusa antiDDoS.
+
+[ES]
+Fuentes: Hacker News y nullpt.rs.
+
+[ES]
+Conectando los Puntos.
+
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
+[ES]
+Un hilo que cruza el día es la fragilidad de las instituciones que damos por sentadas: un sistema de señalización que falla en una línea ferroviaria clave, elecciones tan reñidas que ya se habla de robo, un candidato derrotado que pide anular los comicios. En todos los casos la confianza en que alguien se encarga se erosiona, y eso empuja a mirar más de cerca quién decide y con qué controles, algo que también ronda el debate sobre el gobierno corporativo de Anthropic.
+
+[ES]
+En lo económico, la guerra con Irán sigue premiando a las petroleras mientras los gobiernos, como el británico, intentan amortiguar facturas de energía con ayudas que los analistas consideran mal dirigidas. Para quien vive en Latinoamérica, vale la pena vigilar el precio del crudo y el dólar: una Fed estable y un dólar más débil pueden aliviar a monedas como el peso argentino o el chileno, pero un petróleo caro encarece combustibles y transporte. No es una predicción segura.
+
+[ES]
+En España, la tragedia ferroviaria probablemente alimentará un debate sobre inversión y mantenimiento justo en plena campaña electoral. En el resto de la región, la victoria de Lula y la salida de Flávio Bolsonaro hacia Estados Unidos sugieren unos meses de tensión política en Brasil, con posibles efectos sobre el real y el comercio regional.
+
+[ES]
+Vigilancia de la Hipótesis.
+
+[ES]
+Escaneo diario de la hipótesis vigente, leído a la luz de la tendencia reciente y no solo de las historias de hoy; no es un nuevo debate completo.
+
+[ES]
+El registro reciente, con veintiuna entradas del 5 al 26 de octubre, muestra la subafirmación a casi siempre con señal de apoyo, la b mayormente neutral, la c casi siempre con señal en contra y la d casi siempre con apoyo. Aún no existe una revisión integral previa. Hoy repite ese patrón: a recibe apoyo de la salida a bolsa de Anthropic y del modelo abierto de Nvidia, según TechCrunch, una nueva jornada con ciclos tecnológicos rápidos. La b queda neutral: el script con texto oculto para frenar a las IA es curioso, pero no dice nada sobre la voz interior.
+
+[ES]
+La c vuelve a enfrentar evidencia en contra, con la polarización en bloques en Israel y Brasil, según Al Jazeera y DW. La d suma otro día de apoyo con el movimiento estudiantil serbio que reclama victoria electoral y el luto colectivo por el accidente en España. Es una continuación de racha para a, c y d; la b sigue sin señal clara.
