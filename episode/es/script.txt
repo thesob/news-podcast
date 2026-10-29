@@ -1,8 +1,9 @@
 [SECTION intro]
 [ES]
-Resumen diario, miércoles 28 de octubre de 2026.
+Buenos días. Este es tu resumen diario del jueves 29 de octubre de 2026.
 
-Nota sobre las fuentes: hoy no pude leer directamente DW en Español, Ars Technica, Reuters, AP, The New York Times, The Washington Post, Xinhua, emol, La Tercera ni El País. Cubrí esos huecos con BBC Mundo, RTVE, BioBioChile, Infobae, La Nación y Cinco Días, además de Al Jazeera, The Guardian y TechCrunch.
+[ES]
+Una nota sobre las fuentes: hoy no se pudo leer BBC News, Reuters, AP, The New York Times, The Washington Post, Xinhua, Emol ni Ars Technica. Se cubrió con Al Jazeera, The Guardian, DW en Español, BBC Mundo, El País, TechCrunch y Hacker News.
 
 [SECTION news]
 [ES]
@@ -10,132 +11,172 @@ Titulares.
 
 [ITEM]
 [ES]
-Serbia: la lista estudiantil derrota a Vučić y la televisión pública pide perdón.
+Choque de trenes en Toledo deja al menos 68 muertos.
 
 [ES]
-Aleksandar Vučić reconoció su derrota ante el movimiento liderado por estudiantes en las elecciones parlamentarias, un giro político de enorme calado en Serbia. Tras el resultado, la radiotelevisión pública serbia pidió perdón por haber manipulado su cobertura a favor del presidente. Es una señal de cómo una protesta ciudadana prolongada puede terminar cambiando el mapa de poder en las urnas.
+Un tren de alta velocidad Renfe AVE con 397 pasajeros chocó por detrás contra un tren Iryo detenido, cerca de Urda, en Toledo, en la línea Madrid–Sevilla. Hay al menos 68 fallecidos y unos 80 heridos, 15 de ellos en estado crítico. El ministro de Transportes, Óscar Puente, habló de una falla en la señalización y calificó de inexplicable la decisión del centro de control de reanudar la marcha. España decretó tres días de luto oficial, y el accidente llega nueve meses después de otro en la misma línea que dejó 46 muertos.
 
 [ES]
-Fuentes: RTVE y Reuters.
-
-[ITEM]
-[ES]
-Flávio Bolsonaro llega a Estados Unidos en medio de una investigación en Brasil.
-
-[ES]
-Flávio Bolsonaro, que perdió la elección presidencial frente a Lula, llegó a Estados Unidos tras horas de incertidumbre sobre su paradero. El Departamento de Estado había dicho que le daría visa a él y a su familia, mientras el juez Alexandre de Moraes le había ordenado entregar sus pasaportes en una investigación por lavado de dinero ligada al sector de apuestas. Bolsonaro sostiene que la orden fue injustificada y coincidió con la elección; Lula calificó su salida de vergonzosa.
-
-[ES]
-Fuente: BBC News Mundo.
+Fuentes: Al Jazeera y El Español.
 
 [ITEM]
 [ES]
-James Comey enfrenta un tercer conjunto de cargos penales.
+Israel: elecciones muy ajustadas, sin ganador claro.
 
 [ES]
-Los fiscales acusaron al exdirector del FBI de dos cargos por difundir ilegalmente información de defensa nacional, los terceros que el gobierno de Trump busca contra él. La acusación sostiene que Comey instruyó a colegas a filtrar a un periodista información sobre una nota de 2016 del New York Times. Se presentó mediante una criminal information, que evita al gran jurado; Comey niega las acusaciones y pidió desestimar el caso.
+El recuento de votos por correo sigue en marcha y ni el bloque de Netanyahu ni el del exgeneral Gadi Eisenkot ha logrado una victoria nítida. Se esperan negociaciones de coalición en las que los partidos pequeños tendrán un papel clave. Según El País, el partido de Netanyahu ya acusa a la oposición de haber robado las elecciones.
 
 [ES]
-Fuente: Al Jazeera.
+Fuentes: Al Jazeera, The Guardian, BBC Mundo y El País.
 
 [ITEM]
 [ES]
-Hackers explotan fallos graves en PHP, descubiertos con ayuda de IA.
+Lula gana un cuarto mandato en Brasil.
 
 [ES]
-La agencia de ciberseguridad CISA confirmó que se están explotando activamente dos fallos críticos en PHP, que permiten a atacantes externos tomar control de servidores sin credenciales. Las agencias federales tienen tres días para aplicar los parches, publicados menos de una semana antes. Los fallos llevaban años sin corregirse porque se creía que no había forma práctica de explotarlos; investigadores de Calif habrían creado un exploit funcional con ayuda de IA.
+Lula se impuso a Flávio Bolsonaro y dijo que su victoria es una derrota de la mentira y del negacionismo. Bolsonaro afirma que pedirá la anulación de las elecciones, mientras El País y Al Jazeera informan de que el candidato derrotado salió hacia Miami, con una investigación por lavado de dinero pendiente.
 
 [ES]
-Fuente: TechCrunch.
+Fuentes: DW en Español, Al Jazeera y El País.
+
+[ITEM]
+[ES]
+Guerra con Irán: diplomacia en marcha y petroleras con ganancias récord.
+
+[ES]
+El canciller iraní, Abás Araghchi, dice estar en contacto cercano con mediadores que trabajan en un plan para terminar la guerra. Mientras tanto, las ganancias trimestrales de Shell se duplicaron hasta 10.800 millones de dólares, impulsadas por los mayores márgenes del petróleo y el gas, y la empresa planea mayores recompras de acciones.
+
+[ES]
+Fuentes: Al Jazeera y The Guardian.
+
+[ITEM]
+[ES]
+La salida a bolsa de Anthropic abre el debate sobre quién manda.
+
+[ES]
+Tras su debut bursátil, TechCrunch analiza una estructura de gobierno poco habitual: un fideicomiso de beneficio a largo plazo puede elegir y destituir a la mayoría del consejo, y los siete fundadores controlan juntos el 50,1 por ciento de los votos. Los accionistas comunes tendrán poca voz, y se estima que Amazon será una de las grandes beneficiadas.
+
+[ES]
+Fuentes: TechCrunch.
 
 [ES]
 España y Latinoamérica.
 
 [ITEM]
 [ES]
-Chile: el Banco Central mantiene la tasa en 4,5% y advierte más riesgos de inflación.
+Luis Hermosilla vuelve a prisión preventiva en Chile.
 
 [ES]
-El Banco Central acordó por unanimidad mantener su tasa de política en 4,5%, pero avisó que los riesgos para la inflación han aumentado. Los precios de energía y alimentos, empujados por tensiones en Medio Oriente y un El Niño inusualmente fuerte, son la principal preocupación, y el petróleo ha subido cerca de 25% desde septiembre. La próxima reunión será el 15 de diciembre y la meta sigue siendo 3% en dos años.
+El abogado fue formalizado por soborno en la investigación contra el exfiscal Manuel Guerra. La Fiscalía no pidió la prisión preventiva, pero sí lo hizo el querellante particular, y el tribunal la aceptó.
 
 [ES]
-Fuente: BioBioChile.
-
-[ITEM]
-[ES]
-Argentina: el Banco Central frena sus compras de divisas y el FMI avanza con la revisión.
-
-[ES]
-Por primera vez en el año, el BCRA no compró dólares por dos ruedas seguidas, tras una racha de 19 días comprando. El dólar mayorista bajó a 1.538 pesos y las reservas subieron a unos 50.580 millones de dólares, en un clima regional tenso tras la segunda vuelta en Brasil, que debilitó al real. Por otro lado, el FMI aprobó a nivel técnico la tercera revisión del acuerdo con Argentina; falta el visto bueno del directorio para liberar unos 900 millones de dólares.
-
-[ES]
-Fuentes: Infobae y La Nación.
+Fuentes: La Tercera.
 
 [ITEM]
 [ES]
-Ferrovial crece 7,1% en ventas gracias a las autopistas de Estados Unidos.
+El Banco Central argentino no compra reservas por tercer día.
 
 [ES]
-La constructora española informó un aumento de 7,1% en ventas hasta el tercer trimestre y una mejora de su rentabilidad. Busca más proyectos de autopistas en Estados Unidos tras ganar dos contratos en carreteras interestatales.
+El dólar mayorista subió levemente mientras la entidad no adquirió divisas en tres ruedas seguidas. Las reservas internacionales aun así subieron a unos 50.600 millones de dólares.
 
 [ES]
-Fuente: Cinco Días, de El País.
+Fuentes: Infobae.
+
+[ITEM]
+[ES]
+Colombia: el Ejército inutiliza dragas ilegales en el río Nechí.
+
+[ES]
+Un video viral mostró el río repleto de dragas de minería ilegal en el Bajo Cauca antioqueño. Las autoridades inutilizaron maquinaria valorada en más de mil millones de pesos.
+
+[ES]
+Fuentes: El Colombiano.
 
 [ES]
 Mundo.
 
 [ITEM]
 [ES]
-Desinformación generada con IA inunda las redes antes de las legislativas de Estados Unidos.
+Reino Unido: un presupuesto sin daños para los mercados, criticado por mal focalizado.
 
 [ES]
-Expertos advierten que la desinformación creada con IA satura las redes antes de las elecciones de medio mandato de noviembre, y parte logra pasar la moderación. Las plataformas han reducido sus equipos de confianza y seguridad y dependen más de la IA, lo que deja brechas, sobre todo en contenido en otros idiomas. Un ejemplo: un rumor falso sobre el candidato texano James Talarico mutó en una falsa acusación de suicidio en medios en español.
+Los rendimientos de la deuda británica bajaron tras el presupuesto, aunque el margen fiscal se redujo. La Resolution Foundation dice que el apoyo energético está mal dirigido, por lo que muchos británicos seguirán enfrentando facturas altas.
 
 [ES]
-Fuente: The Guardian.
+Fuentes: The Guardian.
 
 [ITEM]
 [ES]
-La generación Z recupera su atención con apps de desintoxicación digital.
+La Fed mantiene tasas y el dólar se debilita.
 
 [ES]
-Cada vez más jóvenes rechazan el dominio de las grandes tecnológicas sobre su atención, con apps como Opal, que pide resolver problemas de matemáticas antes de reabrir aplicaciones distractoras, o teléfonos minimalistas como el Light Phone. La industria de la desintoxicación digital vale cerca de mil millones de dólares y podría llegar a unos ocho mil millones en 2035. También crece Pie, una app que propone encuentros presenciales en lugar de redes en línea.
+La Reserva Federal dejó las tasas en el rango de 3,75 por ciento sin grandes sorpresas. Las bolsas subieron, lideradas por Oracle, y el dólar se debilitó.
 
 [ES]
-Fuente: The Guardian.
+Fuentes: XTB.
+
+[ITEM]
+[ES]
+Midterms de Estados Unidos: los demócratas lideran a seis días del voto.
+
+[ES]
+Las encuestas nacionales favorecen a los demócratas mientras Trump y Obama hacen campaña en estados clave. El 3 de noviembre se decidirá quién controla el Congreso en la segunda mitad del mandato de Trump.
+
+[ES]
+Fuentes: Al Jazeera.
+
+[ITEM]
+[ES]
+Sanrio rompe con una serie japonesa tras críticas de China.
+
+[ES]
+La dueña de Hello Kitty puso fin a su acuerdo comercial con el drama de espías Vivant. La decisión llegó después de las críticas desde China.
+
+[ES]
+Fuentes: The Guardian.
 
 [ES]
 Tecnología y Nicho.
 
 [ITEM]
 [ES]
-Un director de IA de Meta se va para crear un rival de Office y Google Workspace.
+Nvidia lanza un modelo abierto de transcripción de voz.
 
 [ES]
-Rohit Patel, tras ocho años en Meta en evaluación de IA y aprendizaje por refuerzo, fundó Ndoc, que reúne presentaciones, análisis y datos y código en un mismo espacio y deja ver los scripts detrás de cada documento. Es un equipo de tres personas sin financiación externa que planea abrir un formato universal de archivo y lanzar una beta en las próximas semanas, frente a rivales como OpenAI, Anthropic y Google.
+El nuevo modelo de voz a texto está disponible de forma abierta, en medio del creciente interés por la inteligencia artificial de voz.
 
 [ES]
-Fuente: TechCrunch.
-
-[ITEM]
-[ES]
-Genie 4 de DeepMind genera mundos interactivos con sonido en tiempo real.
-
-[ES]
-Google DeepMind presentó Genie 4, un modelo de mundos que crea simulaciones interactivas con sonido sincronizado, incluidos ambiente, música y diálogos. Los modelos Gemini ayudan a mantener la coherencia y permiten dirigir las escenas con texto, con física y movimientos más realistas. Está en vista previa para probadores seleccionados y aún sufre deriva visual en sesiones largas; fue de lo más votado en Hacker News.
-
-[ES]
-Fuentes: Google DeepMind y Hacker News.
+Fuentes: TechCrunch.
 
 [ITEM]
 [ES]
-Apple presenta el MacBook Pro de 14 pulgadas con chip M6.
+Kodiak firma su primer contrato comercial de camiones autónomos.
 
 [ES]
-Apple lanzó un MacBook Pro de 14 pulgadas con el nuevo chip M6 desde 1.999 dólares, con cerca de un día de batería. El M6 también llega a un iMac renovado desde 1.499 dólares, con mejoras en gráficos e IA frente al M5. La preventa abre el 28 de octubre y salen a la venta el 6 de noviembre.
+El acuerdo prevé suministrar camiones sin conductor para carreteras públicas, un paso comercial importante para el sector.
 
 [ES]
-Fuente: TechCrunch.
+Fuentes: TechCrunch.
+
+[ITEM]
+[ES]
+Jio se dispara 21 por ciento en su debut bursátil en India.
+
+[ES]
+Tras una gran oferta pública inicial, las acciones subieron un 21 por ciento en su primer día. La operación es una de las mayores recientes del mercado indio.
+
+[ES]
+Fuentes: TechCrunch.
+
+[ITEM]
+[ES]
+Hacker News: un script antibots con texto oculto para frenar a las IA.
+
+[ES]
+Un investigador que rastreó unos 10.000 sitios halló un script de servicepipe punto tech con un bloque de texto Unicode invisible que parece diseñado para que los modelos de IA se nieguen a analizarlo. Por lo demás es una herramienta antibots estándar, y su operador se vincula con una empresa rusa antiDDoS.
+
+[ES]
+Fuentes: Hacker News y nullpt.rs.
 
 [SECTION connecting_dots]
 [ES]
@@ -145,23 +186,23 @@ Conectando los Puntos.
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
 
 [ES]
-Hay un hilo que une al PHP vulnerado con ayuda de IA, la desinformación electoral automatizada y los lanzamientos de Genie 4 y del chip M6: la capacidad técnica avanza más rápido que nuestra capacidad de verificarla y gobernarla. Para ti, que consumes noticias en español, el riesgo es concreto: la desinformación se filtra más fácil en idiomas distintos del inglés, donde la moderación es más débil. Vale la pena desconfiar más de lo que circula en redes en vísperas de elecciones, también en la región.
+Un hilo que cruza el día es la fragilidad de las instituciones que damos por sentadas: un sistema de señalización que falla en una línea ferroviaria clave, elecciones tan reñidas que ya se habla de robo, un candidato derrotado que pide anular los comicios. En todos los casos la confianza en que alguien se encarga se erosiona, y eso empuja a mirar más de cerca quién decide y con qué controles, algo que también ronda el debate sobre el gobierno corporativo de Anthropic.
 
 [ES]
-Al mismo tiempo, aparecen contrapesos humanos: jóvenes que reducen su dependencia del teléfono, estudiantes serbios que lograron desplazar a un gobierno y una televisión pública que se disculpa. No es una predicción segura, pero sugiere que la presión social puede reaccionar cuando la manipulación se vuelve evidente.
+En lo económico, la guerra con Irán sigue premiando a las petroleras mientras los gobiernos, como el británico, intentan amortiguar facturas de energía con ayudas que los analistas consideran mal dirigidas. Para quien vive en Latinoamérica, vale la pena vigilar el precio del crudo y el dólar: una Fed estable y un dólar más débil pueden aliviar a monedas como el peso argentino o el chileno, pero un petróleo caro encarece combustibles y transporte. No es una predicción segura.
 
 [ES]
-En lo económico, el Banco Central de Chile menciona un petróleo que sube cerca de 25% desde septiembre y un El Niño fuerte, mientras en Argentina el real brasileño más débil y el pulso del dólar mayorista marcan el ánimo. Si la energía y los alimentos siguen caros, podrías ver tasas altas por más tiempo y monedas regionales sensibles a Brasil; no es una predicción segura, pero vale la pena vigilar los costos de combustible, los alimentos y las deudas en dólares.
+En España, la tragedia ferroviaria probablemente alimentará un debate sobre inversión y mantenimiento justo en plena campaña electoral. En el resto de la región, la victoria de Lula y la salida de Flávio Bolsonaro hacia Estados Unidos sugieren unos meses de tensión política en Brasil, con posibles efectos sobre el real y el comercio regional.
 
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
 
 [ES]
-Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente, no una nueva argumentación completa.
+Escaneo diario de la hipótesis vigente, leído a la luz de la tendencia reciente y no solo de las historias de hoy; no es un nuevo debate completo.
 
 [ES]
-Hoy hay señal de apoyo para (a): Genie 4, el MacBook Pro y iMac con M6 y la salida de un director de IA de Meta para fundar Ndoc ocurrieron el mismo día, según Google DeepMind y TechCrunch. En el registro reciente, (a) apoya en 18 de 21 días, y hoy retoma el apoyo tras un día neutral. Para (b), el reportaje de The Guardian sobre jóvenes que limitan sus apps y buscan reconectar con su atención es el segundo día seguido con apoyo, algo nuevo en un registro mayormente neutral.
+El registro reciente, con veintiuna entradas del 5 al 26 de octubre, muestra la subafirmación a casi siempre con señal de apoyo, la b mayormente neutral, la c casi siempre con señal en contra y la d casi siempre con apoyo. Aún no existe una revisión integral previa. Hoy repite ese patrón: a recibe apoyo de la salida a bolsa de Anthropic y del modelo abierto de Nvidia, según TechCrunch, una nueva jornada con ciclos tecnológicos rápidos. La b queda neutral: el script con texto oculto para frenar a las IA es curioso, pero no dice nada sobre la voz interior.
 
 [ES]
-Para (c) la señal sigue en contra: Flávio Bolsonaro sale de Brasil en plena investigación y el caso Comey alimentan la polarización, según BBC Mundo y Al Jazeera; (c) lleva 17 de 21 días en desafío. Para (d), la victoria de la lista estudiantil en Serbia y los encuentros presenciales de Pie apoyan la idea de cohesión, según RTVE; (d) suma 20 días de apoyo en 21. Aún no existe una revisión integral previa.
+La c vuelve a enfrentar evidencia en contra, con la polarización en bloques en Israel y Brasil, según Al Jazeera y DW. La d suma otro día de apoyo con el movimiento estudiantil serbio que reclama victoria electoral y el luto colectivo por el accidente en España. Es una continuación de racha para a, c y d; la b sigue sin señal clara.
