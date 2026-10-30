@@ -1,0 +1,90 @@
+[ES]
+Buenos días. Este es tu resumen diario del viernes 30 de octubre de 2026.
+[ES]
+Nota sobre fuentes: hoy no pude acceder a BBC Mundo, DW en Español, Ars Technica, Reuters, AP, El País y otras. Cubrí esos vacíos con The Guardian, Emol, Euronews, Decrypt, Hacker News y el proxy de titulares.
+[ES]
+Titulares.
+[ES]
+España: sube a sesenta y ocho el número de muertos por el choque de trenes en Toledo.
+[ES]
+El presidente regional Emiliano García-Page confirmó sesenta y ocho fallecidos tras la colisión de dos trenes de alta velocidad cerca de Urda, Toledo; cincuenta y tres personas fueron atendidas y quince siguen graves. Pedro Sánchez decretó tres días de luto oficial y prometió responder con contundencia si se confirman fallos de seguridad. Un informe preliminar apunta a que un tren circulaba a entre ciento sesenta y doscientos kilómetros por hora al chocar con otro detenido.
+[ES]
+Fuentes: Euronews, The Guardian y La Nación.
+[ES]
+Cripto: el robo a Binance y los hackers norcoreanos.
+[ES]
+El Guardian informa de que la firma TRM atribuye a una unidad de hackers norcoreana un robo récord de unos seis mil trescientos millones de dólares vinculado a Binance. En Hacker News, un explorador que rastrea los fondos superaba los quinientos puntos. TRM ya estimaba que los grupos norcoreanos han robado más de seis mil millones desde dos mil diecisiete.
+[ES]
+Fuentes: The Guardian, Hacker News y Decrypt.
+[ES]
+Reino Unido: Burnham admite que habría querido un primer presupuesto más audaz.
+[ES]
+El primer ministro Andy Burnham dijo que las restricciones económicas, entre ellas la guerra con Irán y el coste del endeudamiento, limitaron su primer presupuesto, que incluyó un pago energético de cien libras. Hoy se reúne en Glasgow con líderes de Escocia y Gales y propone empoderamiento regional.
+[ES]
+Fuente: The Guardian.
+[ES]
+España y Latinoamérica.
+[ES]
+Chile: Codelco despide a ocho ejecutivos y profesionales.
+[ES]
+El directorio de Codelco desvinculó a ocho personas de varias divisiones tras auditorías de KPMG y EY sobre irregularidades en los registros de producción de dos mil veinticuatro y dos mil veinticinco. Felipe Lagno asume desde hoy la gerencia de la división Salvador.
+[ES]
+Fuente: Emol.
+[ES]
+Chile: la oposición prepara una acusación constitucional contra el ministro de Justicia.
+[ES]
+Según Emol, la oposición busca apoyos, incluido el PDG y posiblemente Chile Vamos, para acusar al ministro Rabat. En paralelo, la policía detuvo a una mujer por amenazas contra el presidente Kast durante su visita a Ñuble.
+[ES]
+Fuente: Emol.
+[ES]
+Argentina: Mercado Pago, cerca de una licencia bancaria.
+[ES]
+Mercado Pago estaría próxima a recibir una licencia del Banco Central argentino, lo que le permitiría competir por las cuentas sueldo. iProfesional analiza el impacto para los bancos tradicionales.
+[ES]
+Fuente: iProfesional.
+[ES]
+Mundo.
+[ES]
+Yemen: Taiz, ciudad sitiada.
+[ES]
+El gobernador de Taiz afirma que los hutíes llevan un mes de asedio y están enviando a la ciudad de vuelta a la Edad de Piedra, con escasez de oxígeno, comida y agua. Pide acción internacional.
+[ES]
+Fuente: The Guardian.
+[ES]
+Estados Unidos: la política exterior de Trump pesa en las legislativas.
+[ES]
+Antiguos votantes de Trump en Pensilvania dicen que su política sobre Ucrania e Irán influirá en su voto en las elecciones de medio mandato. El reportaje recoge su preocupación.
+[ES]
+Fuente: The Guardian.
+[ES]
+Reino Unido: los precios de la vivienda crecen al ritmo más lento en dos años.
+[ES]
+Nationwide reporta un alza anual de solo cero coma cinco por ciento en octubre, mientras las hipotecas fijas a cinco años rondan el seis por ciento. Además, el embalse de Ardingly, en Sussex, está al diecinueve por ciento tras el verano más caluroso registrado.
+[ES]
+Fuente: The Guardian.
+[ES]
+Tecnología y Nicho.
+[ES]
+Mistral libera los pesos de Mistral Large 4.
+[ES]
+Mistral publicó los pesos de Large 4, un modelo multimodal con cerca de un billón de parámetros, bajo una licencia tipo MIT modificada que permite uso comercial salvo ofrecerlo como servicio. Fue lo más votado en Hacker News.
+[ES]
+Fuentes: Mistral y Hacker News.
+[ES]
+Conectando los Puntos.
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+[ES]
+Hay un hilo común entre el robo cripto, el choque de trenes y los despidos en Codelco: sistemas complejos cuya seguridad depende de controles que alguien debía vigilar. En los tres casos la pregunta que queda es quién verificaba al verificador. Vale la pena vigilar si esto empuja a gobiernos y empresas hacia más auditorías externas.
+[ES]
+Los modelos de IA abiertos como Mistral Large 4 abaratan una tecnología que hace poco era exclusiva de unos pocos laboratorios. Para ti, en Latinoamérica o España, eso podría significar más opciones locales y menos dependencia de proveedores de Estados Unidos, aunque no es una predicción segura.
+[ES]
+Las tensiones en torno a Irán siguen presionando el crédito y la energía, como muestran el presupuesto británico y las hipotecas al seis por ciento. Si eres importador de energía o tienes deudas en dólares, conviene seguir de cerca el petróleo y los tipos de interés. En Chile, el cobre y la gestión de Codelco son otra variable que merece atención.
+[ES]
+Vigilancia de la Hipótesis.
+[ES]
+Seguimiento continuo de la hipótesis vigente: una lectura diaria informada por la tendencia reciente del registro, no una nueva argumentación completa.
+[ES]
+Con veintitrés entradas en el registro, el patrón es nítido: el punto a y el punto d acumulan apoyo casi todos los días, mientras el punto c ha sido desafiado en diecinueve de veintitrés entradas y el punto b sigue mayormente neutral. Hoy continúa ese patrón.
+[ES]
+El punto a recibe apoyo: la liberación de Mistral Large 4 muestra liderazgos tecnológicos que se relevan en meses. El punto b es neutral. El punto c es desafiado: acusaciones constitucionales y amenazas contra Kast en Chile reflejan polarización. El punto d recibe apoyo: el luto nacional y la respuesta colectiva tras Toledo muestran cohesión social. No hay revisión integral hoy porque octubre ya tiene entradas.
