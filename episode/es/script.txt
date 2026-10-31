@@ -1,104 +1,143 @@
 [SECTION intro]
 [ES]
-Buenos días. Este es tu resumen diario del viernes 30 de octubre de 2026.
+Buenos días. Este es tu resumen diario del sábado 31 de octubre de 2026.
 [ES]
-Nota sobre fuentes: hoy no pude acceder a BBC Mundo, DW en Español, Ars Technica, Reuters, AP, El País y otras. Cubrí esos vacíos con The Guardian, Emol, Euronews, Decrypt, Hacker News y el proxy de titulares.
+Nota sobre fuentes: hoy no pude abrir directamente https://www.google.com/url?q=http://elpais.com&source=gmail&ust=1793524429547000&sa=E, BBC Mundo, DW en Español, los feeds de BBC, https://www.google.com/url?q=http://nytimes.com&source=gmail&ust=1793524429547000&sa=E, https://www.google.com/url?q=http://washingtonpost.com&source=gmail&ust=1793524429547000&sa=E, Reuters, AP News, Xinhua Español, https://www.google.com/url?q=http://emol.com&source=gmail&ust=1793524429547000&sa=E ni Ars Technica. Los cubrí con Al Jazeera, The Guardian, TechCrunch, Hacker News y notas de otros medios.
 [SECTION news]
 [ES]
 Titulares.
 [ITEM]
 [ES]
-España: sube a sesenta y ocho el número de muertos por el choque de trenes en Toledo.
+Accidente ferroviario en Urda, Toledo: 69 muertos y más de 200 heridos.
 [ES]
-El presidente regional Emiliano García-Page confirmó sesenta y ocho fallecidos tras la colisión de dos trenes de alta velocidad cerca de Urda, Toledo; cincuenta y tres personas fueron atendidas y quince siguen graves. Pedro Sánchez decretó tres días de luto oficial y prometió responder con contundencia si se confirman fallos de seguridad. Un informe preliminar apunta a que un tren circulaba a entre ciento sesenta y doscientos kilómetros por hora al chocar con otro detenido.
+Dos trenes de alta velocidad, un AVE de Renfe y uno de Iryo, chocaron el miércoles 28 de octubre en Urda, Toledo, cuando ambos viajaban de Madrid a Sevilla con 538 personas a bordo. El balance provisional es de 69 fallecidos y más de 200 heridos; Andalucía ya contabiliza nueve víctimas, entre ellas la exministra Fátima Báñez. España vive horas de duelo mientras se investigan las causas.
 [ES]
-Fuentes: Euronews, The Guardian y La Nación.
+Fuente: Europa Press, vía Última Hora.
 [ITEM]
 [ES]
-Cripto: el robo a Binance y los hackers norcoreanos.
+Ormuz: petroleros incendiados por supuestas minas y esfuerzos de mediación.
 [ES]
-El Guardian informa de que la firma TRM atribuye a una unidad de hackers norcoreana un robo récord de unos seis mil trescientos millones de dólares vinculado a Binance. En Hacker News, un explorador que rastrea los fondos superaba los quinientos puntos. TRM ya estimaba que los grupos norcoreanos han robado más de seis mil millones desde dos mil diecisiete.
+La Guardia Revolucionaria de Irán dijo que tres petroleros, uno con más de dos millones de barriles, explotaron y se incendiaron en el estrecho de Ormuz; Estados Unidos niega que haya minas en las rutas principales y AP no pudo verificar el reporte. Mientras tanto, Catar envió funcionarios a Irán para intentar revivir el alto el fuego y Washington sopesa nuevos ataques. Irán advierte de un golpe devastador si es atacado.
 [ES]
-Fuentes: The Guardian, Hacker News y Decrypt.
+Fuentes: LA Times en Español, con información de AP, y Al Jazeera.
 [ITEM]
 [ES]
-Reino Unido: Burnham admite que habría querido un primer presupuesto más audaz.
+Argentina: riesgo país en 787 puntos y un pago al FMI que aprieta.
 [ES]
-El primer ministro Andy Burnham dijo que las restricciones económicas, entre ellas la guerra con Irán y el coste del endeudamiento, limitaron su primer presupuesto, que incluyó un pago energético de cien libras. Hoy se reúne en Glasgow con líderes de Escocia y Gales y propone empoderamiento regional.
+El riesgo país subió cerca de 28 por ciento en octubre y el 5 de noviembre el Tesoro debe pagar unos 877 millones de dólares al FMI, más de los dólares que tenía depositados al 26 de octubre. Los mercados dudan del programa financiero de Caputo, mientras el Banco Central compró en octubre casi tres veces más dólares que en septiembre, pese al shock cambiario en Brasil.
 [ES]
-Fuente: The Guardian.
+Fuentes: La Política Online y Ámbito.
 [ES]
 España y Latinoamérica.
 [ITEM]
 [ES]
-Chile: Codelco despide a ocho ejecutivos y profesionales.
+Chile: renuncia el subsecretario de Justicia Luis Silva.
 [ES]
-El directorio de Codelco desvinculó a ocho personas de varias divisiones tras auditorías de KPMG y EY sobre irregularidades en los registros de producción de dos mil veinticuatro y dos mil veinticinco. Felipe Lagno asume desde hoy la gerencia de la división Salvador.
+Luis Silva dejó el cargo en medio de la polémica por rebajas de condenas a condenados por delitos sexuales contra menores. También pesó un video que publicó sin informar a nadie en el Gobierno.
 [ES]
-Fuente: Emol.
+Fuente: La Tercera.
 [ITEM]
 [ES]
-Chile: la oposición prepara una acusación constitucional contra el ministro de Justicia.
+Cuba: vecinos bloquean una avenida de La Habana por apagones.
 [ES]
-Según Emol, la oposición busca apoyos, incluido el PDG y posiblemente Chile Vamos, para acusar al ministro Rabat. En paralelo, la policía detuvo a una mujer por amenazas contra el presidente Kast durante su visita a Ñuble.
+Residentes cortaron la avenida Boyeros con cubos de basura tras más de tres días sin electricidad, con presencia policial en el lugar. Es una nueva muestra del malestar por la crisis energética de la isla.
 [ES]
-Fuente: Emol.
+Fuente: CiberCuba.
 [ITEM]
 [ES]
-Argentina: Mercado Pago, cerca de una licencia bancaria.
+México: el Plan DN-III-E cumple 60 años.
 [ES]
-Mercado Pago estaría próxima a recibir una licencia del Banco Central argentino, lo que le permitiría competir por las cuentas sueldo. iProfesional analiza el impacto para los bancos tradicionales.
+La estrategia de auxilio a la población ha atendido más de 87.000 eventos desde 1966. La presidenta Sheinbaum encabezó la conmemoración.
 [ES]
-Fuente: iProfesional.
+Fuente: López-Dóriga.
 [ES]
 Mundo.
 [ITEM]
 [ES]
-Yemen: Taiz, ciudad sitiada.
+Israel: sin mayoría clara tras el recuento final.
 [ES]
-El gobernador de Taiz afirma que los hutíes llevan un mes de asedio y están enviando a la ciudad de vuelta a la Edad de Piedra, con escasez de oxígeno, comida y agua. Pide acción internacional.
+El recuento completo de las elecciones israelíes dejó a ningún partido ni bloque con mayoría absoluta. Se abre un periodo de negociaciones para formar gobierno.
 [ES]
-Fuente: The Guardian.
+Fuente: Al Jazeera.
 [ITEM]
 [ES]
-Estados Unidos: la política exterior de Trump pesa en las legislativas.
+Ébola en RD Congo supera los 5.000 muertos.
 [ES]
-Antiguos votantes de Trump en Pensilvania dicen que su política sobre Ucrania e Irán influirá en su voto en las elecciones de medio mandato. El reportaje recoge su preocupación.
+El brote de ébola en la República Democrática del Congo ya ha causado más de 5.000 fallecimientos. Es una de las cifras más graves de las últimas emergencias sanitarias.
 [ES]
-Fuente: The Guardian.
+Fuente: Al Jazeera.
 [ITEM]
 [ES]
-Reino Unido: los precios de la vivienda crecen al ritmo más lento en dos años.
+EE. UU. aprueba la venta de misiles Patriot a Ucrania por 2.100 millones de dólares.
 [ES]
-Nationwide reporta un alza anual de solo cero coma cinco por ciento en octubre, mientras las hipotecas fijas a cinco años rondan el seis por ciento. Además, el embalse de Ardingly, en Sussex, está al diecinueve por ciento tras el verano más caluroso registrado.
+Washington dio luz verde a una venta de misiles Patriot a Kiev valorada en 2.100 millones de dólares. Se suma al respaldo militar occidental en plena tensión con Rusia.
+[ES]
+Fuente: Al Jazeera.
+[ITEM]
+[ES]
+Alemania y Francia se preparan para protestas en el fin de semana de Halloween.
+[ES]
+En Berlín, comercios cubren sus escaparates ante una gran manifestación convocada. Se esperan movilizaciones similares en Francia.
+[ES]
+Fuente: Al Jazeera.
+[ITEM]
+[ES]
+EE. UU.: los demócratas cortejan a los votantes Maha antes de las legislativas.
+[ES]
+Votantes del movimiento Make America Healthy Again, decepcionados con el Gobierno de Trump por decisiones sobre pesticidas y por el lento avance de las metas alimentarias de Kennedy, son ahora un objetivo demócrata. Una encuesta de KFF indica que 42 por ciento de ellos pone la salud y el costo de los medicamentos como prioridad, aunque las vacunas siguen dividiendo.
 [ES]
 Fuente: The Guardian.
 [ES]
 Tecnología y Nicho.
 [ITEM]
 [ES]
-Mistral libera los pesos de Mistral Large 4.
+Depender de la IA te está oxidando el cerebro, dice una psicóloga, que propone añadir fricción.
 [ES]
-Mistral publicó los pesos de Large 4, un modelo multimodal con cerca de un billón de parámetros, bajo una licencia tipo MIT modificada que permite uso comercial salvo ofrecerlo como servicio. Fue lo más votado en Hacker News.
+La psicóloga Carly Dober sostiene que delegar todo en herramientas de IA evita el esfuerzo mental que fortalece las conexiones neuronales, y menciona el nuevo agente personal Muse de Meta. Sugiere esperar unos 30 minutos antes de pedir ayuda a una IA, cerrar sesión en apps y mantener estas herramientas fuera del teléfono.
 [ES]
-Fuentes: Mistral y Hacker News.
+Fuente: The Guardian.
+[ITEM]
+[ES]
+DoorDash: solo varios cientos de pedidos vienen de agentes de IA.
+[ES]
+La empresa reconoce que los agentes de IA han hecho apenas unos cientos de pedidos en su plataforma. Es un dato que enfría el entusiasmo por las compras delegadas a asistentes.
+[ES]
+Fuente: TechCrunch.
+[ITEM]
+[ES]
+Waymo usará Toyota para sus robotaxis en Japón y Reino Unido.
+[ES]
+El próximo robotaxi de Waymo será una Toyota bZ4X destinada a esos dos mercados. Marca un paso de la expansión internacional de la compañía.
+[ES]
+Fuente: TechCrunch.
+[ITEM]
+[ES]
+Hacker News: puerta trasera en una extensión de Claude Code en el Marketplace de Cursor.
+[ES]
+Una publicación de Phorion sobre una extensión comprometida de Claude Code para VS Code en el Marketplace de Cursor fue la más comentada, con 682 puntos. Recuerda que las cadenas de suministro de extensiones son un blanco atractivo.
+[ES]
+Fuente: Hacker News y Phorion.
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
 [ES]
-Hay un hilo común entre el robo cripto, el choque de trenes y los despidos en Codelco: sistemas complejos cuya seguridad depende de controles que alguien debía vigilar. En los tres casos la pregunta que queda es quién verificaba al verificador. Vale la pena vigilar si esto empuja a gobiernos y empresas hacia más auditorías externas.
+Hoy hay un hilo común: la fragilidad de los sistemas que dábamos por sentados. Un choque de trenes de alta velocidad en España, apagones que sacan a la gente a la calle en Cuba y petroleros incendiados en Ormuz muestran infraestructuras críticas bajo tensión. Para ti, que vives en el mundo hispanohablante, la lectura práctica es que la energía y el transporte importan más de lo que sus precios sugieren.
 [ES]
-Los modelos de IA abiertos como Mistral Large 4 abaratan una tecnología que hace poco era exclusiva de unos pocos laboratorios. Para ti, en Latinoamérica o España, eso podría significar más opciones locales y menos dependencia de proveedores de Estados Unidos, aunque no es una predicción segura.
+Ormuz conecta directamente con tu bolsillo: si la ruta sigue en riesgo, el petróleo puede encarecerse, algo que tiende a pegar en las importadoras de combustibles de América Latina y a favorecer, con matices, a exportadoras como México o Colombia. No es una predicción segura, pero vale la pena vigilar la mediación de Catar y Pakistán.
 [ES]
-Las tensiones en torno a Irán siguen presionando el crédito y la energía, como muestran el presupuesto británico y las hipotecas al seis por ciento. Si eres importador de energía o tienes deudas en dólares, conviene seguir de cerca el petróleo y los tipos de interés. En Chile, el cobre y la gestión de Codelco son otra variable que merece atención.
+Argentina ilustra el otro lado: cuando el dólar escasea y el riesgo país sube, cada vencimiento se vuelve un examen de credibilidad. Si Brasil sigue con turbulencia cambiaria, la región podría sentir un contagio, aunque eso depende de muchas variables.
+[ES]
+Por último, la columna sobre IA y el dato de DoorDash sugieren que la adopción real de agentes va más lento que el relato. Quizá la lección sea combinar herramientas con criterio propio, y no delegarlo todo.
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
 [ES]
-Seguimiento continuo de la hipótesis vigente: una lectura diaria informada por la tendencia reciente del registro, no una nueva argumentación completa.
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no una nueva argumentación completa.
 [ES]
-Con veintitrés entradas en el registro, el patrón es nítido: el punto a y el punto d acumulan apoyo casi todos los días, mientras el punto c ha sido desafiado en diecinueve de veintitrés entradas y el punto b sigue mayormente neutral. Hoy continúa ese patrón.
+Recordatorio de los sub-claims: a, ciclos de autoridad cada vez más cortos; b, más voz interior; c, alejamiento del individualismo; d, más colaboración y cohesión social.
 [ES]
-El punto a recibe apoyo: la liberación de Mistral Large 4 muestra liderazgos tecnológicos que se relevan en meses. El punto b es neutral. El punto c es desafiado: acusaciones constitucionales y amenazas contra Kast en Chile reflejan polarización. El punto d recibe apoyo: el luto nacional y la respuesta colectiva tras Toledo muestran cohesión social. No hay revisión integral hoy porque octubre ya tiene entradas.
+Sub-claim a, apoyo: el lanzamiento de Muse de Meta y los agentes de compra mencionados se mueven en semanas; es el apoyo a a en casi todos los días del registro reciente. Sub-claim b, apoyo: la columna de Carly Dober, en The Guardian, propone pausas y fricción antes de consultar a una IA; es la tercera señal de apoyo en seis entradas, tras el 26 y el 28 de octubre, aunque sigue siendo un evento aislado entre muchos días neutrales. El dato de DoorDash matiza la delegación masiva.
+[ES]
+Sub-claim c, desafío: la guerra con Irán y los bloques enfrentados continúan una racha de desafío, según Al Jazeera. Sub-claim d, apoyo: la mediación de Catar y las protestas coordinadas en Alemania y Francia, también según Al Jazeera, mantienen la racha de apoyo. Aún no existe una revisión integral previa.
