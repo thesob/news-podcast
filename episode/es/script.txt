@@ -1,143 +1,167 @@
-[SECTION intro]
-[ES]
-Buenos días. Este es tu resumen diario del sábado 31 de octubre de 2026.
-[ES]
-Nota sobre fuentes: hoy no pude abrir directamente https://www.google.com/url?q=http://elpais.com&source=gmail&ust=1793524429547000&sa=E, BBC Mundo, DW en Español, los feeds de BBC, https://www.google.com/url?q=http://nytimes.com&source=gmail&ust=1793524429547000&sa=E, https://www.google.com/url?q=http://washingtonpost.com&source=gmail&ust=1793524429547000&sa=E, Reuters, AP News, Xinhua Español, https://www.google.com/url?q=http://emol.com&source=gmail&ust=1793524429547000&sa=E ni Ars Technica. Los cubrí con Al Jazeera, The Guardian, TechCrunch, Hacker News y notas de otros medios.
 [SECTION news]
 [ES]
 Titulares.
 [ITEM]
 [ES]
-Accidente ferroviario en Urda, Toledo: 69 muertos y más de 200 heridos.
+Irán estudia un plan de dos días para reabrir Ormuz mientras Trump dice que las conversaciones van bien.
 [ES]
-Dos trenes de alta velocidad, un AVE de Renfe y uno de Iryo, chocaron el miércoles 28 de octubre en Urda, Toledo, cuando ambos viajaban de Madrid a Sevilla con 538 personas a bordo. El balance provisional es de 69 fallecidos y más de 200 heridos; Andalucía ya contabiliza nueve víctimas, entre ellas la exministra Fátima Báñez. España vive horas de duelo mientras se investigan las causas.
+Según Al Jazeera, Teherán sopesa un plan de dos días para reabrir el estrecho de Ormuz, y Trump asegura que las conversaciones van bien. Irán, sin embargo, afirma que no tiene intención de entrar en negociaciones nucleares con Estados Unidos. DW informa de otro petrolero incendiado tras chocar con una mina en la zona, y AP recoge que el líder iraní advierte de que cualquier respuesta a un ataque no tendría límites geográficos.
 [ES]
-Fuente: Europa Press, vía Última Hora.
+Fuentes: Al Jazeera, DW y AP.
 [ITEM]
 [ES]
-Ormuz: petroleros incendiados por supuestas minas y esfuerzos de mediación.
+España llora a las víctimas del accidente ferroviario de Urda, en Toledo.
 [ES]
-La Guardia Revolucionaria de Irán dijo que tres petroleros, uno con más de dos millones de barriles, explotaron y se incendiaron en el estrecho de Ormuz; Estados Unidos niega que haya minas en las rutas principales y AP no pudo verificar el reporte. Mientras tanto, Catar envió funcionarios a Irán para intentar revivir el alto el fuego y Washington sopesa nuevos ataques. Irán advierte de un golpe devastador si es atacado.
+El Centro de Integración de Datos ha identificado ya a cincuenta y seis de las sesenta y nueve víctimas mortales; cincuenta y cuatro son españolas, una francesa y una portuguesa. El municipio celebró una misa funeral para despedir a los fallecidos. BBC Mundo analiza cómo el desastre ensombrece las opciones de reelección de Pedro Sánchez de cara a unas elecciones generales anticipadas, y Emol repasa las grietas de un modelo ferroviario que suma dos tragedias en nueve meses.
 [ES]
-Fuentes: LA Times en Español, con información de AP, y Al Jazeera.
+Fuentes: Vozpopuli, El País, BBC Mundo y Emol.
 [ITEM]
 [ES]
-Argentina: riesgo país en 787 puntos y un pago al FMI que aprieta.
+Protestas juveniles por el coste de la vida sacuden Europa.
 [ES]
-El riesgo país subió cerca de 28 por ciento en octubre y el 5 de noviembre el Tesoro debe pagar unos 877 millones de dólares al FMI, más de los dólares que tenía depositados al 26 de octubre. Los mercados dudan del programa financiero de Caputo, mientras el Banco Central compró en octubre casi tres veces más dólares que en septiembre, pese al shock cambiario en Brasil.
+DW cuenta que protestas de jóvenes en varias ciudades alemanas, impulsadas por el movimiento Gen Z contra recortes sociales y el coste de la vida, terminaron en violencia; la BBC habla de comercios saqueados. Francia vivió su tercer fin de semana de movilizaciones masivas e Italia vio protestas multitudinarias durante una huelga nacional. En Portugal, según Al Jazeera, la policía desalojó campamentos de protesta por la vivienda, los alquileres y los salarios bajos.
 [ES]
-Fuentes: La Política Online y Ámbito.
+Fuentes: DW, BBC, AP y Al Jazeera.
+[ITEM]
+[ES]
+El FBI atribuye a Corea del Norte el hackeo de seis mil trescientos millones de dólares a Binance.
+[ES]
+El FBI responsabiliza al grupo vinculado a Corea del Norte conocido como TraderTraitor del mayor robo de la historia de las criptomonedas. Binance asegura que ya repuso el noventa por ciento de los fondos robados y que cubrirá el resto. DW añade que la plataforma volvió a permitir la retirada de fondos.
+[ES]
+Fuentes: The Guardian, AP, BBC, DW y Emol.
+[ITEM]
+[ES]
+Bolsonaro dice que huyó de Brasil y Washington niega haberlo ayudado.
+[ES]
+Emol recoge que Jair Bolsonaro calificó de matemáticamente imposible el resultado de las elecciones brasileñas y afirmó que salió del país en secreto el martes. Según Al Jazeera, el secretario de Estado Marco Rubio rechazó que el Gobierno de Trump lo ayudara a viajar a Estados Unidos.
+[ES]
+Fuentes: Emol y Al Jazeera.
 [ES]
 España y Latinoamérica.
 [ITEM]
 [ES]
-Chile: renuncia el subsecretario de Justicia Luis Silva.
+Rusia veta en la ONU el plan de Estados Unidos para acelerar la entrega del Sáhara a Marruecos.
 [ES]
-Luis Silva dejó el cargo en medio de la polémica por rebajas de condenas a condenados por delitos sexuales contra menores. También pesó un video que publicó sin informar a nadie en el Gobierno.
+El veto cruzado entre Estados Unidos y Rusia en el Consejo de Seguridad dio por finalizado el mandato de la misión internacional creada en mil novecientos noventa y uno. El País señala que Moscú golpea la diplomacia Washington-Rabat, que defendía el plan de autonomía marroquí como única solución al conflicto.
 [ES]
-Fuente: La Tercera.
+Fuentes: La Voz de Galicia y El País.
 [ITEM]
 [ES]
-Cuba: vecinos bloquean una avenida de La Habana por apagones.
+Chile debate si se suma a la coalición contra los cárteles de Estados Unidos.
 [ES]
-Residentes cortaron la avenida Boyeros con cubos de basura tras más de tres días sin electricidad, con presencia policial en el lugar. Es una nueva muestra del malestar por la crisis energética de la isla.
+Emol repasa los argumentos a favor y en contra de que Chile participe en la iniciativa A3C, después de que Washington fijara un plazo de treinta días para decidir. En paralelo, el presidente de RN, Balladares, sostuvo que la remoción de Silva no puede entenderse como el cierre de esta crisis.
 [ES]
-Fuente: CiberCuba.
+Fuentes: Emol.
 [ITEM]
 [ES]
-México: el Plan DN-III-E cumple 60 años.
+Ecuador inicia su cuarto toque de queda del año.
 [ES]
-La estrategia de auxilio a la población ha atendido más de 87.000 eventos desde 1966. La presidenta Sheinbaum encabezó la conmemoración.
+Según DW, el país arrancó un nuevo toque de queda para frenar los altos índices de criminalidad. Es el cuarto que se aplica en lo que va de dos mil veintiséis.
 [ES]
-Fuente: López-Dóriga.
+Fuentes: DW.
 [ES]
 Mundo.
 [ITEM]
 [ES]
-Israel: sin mayoría clara tras el recuento final.
+Miles de israelíes piden una coalición judeo-árabe para desbancar a Netanyahu.
 [ES]
-El recuento completo de las elecciones israelíes dejó a ningún partido ni bloque con mayoría absoluta. Se abre un periodo de negociaciones para formar gobierno.
+Al Jazeera informa de una gran concentración en Israel a favor de una alianza entre partidos judíos y árabes que aparte a Netanyahu del poder. Según El País, el primer ministro pidió a los partidos judíos no aliarse con formaciones árabes, alegando una supuesta injerencia de Catar, mientras la oposición ve en ello una maniobra. AP añade que un exagente judío de policía tendrá escaño por un partido islamista en el nuevo Parlamento.
 [ES]
-Fuente: Al Jazeera.
+Fuentes: Al Jazeera, El País y AP.
 [ITEM]
 [ES]
-Ébola en RD Congo supera los 5.000 muertos.
+Un juez desestima la demanda de Trump contra el Wall Street Journal por el caso Epstein.
 [ES]
-El brote de ébola en la República Democrática del Congo ya ha causado más de 5.000 fallecimientos. Es una de las cifras más graves de las últimas emergencias sanitarias.
+Un juez federal de Florida desechó la versión revisada de la demanda por difamación de diez mil millones de dólares sobre una carta de cumpleaños atribuida a Epstein. AP cita que el magistrado habló de aferrarse a un clavo ardiendo.
 [ES]
-Fuente: Al Jazeera.
+Fuentes: AP y NBC News.
 [ITEM]
 [ES]
-EE. UU. aprueba la venta de misiles Patriot a Ucrania por 2.100 millones de dólares.
+A tres días de las elecciones de medio mandato en Estados Unidos, se dispara el voto anticipado.
 [ES]
-Washington dio luz verde a una venta de misiles Patriot a Kiev valorada en 2.100 millones de dólares. Se suma al respaldo militar occidental en plena tensión con Rusia.
+Al Jazeera repasa lo que dicen las últimas encuestas mientras crece la participación anticipada. Un análisis de AP halló que más del cuarenta por ciento de los nombres de una lista del Departamento de Justicia de supuestos no ciudadanos no figuran en los registros electorales de California.
 [ES]
-Fuente: Al Jazeera.
+Fuentes: Al Jazeera y AP.
 [ITEM]
 [ES]
-Alemania y Francia se preparan para protestas en el fin de semana de Halloween.
+Crisis política en Polonia.
 [ES]
-En Berlín, comercios cubren sus escaparates ante una gran manifestación convocada. Se esperan movilizaciones similares en Francia.
+La oposición ultraconservadora acusa al Gobierno de Donald Tusk de protagonizar un golpe, según El País. El presidente del país dio media vuelta en pleno vuelo de regreso desde Senegal.
 [ES]
-Fuente: Al Jazeera.
+Fuentes: El País.
 [ITEM]
 [ES]
-EE. UU.: los demócratas cortejan a los votantes Maha antes de las legislativas.
+La economía francesa se contrae un cero coma uno por ciento en el tercer trimestre.
 [ES]
-Votantes del movimiento Make America Healthy Again, decepcionados con el Gobierno de Trump por decisiones sobre pesticidas y por el lento avance de las metas alimentarias de Kennedy, son ahora un objetivo demócrata. Una encuesta de KFF indica que 42 por ciento de ellos pone la salud y el costo de los medicamentos como prioridad, aunque las vacunas siguen dividiendo.
+El PIB de Francia cayó una décima tras un leve descenso entre julio y septiembre. El País señala que el dato reduce aún más el margen de maniobra del Gobierno.
 [ES]
-Fuente: The Guardian.
+Fuentes: El País.
+[ITEM]
+[ES]
+Nigeria investiga dos presuntos casos de ébola.
+[ES]
+Las autoridades aíslan a dos sospechosos en el noreste del país mientras avanzan el rastreo de contactos y las pruebas. Nigeria declaró su primer caso en más de una década el veinte de octubre.
+[ES]
+Fuentes: Al Jazeera.
 [ES]
 Tecnología y Nicho.
 [ITEM]
 [ES]
-Depender de la IA te está oxidando el cerebro, dice una psicóloga, que propone añadir fricción.
+Aparecen grietas en el auge del gasto en inteligencia artificial.
 [ES]
-La psicóloga Carly Dober sostiene que delegar todo en herramientas de IA evita el esfuerzo mental que fortalece las conexiones neuronales, y menciona el nuevo agente personal Muse de Meta. Sugiere esperar unos 30 minutos antes de pedir ayuda a una IA, cerrar sesión en apps y mantener estas herramientas fuera del teléfono.
+TechCrunch señala los primeros signos de tensión en el crecimiento del gasto en infraestructura de IA. Nvidia estudiaría actuar como avalista del centro de datos de Nscale en Virginia Occidental, y la caída de Intel en bolsa ha restado unos doce mil millones de dólares al valor de la participación del Gobierno estadounidense.
 [ES]
-Fuente: The Guardian.
+Fuentes: TechCrunch.
 [ITEM]
 [ES]
-DoorDash: solo varios cientos de pedidos vienen de agentes de IA.
+El primer satélite centro de datos de Google ya funciona.
 [ES]
-La empresa reconoce que los agentes de IA han hecho apenas unos cientos de pedidos en su plataforma. Es un dato que enfría el entusiasmo por las compras delegadas a asistentes.
+Según TechCrunch, el primer satélite de Google que hace de centro de datos está en línea. Como detalle curioso, ya ha estado generando poesía.
 [ES]
-Fuente: TechCrunch.
+Fuentes: TechCrunch.
 [ITEM]
 [ES]
-Waymo usará Toyota para sus robotaxis en Japón y Reino Unido.
+En Hacker News: HackerTube y un equipo de modelos pequeños que desafía a uno grande.
 [ES]
-El próximo robotaxi de Waymo será una Toyota bZ4X destinada a esos dos mercados. Marca un paso de la expansión internacional de la compañía.
+HackerTube, un YouTube construido con vídeos recomendados por la comunidad y firmado por Andrej Karpathy, lidera la portada con quinientos catorce puntos. Más abajo, Memdoor afirma que un equipo de cinco modelos Qwen tres punto ocho de veintisiete mil millones de parámetros supera a Fable 5 en LiveCodeBench Hard, aunque con apenas veintiséis puntos aún es una señal temprana.
 [ES]
-Fuente: TechCrunch.
+Fuentes: Hacker News.
 [ITEM]
 [ES]
-Hacker News: puerta trasera en una extensión de Claude Code en el Marketplace de Cursor.
+SpaceX ya no necesita a la NASA, y eso es un problema para la agencia.
 [ES]
-Una publicación de Phorion sobre una extensión comprometida de Claude Code para VS Code en el Marketplace de Cursor fue la más comentada, con 682 puntos. Recuerda que las cadenas de suministro de extensiones son un blanco atractivo.
+Ars Technica sostiene que la independencia de SpaceX deja a la NASA en una posición más débil. Por otro lado, la agencia vuelve a pedir ideas para reimpulsar al telescopio Hubble, tras una convocatoria hace cuatro años que no dio resultados.
 [ES]
-Fuente: Hacker News y Phorion.
+Fuentes: Ars Technica.
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
 [ES]
-Hoy hay un hilo común: la fragilidad de los sistemas que dábamos por sentados. Un choque de trenes de alta velocidad en España, apagones que sacan a la gente a la calle en Cuba y petroleros incendiados en Ormuz muestran infraestructuras críticas bajo tensión. Para ti, que vives en el mundo hispanohablante, la lectura práctica es que la energía y el transporte importan más de lo que sus precios sugieren.
+Si miras las historias de hoy en conjunto, el hilo común es el coste de la vida y la energía. Ormuz, con petroleros golpeados por minas, es un cuello de botella del petróleo, y los jóvenes que protestan en Alemania, Francia, Italia o Portugal hablan justo de precios, vivienda y recortes. Vale la pena vigilar si una reapertura del estrecho alivia ese malestar o si, por el contrario, se prolonga.
 [ES]
-Ormuz conecta directamente con tu bolsillo: si la ruta sigue en riesgo, el petróleo puede encarecerse, algo que tiende a pegar en las importadoras de combustibles de América Latina y a favorecer, con matices, a exportadoras como México o Colombia. No es una predicción segura, pero vale la pena vigilar la mediación de Catar y Pakistán.
+Para ti, en el mundo hispanohablante, esto puede importar por dos vías: los precios de la energía y los combustibles, que se transmiten rápido a los presupuestos domésticos en toda Latinoamérica y España, y el apetito por riesgo de los mercados, que afecta a monedas de países importadores de petróleo. No es una predicción segura, pero un Ormuz inestable suele presionar el dólar al alza.
 [ES]
-Argentina ilustra el otro lado: cuando el dólar escasea y el riesgo país sube, cada vencimiento se vuelve un examen de credibilidad. Si Brasil sigue con turbulencia cambiaria, la región podría sentir un contagio, aunque eso depende de muchas variables.
+En tecnología hay una tensión interesante: mientras TechCrunch habla de grietas en el gasto en IA y de la caída de Intel, la comunidad de Hacker News celebra que un equipo de modelos pequeños compita con uno grande. Podría ser una señal de que el liderazgo en IA se reparte y se renueva rápido, aunque con un solo caso es pronto para concluir.
 [ES]
-Por último, la columna sobre IA y el dato de DoorDash sugieren que la adopción real de agentes va más lento que el relato. Quizá la lección sea combinar herramientas con criterio propio, y no delegarlo todo.
+Por último, la política muestra sociedades cada vez más tensas: Bolsonaro cuestiona las urnas, Polonia vive acusaciones de golpe e Israel ve movilizaciones para recomponer coaliciones. En España, la tragedia de Urda se cruza con un calendario electoral incierto. Vale la pena observar cómo las crisis de gestión, como la ferroviaria, pesan en el voto más que los grandes discursos.
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
 [ES]
-Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no una nueva argumentación completa.
+Seguimiento continuo de la hipótesis vigente: un escaneo diario informado por la tendencia reciente del registro, no una nueva discusión completa.
 [ES]
-Recordatorio de los sub-claims: a, ciclos de autoridad cada vez más cortos; b, más voz interior; c, alejamiento del individualismo; d, más colaboración y cohesión social.
+Hoy el balance por sub-afirmación: a, apoya, con ciclos que se acortan: Memdoor propone que un equipo de modelos pequeños alcance a uno de frontera, y TechCrunch muestra tensión en el gasto en IA; es el quinto día seguido con señal a favor y veintitrés de veintiséis entradas en total. b, neutral: no hay evidencia clara sobre voz interior hoy, en línea con la mayoría del registro, diecinueve de veintiséis. c, desafía: Irán, Bolsonaro, Netanyahu y Polonia refuerzan bloques enfrentados; quinto día seguido, y veintidós de veintiséis entradas con señal contraria.
 [ES]
-Sub-claim a, apoyo: el lanzamiento de Muse de Meta y los agentes de compra mencionados se mueven en semanas; es el apoyo a a en casi todos los días del registro reciente. Sub-claim b, apoyo: la columna de Carly Dober, en The Guardian, propone pausas y fricción antes de consultar a una IA; es la tercera señal de apoyo en seis entradas, tras el 26 y el 28 de octubre, aunque sigue siendo un evento aislado entre muchos días neutrales. El dato de DoorDash matiza la delegación masiva.
+d, apoya: las protestas juveniles coordinadas en Europa según AP y el duelo colectivo por Urda según Vozpopuli muestran acción colectiva; con hoy suma veinticuatro entradas seguidas con señal a favor.
 [ES]
-Sub-claim c, desafío: la guerra con Irán y los bloques enfrentados continúan una racha de desafío, según Al Jazeera. Sub-claim d, apoyo: la mediación de Catar y las protestas coordinadas en Alemania y Francia, también según Al Jazeera, mantienen la racha de apoyo. Aún no existe una revisión integral previa.
+Revisión Integral.
+[ES]
+Con veinticinco entradas en el registro, el patrón es nítido y poco favorable a la cadena como cadena. a y d acumulan apoyo casi constante, veintidós y veinticuatro entradas con señal a favor, pero b apenas se mueve: solo tres señales de apoyo, todas en los últimos seis días, frente a tres de desafío y diecinueve neutrales. Y c no tiene ni una sola señal de apoyo: veintiuna de desafío y cuatro neutrales.
+[ES]
+La pregunta clave es si el apoyo a b llega después de rachas de apoyo a a, y la respuesta hasta ahora es que no se ve propagación: a lleva semanas fuertes sin que b o c respondan. d se sostiene de forma casi independiente: son protestas por vivienda y coste de la vida, que pueden nacer de agravios más que de una voz interior fortalecida. Es decir, dos series que se mueven por su lado, no eslabones conectados.
+[ES]
+Hay matices importantes: son solo cuatro semanas, el sesgo de selección de las noticias favorece la polarización y los titulares de guerra, y la hipótesis habla de un proceso de meses o años. Aun así, mi veredicto es net challenge: la evidencia se queda atascada en los primeros eslabones y no se propaga hacia c. No está disconfirmada. Para darla por refutada haría falta que, durante dos o tres meses más, b siguiera neutral y c en contra mientras d se explica claramente por agravio y no por cooperación.
+[ES]
+Lo que haría cambiar el veredicto: una racha donde aparezcan señales de apoyo en b y c justo después de rachas en a, por ejemplo, evidencia de personas que reducen su dependencia de la IA y recuperan comunidades presenciales.
