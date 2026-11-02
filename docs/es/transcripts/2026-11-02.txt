@@ -1,0 +1,149 @@
+[ES]
+Buenos días. Este es tu resumen diario del lunes 2 de noviembre de 2026.
+
+[ES]
+Nota sobre fuentes: hoy no pude leer directamente BBC Mundo, DW en Español, El País ni The Guardian, y cubrí esos huecos con otros medios y búsquedas.
+
+[ES]
+Titulares.
+
+[ES]
+Binance sufre un hackeo histórico y los clientes retiran fondos.
+
+[ES]
+Binance confirmó que investiga un incidente de seguridad tras detectar fondos drenados de sus billeteras, y pausó temporalmente los retiros en varias redes. La empresa asegura que el dinero de los usuarios está a salvo y su fundador, Changpeng Zhao, espera que quede cubierto por completo, aunque las estimaciones de pérdidas van desde 2.000 millones hasta unos 6.300 millones de dólares y siguen sin confirmarse. Circle y Tether congelaron cerca de 2.400 millones en fondos vinculados, y hoy The Guardian informa de clientes que siguen retirando dinero.
+
+[ES]
+Fuentes: TechCrunch, The Guardian.
+
+[ES]
+Las petroleras se llenan los bolsillos con la guerra de Irán.
+
+[ES]
+Nueve de las mayores petroleras del mundo suman unos 95.000 millones de dólares de beneficio en el tercer trimestre, según The Guardian. La guerra de Estados Unidos e Israel contra Irán, iniciada en febrero, ha alterado el tránsito por el estrecho de Ormuz y llevado la energía a máximos de varios años, con márgenes de refinación de tres a cuatro veces los de hace un año en Shell, BP y TotalEnergies. Los analistas vigilan si usarán el dinero para reducir deuda y recomprar acciones o para invertir más.
+
+[ES]
+Fuentes: The Guardian, OE Digital.
+
+[ES]
+Protestas por el costo de vida sacuden Francia, Alemania y Portugal.
+
+[ES]
+Las marchas del sábado en Francia fueron menos violentas que las de fines de semana anteriores, aunque hubo 779 detenciones y tres policías heridos con cócteles molotov en París. Se esperan nuevas movilizaciones con la vuelta a clases y hay una huelga general convocada para el jueves. En Alemania más de 100.000 jóvenes marcharon en su mayoría pacíficamente, pero hubo disturbios y saqueos en Fráncfort, y en Lisboa la policía desalojó a manifestantes que exigían vivienda asequible.
+
+[ES]
+Fuentes: Arab News.
+
+[ES]
+España y Latinoamérica.
+
+[ES]
+España recomienda de nuevo vacunarse contra la covid a los grupos de riesgo.
+
+[ES]
+La comisión de salud pública recomienda la vacuna a mayores de 70 años, residentes de centros de mayores y personas desde los 6 meses con condiciones que elevan el riesgo, como inmunodepresión o enfermedades crónicas graves. También la aconseja a mayores de 12 con diabetes, obesidad o enfermedad renal, a todas las embarazadas y al personal sanitario y cuidadores. Puede administrarse junto con la vacuna de la gripe.
+
+[ES]
+Fuentes: elDiario.es.
+
+[ES]
+El satélite Swift de la NASA caerá a la Tierra este mes.
+
+[ES]
+El observatorio Swift, de 1.500 kilos, reingresará a la atmósfera en noviembre tras 22 años en órbita y un intento de rescate fallido a mediados de 2026. La franja de posible reentrada es amplia e incluye partes de África, Australia, India, el sudeste asiático y Sudamérica, por lo que aún no se sabe dónde ni cuándo caerán los fragmentos.
+
+[ES]
+Fuentes: Wired en Español.
+
+[ES]
+Mundo.
+
+[ES]
+Bulgaria: sondeos dan la victoria a la presidenta prorrusa Iliana Yotova.
+
+[ES]
+Los sondeos a pie de urna proyectan que la presidenta en funciones, Iliana Yotova, ganó la segunda vuelta con algo más del 51% frente a cerca del 44% de Andrey Gyurov, apoyado por la oposición proeuropea. Yotova defiende restablecer lazos con Rusia y poner fin a la ayuda militar a Ucrania, y la participación habría rondado el 26%. Falta el conteo oficial, pero de confirmarse sería la primera mujer elegida por voto popular para el cargo.
+
+[ES]
+Fuentes: Infobae.
+
+[ES]
+Una demócrata apoya a un republicano al Senado en Michigan, dos días antes de las elecciones.
+
+[ES]
+La congresista Haley Stevens respaldó al republicano Mike Rogers frente al candidato demócrata Abdul El-Sayed, quien la derrotó en las primarias de agosto. La ruptura nace de tensiones por Israel y Gaza, y Chuck Schumer la calificó de traición despreciable mientras Trump la celebró. El resultado ayudará a decidir quién sucede al senador Gary Peters.
+
+[ES]
+Fuentes: Al Jazeera.
+
+[ES]
+Un jet privado se estrella en Florida y deja al menos nueve muertos.
+
+[ES]
+El avión, que había salido de Austin, Texas, se estrelló en la zona de Palm Beach, al sur de Florida, tras golpear un árbol y tendidos eléctricos, según medios locales, y cayó sobre un parque de casas rodantes. Las autoridades confirmaron al menos nueve muertos y se abrió una investigación.
+
+[ES]
+Fuentes: Cadena SER.
+
+[ES]
+Un buen informe de empleo en Estados Unidos podría empujar nuevas alzas de tasas de la Fed.
+
+[ES]
+Los analistas esperan que el informe del viernes muestre unos 65.000 empleos creados en octubre, más del doble que antes, con el desempleo estable en 4,2%. Eso mantendría a la Reserva Federal en camino de seguir subiendo tasas para frenar la inflación. Bloomberg Economics ve un mercado laboral que pierde impulso, pero sin desplomarse.
+
+[ES]
+Fuentes: The Star de Malasia.
+
+[ES]
+Tecnología y Nicho.
+
+[ES]
+Musk suma dos terrenos a su campus de IA Colossus 2 en Memphis.
+
+[ES]
+Elon Musk anunció que agregará dos sitios, apodados Spam y Gun Range, al complejo Colossus 2 en Tennessee; espera tener el segundo operativo a fines de noviembre y el primero en diciembre. El proyecto enfrenta oposición local y una demanda de la NAACP por turbinas de gas sin permiso, que un juez dejó avanzar.
+
+[ES]
+Fuentes: Business Insider.
+
+[ES]
+HackerTube: un YouTube hecho con videos recomendados por Hacker News.
+
+[ES]
+Harto de las recomendaciones algorítmicas de YouTube, Andrej Karpathy pidió a Claude Opus 5.5 construir un sitio con los videos que la comunidad de Hacker News ha recomendado. Se reunieron unos 6.454 videos de 2007 a 2026 en 150 temas, con recomendaciones sin cuenta y datos exportables, y el autor dice que todo tomó unas dos horas. Es la historia más votada hoy en Hacker News.
+
+[ES]
+Fuentes: Hacker News, blog de Karpathy.
+
+[ES]
+Conectando los Puntos.
+
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
+[ES]
+Si miras juntas la ganancia récord de las petroleras y las protestas por costo de vida en Europa, aparece una misma cadena: la guerra con Irán encarece la energía, unos pocos ganan mucho y muchos otros sienten el golpe en vivienda, transporte y supermercado. No es una predicción segura, pero vale la pena vigilar si ese malestar se vuelve más persistente y más coordinado entre países.
+
+[ES]
+Para ti, en el mundo hispanohablante, la lectura práctica es doble. Si tu moneda o tus ingresos dependen de importar combustible, un petróleo caro y una Fed que podría seguir subiendo tasas suelen significar dólar fuerte y crédito más caro; si tu país exporta energía o cobre, el efecto puede ser el contrario. En España, el costo de la vivienda y la energía ya alimenta las mismas tensiones que se ven en Francia y Portugal.
+
+[ES]
+El hackeo de Binance y la rapidez con que se construyen cosas con IA, como HackerTube en dos horas, apuntan a otra tendencia: construir es cada vez más barato, pero confiar en quién custodia tus datos o tu dinero es cada vez más difícil. Para quien guarda ahorros en cripto, sobre todo en países con inflación alta, es un recordatorio de que custodia propia y diversificar no son solo consignas.
+
+[ES]
+Por último, las elecciones en Bulgaria y la ruptura de Stevens en Michigan muestran que las lealtades políticas tradicionales se están reacomodando. Con elecciones en juego en la región, puede valer la pena vigilar si ocurre algo parecido en Latinoamérica.
+
+[ES]
+Vigilancia de la Hipótesis.
+
+[ES]
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no una nueva argumentación completa.
+
+[ES]
+Los subclaims son: a, ciclos de autoridad cada vez más cortos; b, más voz interior individual; c, alejamiento del individualismo; d, más colaboración y cohesión social.
+
+[ES]
+Sobre a: apoya. HackerTube se construyó en unas dos horas con un modelo de IA, un ejemplo de lo rápido que se renueva lo que antes era un proyecto largo. Continúa una racha muy larga de lecturas de apoyo en el último mes. Sobre b: señal débil a favor, porque el autor, harto del algoritmo de YouTube, optó por una curaduría propia y comunitaria; es ambigua y llega tras una racha mayormente neutral. Sobre c: complica. La ruptura de Stevens con su partido en Michigan y la victoria de una candidata prorrusa en Bulgaria muestran bloques y lealtades enfrentadas, y c lleva casi todo el mes en contra. Sobre d: apoya, con protestas coordinadas en Francia, Alemania y Portugal, aunque nacen de agravios más que de colaboración deliberada.
+
+[ES]
+La revisión integral de noviembre concluyó net challenge para la cadena completa, con vínculo entre eslabones no; nada de hoy cambia ese veredicto, ya que a y d siguen avanzando mientras b y c apenas se mueven.
