@@ -1,167 +1,164 @@
+[SECTION intro]
+[ES]
+Buenos días. Este es tu resumen diario del lunes 2 de noviembre de 2026.
+
+[ES]
+Nota sobre fuentes: hoy no pude leer directamente BBC Mundo, DW en Español, El País ni The Guardian, y cubrí esos huecos con otros medios y búsquedas.
+
 [SECTION news]
 [ES]
 Titulares.
+
 [ITEM]
 [ES]
-Irán estudia un plan de dos días para reabrir Ormuz mientras Trump dice que las conversaciones van bien.
+Binance sufre un hackeo histórico y los clientes retiran fondos.
+
 [ES]
-Según Al Jazeera, Teherán sopesa un plan de dos días para reabrir el estrecho de Ormuz, y Trump asegura que las conversaciones van bien. Irán, sin embargo, afirma que no tiene intención de entrar en negociaciones nucleares con Estados Unidos. DW informa de otro petrolero incendiado tras chocar con una mina en la zona, y AP recoge que el líder iraní advierte de que cualquier respuesta a un ataque no tendría límites geográficos.
+Binance confirmó que investiga un incidente de seguridad tras detectar fondos drenados de sus billeteras, y pausó temporalmente los retiros en varias redes. La empresa asegura que el dinero de los usuarios está a salvo y su fundador, Changpeng Zhao, espera que quede cubierto por completo, aunque las estimaciones de pérdidas van desde 2.000 millones hasta unos 6.300 millones de dólares y siguen sin confirmarse. Circle y Tether congelaron cerca de 2.400 millones en fondos vinculados, y hoy The Guardian informa de clientes que siguen retirando dinero.
+
 [ES]
-Fuentes: Al Jazeera, DW y AP.
+Fuentes: TechCrunch, The Guardian.
+
 [ITEM]
 [ES]
-España llora a las víctimas del accidente ferroviario de Urda, en Toledo.
+Las petroleras se llenan los bolsillos con la guerra de Irán.
+
 [ES]
-El Centro de Integración de Datos ha identificado ya a cincuenta y seis de las sesenta y nueve víctimas mortales; cincuenta y cuatro son españolas, una francesa y una portuguesa. El municipio celebró una misa funeral para despedir a los fallecidos. BBC Mundo analiza cómo el desastre ensombrece las opciones de reelección de Pedro Sánchez de cara a unas elecciones generales anticipadas, y Emol repasa las grietas de un modelo ferroviario que suma dos tragedias en nueve meses.
+Nueve de las mayores petroleras del mundo suman unos 95.000 millones de dólares de beneficio en el tercer trimestre, según The Guardian. La guerra de Estados Unidos e Israel contra Irán, iniciada en febrero, ha alterado el tránsito por el estrecho de Ormuz y llevado la energía a máximos de varios años, con márgenes de refinación de tres a cuatro veces los de hace un año en Shell, BP y TotalEnergies. Los analistas vigilan si usarán el dinero para reducir deuda y recomprar acciones o para invertir más.
+
 [ES]
-Fuentes: Vozpopuli, El País, BBC Mundo y Emol.
+Fuentes: The Guardian, OE Digital.
+
 [ITEM]
 [ES]
-Protestas juveniles por el coste de la vida sacuden Europa.
+Protestas por el costo de vida sacuden Francia, Alemania y Portugal.
+
 [ES]
-DW cuenta que protestas de jóvenes en varias ciudades alemanas, impulsadas por el movimiento Gen Z contra recortes sociales y el coste de la vida, terminaron en violencia; la BBC habla de comercios saqueados. Francia vivió su tercer fin de semana de movilizaciones masivas e Italia vio protestas multitudinarias durante una huelga nacional. En Portugal, según Al Jazeera, la policía desalojó campamentos de protesta por la vivienda, los alquileres y los salarios bajos.
+Las marchas del sábado en Francia fueron menos violentas que las de fines de semana anteriores, aunque hubo 779 detenciones y tres policías heridos con cócteles molotov en París. Se esperan nuevas movilizaciones con la vuelta a clases y hay una huelga general convocada para el jueves. En Alemania más de 100.000 jóvenes marcharon en su mayoría pacíficamente, pero hubo disturbios y saqueos en Fráncfort, y en Lisboa la policía desalojó a manifestantes que exigían vivienda asequible.
+
 [ES]
-Fuentes: DW, BBC, AP y Al Jazeera.
-[ITEM]
-[ES]
-El FBI atribuye a Corea del Norte el hackeo de seis mil trescientos millones de dólares a Binance.
-[ES]
-El FBI responsabiliza al grupo vinculado a Corea del Norte conocido como TraderTraitor del mayor robo de la historia de las criptomonedas. Binance asegura que ya repuso el noventa por ciento de los fondos robados y que cubrirá el resto. DW añade que la plataforma volvió a permitir la retirada de fondos.
-[ES]
-Fuentes: The Guardian, AP, BBC, DW y Emol.
-[ITEM]
-[ES]
-Bolsonaro dice que huyó de Brasil y Washington niega haberlo ayudado.
-[ES]
-Emol recoge que Jair Bolsonaro calificó de matemáticamente imposible el resultado de las elecciones brasileñas y afirmó que salió del país en secreto el martes. Según Al Jazeera, el secretario de Estado Marco Rubio rechazó que el Gobierno de Trump lo ayudara a viajar a Estados Unidos.
-[ES]
-Fuentes: Emol y Al Jazeera.
+Fuentes: Arab News.
+
 [ES]
 España y Latinoamérica.
+
 [ITEM]
 [ES]
-Rusia veta en la ONU el plan de Estados Unidos para acelerar la entrega del Sáhara a Marruecos.
+España recomienda de nuevo vacunarse contra la covid a los grupos de riesgo.
+
 [ES]
-El veto cruzado entre Estados Unidos y Rusia en el Consejo de Seguridad dio por finalizado el mandato de la misión internacional creada en mil novecientos noventa y uno. El País señala que Moscú golpea la diplomacia Washington-Rabat, que defendía el plan de autonomía marroquí como única solución al conflicto.
+La comisión de salud pública recomienda la vacuna a mayores de 70 años, residentes de centros de mayores y personas desde los 6 meses con condiciones que elevan el riesgo, como inmunodepresión o enfermedades crónicas graves. También la aconseja a mayores de 12 con diabetes, obesidad o enfermedad renal, a todas las embarazadas y al personal sanitario y cuidadores. Puede administrarse junto con la vacuna de la gripe.
+
 [ES]
-Fuentes: La Voz de Galicia y El País.
+Fuentes: elDiario.es.
+
 [ITEM]
 [ES]
-Chile debate si se suma a la coalición contra los cárteles de Estados Unidos.
+El satélite Swift de la NASA caerá a la Tierra este mes.
+
 [ES]
-Emol repasa los argumentos a favor y en contra de que Chile participe en la iniciativa A3C, después de que Washington fijara un plazo de treinta días para decidir. En paralelo, el presidente de RN, Balladares, sostuvo que la remoción de Silva no puede entenderse como el cierre de esta crisis.
+El observatorio Swift, de 1.500 kilos, reingresará a la atmósfera en noviembre tras 22 años en órbita y un intento de rescate fallido a mediados de 2026. La franja de posible reentrada es amplia e incluye partes de África, Australia, India, el sudeste asiático y Sudamérica, por lo que aún no se sabe dónde ni cuándo caerán los fragmentos.
+
 [ES]
-Fuentes: Emol.
-[ITEM]
-[ES]
-Ecuador inicia su cuarto toque de queda del año.
-[ES]
-Según DW, el país arrancó un nuevo toque de queda para frenar los altos índices de criminalidad. Es el cuarto que se aplica en lo que va de dos mil veintiséis.
-[ES]
-Fuentes: DW.
+Fuentes: Wired en Español.
+
 [ES]
 Mundo.
+
 [ITEM]
 [ES]
-Miles de israelíes piden una coalición judeo-árabe para desbancar a Netanyahu.
+Bulgaria: sondeos dan la victoria a la presidenta prorrusa Iliana Yotova.
+
 [ES]
-Al Jazeera informa de una gran concentración en Israel a favor de una alianza entre partidos judíos y árabes que aparte a Netanyahu del poder. Según El País, el primer ministro pidió a los partidos judíos no aliarse con formaciones árabes, alegando una supuesta injerencia de Catar, mientras la oposición ve en ello una maniobra. AP añade que un exagente judío de policía tendrá escaño por un partido islamista en el nuevo Parlamento.
+Los sondeos a pie de urna proyectan que la presidenta en funciones, Iliana Yotova, ganó la segunda vuelta con algo más del 51% frente a cerca del 44% de Andrey Gyurov, apoyado por la oposición proeuropea. Yotova defiende restablecer lazos con Rusia y poner fin a la ayuda militar a Ucrania, y la participación habría rondado el 26%. Falta el conteo oficial, pero de confirmarse sería la primera mujer elegida por voto popular para el cargo.
+
 [ES]
-Fuentes: Al Jazeera, El País y AP.
+Fuentes: Infobae.
+
 [ITEM]
 [ES]
-Un juez desestima la demanda de Trump contra el Wall Street Journal por el caso Epstein.
+Una demócrata apoya a un republicano al Senado en Michigan, dos días antes de las elecciones.
+
 [ES]
-Un juez federal de Florida desechó la versión revisada de la demanda por difamación de diez mil millones de dólares sobre una carta de cumpleaños atribuida a Epstein. AP cita que el magistrado habló de aferrarse a un clavo ardiendo.
-[ES]
-Fuentes: AP y NBC News.
-[ITEM]
-[ES]
-A tres días de las elecciones de medio mandato en Estados Unidos, se dispara el voto anticipado.
-[ES]
-Al Jazeera repasa lo que dicen las últimas encuestas mientras crece la participación anticipada. Un análisis de AP halló que más del cuarenta por ciento de los nombres de una lista del Departamento de Justicia de supuestos no ciudadanos no figuran en los registros electorales de California.
-[ES]
-Fuentes: Al Jazeera y AP.
-[ITEM]
-[ES]
-Crisis política en Polonia.
-[ES]
-La oposición ultraconservadora acusa al Gobierno de Donald Tusk de protagonizar un golpe, según El País. El presidente del país dio media vuelta en pleno vuelo de regreso desde Senegal.
-[ES]
-Fuentes: El País.
-[ITEM]
-[ES]
-La economía francesa se contrae un cero coma uno por ciento en el tercer trimestre.
-[ES]
-El PIB de Francia cayó una décima tras un leve descenso entre julio y septiembre. El País señala que el dato reduce aún más el margen de maniobra del Gobierno.
-[ES]
-Fuentes: El País.
-[ITEM]
-[ES]
-Nigeria investiga dos presuntos casos de ébola.
-[ES]
-Las autoridades aíslan a dos sospechosos en el noreste del país mientras avanzan el rastreo de contactos y las pruebas. Nigeria declaró su primer caso en más de una década el veinte de octubre.
+La congresista Haley Stevens respaldó al republicano Mike Rogers frente al candidato demócrata Abdul El-Sayed, quien la derrotó en las primarias de agosto. La ruptura nace de tensiones por Israel y Gaza, y Chuck Schumer la calificó de traición despreciable mientras Trump la celebró. El resultado ayudará a decidir quién sucede al senador Gary Peters.
+
 [ES]
 Fuentes: Al Jazeera.
+
+[ITEM]
+[ES]
+Un jet privado se estrella en Florida y deja al menos nueve muertos.
+
+[ES]
+El avión, que había salido de Austin, Texas, se estrelló en la zona de Palm Beach, al sur de Florida, tras golpear un árbol y tendidos eléctricos, según medios locales, y cayó sobre un parque de casas rodantes. Las autoridades confirmaron al menos nueve muertos y se abrió una investigación.
+
+[ES]
+Fuentes: Cadena SER.
+
+[ITEM]
+[ES]
+Un buen informe de empleo en Estados Unidos podría empujar nuevas alzas de tasas de la Fed.
+
+[ES]
+Los analistas esperan que el informe del viernes muestre unos 65.000 empleos creados en octubre, más del doble que antes, con el desempleo estable en 4,2%. Eso mantendría a la Reserva Federal en camino de seguir subiendo tasas para frenar la inflación. Bloomberg Economics ve un mercado laboral que pierde impulso, pero sin desplomarse.
+
+[ES]
+Fuentes: The Star de Malasia.
+
 [ES]
 Tecnología y Nicho.
+
 [ITEM]
 [ES]
-Aparecen grietas en el auge del gasto en inteligencia artificial.
+Musk suma dos terrenos a su campus de IA Colossus 2 en Memphis.
+
 [ES]
-TechCrunch señala los primeros signos de tensión en el crecimiento del gasto en infraestructura de IA. Nvidia estudiaría actuar como avalista del centro de datos de Nscale en Virginia Occidental, y la caída de Intel en bolsa ha restado unos doce mil millones de dólares al valor de la participación del Gobierno estadounidense.
+Elon Musk anunció que agregará dos sitios, apodados Spam y Gun Range, al complejo Colossus 2 en Tennessee; espera tener el segundo operativo a fines de noviembre y el primero en diciembre. El proyecto enfrenta oposición local y una demanda de la NAACP por turbinas de gas sin permiso, que un juez dejó avanzar.
+
 [ES]
-Fuentes: TechCrunch.
+Fuentes: Business Insider.
+
 [ITEM]
 [ES]
-El primer satélite centro de datos de Google ya funciona.
+HackerTube: un YouTube hecho con videos recomendados por Hacker News.
+
 [ES]
-Según TechCrunch, el primer satélite de Google que hace de centro de datos está en línea. Como detalle curioso, ya ha estado generando poesía.
+Harto de las recomendaciones algorítmicas de YouTube, Andrej Karpathy pidió a Claude Opus 5.5 construir un sitio con los videos que la comunidad de Hacker News ha recomendado. Se reunieron unos 6.454 videos de 2007 a 2026 en 150 temas, con recomendaciones sin cuenta y datos exportables, y el autor dice que todo tomó unas dos horas. Es la historia más votada hoy en Hacker News.
+
 [ES]
-Fuentes: TechCrunch.
-[ITEM]
-[ES]
-En Hacker News: HackerTube y un equipo de modelos pequeños que desafía a uno grande.
-[ES]
-HackerTube, un YouTube construido con vídeos recomendados por la comunidad y firmado por Andrej Karpathy, lidera la portada con quinientos catorce puntos. Más abajo, Memdoor afirma que un equipo de cinco modelos Qwen tres punto ocho de veintisiete mil millones de parámetros supera a Fable 5 en LiveCodeBench Hard, aunque con apenas veintiséis puntos aún es una señal temprana.
-[ES]
-Fuentes: Hacker News.
-[ITEM]
-[ES]
-SpaceX ya no necesita a la NASA, y eso es un problema para la agencia.
-[ES]
-Ars Technica sostiene que la independencia de SpaceX deja a la NASA en una posición más débil. Por otro lado, la agencia vuelve a pedir ideas para reimpulsar al telescopio Hubble, tras una convocatoria hace cuatro años que no dio resultados.
-[ES]
-Fuentes: Ars Technica.
+Fuentes: Hacker News, blog de Karpathy.
+
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
+
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
 [ES]
-Si miras las historias de hoy en conjunto, el hilo común es el coste de la vida y la energía. Ormuz, con petroleros golpeados por minas, es un cuello de botella del petróleo, y los jóvenes que protestan en Alemania, Francia, Italia o Portugal hablan justo de precios, vivienda y recortes. Vale la pena vigilar si una reapertura del estrecho alivia ese malestar o si, por el contrario, se prolonga.
+Si miras juntas la ganancia récord de las petroleras y las protestas por costo de vida en Europa, aparece una misma cadena: la guerra con Irán encarece la energía, unos pocos ganan mucho y muchos otros sienten el golpe en vivienda, transporte y supermercado. No es una predicción segura, pero vale la pena vigilar si ese malestar se vuelve más persistente y más coordinado entre países.
+
 [ES]
-Para ti, en el mundo hispanohablante, esto puede importar por dos vías: los precios de la energía y los combustibles, que se transmiten rápido a los presupuestos domésticos en toda Latinoamérica y España, y el apetito por riesgo de los mercados, que afecta a monedas de países importadores de petróleo. No es una predicción segura, pero un Ormuz inestable suele presionar el dólar al alza.
+Para ti, en el mundo hispanohablante, la lectura práctica es doble. Si tu moneda o tus ingresos dependen de importar combustible, un petróleo caro y una Fed que podría seguir subiendo tasas suelen significar dólar fuerte y crédito más caro; si tu país exporta energía o cobre, el efecto puede ser el contrario. En España, el costo de la vivienda y la energía ya alimenta las mismas tensiones que se ven en Francia y Portugal.
+
 [ES]
-En tecnología hay una tensión interesante: mientras TechCrunch habla de grietas en el gasto en IA y de la caída de Intel, la comunidad de Hacker News celebra que un equipo de modelos pequeños compita con uno grande. Podría ser una señal de que el liderazgo en IA se reparte y se renueva rápido, aunque con un solo caso es pronto para concluir.
+El hackeo de Binance y la rapidez con que se construyen cosas con IA, como HackerTube en dos horas, apuntan a otra tendencia: construir es cada vez más barato, pero confiar en quién custodia tus datos o tu dinero es cada vez más difícil. Para quien guarda ahorros en cripto, sobre todo en países con inflación alta, es un recordatorio de que custodia propia y diversificar no son solo consignas.
+
 [ES]
-Por último, la política muestra sociedades cada vez más tensas: Bolsonaro cuestiona las urnas, Polonia vive acusaciones de golpe e Israel ve movilizaciones para recomponer coaliciones. En España, la tragedia de Urda se cruza con un calendario electoral incierto. Vale la pena observar cómo las crisis de gestión, como la ferroviaria, pesan en el voto más que los grandes discursos.
+Por último, las elecciones en Bulgaria y la ruptura de Stevens en Michigan muestran que las lealtades políticas tradicionales se están reacomodando. Con elecciones en juego en la región, puede valer la pena vigilar si ocurre algo parecido en Latinoamérica.
+
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
+
 [ES]
-Seguimiento continuo de la hipótesis vigente: un escaneo diario informado por la tendencia reciente del registro, no una nueva discusión completa.
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no una nueva argumentación completa.
+
 [ES]
-Hoy el balance por sub-afirmación: a, apoya, con ciclos que se acortan: Memdoor propone que un equipo de modelos pequeños alcance a uno de frontera, y TechCrunch muestra tensión en el gasto en IA; es el quinto día seguido con señal a favor y veintitrés de veintiséis entradas en total. b, neutral: no hay evidencia clara sobre voz interior hoy, en línea con la mayoría del registro, diecinueve de veintiséis. c, desafía: Irán, Bolsonaro, Netanyahu y Polonia refuerzan bloques enfrentados; quinto día seguido, y veintidós de veintiséis entradas con señal contraria.
+Los subclaims son: a, ciclos de autoridad cada vez más cortos; b, más voz interior individual; c, alejamiento del individualismo; d, más colaboración y cohesión social.
+
 [ES]
-d, apoya: las protestas juveniles coordinadas en Europa según AP y el duelo colectivo por Urda según Vozpopuli muestran acción colectiva; con hoy suma veinticuatro entradas seguidas con señal a favor.
+Sobre a: apoya. HackerTube se construyó en unas dos horas con un modelo de IA, un ejemplo de lo rápido que se renueva lo que antes era un proyecto largo. Continúa una racha muy larga de lecturas de apoyo en el último mes. Sobre b: señal débil a favor, porque el autor, harto del algoritmo de YouTube, optó por una curaduría propia y comunitaria; es ambigua y llega tras una racha mayormente neutral. Sobre c: complica. La ruptura de Stevens con su partido en Michigan y la victoria de una candidata prorrusa en Bulgaria muestran bloques y lealtades enfrentadas, y c lleva casi todo el mes en contra. Sobre d: apoya, con protestas coordinadas en Francia, Alemania y Portugal, aunque nacen de agravios más que de colaboración deliberada.
+
 [ES]
-Revisión Integral.
-[ES]
-Con veinticinco entradas en el registro, el patrón es nítido y poco favorable a la cadena como cadena. a y d acumulan apoyo casi constante, veintidós y veinticuatro entradas con señal a favor, pero b apenas se mueve: solo tres señales de apoyo, todas en los últimos seis días, frente a tres de desafío y diecinueve neutrales. Y c no tiene ni una sola señal de apoyo: veintiuna de desafío y cuatro neutrales.
-[ES]
-La pregunta clave es si el apoyo a b llega después de rachas de apoyo a a, y la respuesta hasta ahora es que no se ve propagación: a lleva semanas fuertes sin que b o c respondan. d se sostiene de forma casi independiente: son protestas por vivienda y coste de la vida, que pueden nacer de agravios más que de una voz interior fortalecida. Es decir, dos series que se mueven por su lado, no eslabones conectados.
-[ES]
-Hay matices importantes: son solo cuatro semanas, el sesgo de selección de las noticias favorece la polarización y los titulares de guerra, y la hipótesis habla de un proceso de meses o años. Aun así, mi veredicto es net challenge: la evidencia se queda atascada en los primeros eslabones y no se propaga hacia c. No está disconfirmada. Para darla por refutada haría falta que, durante dos o tres meses más, b siguiera neutral y c en contra mientras d se explica claramente por agravio y no por cooperación.
-[ES]
-Lo que haría cambiar el veredicto: una racha donde aparezcan señales de apoyo en b y c justo después de rachas en a, por ejemplo, evidencia de personas que reducen su dependencia de la IA y recuperan comunidades presenciales.
+La revisión integral de noviembre concluyó net challenge para la cadena completa, con vínculo entre eslabones no; nada de hoy cambia ese veredicto, ya que a y d siguen avanzando mientras b y c apenas se mueven.
