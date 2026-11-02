@@ -1,199 +1,123 @@
 [SECTION intro]
-[EN]
-Good morning, Patricio. It's a heavy news day — a flare-up in the Gulf, the US midterms two days out, a wobble running through the whole AI trade, and constitutional drama in Poland. Here's the rundown, skimmable in about five minutes.
-[EN]
-A note on sources today: several big outlets wouldn't load directly this morning — the New York Times and Washington Post, which are paywalled as usual, plus Reuters, AP, BBC, DW and El País, which hit bot-detection blocks. I covered those beats through Al Jazeera, the Guardian, Chile's Emol, Sweden's SvD, SVT and Aftonbladet, and NRK, so no story is missing because of it.
+[EN] Good morning, Patricio. It's a heavy news day: the US heads into midterms tomorrow, the Iran–US war is in a tense, talk-and-strike limbo, the biggest crypto hack in history is being pinned on North Korea, and closer to your world, President Kast is riding out the worst political storm of his young government. Here's the rundown.
+[EN] A quick sourcing note. Every named source was reachable today, most directly and a handful through the article-extraction fallback. The New York Times and Washington Post sit behind subscription paywalls, so stories that would have run there are covered via Reuters, AP, the Guardian and the BBC instead. The Spanish headlines feed returned stale sports results today, so the Spain and Latin America section is sourced directly from El País, La Tercera, EMOL and Xinhua Español.
 [SECTION news]
-[EN]
-Top Stories.
+[EN] Top Stories.
 [ITEM]
-[EN]
-The Iran–US war reignites in the Strait of Hormuz.
-[EN]
-Iran's supreme leader has ordered the military to answer any attack with an immediate, unrestricted response regardless of location, as Iran says four oil tankers were struck by mines in the Strait of Hormuz and Trump hints at fresh strikes while insisting the conflict will end soon. This is the most dangerous moment in the Gulf in weeks, and it sits directly on top of the world's most important oil chokepoint — which is why it leads today. Expect energy markets to open jumpy.
-[EN]
-Sources: Al Jazeera, ABC News, and CNBC.
+[EN] The Iran–US war settles into a tense "talk and strike" limbo.
+[EN] Qatari-mediated negotiations in Doha ran into a third day before Iran's delegation reportedly left, with officials saying a draft proposal for a US deal is now circulating. Tehran's tone stayed hard — its leadership warned any renewed attack would face a response with "no geographic limitations" — even as mediators push a two-day plan to reopen the Strait of Hormuz. The war premium is still rippling through markets: oil has been hovering around a hundred and ten dollars a barrel and nine of the world's biggest oil firms are on track to clear more than ninety-five billion dollars in combined third-quarter profit.
+[EN] Sources: Reuters, Al Jazeera, AP.
 [ITEM]
-[EN]
-US midterms: record early vote, Democrats ahead, two days to go.
-[EN]
-More than 43 million Americans have already cast ballots before Tuesday's vote, and Democrats are leading the generic-ballot polls and touting momentum as Trump lines up his closing rallies. Control of both the House and Senate is genuinely in play, and the result will reshape how much of Trump's second-term agenda can actually move. The polling edge is real but modest — and 2026's pollsters remember 2016 and 2024, so nobody's calling it.
-[EN]
-Sources: Al Jazeera and Scripps News.
+[EN] The US votes tomorrow, and the polls point to a Democratic wave.
+[EN] Trump made a final weekend campaign push while surveys suggest Democrats could surge in Tuesday's midterms, a verdict that would reshape the back half of his term. A judge has ordered the administration to stop threatening election officials, "No Kings" rallies are pushing early turnout, and Kamala Harris is back on the trail at her alma mater, insisting she hasn't decided on 2028. One Michigan Democrat's endorsement of a Republican has scrambled a pivotal Senate race.
+[EN] Sources: BBC, Guardian, Reuters, DW.
 [ITEM]
-[EN]
-The AI trade wobbles — hard.
-[EN]
-OpenAI has quietly cut the valuation target on its new thirty-billion-dollar raise from one-point-four trillion down to one-point-two-five trillion after investors pushed back, Anthropic is reportedly set to get a high-yield junk credit rating from agencies ahead of its IPO, and markets sold off on AI doubts — Wall Street closed red and Chile's IPSA fell nearly three percent. After two years of the frontier labs can do no wrong, the money is suddenly asking what it's actually paying for. This isn't a crash, but it's the clearest pricing-in of AI skepticism we've seen.
-[EN]
-Sources: The Next Web, TechCrunch, and Emol.
+[EN] North Korea is blamed for the largest crypto heist ever.
+[EN] The FBI has attributed the theft of six point three billion dollars from exchange Binance to North Korean hackers, in what is now the biggest crypto hack on record. Customers have yanked billions out of their accounts — roughly three point six billion dollars in withdrawals — amid warnings that scammers are "on overdrive" exploiting the panic, though Binance says it has already covered about ninety percent of the losses. It's a vivid reminder that the crypto plumbing remains a soft target for state-level theft.
+[EN] Sources: BBC, Al Jazeera, Ars Technica.
 [ITEM]
-[EN]
-Poland's constitutional-court crisis deepens.
-[EN]
-After the Constitutional Tribunal's chief judge was suspended, protesters have massed outside the court for days and President Karol Nawrocki's crisis meeting produced no breakthrough — he still refuses to approve the judges parliament nominated, while the EU presses him to relent. With a recent pro-EU demonstration drawing around 240,000 people and Polexit fears in the air, this is now the most serious rule-of-law standoff in the bloc. Analysts are already mapping how a prolonged impasse could rattle Poland's economy.
-[EN]
-Sources: Göteborgs-Posten and Naharnet.
+[EN] The Spain train crash death toll reaches sixty-nine as grief turns to anger.
+[EN] Spanish authorities have now identified fifty-six of the sixty-nine people killed, among them at least a dozen foreign nationals — four US citizens, a Canadian, and a University of Cambridge scientist — with around twelve people still unaccounted for. Families say the flow of official information has been patchy and slow, deepening their anguish as the investigation into the cause continues.
+[EN] Sources: BBC, SVT, NRK.
 [ITEM]
-[EN]
-A youth-led protest wave rolls across Europe.
-[EN]
-Close to 200,000 people demonstrated across Germany on Saturday — with masked protesters hurling paving stones, firecrackers and pyrotechnics at police in central Frankfurt, met by tear gas and water cannon — in a movement explicitly inspired by France's recent unrest over prices and vanishing job prospects. France and Germany both braced for more over the Halloween weekend. The common thread is a generation that feels economically locked out, and it's spreading faster than any single government can respond.
-[EN]
-Sources: Al Jazeera and Corren.
-[ES]
-España y América Latina.
+[EN] Ukraine's rare Oleshky ceasefire collapses as its air-raid app is hacked.
+[EN] A localized truce around Oleshky in the Kherson region expired, and Kyiv accused Russia of using the pause to reinforce its positions while civilians scrambled to evacuate the "death zone." Separately, both Ukraine and Russia reported cyberattacks on their emergency air-raid alert systems, with Ukraine's public alert app pushing out false alarms overnight. Washington has approved a proposed two point one billion dollar sale of Patriot interceptors to Kyiv as winter — and Russia's push for blackouts — sets in.
+[EN] Sources: Reuters, AP, DW.
+[ES] España y América Latina.
 [ITEM]
-[ES]
-Chile: el Gobierno saca a Luis Silva de Justicia en plena crisis política.
-[ES]
-El Ejecutivo removió al subsecretario Luis Silva de la cartera de Justicia en medio de una crisis que ha sacudido al Gobierno. La presidenta de Renovación Nacional, Balladares, advirtió que la salida no puede entenderse como el cierre de esta crisis, señal de que la oposición no da el tema por zanjado y de que la tormenta política seguirá varios días más.
-[ES]
-Fuente: Emol.
+[ES] Kast atraviesa la peor crisis política de su gobierno.
+[ES] La aprobación del Presidente José Antonio Kast se desplomó a su nivel más bajo: la Cadem la situó en 26%, Criteria en 25% y Pulso Ciudadano en apenas 22,1%, en medio del escándalo por las rebajas de condenas que golpea al Ministerio de Justicia de Fernando Rabat. La Moneda ha subido la presión para alinear al oficialismo, mientras senadores impulsan un proyecto para derogar esas rebajas de penas y el subsecretario Luis Silva deja el gobierno entre mensajes de respaldo de sus correligionarios republicanos. Es la primera gran prueba de gestión para la joven administración.
+[ES] Fuentes: La Tercera, EMOL.
 [ITEM]
-[ES]
-Chile frente a la coalición anticarteles A3C y un plazo de treinta días de Estados Unidos.
-[ES]
-Crece el debate sobre si Chile se sumará a la coalición regional contra los carteles, la A3C, luego de que Estados Unidos fijara un plazo de treinta días para que el país decida. Es una decisión cargada: alinearse más de cerca con Washington en seguridad regional, con todo lo que eso implica para la soberanía y para la relación con los vecinos, en un momento en que el Gobierno de Kast ya administra varias tensiones con Estados Unidos.
-[ES]
-Fuentes: Emol y Latin Times.
+[ES] Y mientras arde Santiago, Kast se va de gira por Europa.
+[ES] El mandatario inició un viaje por el continente en el que tiene previsto reunirse con el papa León XIV y con líderes de la derecha española e italiana: Giorgia Meloni, Santiago Abascal de Vox, Isabel Díaz Ayuso y Alberto Núñez Feijóo. El timing no es menor: viajar en plena crisis interna expone al gobierno a las críticas de que el Presidente mira hacia afuera mientras la agenda de seguridad se le complica en casa.
+[ES] Fuentes: La Tercera.
 [ITEM]
-[ES]
-El desempleo inquieta a los chilenos.
-[ES]
-Según una encuesta de Ipsos, Chile es el tercer país del mundo más preocupado por el desempleo, y un setenta y uno por ciento considera que el país va por mal camino. El dato llega el mismo día en que la bolsa local cayó con fuerza, y dibuja un ánimo nacional pesimista sobre la economía justo cuando el mundo discute si la ola de inversión en inteligencia artificial se está enfriando.
-[ES]
-Fuente: Emol.
+[ES] La economía chilena manda señales mixtas.
+[ES] Los trabajadores venezolanos en el mercado laboral chileno acumulan once meses de caída y han perdido cerca de 60.000 empleos formales en un año, un reflejo del endurecimiento migratorio y del enfriamiento del empleo. En el sector inmobiliario, la venta de viviendas en la Región Metropolitana cayó 10% interanual en el tercer trimestre, aunque se aceleró respecto del período marzo-junio, y las concesionarias automotrices libran su peor crisis en años.
+[ES] Fuentes: La Tercera, Pulso.
 [ITEM]
-[ES]
-Brasil convoca a un diplomático argentino por el vuelo de Flávio Bolsonaro.
-[ES]
-Brasil citó a un diplomático argentino luego del viaje de Flávio Bolsonaro a Estados Unidos, un episodio que amenaza con tensar aún más la ya áspera relación entre los presidentes Lula y Milei. La disputa confirma que el eje Brasilia–Buenos Aires sigue roto por diferencias ideológicas que se cuelan en cada gesto diplomático.
-[ES]
-Fuente: Al Jazeera.
+[ES] Bolivia declara emergencia nacional por El Niño.
+[ES] El gobierno boliviano decretó una emergencia nacional y movilizó recursos ante los efectos de El Niño, que ha provocado sequías e inundaciones que afectan a decenas de miles de familias y han matado gran cantidad de ganado. Se espera que el fenómeno alcance su punto máximo más adelante en 2026, con implicaciones para toda la región andina.
+[ES] Fuentes: Xinhua Español, Al Jazeera.
 [ITEM]
-[ES]
-Cuba celebra un amplio respaldo en la ONU contra el bloqueo.
-[ES]
-La Asamblea General de la ONU volvió a respaldar, con el voto de unas ciento treinta naciones, la resolución presentada por Cuba contra el bloqueo estadounidense, y gobiernos y organizaciones de la región salieron a felicitar a La Habana. Es un ritual anual con poco efecto práctico, pero sigue siendo una de las pocas votaciones donde el aislamiento de Washington sobre este tema queda en evidencia.
-[ES]
-Fuente: Cubahora.
-[EN]
-US and International.
+[ES] El G20 termina sin comunicado conjunto.
+[ES] La cumbre del G20 cerró sin una declaración final común, incapaz de salvar divisiones profundas entre sus miembros. Es otra señal del desgaste del multilateralismo justo cuando guerras, aranceles y crisis climáticas exigirían más coordinación global, no menos.
+[ES] Fuentes: Xinhua Español.
+[EN] US and International.
 [ITEM]
-[EN]
-US clears a 2.1-billion-dollar Patriot missile sale to Ukraine.
-[EN]
-Washington has greenlit one of its most significant defensive-weapons packages for Kyiv since Trump returned to office in 2025 — a sale of Patriot air-defense missiles worth about 2.1 billion dollars. Coming amid the renewed Gulf crisis, it's a reminder that the administration's posture toward Ukraine is more transactional than isolationist, and that air defense remains the single most contested item on Kyiv's wish list.
-[EN]
-Source: Al Jazeera.
+[EN] Cost-of-living anger boils over across Europe.
+[EN] A third weekend of youth-led protests swept France, Germany, Spain and beyond, with hundreds of thousands in the streets; the worst violence hit Frankfurt, where shops were looted and German ministers vowed tough penalties. France opened an attempted-murder investigation after a petrol bomb was thrown at police, even as the broader marches stayed largely peaceful. The common thread is economic strain — housing and living costs — rather than any single political cause.
+[EN] Sources: Reuters, BBC, AP, El País.
 [ITEM]
-[EN]
-Ebola death toll in DR Congo passes 5,000.
-[EN]
-The outbreak declared in May 2026 has now killed more than 5,000 of over 10,000 people infected, and officials are struggling to contain it with no approved treatments or vaccines currently available. Fears are growing that it could spread to neighboring African countries. It's one of the deadliest health emergencies the DRC has faced in recent memory, and it's getting a fraction of the global attention it warrants.
-[EN]
-Sources: Al Jazeera and Mundiario.
+[EN] Poland's rule-of-law crisis flares again.
+[EN] Police had to secure the country's Constitutional Tribunal as protests erupted over the suspension of the court's chief, a fresh eruption of the deep polarization gripping Poland roughly a year before legislative elections. It's a reminder that Europe's institutional battles aren't settled — they're simmering.
+[EN] Sources: AP, El País.
 [ITEM]
-[EN]
-Norway's finance minister warns of spending cuts.
-[EN]
-Jens Stoltenberg, now Norway's finance minister, warned ahead of the government's budget conference that spending must be trimmed to keep the country's finances responsible, pointing to international uncertainty and rising welfare costs. He didn't put figures on it, but the message — even oil-rich Norway is signaling restraint — is notable given how comfortable its fiscal position usually looks. This was originally reported in Norwegian by NRK.
-[EN]
-Source: NRK, Norway.
+[EN] Israel faces a messy coalition scramble.
+[EN] After Netanyahu's bloc lost its parliamentary majority, Israel is heading into difficult coalition talks, with officials insisting the election results will stand despite the prime minister's claim that "Arabs stole the vote." In one striking twist, a Jewish former police officer will represent an Islamist party in the new parliament.
+[EN] Sources: AP.
 [ITEM]
-[EN]
-Trump's 10-billion-dollar lawsuit against the Wall Street Journal is tossed again.
-[EN]
-A federal judge in Florida has dismissed Donald Trump's 10-billion-dollar suit against the Journal and owner Rupert Murdoch over its reporting on his ties to the late sex offender Jeffrey Epstein — the second time this year the case has been thrown out. The repeated dismissals underline how hard defamation claims against the press remain to win, even for a sitting president.
-[EN]
-Sources: SVT and Corren.
-[EN]
-Tech and Niche.
+[EN] A quieter catastrophe: Ebola's deadliest outbreak.
+[EN] More than five thousand people have now died in the Democratic Republic of Congo's worst-ever Ebola outbreak — a staggering toll that has drawn far less global attention than it warrants. It's the kind of slow-burn humanitarian emergency that rarely leads a news cycle but reshapes a region.
+[EN] Sources: BBC.
 [ITEM]
-[EN]
-North Korea blamed for the record 6.3-billion-dollar Binance hack.
-[EN]
-The FBI has pinned the roughly 6.3-billion-dollar theft from crypto exchange Binance on the North Korean state-backed group TraderTraitor, and Binance says it has already covered ninety percent of the stolen assets, with co-CEO Richard Teng pledging users will not bear the financial impact. Withdrawals began resuming over the weekend. It's the largest crypto heist on record, and a reminder that state-sponsored hacking is now a line item in a sanctioned regime's budget.
-[EN]
-Sources: The Guardian and TechCrunch.
+[EN] Norway's fjord glaciers are vanishing.
+[EN] Public broadcaster NRK reports that forty-six of the forty-eight glaciers in the Geiranger and Nærøy fjords — among Norway's most iconic landscapes — are now expected to disappear, as the UN warns the world must act far faster to halt the loss of nature. Meanwhile the Norwegian krone has climbed to its strongest level since 2022.
+[EN] Sources: NRK, Norway.
 [ITEM]
-[EN]
-A Brazilian court sanctions lawyers for hiding a prompt-injection attack in a filing.
-[EN]
-In what looks like a first, a Brazilian court has penalized lawyers who embedded hidden prompt-injection instructions in a court filing — text designed to manipulate any AI tool a judge or clerk might use to summarize it. It's a small case with an outsized signal: as courts quietly adopt AI, people are already trying to game it, and the institutions are pushing back by reasserting human scrutiny.
-[EN]
-Source: Jetstream Security, via Hacker News.
+[EN] Oil majors bank a war windfall.
+[EN] Nine of the world's largest oil companies are on course to share more than ninety-five billion dollars in profit for a second quarter running, a windfall driven largely by the Iran war — prompting renewed calls for firms like Saudi Aramco and BP to help pay for environmental damage. In Belgium, Prime Minister Bart De Wever is reportedly resigning after failing to pass a budget, and Hungary's new government plans to publish the names of tens of thousands of communist-era informants.
+[EN] Sources: Guardian.
+[EN] Tech and Niche.
 [ITEM]
-[EN]
-A team of small open models beats a frontier model at hard coding.
-[EN]
-An open-source project called Memdoor reports that a coordinated team of five mid-sized Qwen models outperformed a single frontier model on a hard coding benchmark. Whether or not the benchmark holds up under scrutiny, the direction of travel matters: cheap, open, orchestrated small models chipping away at the premium the big labs charge for raw capability — exactly the pressure showing up in today's AI valuations.
-[EN]
-Source: Memdoor, via Hacker News.
+[EN] The AI reality check gets louder.
+[EN] OpenAI has reportedly lowered the funding target for its new round, and Apple's CEO went out of his way to say the company doesn't "want to ship AI for AI's sake" — two signals that the industry's mood is cooling from hype toward discipline. Add Google conceding that AI search makes less money, so it's adding more ads, and a new frontier model, Gemini 4 Carbon, that you can't actually use, and the sense of a sector recalibrating expectations is hard to miss.
+[EN] Sources: TechCrunch, Ars Technica.
 [ITEM]
-[EN]
-A critical Linux TCP flaw, rated 9.8 out of 10, is disclosed.
-[EN]
-Researchers published details of a use-after-free vulnerability in the Linux kernel's IPv4 TCP stack, rated 9.8 out of 10 — the kind of bug that can mean remote compromise of unpatched servers. If you run anything on Linux infrastructure, this is a patch-now item. Expect distributions to ship fixes fast and for the details to dominate security chatter this week.
-[EN]
-Source: Atlasum, via Hacker News.
+[EN] Apple reaches east for its AI.
+[EN] In a deal Xinhua framed as historic, Alibaba's Qwen model is set to be integrated into Apple Intelligence — a notable bet that pairs Apple's famed caution with a leading Chinese model, and a sign of how fragmented the global AI supply chain is becoming. If it holds, it reshapes who powers the assistant in a lot of pockets.
+[EN] Sources: Xinhua Español.
 [ITEM]
-[EN]
-Sadiq Khan wants a cap on London's robotaxis.
-[EN]
-London's mayor has called for limits on driverless taxis as the UK government prepares to let fully autonomous vehicles operate in the capital, warning that politicians have failed to grasp the pace of change and flagging risks to jobs, congestion and air quality. His comments followed the unveiling of Chinese robotaxis now being tested in London by Freenow. It's an early skirmish in a fight every big city will soon have.
-[EN]
-Source: The Guardian.
-[SV]
-Sverige.
+[EN] Data centers become a kitchen-table political issue.
+[EN] AI's physical footprint is now showing up on the ballot: data centers have become a midterm campaign issue even in Brooklyn, a judge is letting the NAACP's lawsuit over pollution from xAI's data center proceed, and Nvidia is weighing whether to cosign financing for an AI data center in West Virginia. The abstract "AI boom" is turning into very concrete fights over power, water and local air.
+[EN] Sources: TechCrunch.
 [ITEM]
-[SV]
-Regeringskrisen fortsätter — spelteoretiker om den avgörande statsministeromröstningen.
-[SV]
-Köerna ringlade utanför riksdagen inför vad som kan bli den avgörande omröstningen, och två spelteoriforskare är överens om vem den sista omröstningen handlar om — Magdalena Andersson — men inte om utfallet eller vad som händer dessförinnan. Väljare som Elise Ekberg, som röstade för första gången i september, kallar det hela en lekstuga och är trötta på att partierna inte kan komma överens. Det politiska dödläget har nu dragit ut så länge att själva förtroendet för processen börjar naggas i kanten.
-[SV]
-Källa: SvD.
+[EN] Hacker News built itself a YouTube — and a library.
+[EN] Andrej Karpathy's "HackerTube," a YouTube assembled entirely from videos recommended in Hacker News threads, rocketed up the rankings with thousands of upvotes, and a companion "HackerBooks" does the same for books mentioned on the site. It's a charming bit of community self-curation — the crowd mining its own best recommendations rather than trusting an algorithm.
+[EN] Sources: Hacker News.
 [ITEM]
-[SV]
-Men marknaderna rycker på axlarna åt krisen.
-[SV]
-Trots dramatiken i riksdagen bedömer ekonomer och banker, däribland Swedbank, att regeringskrisen inte lär tynga den svenska ekonomiska utvecklingen nämnvärt — på finansmarknaderna beskrivs den närmast som en icke-fråga. Kontrasten är talande: det som känns som kaos i Stockholmspolitiken registreras knappt av kronan eller börsen, vilket säger något om hur frånkopplade de två världarna blivit.
-[SV]
-Källa: Affärsvärlden.
+[EN] Postgres 19 is late, and it's AI's fault.
+[EN] A widely-shared post from a Postgres contributor argues the database's next release is running behind because AI tools are surfacing so many more bugs than before — review, not coding, has become the bottleneck. It's an unusually honest look at how AI is changing the rhythm of serious open-source engineering.
+[EN] Sources: Hacker News.
+[ITEM]
+[EN] Anthropic's Cursor extension was backdoored for twelve hours.
+[EN] A compromised version of Anthropic's VS Code extension on the Cursor editor shipped with a backdoor for nearly half a day before it was caught — a supply-chain scare that lands the same week North Korea is blamed for the record Binance heist. The developer toolchain keeps proving to be an attractive target.
+[EN] Sources: Ars Technica.
+[SV] Sverige.
+[ITEM]
+[SV] Regeringsbildningen går mot ett möjligt extraval.
+[SV] Osäkerheten kring hur en ny regering ska bildas fördjupas: KD:s Lars Adaktusson tror nu att ett extraval är en rimlig följd av läget, medan Socialdemokraternas Anders Ygeman på SVT:s Agenda varnar för att ett extraval vore "ett stort misslyckande" om ingen regering kan bildas. Samtidigt riktas intern kritik mot S-ledningen, som enligt kritiker har bedömt partiets röda linjer fel — "ett jättestort misstag".
+[SV] Källor: SVT.
+[ITEM]
+[SV] Industrifacken kräver högre lön och kortare arbetstid.
+[SV] Fem industrifack har lagt fram sina krav inför vårens avtalsrörelse och begär i en DN Debatt-artikel både högre reallöner och ytterligare förkortad arbetstid. Kraven sätter tonen för förhandlingar som får stor betydelse för hela den svenska lönebildningen.
+[SV] Källor: SVT, DN, Omni.
+[ITEM]
+[SV] Almgren vann New York Maraton i sin debut.
+[SV] Andreas Almgren tog en uppmärksammad seger i New York Maraton i sitt allra första lopp på distansen och kallar det sin största seger hittills. Ett rejält lyft för svensk långdistanslöpning.
+[SV] Källor: SVT.
 [SECTION connecting_dots]
-[EN]
-Connecting the Dots.
-[EN]
-This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
-[EN]
-Patricio, the thread I can't stop pulling today is money losing its nerve about AI at the exact moment AI's real-world mess is piling up. OpenAI quietly trimming its valuation target, Anthropic staring at a junk rating before it even lists, a broad selloff blamed explicitly on AI doubts, and — your market — the IPSA down nearly three percent. Underneath the finance story sit the ground-level stories: a Brazilian court punishing lawyers for weaponizing AI inside a legal filing, a scrappy team of cheap open models claiming to beat a frontier system at coding. The narrative of 2024 and 2025 was that the labs are infallible and infinitely valuable. What today looks like is the first synchronized pricing-in of the opposite: maybe the moat is thinner, the costs realer, and the humans-in-the-loop more necessary than the hype allowed. That's not a pop yet. It's the sound of the crowd shifting its weight.
-[EN]
-Set that against the second pattern: a Europe that is angry in the streets and gridlocked in the institutions. Nearly 200,000 marching in Germany, paving stones in Frankfurt, France bracing, Poland's constitutional order in open crisis with 240,000 pro-EU demonstrators, and even placid Sweden stuck in a government-formation lekstuga. The common fuel is economic insecurity — prices, jobs, the sense that the system isn't delivering — and it's worth noticing that it's cresting in the same week the AI-productivity promise is being marked down. If the technology that was supposed to pay for the next decade of growth is suddenly worth a trillion dollars less than people thought, the political math behind every strained welfare state, Stoltenberg's Norway included, gets harder, not easier.
-[EN]
-Now bring it home to Chile. You're sitting in a small, open, commodity-anchored economy at the confluence of three things happening today. First, oil: a live war in the Strait of Hormuz is the fastest route to an energy-price shock, and Chile imports essentially all its crude — a sustained spike feeds straight into fuel, transport and inflation, and the Central Bank's room to cut gets narrower. Second, copper and capital: the AI capex boom has been a quiet tailwind under copper demand, since all those data centers need wiring, so a genuine cooling of AI investment is a double-edged thing for you — it could soften the very export story that's been holding the peso up, even as cheaper, more commoditized AI eventually helps Chilean firms and workers. Third, politics: the Luis Silva removal, a jittery IPSA, Ipsos finding Chileans the third-most worried about unemployment in the world and seventy-one percent saying the country's on the wrong track — that's a population braced for bad news, and the A3C decision with Washington's thirty-day clock lands right in the middle of it.
-[EN]
-The through-line I'd watch, not confident but worth watching: 2026 may be the year the AI-will-carry-the-economy trade and the voters-are-out-of-patience politics collide. For a Chilean reading from Santiago, the near-term tells are concrete — the price at the pump if Hormuz stays hot, the copper price if the AI capex story keeps deflating, and the peso as the proxy for both. None of today's stories forces any of this; plenty could fizzle by next week. But the correlation of a nervous market, an angry continent, a hot chokepoint and a gloomy domestic mood, all in one Saturday, is the kind of alignment that rewards paying attention.
+[EN] Connecting the Dots.
+[EN] This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN] Patricio, the thread I'd pull on first today is the AI "reality check." OpenAI quietly trimming its funding target, Apple's CEO insisting it won't ship "AI for AI's sake," Google admitting AI search earns less, and a database maintainer blaming AI for slowing him down — none of these is dramatic alone, but together they read like the market exhaling after two years of holding its breath. For Chile this matters in a very physical way: the AI boom is, at bottom, a boom in data centers, and data centers run on copper and electricity. If the hype genuinely cools, the long-run demand story that has underpinned bullish copper forecasts softens at the margin — worth watching, not a confident prediction, but the kind of shift that eventually shows up in the price that funds a big slice of the Chilean state.
+[EN] The counterweight is the Iran war, which is doing the opposite to your other key exposure: energy. With oil parked near a hundred and ten dollars and the oil majors banking a second straight quarter of ninety-five-billion-dollar-plus profits, Chile — a net energy importer — is paying the war premium at the pump and in its import bill, even as the copper side wobbles. That's an uncomfortable pincer for a small open economy: the thing you sell may be entering a softer patch just as the thing you buy stays expensive. The Doha talks and the Hormuz plan are the release valve to watch; if they hold, energy costs ease and the peso gets some breathing room.
+[EN] Politically, I'm struck by how much today's global churn rhymes with Chile's own moment. A Belgian PM resigning over a budget, Israel's coalition fracturing, Poland's top court in crisis, Sweden drifting toward a snap election, cost-of-living crowds filling European streets — and at home, Kast's approval cratering into the low twenties over the sentence-reduction scandal. The common denominator is that incumbents everywhere are governing on razor-thin reserves of trust, and voters are quick to punish. The fact that Kast chose this exact week to tour Europe and meet the continent's hard right is a bet that foreign stature plays well at home; given where his numbers are, that's a gamble.
+[EN] Two more quiet signals I wouldn't ignore. The G20 ending with no joint communiqué is a small headline with a big meaning: the forums that are supposed to coordinate responses to exactly these shocks — war, tariffs, climate — are seizing up, which is bad news for every economy too small to set the rules alone, Chile very much included. And Bolivia's El Niño emergency next door is a reminder that the climate bill is already arriving in the Andes; Chile's own water, mining and energy systems sit under the same sky.
+[EN] If I had to name one thing to keep an eye on this week, it's the interplay between tomorrow's US vote and the dollar. A decisive midterm result that shifts expectations on Trump's trade and tariff posture would move the dollar, and a weaker dollar tends to be friendly to copper and to emerging-market currencies like the peso. Nothing here is destiny — but the copper-energy-dollar triangle is where Chile's fortunes get decided, and all three corners are live right now.
 [SECTION hypothesis_watch]
-[EN]
-Hypothesis Watch.
-[EN]
-An ongoing daily watch on your standing hypothesis about AI, authority cycles and social cohesion — read against the recent trend in the log, not just today's news, and not a full re-argument.
-[EN]
-Today reads as support for (a), support for (b), neutral on (c) and (d) — and on (a) that's not a one-off but a continuation of the longest streak in the log: every single dated entry since the eleventh of September has scored (a) as support, and today extends it. The signal is unusually clean today, too: OpenAI cutting its own valuation target, Anthropic facing a junk rating, a market selloff pinned on AI doubts, and an open-model team claiming to beat a frontier system all say the same thing — the authority of the AI frontier is being compressed and contested in real time, no one gets to be the unquestioned thought leader for long.
-[EN]
-On (b), the stronger-internal-voice link, today also lands on support and continues the recent run: investors are refusing to take the labs' valuations on faith, and a Brazilian court sanctioned lawyers for trying to manipulate AI inside a filing — both are humans reasserting their own judgment against machine-mediated authority rather than deferring to it. That fits the pattern the log has shown for most of the last seven weeks, where (b) tracks (a) closely with only occasional neutral days.
-[EN]
-Where today offers nothing new is (c) and (d) — and that's the real story of the log, not of today. Europe is convulsed with collective action — Germany, France, Poland's 240,000, even Sweden's deadlock — but it's issue-based and partisan, anger at prices, jobs and the courts, not any visible move away from individualism or toward durable, self-organizing human cohesion. (c) has been neutral in all 41 entries; (d) has flickered to support only five times in seven weeks. So today is fully consistent with the running trend: the hypothesis's front half keeps accumulating evidence while its back half stays stubbornly quiet.
-[EN]
-Integral Review.
-[EN]
-This is the periodic full-log review of the hypothesis as one causal chain, a to b to c to d, run on the first brief of each month — not a daily reading. This is the first such review.
-[EN]
-Patricio, with 41 dated entries now in the log, from the eleventh of September through the thirty-first of October, there's finally enough to judge your hypothesis as a chain rather than four separate tallies — and the honest verdict is net challenge, not because the idea is wrong but because the causal sequence it claims simply isn't propagating past its second link. Here's the shape of it. Sub-claim (a) — shrinking thought-leadership and authority cycles — is supported in every entry, 41 for 41. Sub-claim (b) — individuals pushed toward a stronger internal voice — is supported in 35 of 41. Sub-claims (c) and (d) are the problem: (c), a move away from individualism, is scored neutral in all 41 entries — it has never once registered support — and (d), more human collaboration and cohesion, has reached support only five times, always on state-level or treaty-level readings rather than anything grassroots.
-[EN]
-The linkage question is where it gets interesting, and where I have to be straight with you. On paper (a) and (b) look beautifully correlated — they rise together almost every day. But (a) is supported every single day, which means it's effectively a constant, and a constant can't demonstrate that it's causing (b); the two are better read as two parallel series both drifting the same direction than as a causing b in sequence. More decisively, the back half of the chain never fires. If the hypothesis were linking up, you'd expect runs of (a) and (b) support to eventually precede movement in (c) and then (d). Instead (c) is flat-lined across the entire record, and the handful of (d) supports arrive with no (c) movement in front of them — cohesion signals showing up without any detectable move away from individualism first. That's not a chain propagating; it's the first two links glowing while the last two sit dark. Chain linkage: partial — a and b are real as a correlation, b to c to d is absent.
-[EN]
-So why net challenge and not merely inconclusive? Because the log is now deep enough, 41 entries over seven weeks, that the silence on (c) is itself evidence, not just missing data. Two months of daily scanning across politics, tech, economics and culture, worldwide, and the away-from-individualism link has not produced a single supporting signal — that's a real-world result, and it cuts against the mechanism the hypothesis proposes. I want to be careful: this is not trending toward disconfirmed. The front half — authority cycles compressing, people reasserting judgment — is genuinely well-evidenced, and the world is clearly in a phase of intense collective action. What's unproven, increasingly and conspicuously unproven, is the specific claim that strengthened internal voices will turn people away from individualism and toward durable cohesion.
-[EN]
-For a full disconfirmation, I'd want to see one of two things sustained over the coming months: either (a) or (b) starting to log challenge signals — authority cycles visibly stabilizing, or people deferring more to AI and institutions rather than less — or, the subtler one, continued flat (c) and (d) while (a) and (b) stay strong, which would eventually force the conclusion that the early links, however real, just don't drive the later ones. Conversely, what would move this toward net support is concrete: genuine, repeated, grassroots cohesion signals — not treaties, not party coalitions — that can be read as people deliberately choosing collective agency over individualism, and ideally ones that arrive after, and plausibly because of, the internal-voice shift. The leaderless Serbian movement on the twenty-sixth of October is the single closest thing the log has to that; one data point isn't a trend. My advice for the next month of watching: stop crediting (a) almost reflexively — it's saturated and no longer informative — and train the attention on (c) specifically, because that's the link the whole chain is currently failing on.
+[EN] Hypothesis Watch.
+[EN] An ongoing, low-key watch on your standing hypothesis about AI, authority and social cohesion — a daily scan read against the recent trend in the log, not a full re-argument of the whole chain.
+[EN] Today leans the way the log has leaned for weeks. On sub-claim (a), shrinking authority cycles, the signal is strong again: OpenAI trimming its raise, Apple publicly braking on AI, Google conceding weaker AI-search economics, a Postgres maintainer saying AI changed his release cadence, Anthropic's own extension briefly backdoored, and a wave of political churn — Belgium's PM resigning, Israel's coalition fracturing, Poland's court in crisis, Sweden toward a snap election, Kast's approval in freefall. Authority, technical and political, keeps compressing and reshuffling fast. That makes today, by my read, the forty-third consecutive supporting entry for (a), an extraordinarily durable streak.
+[EN] On sub-claim (b), a stronger internal voice, I'd also call it supporting: Apple's "not AI for AI's sake" and investors reportedly cooling on OpenAI's valuation both read as actors trusting their own judgment over the herd's hype, the same human-scrutiny pattern that has carried (b) through most of the log.
+[EN] Where the hypothesis still isn't moving is the back half of the chain. Sub-claim (c), a move away from individualism, stays neutral for what is now the forty-third day running: Europe's huge protest crowds are real, but they're cost-of-living and issue-based, not evidence of a cultural shift away from individualism. And sub-claim (d), cohesion, is neutral-to-negative today — the G20 failing to produce even a joint communiqué, plus the Iran war and the protests, outweigh the faint cooperative signals, the Doha talks and China's new trade deals in Latin America. So the picture is unchanged: the front of the chain keeps firing, the back of it stays stubbornly inert.
