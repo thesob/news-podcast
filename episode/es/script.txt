@@ -1,164 +1,155 @@
 [SECTION intro]
 [ES]
-Buenos días. Este es tu resumen diario del lunes 2 de noviembre de 2026.
-
+Buenos días. Este es tu resumen diario del martes 3 de noviembre de 2026.
 [ES]
-Nota sobre fuentes: hoy no pude leer directamente BBC Mundo, DW en Español, El País ni The Guardian, y cubrí esos huecos con otros medios y búsquedas.
-
+Nota sobre fuentes: hoy no pude leer directamente los feeds de BBC ni Ars Technica, ni las páginas de artículos de The Guardian; las cubrí con otras vías. Reuters, AP, The New York Times, The Washington Post y Xinhua no aportaron contenido hoy, y Emol solo devolvió páginas de septiembre.
 [SECTION news]
 [ES]
 Titulares.
-
 [ITEM]
 [ES]
-Binance sufre un hackeo histórico y los clientes retiran fondos.
-
+EE.UU. vota en las elecciones de medio mandato entre disputas judiciales.
 [ES]
-Binance confirmó que investiga un incidente de seguridad tras detectar fondos drenados de sus billeteras, y pausó temporalmente los retiros en varias redes. La empresa asegura que el dinero de los usuarios está a salvo y su fundador, Changpeng Zhao, espera que quede cubierto por completo, aunque las estimaciones de pérdidas van desde 2.000 millones hasta unos 6.300 millones de dólares y siguen sin confirmarse. Circle y Tether congelaron cerca de 2.400 millones en fondos vinculados, y hoy The Guardian informa de clientes que siguen retirando dinero.
-
+Los estadounidenses acuden hoy a las urnas en unos comicios que se leen como un referéndum sobre Trump y que decidirán el control del Congreso, hoy en manos republicanas. La víspera, la Corte Suprema rechazó un nuevo intento del Gobierno de invalidar unos 20.000 votos en California por dudas sobre la ciudadanía de los votantes. Además, Trump dijo al New York Post que consideraría indultos para sus aliados si ganan los demócratas.
 [ES]
-Fuentes: TechCrunch, The Guardian.
-
+Fuentes: The Guardian, Al Jazeera, DW en Español.
 [ITEM]
 [ES]
-Las petroleras se llenan los bolsillos con la guerra de Irán.
-
+EE.UU. golpea la isla iraní de Qeshm mientras se habla de un acuerdo.
 [ES]
-Nueve de las mayores petroleras del mundo suman unos 95.000 millones de dólares de beneficio en el tercer trimestre, según The Guardian. La guerra de Estados Unidos e Israel contra Irán, iniciada en febrero, ha alterado el tránsito por el estrecho de Ormuz y llevado la energía a máximos de varios años, con márgenes de refinación de tres a cuatro veces los de hace un año en Shell, BP y TotalEnergies. Los analistas vigilan si usarán el dinero para reducir deuda y recomprar acciones o para invertir más.
-
+Fuerzas estadounidenses realizaron ataques limitados contra la isla de Qeshm, al parecer contra misiles tierra-aire, en lo que funcionarios describen como una operación defensiva para limitar la capacidad de Irán de amenazar el estrecho de Ormuz. Al mismo tiempo, Teherán habla de contactos intensos con Washington y el vicepresidente Vance se mostró optimista sobre un pacto. Mientras tanto, Aramco reportó mayores ganancias pese a la guerra, porque la subida del crudo compensó la caída de producción.
 [ES]
-Fuentes: The Guardian, OE Digital.
-
+Fuentes: The Guardian, DW en Español, La Tercera.
 [ITEM]
 [ES]
-Protestas por el costo de vida sacuden Francia, Alemania y Portugal.
-
+Tragedia ferroviaria de Urda: presión política y ayudas a las víctimas.
 [ES]
-Las marchas del sábado en Francia fueron menos violentas que las de fines de semana anteriores, aunque hubo 779 detenciones y tres policías heridos con cócteles molotov en París. Se esperan nuevas movilizaciones con la vuelta a clases y hay una huelga general convocada para el jueves. En Alemania más de 100.000 jóvenes marcharon en su mayoría pacíficamente, pero hubo disturbios y saqueos en Fráncfort, y en Lisboa la policía desalojó a manifestantes que exigían vivienda asequible.
-
+Pedro Sánchez anunció un escudo social y el adelanto de indemnizaciones para los afectados por el choque de trenes de alta velocidad en Urda, que dejó al menos 69 muertos. Crece la presión por la salida del presidente de Adif, mientras se investiga un posible error de protocolo en el centro de control de Atocha, y Feijóo se presenta como alternativa de gestión. Más de mil personas se concentraron frente al Ministerio de Transportes en Madrid, con cargas policiales tras el lanzamiento de bengalas.
 [ES]
-Fuentes: Arab News.
-
+Fuentes: El País.
+[ITEM]
+[ES]
+Nueva oleada de ciberataques contra los frigoríficos de supermercados europeos.
+[ES]
+Una segunda ola de ataques afectó a supermercados de Bélgica, Irlanda, Luxemburgo y Suecia, entre otros países: los intrusos habrían puesto los equipos en modo descongelación y se echó a perder comida en decenas de tiendas. La ola previa en Francia se vinculó a refrigeradores conectados de Danfoss que, según se informa, ya no reciben actualizaciones de seguridad. En España, expertos estiman que unos 300 equipos de refrigeración podrían ser vulnerables y piden revisarlos.
+[ES]
+Fuentes: TechCrunch, DW en Español, laSexta.
+[ITEM]
+[ES]
+Zelenski viaja a Berlín y EE.UU. mediará en Abu Dabi.
+[ES]
+El presidente ucraniano hizo una visita inesperada a Berlín para hablar con Merz, tras nuevos ataques rusos contra infraestructura de Ucrania. Por otro lado, el enviado especial Steve Witkoff anunció que EE.UU. mediará la próxima semana en Abu Dabi entre Rusia y Ucrania, con temas como la seguridad de posguerra, la desescalada y medidas humanitarias.
+[ES]
+Fuentes: The Guardian, DW en Español.
 [ES]
 España y Latinoamérica.
-
 [ITEM]
 [ES]
-España recomienda de nuevo vacunarse contra la covid a los grupos de riesgo.
-
+Kast arranca su gira europea mientras Chile enfrenta un panorama económico difícil.
 [ES]
-La comisión de salud pública recomienda la vacuna a mayores de 70 años, residentes de centros de mayores y personas desde los 6 meses con condiciones que elevan el riesgo, como inmunodepresión o enfermedades crónicas graves. También la aconseja a mayores de 12 con diabetes, obesidad o enfermedad renal, a todas las embarazadas y al personal sanitario y cuidadores. Puede administrarse junto con la vacuna de la gripe.
-
+El presidente chileno se reunió en Madrid con Santiago Abascal, de Vox, y recibió una distinción de la presidenta regional Isabel Díaz Ayuso. En casa, el Imacec de septiembre subió 0,2%, pero la caída estimada para octubre refuerza las perspectivas de un PIB negativo en 2026, y BBC Mundo repasa el desempleo récord en medio de las políticas de austeridad.
 [ES]
-Fuentes: elDiario.es.
-
+Fuentes: La Tercera, BBC News Mundo.
 [ITEM]
 [ES]
-El satélite Swift de la NASA caerá a la Tierra este mes.
-
+Alberta vota por seguir en Canadá.
 [ES]
-El observatorio Swift, de 1.500 kilos, reingresará a la atmósfera en noviembre tras 22 años en órbita y un intento de rescate fallido a mediados de 2026. La franja de posible reentrada es amplia e incluye partes de África, Australia, India, el sudeste asiático y Sudamérica, por lo que aún no se sabe dónde ni cuándo caerán los fragmentos.
-
+Según los resultados del referéndum independentista, Alberta decidió seguir formando parte de Canadá. BBC Mundo señala que los separatistas sufren un duro revés, aunque la tensión con el resto del país probablemente continuará.
 [ES]
-Fuentes: Wired en Español.
-
+Fuentes: BBC News Mundo.
+[ITEM]
+[ES]
+México: la FGR detalla el presunto desvío de fondos para cárceles.
+[ES]
+La Fiscalía mexicana explicó el esquema con el que, según sostiene, se desviaron recursos destinados a cárceles y que involucra a Inés Gómez Mont. Si es deportada desde EE.UU., se ejecutarían tres órdenes de aprehensión en su contra.
+[ES]
+Fuentes: El Financiero.
+[ITEM]
+[ES]
+Perú y EE.UU. refuerzan su cooperación contra el crimen organizado.
+[ES]
+Ambos países acordaron fortalecer la cooperación bilateral contra el narcotráfico y el crimen organizado transnacional durante una reunión de trabajo. El acuerdo apunta a una coordinación más estrecha en un momento de creciente preocupación regional por estas redes.
+[ES]
+Fuentes: El Peruano.
 [ES]
 Mundo.
-
 [ITEM]
 [ES]
-Bulgaria: sondeos dan la victoria a la presidenta prorrusa Iliana Yotova.
-
+El banco central de Australia sube los tipos por quinta vez este año.
 [ES]
-Los sondeos a pie de urna proyectan que la presidenta en funciones, Iliana Yotova, ganó la segunda vuelta con algo más del 51% frente a cerca del 44% de Andrey Gyurov, apoyado por la oposición proeuropea. Yotova defiende restablecer lazos con Rusia y poner fin a la ayuda militar a Ucrania, y la participación habría rondado el 26%. Falta el conteo oficial, pero de confirmarse sería la primera mujer elegida por voto popular para el cargo.
-
+El RBA llevó la tasa de referencia a 4,85%, su nivel más alto en unos 18 años, con una junta dividida seis a tres. La gobernadora Bullock dijo que el dolor ahora evitará uno peor más adelante, y el golpe político podría recaer sobre el Gobierno laborista.
 [ES]
-Fuentes: Infobae.
-
+Fuentes: The Guardian.
 [ITEM]
 [ES]
-Una demócrata apoya a un republicano al Senado en Michigan, dos días antes de las elecciones.
-
+Virgin Media O2 recortará miles de empleos y apuesta por la IA.
 [ES]
-La congresista Haley Stevens respaldó al republicano Mike Rogers frente al candidato demócrata Abdul El-Sayed, quien la derrotó en las primarias de agosto. La ruptura nace de tensiones por Israel y Gaza, y Chuck Schumer la calificó de traición despreciable mientras Trump la celebró. El resultado ayudará a decidir quién sucede al senador Gary Peters.
-
+La operadora británica planea ahorrar 800 millones de libras, con recortes que podrían afectar hasta a una cuarta parte de sus 16.000 empleados. El plan incluye un mayor uso de inteligencia artificial.
+[ES]
+Fuentes: The Guardian.
+[ITEM]
+[ES]
+EE.UU. suspendería el acceso libre de aranceles a Sudáfrica y Ruanda.
+[ES]
+Sudáfrica perdería un acceso libre de aranceles valorado en unos 1.700 millones de dólares anuales en exportaciones, entre ellas autos y productos agrícolas. La medida añade tensión comercial entre Washington y varios socios africanos.
 [ES]
 Fuentes: Al Jazeera.
-
 [ITEM]
 [ES]
-Un jet privado se estrella en Florida y deja al menos nueve muertos.
-
+La ONU pone fin a su misión de paz en el Sáhara Occidental.
 [ES]
-El avión, que había salido de Austin, Texas, se estrelló en la zona de Palm Beach, al sur de Florida, tras golpear un árbol y tendidos eléctricos, según medios locales, y cayó sobre un parque de casas rodantes. Las autoridades confirmaron al menos nueve muertos y se abrió una investigación.
-
+La ONU cerrará su misión en el territorio en disputa después de que EE.UU. y Rusia bloquearan su prórroga. Queda abierta la pregunta de qué ocurrirá con el conflicto sin presencia de cascos azules.
 [ES]
-Fuentes: Cadena SER.
-
-[ITEM]
-[ES]
-Un buen informe de empleo en Estados Unidos podría empujar nuevas alzas de tasas de la Fed.
-
-[ES]
-Los analistas esperan que el informe del viernes muestre unos 65.000 empleos creados en octubre, más del doble que antes, con el desempleo estable en 4,2%. Eso mantendría a la Reserva Federal en camino de seguir subiendo tasas para frenar la inflación. Bloomberg Economics ve un mercado laboral que pierde impulso, pero sin desplomarse.
-
-[ES]
-Fuentes: The Star de Malasia.
-
+Fuentes: Al Jazeera.
 [ES]
 Tecnología y Nicho.
-
 [ITEM]
 [ES]
-Musk suma dos terrenos a su campus de IA Colossus 2 en Memphis.
-
+OpenAI unifica las pestañas de chat y trabajo de ChatGPT.
 [ES]
-Elon Musk anunció que agregará dos sitios, apodados Spam y Gun Range, al complejo Colossus 2 en Tennessee; espera tener el segundo operativo a fines de noviembre y el primero en diciembre. El proyecto enfrenta oposición local y una demanda de la NAACP por turbinas de gas sin permiso, que un juez dejó avanzar.
-
+Tras el cambio, ChatGPT y Codex compartirán una misma bolsa de uso. Es otro paso de las grandes plataformas de IA hacia productos más integrados, que cambian de forma en cuestión de semanas.
 [ES]
-Fuentes: Business Insider.
-
+Fuentes: TechCrunch.
 [ITEM]
 [ES]
-HackerTube: un YouTube hecho con videos recomendados por Hacker News.
-
+Hacker News: pesos de modelos editables y un HN en versión periódico.
 [ES]
-Harto de las recomendaciones algorítmicas de YouTube, Andrej Karpathy pidió a Claude Opus 5.5 construir un sitio con los videos que la comunidad de Hacker News ha recomendado. Se reunieron unos 6.454 videos de 2007 a 2026 en 150 temas, con recomendaciones sin cuenta y datos exportables, y el autor dice que todo tomó unas dos horas. Es la historia más votada hoy en Hacker News.
-
+Lo más votado del día, con más de 1.300 puntos, es Astra, un proyecto que puede leer y escribir pesos para mejorar el modelo Qwen. Muy abajo, Hacker Times ofrece Hacker News con aire de periódico, actualizado cada hora.
 [ES]
-Fuentes: Hacker News, blog de Karpathy.
-
+Fuentes: Hacker News.
+[ITEM]
+[ES]
+Northwood Space levanta 375 millones de dólares.
+[ES]
+La empresa de infraestructura espacial cerró una Serie C liderada por Andreessen Horowitz y DFJ Growth que la valora en 2.000 millones de dólares.
+[ES]
+Fuentes: TechCrunch.
+[ITEM]
+[ES]
+El Banco de España rechaza comparar la inversión en IA con burbujas pasadas.
+[ES]
+El gobernador José Luis Escrivá se mostró optimista sobre la fuerte inversión en inteligencia artificial. Sostiene que es distinta de burbujas anteriores, que financiaban negocios poco productivos.
+[ES]
+Fuentes: El País.
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
-
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
-
 [ES]
-Si miras juntas la ganancia récord de las petroleras y las protestas por costo de vida en Europa, aparece una misma cadena: la guerra con Irán encarece la energía, unos pocos ganan mucho y muchos otros sienten el golpe en vivienda, transporte y supermercado. No es una predicción segura, pero vale la pena vigilar si ese malestar se vuelve más persistente y más coordinado entre países.
-
+Hoy hay un hilo común: sistemas que dábamos por seguros resultan frágiles. Frigoríficos conectados sin actualizaciones, trenes de alta velocidad con protocolos bajo sospecha y un estrecho de Ormuz que depende de negociaciones y ataques defensivos. Si trabajas o inviertes en la región, vale la pena vigilar la infraestructura aburrida de la que dependes, desde la cadena de frío hasta la conectividad.
 [ES]
-Para ti, en el mundo hispanohablante, la lectura práctica es doble. Si tu moneda o tus ingresos dependen de importar combustible, un petróleo caro y una Fed que podría seguir subiendo tasas suelen significar dólar fuerte y crédito más caro; si tu país exporta energía o cobre, el efecto puede ser el contrario. En España, el costo de la vivienda y la energía ya alimenta las mismas tensiones que se ven en Francia y Portugal.
-
+El petróleo es el segundo hilo. Aramco gana más precisamente porque la guerra encarece el crudo, y Australia sube tipos por quinta vez este año. Para Latinoamérica, un crudo caro puede ser buena noticia para exportadores y mala para importadores de combustible, y un dólar apoyado por tipos altos presiona deudas y monedas. No es una predicción segura, pero un acuerdo con Irán movería precios en una dirección y una escalada en la contraria.
 [ES]
-El hackeo de Binance y la rapidez con que se construyen cosas con IA, como HackerTube en dos horas, apuntan a otra tendencia: construir es cada vez más barato, pero confiar en quién custodia tus datos o tu dinero es cada vez más difícil. Para quien guarda ahorros en cripto, sobre todo en países con inflación alta, es un recordatorio de que custodia propia y diversificar no son solo consignas.
-
+Tercero, la política se endurece alrededor de la desconfianza: disputas sobre papeletas en EE.UU., una ultraderecha que se radicaliza tras la tragedia de Urda y una gira de Kast que busca aliados afines en Europa. A la vez, Alberta decidió quedarse en Canadá, un recordatorio de que no todo se polariza. Para quien vive en España o Chile, puede importar cómo la crisis de Urda y la economía chilena condicionen la agenda de los próximos meses.
 [ES]
-Por último, las elecciones en Bulgaria y la ruptura de Stevens en Michigan muestran que las lealtades políticas tradicionales se están reacomodando. Con elecciones en juego en la región, puede valer la pena vigilar si ocurre algo parecido en Latinoamérica.
-
+Por último, la IA aparece como acelerador y como apuesta financiera. Virgin Media O2 la cita al recortar miles de puestos, OpenAI reordena sus productos y Escrivá defiende que el gasto no es burbuja. Si ese optimismo se equivoca, el efecto llegaría vía bolsa, crédito y empleo; si acierta, el reto será cómo se reparten los beneficios.
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
-
 [ES]
-Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no una nueva argumentación completa.
-
+Vigilancia continua de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no un nuevo debate completo.
 [ES]
-Los subclaims son: a, ciclos de autoridad cada vez más cortos; b, más voz interior individual; c, alejamiento del individualismo; d, más colaboración y cohesión social.
-
+Hoy hay señal de apoyo para a: OpenAI fusiona sus pestañas de chat y trabajo, y los modelos y herramientas se reordenan en semanas, según TechCrunch. Es el décimo noveno día de los últimos veintiséis con apoyo en a, una racha muy consistente. Para b no hay señal clara: Hacker Times es curaduría propia, pero demasiado débil. Para c hay desafío: la ultraderecha se radicaliza tras Urda, según El País, y c lleva muchos días en desafío. Para d hay apoyo: el escudo social para las víctimas de Urda, la mediación en Abu Dabi y la decisión de Alberta de seguir unida.
 [ES]
-Sobre a: apoya. HackerTube se construyó en unas dos horas con un modelo de IA, un ejemplo de lo rápido que se renueva lo que antes era un proyecto largo. Continúa una racha muy larga de lecturas de apoyo en el último mes. Sobre b: señal débil a favor, porque el autor, harto del algoritmo de YouTube, optó por una curaduría propia y comunitaria; es ambigua y llega tras una racha mayormente neutral. Sobre c: complica. La ruptura de Stevens con su partido en Michigan y la victoria de una candidata prorrusa en Bulgaria muestran bloques y lealtades enfrentadas, y c lleva casi todo el mes en contra. Sobre d: apoya, con protestas coordinadas en Francia, Alemania y Portugal, aunque nacen de agravios más que de colaboración deliberada.
-
-[ES]
-La revisión integral de noviembre concluyó net challenge para la cadena completa, con vínculo entre eslabones no; nada de hoy cambia ese veredicto, ya que a y d siguen avanzando mientras b y c apenas se mueven.
+La revisión integral de este mes ya se publicó y concluyó net challenge para la cadena completa; nada de hoy lo mueve, porque a y d siguen avanzando por separado y c sigue sin dar señales de apoyo.
