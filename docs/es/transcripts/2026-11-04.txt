@@ -1,0 +1,206 @@
+[ES]
+Buenos días. Este es tu resumen diario del 4 de noviembre de 2026.
+
+[ES]
+Nota sobre las fuentes: hoy no pude acceder a El País, BBC News Mundo, BBC RSS ni DW en Español. Lo cubrí con el proxy de titulares, Emol, TechCrunch y Hacker News.
+
+[ES]
+Titulares.
+
+[ES]
+Los demócratas barren en las elecciones legislativas de Estados Unidos.
+
+[ES]
+Los demócratas recuperan el Senado y se espera que controlen todo el Congreso desde el próximo año, en lo que The Guardian describe como un rechazo de los votantes a la agenda de Trump. También ganaron gubernaturas clave, entre ellas Texas y Georgia, donde Keisha Lance Bottoms será la primera mujer negra en gobernar el estado. Según el análisis, Trump se ha distanciado de varios candidatos republicanos derrotados.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Los mercados reaccionan: cae el dólar, suben el oro y los bonos.
+
+[ES]
+El dólar retrocede mientras el oro y los bonos del Tesoro de Estados Unidos suben tras la victoria demócrata, y los futuros de las bolsas se recuperan. Una posible regulación más dura de la inteligencia artificial pesa sobre las tecnológicas. En Chile, Emol informaba el martes de que el dólar volvía a rondar los 980 pesos, con el mercado pendiente de las elecciones.
+
+[ES]
+Fuentes: The Guardian y Emol.
+
+[ES]
+Abdul El-Sayed, primer senador musulmán de Estados Unidos.
+
+[ES]
+El progresista Abdul El-Sayed derrotó a Mike Rogers en Michigan y se convertirá en el primer senador musulmán del país. Lo logró tras una campaña marcada por ataques islamófobos.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+La Unión Europea lidera conversaciones de apoyo a Ucrania.
+
+[ES]
+La Comisión Europea hablará con Estados Unidos, los principales países europeos, la OTAN y el Banco Mundial sobre la ayuda invernal a Ucrania. Las conversaciones también abordarán el proceso de paz.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+España y Latinoamérica.
+
+[ES]
+Milei viaja a Madrid y se reunirá con Abascal.
+
+[ES]
+Javier Milei viaja a España para la Cumbre Iberoamericana y tiene previsto reunirse con el líder de Vox, Santiago Abascal. No tendrá encuentros bilaterales con otros mandatarios, ni está prevista una reunión con el rey Felipe Sexto.
+
+[ES]
+Fuente: TN.
+
+[ES]
+Kast busca atraer inversiones en Madrid.
+
+[ES]
+El presidente chileno José Antonio Kast aprovecha su visita a Madrid para buscar inversiones. Allí también se reunió con el rey Felipe Sexto.
+
+[ES]
+Fuente: Emol.
+
+[ES]
+Chile: dudas sobre los votos para la acusación constitucional contra Rabat.
+
+[ES]
+El diputado Ilabaca, del PS, reconoció que hoy no están los votos para la acusación constitucional contra Rabat, aunque el panorama podría cambiar con el apoyo del PDG. Por su parte, Cordero sostiene que falta información para la acusación y considera un error la querella por prevaricación contra ministros de la Corte Suprema.
+
+[ES]
+Fuente: Emol.
+
+[ES]
+Cristina Fernández Cubas, Premio Cervantes.
+
+[ES]
+La escritora catalana recibió en su casa de Barcelona la noticia de que ha ganado el Premio Cervantes. En la conversación reflexiona sobre qué hace bueno a un cuento y por qué algunas historias se quedan con el lector.
+
+[ES]
+Fuente: RTVE.
+
+[ES]
+Aysén: setenta y tres niños sin ninguna dosis contra el sarampión.
+
+[ES]
+Salud Aysén advierte que 282 menores de uno a tres años tienen esquemas incompletos, y 73 de ellos no han recibido ninguna dosis. Esto ocurre en medio de un brote reciente, y las autoridades piden acudir a los centros públicos de vacunación.
+
+[ES]
+Fuente: Radio Santa María.
+
+[ES]
+Mundo.
+
+[ES]
+California amenaza con arrestar a agentes de ICE que interfieran en las elecciones.
+
+[ES]
+El gobernador Gavin Newsom respondió a las amenazas de ICE contra personas no autorizadas que voten. Advirtió que su estado perseguirá, detendrá y procesará a quienes interfieran en los comicios.
+
+[ES]
+Fuente: BioBioChile.
+
+[ES]
+Ciberataque a supermercados en Italia.
+
+[ES]
+Italia celebró una reunión de urgencia tras un ciberataque contra supermercados. Las autoridades describen su impacto como limitado.
+
+[ES]
+Fuente: Emol.
+
+[ES]
+M&S tarda más de un año en recuperarse de un ciberataque.
+
+[ES]
+Marks and Spencer vio rebotar sus beneficios hasta los 355 millones de libras. Aun así, las ventas de ropa y artículos para el hogar siguen por debajo de los niveles previos al ataque.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Catar renuncia a albergar la Nations Championship de rugby 2028.
+
+[ES]
+Catar no será sede de las finales de 2028 debido a la crisis en Oriente Medio. También se cancela el patrocinio de Qatar Airways.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Choque de helicópteros en el Everest.
+
+[ES]
+Dos helicópteros chocaron en el Everest, con un turista muerto y otro herido. Un video del suceso circula en los medios.
+
+[ES]
+Fuente: Emol.
+
+[ES]
+Tecnología y Nicho.
+
+[ES]
+Palantir: un trimestre estelar con una señal preocupante.
+
+[ES]
+El fuerte trimestre de Palantir incluyó un hecho llamativo: los ingresos comerciales en Estados Unidos superaron a los del gobierno. Aun así, los pequeños inversores recibieron la acción con frialdad, según TechCrunch.
+
+[ES]
+Fuente: TechCrunch.
+
+[ES]
+Canva recorta cerca de una quinta parte de su plantilla.
+
+[ES]
+Canva anunció despidos masivos en lo que describe como el momento más duro de su historia. La reestructuración responde a un crecimiento más lento.
+
+[ES]
+Fuente: The Sydney Morning Herald.
+
+[ES]
+Hacker News: C++26 desaprobado.
+
+[ES]
+Una entrada del blog de Andreas Fertig, con unos cien puntos, reaviva el debate sobre el futuro del estándar C++26 y cómo sobrevivirá el lenguaje. Otro de los más votados del día es un recorrido por el funcionamiento interno de PostgreSQL, con unos 175 puntos.
+
+[ES]
+Fuente: Hacker News.
+
+[ES]
+GTA VI: la precarga comienza el 10 de noviembre.
+
+[ES]
+Rockstar confirmó que la descarga anticipada de GTA VI estará disponible desde el 10 de noviembre en PS5 y Xbox Series X y S. Requiere hasta 212 gigabytes e incluye un nuevo mapa de Leónida.
+
+[ES]
+Fuente: Revista Young.
+
+[ES]
+Conectando los puntos.
+
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
+[ES]
+Hoy hay un hilo común: los ciclos de poder y de mercado se mueven rápido. Un giro electoral en EE.UU. mueve en horas al dólar, al oro y a los bonos, y las tecnológicas ya descuentan la posibilidad de una regulación más dura de la IA. Mientras tanto, Canva recorta personal por un crecimiento más lento y Palantir muestra que su negocio se desplaza del gobierno al sector comercial. Vale la pena vigilar si ese ritmo se vuelve la norma.
+
+[ES]
+Para ti, en el mundo hispanohablante, la ruta más directa es la cambiaria y la de materias primas. Un dólar más débil suele aliviar monedas como el peso chileno, que andaba cerca de 980 por dólar, y puede sostener los precios de metales y del oro. No es una predicción segura, porque un solo día de mercado dice poco sobre una tendencia.
+
+[ES]
+La política regional también se reordena: Milei busca a Abascal, Kast busca inversiones en Madrid y Madrid funciona como escenario de alianzas. Con un Congreso estadounidense en otras manos, podría cambiar el tono hacia América Latina en comercio, migración y seguridad, algo que vale la pena seguir sin darlo por hecho.
+
+[ES]
+Vigilancia de la Hipótesis.
+
+[ES]
+Vigilancia continua de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente, no una nueva argumentación completa.
+
+[ES]
+Las sub-afirmaciones son: a, ciclos de liderazgo e influencia cada vez más cortos; b, eso empuja a las personas hacia una voz interior más fuerte; c, lo cual provoca un alejamiento del individualismo; y d, lleva a más colaboración humana y cohesión social. Según el registro reciente, a y d han acumulado apoyo casi todos los días, b se ha mantenido mayormente neutral, y c ha recibido señales en contra de forma casi constante. La última revisión integral concluyó red de desafío para la cadena completa; nada de hoy lo mueve.
+
+[ES]
+Hoy, a recibe apoyo: un giro electoral que cambia en una noche el equilibrio de poder, y Canva recortando personal por un crecimiento más lento, según The Guardian y el Sydney Morning Herald. Para b no hay señal clara. Para c, la reunión de Milei con Abascal sin otros bilaterales sugiere política de bloques, según TN. Para d, las celebraciones colectivas de expatriados y la movilización de votantes apuntan a acción compartida, según The Guardian.
