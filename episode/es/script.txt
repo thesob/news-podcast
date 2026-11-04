@@ -1,155 +1,228 @@
 [SECTION intro]
 [ES]
-Buenos días. Este es tu resumen diario del martes 3 de noviembre de 2026.
+Buenos días. Este es tu resumen diario del 4 de noviembre de 2026.
+
 [ES]
-Nota sobre fuentes: hoy no pude leer directamente los feeds de BBC ni Ars Technica, ni las páginas de artículos de The Guardian; las cubrí con otras vías. Reuters, AP, The New York Times, The Washington Post y Xinhua no aportaron contenido hoy, y Emol solo devolvió páginas de septiembre.
+Nota sobre las fuentes: hoy no pude acceder a El País, BBC News Mundo, BBC RSS ni DW en Español. Lo cubrí con el proxy de titulares, Emol, TechCrunch y Hacker News.
+
 [SECTION news]
 [ES]
 Titulares.
+
 [ITEM]
 [ES]
-EE.UU. vota en las elecciones de medio mandato entre disputas judiciales.
+Los demócratas barren en las elecciones legislativas de Estados Unidos.
+
 [ES]
-Los estadounidenses acuden hoy a las urnas en unos comicios que se leen como un referéndum sobre Trump y que decidirán el control del Congreso, hoy en manos republicanas. La víspera, la Corte Suprema rechazó un nuevo intento del Gobierno de invalidar unos 20.000 votos en California por dudas sobre la ciudadanía de los votantes. Además, Trump dijo al New York Post que consideraría indultos para sus aliados si ganan los demócratas.
+Los demócratas recuperan el Senado y se espera que controlen todo el Congreso desde el próximo año, en lo que The Guardian describe como un rechazo de los votantes a la agenda de Trump. También ganaron gubernaturas clave, entre ellas Texas y Georgia, donde Keisha Lance Bottoms será la primera mujer negra en gobernar el estado. Según el análisis, Trump se ha distanciado de varios candidatos republicanos derrotados.
+
 [ES]
-Fuentes: The Guardian, Al Jazeera, DW en Español.
+Fuente: The Guardian.
+
 [ITEM]
 [ES]
-EE.UU. golpea la isla iraní de Qeshm mientras se habla de un acuerdo.
+Los mercados reaccionan: cae el dólar, suben el oro y los bonos.
+
 [ES]
-Fuerzas estadounidenses realizaron ataques limitados contra la isla de Qeshm, al parecer contra misiles tierra-aire, en lo que funcionarios describen como una operación defensiva para limitar la capacidad de Irán de amenazar el estrecho de Ormuz. Al mismo tiempo, Teherán habla de contactos intensos con Washington y el vicepresidente Vance se mostró optimista sobre un pacto. Mientras tanto, Aramco reportó mayores ganancias pese a la guerra, porque la subida del crudo compensó la caída de producción.
+El dólar retrocede mientras el oro y los bonos del Tesoro de Estados Unidos suben tras la victoria demócrata, y los futuros de las bolsas se recuperan. Una posible regulación más dura de la inteligencia artificial pesa sobre las tecnológicas. En Chile, Emol informaba el martes de que el dólar volvía a rondar los 980 pesos, con el mercado pendiente de las elecciones.
+
 [ES]
-Fuentes: The Guardian, DW en Español, La Tercera.
+Fuentes: The Guardian y Emol.
+
 [ITEM]
 [ES]
-Tragedia ferroviaria de Urda: presión política y ayudas a las víctimas.
+Abdul El-Sayed, primer senador musulmán de Estados Unidos.
+
 [ES]
-Pedro Sánchez anunció un escudo social y el adelanto de indemnizaciones para los afectados por el choque de trenes de alta velocidad en Urda, que dejó al menos 69 muertos. Crece la presión por la salida del presidente de Adif, mientras se investiga un posible error de protocolo en el centro de control de Atocha, y Feijóo se presenta como alternativa de gestión. Más de mil personas se concentraron frente al Ministerio de Transportes en Madrid, con cargas policiales tras el lanzamiento de bengalas.
+El progresista Abdul El-Sayed derrotó a Mike Rogers en Michigan y se convertirá en el primer senador musulmán del país. Lo logró tras una campaña marcada por ataques islamófobos.
+
 [ES]
-Fuentes: El País.
+Fuente: The Guardian.
+
 [ITEM]
 [ES]
-Nueva oleada de ciberataques contra los frigoríficos de supermercados europeos.
+La Unión Europea lidera conversaciones de apoyo a Ucrania.
+
 [ES]
-Una segunda ola de ataques afectó a supermercados de Bélgica, Irlanda, Luxemburgo y Suecia, entre otros países: los intrusos habrían puesto los equipos en modo descongelación y se echó a perder comida en decenas de tiendas. La ola previa en Francia se vinculó a refrigeradores conectados de Danfoss que, según se informa, ya no reciben actualizaciones de seguridad. En España, expertos estiman que unos 300 equipos de refrigeración podrían ser vulnerables y piden revisarlos.
+La Comisión Europea hablará con Estados Unidos, los principales países europeos, la OTAN y el Banco Mundial sobre la ayuda invernal a Ucrania. Las conversaciones también abordarán el proceso de paz.
+
 [ES]
-Fuentes: TechCrunch, DW en Español, laSexta.
-[ITEM]
-[ES]
-Zelenski viaja a Berlín y EE.UU. mediará en Abu Dabi.
-[ES]
-El presidente ucraniano hizo una visita inesperada a Berlín para hablar con Merz, tras nuevos ataques rusos contra infraestructura de Ucrania. Por otro lado, el enviado especial Steve Witkoff anunció que EE.UU. mediará la próxima semana en Abu Dabi entre Rusia y Ucrania, con temas como la seguridad de posguerra, la desescalada y medidas humanitarias.
-[ES]
-Fuentes: The Guardian, DW en Español.
+Fuente: The Guardian.
+
 [ES]
 España y Latinoamérica.
+
 [ITEM]
 [ES]
-Kast arranca su gira europea mientras Chile enfrenta un panorama económico difícil.
+Milei viaja a Madrid y se reunirá con Abascal.
+
 [ES]
-El presidente chileno se reunió en Madrid con Santiago Abascal, de Vox, y recibió una distinción de la presidenta regional Isabel Díaz Ayuso. En casa, el Imacec de septiembre subió 0,2%, pero la caída estimada para octubre refuerza las perspectivas de un PIB negativo en 2026, y BBC Mundo repasa el desempleo récord en medio de las políticas de austeridad.
+Javier Milei viaja a España para la Cumbre Iberoamericana y tiene previsto reunirse con el líder de Vox, Santiago Abascal. No tendrá encuentros bilaterales con otros mandatarios, ni está prevista una reunión con el rey Felipe Sexto.
+
 [ES]
-Fuentes: La Tercera, BBC News Mundo.
+Fuente: TN.
+
 [ITEM]
 [ES]
-Alberta vota por seguir en Canadá.
+Kast busca atraer inversiones en Madrid.
+
 [ES]
-Según los resultados del referéndum independentista, Alberta decidió seguir formando parte de Canadá. BBC Mundo señala que los separatistas sufren un duro revés, aunque la tensión con el resto del país probablemente continuará.
+El presidente chileno José Antonio Kast aprovecha su visita a Madrid para buscar inversiones. Allí también se reunió con el rey Felipe Sexto.
+
 [ES]
-Fuentes: BBC News Mundo.
+Fuente: Emol.
+
 [ITEM]
 [ES]
-México: la FGR detalla el presunto desvío de fondos para cárceles.
+Chile: dudas sobre los votos para la acusación constitucional contra Rabat.
+
 [ES]
-La Fiscalía mexicana explicó el esquema con el que, según sostiene, se desviaron recursos destinados a cárceles y que involucra a Inés Gómez Mont. Si es deportada desde EE.UU., se ejecutarían tres órdenes de aprehensión en su contra.
+El diputado Ilabaca, del PS, reconoció que hoy no están los votos para la acusación constitucional contra Rabat, aunque el panorama podría cambiar con el apoyo del PDG. Por su parte, Cordero sostiene que falta información para la acusación y considera un error la querella por prevaricación contra ministros de la Corte Suprema.
+
 [ES]
-Fuentes: El Financiero.
+Fuente: Emol.
+
 [ITEM]
 [ES]
-Perú y EE.UU. refuerzan su cooperación contra el crimen organizado.
+Cristina Fernández Cubas, Premio Cervantes.
+
 [ES]
-Ambos países acordaron fortalecer la cooperación bilateral contra el narcotráfico y el crimen organizado transnacional durante una reunión de trabajo. El acuerdo apunta a una coordinación más estrecha en un momento de creciente preocupación regional por estas redes.
+La escritora catalana recibió en su casa de Barcelona la noticia de que ha ganado el Premio Cervantes. En la conversación reflexiona sobre qué hace bueno a un cuento y por qué algunas historias se quedan con el lector.
+
 [ES]
-Fuentes: El Peruano.
+Fuente: RTVE.
+
+[ITEM]
+[ES]
+Aysén: setenta y tres niños sin ninguna dosis contra el sarampión.
+
+[ES]
+Salud Aysén advierte que 282 menores de uno a tres años tienen esquemas incompletos, y 73 de ellos no han recibido ninguna dosis. Esto ocurre en medio de un brote reciente, y las autoridades piden acudir a los centros públicos de vacunación.
+
+[ES]
+Fuente: Radio Santa María.
+
 [ES]
 Mundo.
+
 [ITEM]
 [ES]
-El banco central de Australia sube los tipos por quinta vez este año.
+California amenaza con arrestar a agentes de ICE que interfieran en las elecciones.
+
 [ES]
-El RBA llevó la tasa de referencia a 4,85%, su nivel más alto en unos 18 años, con una junta dividida seis a tres. La gobernadora Bullock dijo que el dolor ahora evitará uno peor más adelante, y el golpe político podría recaer sobre el Gobierno laborista.
+El gobernador Gavin Newsom respondió a las amenazas de ICE contra personas no autorizadas que voten. Advirtió que su estado perseguirá, detendrá y procesará a quienes interfieran en los comicios.
+
 [ES]
-Fuentes: The Guardian.
+Fuente: BioBioChile.
+
 [ITEM]
 [ES]
-Virgin Media O2 recortará miles de empleos y apuesta por la IA.
+Ciberataque a supermercados en Italia.
+
 [ES]
-La operadora británica planea ahorrar 800 millones de libras, con recortes que podrían afectar hasta a una cuarta parte de sus 16.000 empleados. El plan incluye un mayor uso de inteligencia artificial.
+Italia celebró una reunión de urgencia tras un ciberataque contra supermercados. Las autoridades describen su impacto como limitado.
+
 [ES]
-Fuentes: The Guardian.
+Fuente: Emol.
+
 [ITEM]
 [ES]
-EE.UU. suspendería el acceso libre de aranceles a Sudáfrica y Ruanda.
+M&S tarda más de un año en recuperarse de un ciberataque.
+
 [ES]
-Sudáfrica perdería un acceso libre de aranceles valorado en unos 1.700 millones de dólares anuales en exportaciones, entre ellas autos y productos agrícolas. La medida añade tensión comercial entre Washington y varios socios africanos.
+Marks and Spencer vio rebotar sus beneficios hasta los 355 millones de libras. Aun así, las ventas de ropa y artículos para el hogar siguen por debajo de los niveles previos al ataque.
+
 [ES]
-Fuentes: Al Jazeera.
+Fuente: The Guardian.
+
 [ITEM]
 [ES]
-La ONU pone fin a su misión de paz en el Sáhara Occidental.
+Catar renuncia a albergar la Nations Championship de rugby 2028.
+
 [ES]
-La ONU cerrará su misión en el territorio en disputa después de que EE.UU. y Rusia bloquearan su prórroga. Queda abierta la pregunta de qué ocurrirá con el conflicto sin presencia de cascos azules.
+Catar no será sede de las finales de 2028 debido a la crisis en Oriente Medio. También se cancela el patrocinio de Qatar Airways.
+
 [ES]
-Fuentes: Al Jazeera.
+Fuente: The Guardian.
+
+[ITEM]
+[ES]
+Choque de helicópteros en el Everest.
+
+[ES]
+Dos helicópteros chocaron en el Everest, con un turista muerto y otro herido. Un video del suceso circula en los medios.
+
+[ES]
+Fuente: Emol.
+
 [ES]
 Tecnología y Nicho.
+
 [ITEM]
 [ES]
-OpenAI unifica las pestañas de chat y trabajo de ChatGPT.
+Palantir: un trimestre estelar con una señal preocupante.
+
 [ES]
-Tras el cambio, ChatGPT y Codex compartirán una misma bolsa de uso. Es otro paso de las grandes plataformas de IA hacia productos más integrados, que cambian de forma en cuestión de semanas.
+El fuerte trimestre de Palantir incluyó un hecho llamativo: los ingresos comerciales en Estados Unidos superaron a los del gobierno. Aun así, los pequeños inversores recibieron la acción con frialdad, según TechCrunch.
+
 [ES]
-Fuentes: TechCrunch.
+Fuente: TechCrunch.
+
 [ITEM]
 [ES]
-Hacker News: pesos de modelos editables y un HN en versión periódico.
+Canva recorta cerca de una quinta parte de su plantilla.
+
 [ES]
-Lo más votado del día, con más de 1.300 puntos, es Astra, un proyecto que puede leer y escribir pesos para mejorar el modelo Qwen. Muy abajo, Hacker Times ofrece Hacker News con aire de periódico, actualizado cada hora.
+Canva anunció despidos masivos en lo que describe como el momento más duro de su historia. La reestructuración responde a un crecimiento más lento.
+
 [ES]
-Fuentes: Hacker News.
+Fuente: The Sydney Morning Herald.
+
 [ITEM]
 [ES]
-Northwood Space levanta 375 millones de dólares.
+Hacker News: C++26 desaprobado.
+
 [ES]
-La empresa de infraestructura espacial cerró una Serie C liderada por Andreessen Horowitz y DFJ Growth que la valora en 2.000 millones de dólares.
+Una entrada del blog de Andreas Fertig, con unos cien puntos, reaviva el debate sobre el futuro del estándar C++26 y cómo sobrevivirá el lenguaje. Otro de los más votados del día es un recorrido por el funcionamiento interno de PostgreSQL, con unos 175 puntos.
+
 [ES]
-Fuentes: TechCrunch.
+Fuente: Hacker News.
+
 [ITEM]
 [ES]
-El Banco de España rechaza comparar la inversión en IA con burbujas pasadas.
+GTA VI: la precarga comienza el 10 de noviembre.
+
 [ES]
-El gobernador José Luis Escrivá se mostró optimista sobre la fuerte inversión en inteligencia artificial. Sostiene que es distinta de burbujas anteriores, que financiaban negocios poco productivos.
+Rockstar confirmó que la descarga anticipada de GTA VI estará disponible desde el 10 de noviembre en PS5 y Xbox Series X y S. Requiere hasta 212 gigabytes e incluye un nuevo mapa de Leónida.
+
 [ES]
-Fuentes: El País.
+Fuente: Revista Young.
+
 [SECTION connecting_dots]
 [ES]
-Conectando los Puntos.
+Conectando los puntos.
+
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
 [ES]
-Hoy hay un hilo común: sistemas que dábamos por seguros resultan frágiles. Frigoríficos conectados sin actualizaciones, trenes de alta velocidad con protocolos bajo sospecha y un estrecho de Ormuz que depende de negociaciones y ataques defensivos. Si trabajas o inviertes en la región, vale la pena vigilar la infraestructura aburrida de la que dependes, desde la cadena de frío hasta la conectividad.
+Hoy hay un hilo común: los ciclos de poder y de mercado se mueven rápido. Un giro electoral en EE.UU. mueve en horas al dólar, al oro y a los bonos, y las tecnológicas ya descuentan la posibilidad de una regulación más dura de la IA. Mientras tanto, Canva recorta personal por un crecimiento más lento y Palantir muestra que su negocio se desplaza del gobierno al sector comercial. Vale la pena vigilar si ese ritmo se vuelve la norma.
+
 [ES]
-El petróleo es el segundo hilo. Aramco gana más precisamente porque la guerra encarece el crudo, y Australia sube tipos por quinta vez este año. Para Latinoamérica, un crudo caro puede ser buena noticia para exportadores y mala para importadores de combustible, y un dólar apoyado por tipos altos presiona deudas y monedas. No es una predicción segura, pero un acuerdo con Irán movería precios en una dirección y una escalada en la contraria.
+Para ti, en el mundo hispanohablante, la ruta más directa es la cambiaria y la de materias primas. Un dólar más débil suele aliviar monedas como el peso chileno, que andaba cerca de 980 por dólar, y puede sostener los precios de metales y del oro. No es una predicción segura, porque un solo día de mercado dice poco sobre una tendencia.
+
 [ES]
-Tercero, la política se endurece alrededor de la desconfianza: disputas sobre papeletas en EE.UU., una ultraderecha que se radicaliza tras la tragedia de Urda y una gira de Kast que busca aliados afines en Europa. A la vez, Alberta decidió quedarse en Canadá, un recordatorio de que no todo se polariza. Para quien vive en España o Chile, puede importar cómo la crisis de Urda y la economía chilena condicionen la agenda de los próximos meses.
-[ES]
-Por último, la IA aparece como acelerador y como apuesta financiera. Virgin Media O2 la cita al recortar miles de puestos, OpenAI reordena sus productos y Escrivá defiende que el gasto no es burbuja. Si ese optimismo se equivoca, el efecto llegaría vía bolsa, crédito y empleo; si acierta, el reto será cómo se reparten los beneficios.
+La política regional también se reordena: Milei busca a Abascal, Kast busca inversiones en Madrid y Madrid funciona como escenario de alianzas. Con un Congreso estadounidense en otras manos, podría cambiar el tono hacia América Latina en comercio, migración y seguridad, algo que vale la pena seguir sin darlo por hecho.
+
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
+
 [ES]
-Vigilancia continua de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no un nuevo debate completo.
+Vigilancia continua de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente, no una nueva argumentación completa.
+
 [ES]
-Hoy hay señal de apoyo para a: OpenAI fusiona sus pestañas de chat y trabajo, y los modelos y herramientas se reordenan en semanas, según TechCrunch. Es el décimo noveno día de los últimos veintiséis con apoyo en a, una racha muy consistente. Para b no hay señal clara: Hacker Times es curaduría propia, pero demasiado débil. Para c hay desafío: la ultraderecha se radicaliza tras Urda, según El País, y c lleva muchos días en desafío. Para d hay apoyo: el escudo social para las víctimas de Urda, la mediación en Abu Dabi y la decisión de Alberta de seguir unida.
+Las sub-afirmaciones son: a, ciclos de liderazgo e influencia cada vez más cortos; b, eso empuja a las personas hacia una voz interior más fuerte; c, lo cual provoca un alejamiento del individualismo; y d, lleva a más colaboración humana y cohesión social. Según el registro reciente, a y d han acumulado apoyo casi todos los días, b se ha mantenido mayormente neutral, y c ha recibido señales en contra de forma casi constante. La última revisión integral concluyó red de desafío para la cadena completa; nada de hoy lo mueve.
+
 [ES]
-La revisión integral de este mes ya se publicó y concluyó net challenge para la cadena completa; nada de hoy lo mueve, porque a y d siguen avanzando por separado y c sigue sin dar señales de apoyo.
+Hoy, a recibe apoyo: un giro electoral que cambia en una noche el equilibrio de poder, y Canva recortando personal por un crecimiento más lento, según The Guardian y el Sydney Morning Herald. Para b no hay señal clara. Para c, la reunión de Milei con Abascal sin otros bilaterales sugiere política de bloques, según TN. Para d, las celebraciones colectivas de expatriados y la movilización de votantes apuntan a acción compartida, según The Guardian.
