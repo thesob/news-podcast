@@ -1,136 +1,185 @@
 [SECTION intro]
 [EN]
-Good morning, Patricio. It's a heavy news day — the US midterms broke decisively one way overnight and markets are already moving, while a dangerous flare-up in the Strait of Hormuz runs underneath it. Here's the rundown.
+Good morning, Patricio. Here is your news brief for November 5th, 2026. A quick note on sources today: the New York Times and Washington Post were behind their paywalls, so those stories come via the Guardian, BBC, DW and the Swedish wires; El País, emol and La Tercera blocked direct access but were reached through other feeds, so nothing is missing, just routed differently.
 [SECTION news]
 [EN]
 Top Stories.
 [ITEM]
 [EN]
-Democrats sweep the US midterms and take back both chambers of Congress. In a result that has only happened a handful of times in American history, Democrats flipped the Senate and the House in the same night, with wins stretching into deep-red territory — Senate pickups in Iowa, Kansas, Ohio and Texas among them. Commentators are already framing it as a wholesale rebuke of Trump's agenda, with voters citing prices, tariffs, the Iran war and healthcare cuts; Barack Obama called it a clear message from the people. Trump, for his part, publicly acknowledged the loss and even conceded that the Iran conflict played a part in it.
+A Democratic wave reshapes Washington, and Wall Street cheers.
 [EN]
-Sources: The Guardian, DW, NRK Norway, El País.
+The dust from Tuesday's US midterms settled into a clear picture: Democrats made sweeping gains, flipping Senate seats and winning hundreds of state-legislative races and several governorships, including a stunning Republican loss in Texas, where Ken Paxton fell to Democrat James Talarico and Gina Hinojosa took the governor's mansion. Markets loved it. The Dow posted its best day since early last year while oil prices tumbled, though companies tied to Trump and Elon Musk slid. Musk's record spending became the story's punchline: he poured at least 446 million dollars into Republican-aligned groups, and Democrats won all five of the Senate races where his PAC spent the most. Trump, for his part, pinned the losses on February's war with Iran, but insisted it was worth it.
+[EN]
+Sources: The Guardian, SVT, and Göteborgs-Posten.
 [ITEM]
 [EN]
-Explosions rock the Strait of Hormuz as the US–Iran confrontation escalates and talks run in parallel. Three tankers exploded in the strait — Iran's Revolutionary Guard says they struck naval mines — while US media reported US strikes in the area and further blasts on Iran's Qeshm Island. At the same time, Qatari mediators voiced cautious optimism about US–Iran negotiations, with Tehran saying the ball is in the US court. It's a volatile mix: shooting and diplomacy happening in the same twenty-four hours over the world's most important oil chokepoint.
+Bomb threats throw European aviation into chaos.
 [EN]
-Sources: Al Jazeera, NRK Norway.
+A wave of bomb threats rippled across European airspace on Wednesday, diverting or disrupting commercial flights in France, Italy, Bulgaria, Belgium and Austria, with an Aer Lingus plane among those affected. No devices were found, but the coordinated nature of the threats forced emergency landings and security sweeps at multiple hubs. Authorities are treating the day's incidents as serious while investigating whether they are linked.
+[EN]
+Source: The Guardian.
 [ITEM]
 [EN]
-The dollar slides and investors flee to safety as markets digest the Democratic win. The US dollar fell to a roughly one-month low and dropped about half a percent, while gold and US Treasury bonds rallied as money moved into safe havens. Part of the anxiety is a bet that a Democratic Congress could bring tougher AI regulation, which some investors fear would slow the growth that has been propping up US equities. In short: the political earthquake is translating straight into currency and bond moves.
+Paraguay's biggest bank collapses, locking out savers.
+[EN]
+Paraguay's Central Bank ordered Ueno Bank, the country's largest, to cease operations after detecting serious problems, leaving many clients unable to reach their deposits. The shock has spread to football: CONMEBOL reportedly has around 14 million dollars parked at the bank, and at least ten players are preparing a class action. Commentators are drawing uneasy comparisons to past banking crises in the region and asking how well depositors are really protected.
+[EN]
+Sources: Infobae and Clarín.
+[ITEM]
+[EN]
+Europe's infrastructure under cyber-siege, and Binance bleeds 6.3 billion dollars.
+[EN]
+A strange campaign of cyberattacks continued to unnerve Europe: hackers remotely raised temperatures in French blood-product cold stores and supermarket freezers across seven countries, with alarms thankfully letting technicians intervene before supplies spoiled. Britain's NCSC warned that AI-enabled ransomware is highly likely to hit critical infrastructure such as power stations and hospitals by 2028. Meanwhile, crypto exchange Binance is scrambling to reassure customers after a record 6.3 billion dollar hack, likely tied to North Korean actors.
 [EN]
 Sources: The Guardian.
-[ITEM]
-[EN]
-Russia strikes a Ukrainian aid hub as the EU prepares to lead fresh support talks. A Russian strike on a humanitarian aid centre in Ukraine's Zaporizhzhia region killed a large number of civilians — early reports said twenty-four, later counts put it around thirty-one — even as Washington floated new peace talks and a Putin adviser confirmed Ukraine negotiations are set for next week. In response, the European Commission is moving to convene talks with the US, NATO, major European capitals and the World Bank on sustaining Ukraine. Europe is clearly bracing to carry more of the load, and watching the new US Congress closely as it does.
-[EN]
-Sources: Al Jazeera, The Guardian, DW, NRK Norway.
 [ES]
 España y América Latina.
 [ITEM]
 [ES]
-Dimite Óscar Puente tras la tragedia ferroviaria de Urda. El ministro de Transportes, Óscar Puente, ha ofrecido su dimisión después del accidente de tren de la semana pasada en Urda, que dejó 69 muertos. Es el segundo gran siniestro ferroviario en menos de un año —en enero, el descarrilamiento cerca de Adamuz se saldó con 46 fallecidos— y Puente ha reconocido que no podía sostenerse en el cargo tras dos tragedias de este calibre. La presión del PP y de buena parte de la opinión pública llevaba semanas al máximo.
+Sánchez abre la Cumbre Iberoamericana y pide una alianza más ambiciosa con Europa.
 [ES]
-Fuentes: El País, DW, GP Suecia.
+La trigésima Cumbre Iberoamericana arrancó en Madrid entre música y discursos, con Pedro Sánchez llamando a tejer una alianza más estrecha entre América Latina y Europa para ganar peso en un mundo cada vez más fragmentado. El gesto llega en un momento delicado para el propio Sánchez, que ha adelantado elecciones generales al 29 de noviembre y defiende estos días una gestión que, asegura, ha dejado crecer a España. La cumbre busca proyectar unidad iberoamericana justo cuando el giro político en Washington reordena las prioridades globales.
+[ES]
+Fuentes: La Moncloa y Prensa Latina.
 [ITEM]
 [ES]
-El caso Rabat tensiona al Congreso chileno, pero la acusación constitucional no reúne votos. El diputado Leonardo Ilabaca, del Partido Socialista, admitió que hoy día no están los votos para sacar adelante la acusación constitucional en torno al caso Rabat, aunque dejó abierto que el apoyo del PDG podría cambiar el escenario. Desde el oficialismo, el ministro Cordero señaló que falta información y calificó de desatinada la denuncia por prevaricación. En paralelo, varios análisis advierten del riesgo de que el episodio escale hasta convertirse en algo parecido a la vieja crisis de los retiros.
+Dos tornados devastan el sur de Brasil.
 [ES]
-Fuentes: Emol.
+Dos tornados golpearon varios municipios de Santa Catarina, destrozando viviendas y dejando cuatro localidades en estado de emergencia. Uno de ellos arrasó el aeropuerto de Chapecó, que suspendió operaciones de forma indefinida. Las autoridades todavía evaluaban daños y posibles víctimas mientras los servicios de emergencia trabajaban a contrarreloj.
+[ES]
+Fuente: La Nación.
 [ITEM]
 [ES]
-El presidente Kast se reúne con el rey Felipe VI en Madrid, con vinos chilenos de regalo. En plena gira europea, el presidente José Antonio Kast sostuvo una audiencia con el rey Felipe VI de España, a quien obsequió vinos chilenos. El encuentro refuerza la agenda diplomática y comercial del Gobierno con Europa en un momento en que Chile busca apuntalar sus lazos exteriores. Un gesto de bodega chilena para engrasar la relación bilateral.
+El voto latino castiga a Trump en las urnas.
 [ES]
-Fuentes: Emol.
+Los republicanos sufrieron un duro revés en las elecciones de medio mandato, y el voto latino jugó un papel decisivo en el resultado. DW destaca que Trump había pedido personalmente el apoyo de los votantes latinos en la Casa Blanca, como si él mismo estuviera en la papeleta, pero los números apuntan a un giro demócrata que lo deja debilitado de cara a 2028.
+[ES]
+Fuente: DW.
+[ITEM]
+[ES]
+Chile: Kast emplaza al Congreso por el Presupuesto 2027.
+[ES]
+El presidente José Antonio Kast pidió al Congreso debatir el Presupuesto 2027 sin trincheras políticas, en un pulso que marca su primer año de gobierno. El plan contempla un alza del gasto público de apenas 1,5% y pone el foco en el empleo, en línea con el tono de austeridad que Kast prometió al asumir. El trasfondo económico es más amable de lo habitual: el cobre se ha mantenido en niveles históricamente altos, lo que da algo de aire a las cuentas fiscales.
+[ES]
+Fuentes: La Tercera y Bloomberg Línea.
 [EN]
 US and International.
 [ITEM]
 [EN]
-Down the ballot, the Democratic wave made history. Abdul El-Sayed defeated Mike Rogers in Michigan to become the first Muslim US senator, winning despite a race marked by Islamophobic attacks, while James Talarico took the Texas Senate seat. Democrats also swept a striking run of governorships — Gina Hinojosa won Texas with over fifty percent of the vote, her party's first statewide win there in more than three decades, and the party picked up a first-ever Black woman governor elsewhere. The map that emerged looks very different from the one strategists drew up a year ago.
+Ukraine and the US hold substantive talks.
 [EN]
-Sources: The Guardian, El País, NRK Norway.
+President Zelensky says Ukrainian representatives held what he called content-rich talks with US envoys Steve Witkoff and Jared Kushner. He also sounded hopeful that the Democrats' midterm gains could translate into renewed American support for Kyiv. The diplomacy comes as the front lines remain under pressure and Russia keeps up its strikes.
+[EN]
+Source: Dagens Nyheter.
 [ITEM]
 [EN]
-The US Justice Department sent criminal-investigation notices in Alaska tied to a Senate spoiler scheme. Federal prosecutors issued notices to more than a dozen people allegedly involved in recruiting an Alaska Senate candidate who shared a name with the Republican incumbent, and two sources suggested charges could follow. It's a reminder of how bitterly contested — and legally fraught — this election cycle has been, right down to the ballot in individual states. Expect this one to rumble on well past election night.
+Oil tankers ablaze in the Strait of Hormuz, originally reported by NRK in Norway.
 [EN]
-Sources: CNN en Español.
+Two oil tankers were set on fire in the Strait of Hormuz, the latest flashpoint in the Iran-related conflict that has rattled the region all year. The strait is the world's most important oil chokepoint, so any incident there sends a jolt through energy markets, all the more notable on a day when oil prices were otherwise falling on the US election news. NRK is following it as part of its wider war coverage.
+[EN]
+Source: NRK.
 [ITEM]
 [EN]
-Greenland ratifies a US security agreement with Trump. Greenland's parliament has ratified a security arrangement with the Trump administration, a notable step given the long tug-of-war over the island's strategic position in the Arctic. The move formalizes a closer defence relationship with Washington even as the broader geopolitics around Greenland remain delicate. Small parliament, outsized strategic consequences.
+Iran gloats over Trump's defeat.
 [EN]
-Sources: DW.
+Tehran mocked Trump's midterm setback, with officials crowing that opponents talked about regime change, and that they made it happen, casting the Republican losses as a verdict on the war. Trump acknowledged to US media that February's offensive against Iran weighed on voters, even as he defended the decision.
+[EN]
+Source: France 24.
 [ITEM]
 [EN]
-King Charles the Third calls the slave trade a monstrous injustice. The King used unusually direct language to condemn the historical slave trade as a monstrous injustice, landing in the middle of a live British political debate over apologies and reparations. In the UK, Ed Miliband said the government won't change its position on reparations, while Andy Burnham pressed the case for a proper apology ahead of a Commonwealth summit. The words from the palace will reverberate through that argument.
+Hong Kong democracy activist jailed for ten years, reported by NRK in Norway.
 [EN]
-Sources: DW, The Guardian.
+A prominent Hong Kong pro-democracy activist was sentenced to ten years in prison, a stark reminder of how sharply the space for dissent has narrowed in the city. The sentence drew international attention as rights groups renewed warnings about the erosion of political freedoms there.
+[EN]
+Source: NRK.
 [ITEM]
 [EN]
-North Korea fires another round of missiles and waves off diplomacy. Pyongyang launched several missiles — its fourth test in under a week — while Kim Yo-jong dismissed the idea of meeting people she called too unreliable to bother with. The cadence of tests suggests North Korea is content to keep pressure high rather than return to talks. A familiar pattern, but an accelerating one.
+The UK plans its biggest-ever facial-recognition immigration crackdown.
 [EN]
-Sources: El País.
-[ITEM]
+Home Office documents reveal plans to deploy live facial recognition at transport hubs and public events as part of the largest immigration-enforcement push the UK has attempted. Civil-liberties groups are alarmed at the normalization of mass biometric surveillance, while the government frames it as a tool for finding people who have overstayed. It lands amid a broader European debate about how far the state should see into daily life.
 [EN]
-Russia's Novaya Gazeta, a symbol of independent journalism, will shut down on November the ninth. The storied newspaper — long a standard-bearer for democratic, independent press in Russia — announced it will close on November the ninth. Its shuttering marks another narrowing of the space for free reporting inside the country. For many, it's the end of an era.
-[EN]
-Sources: El País.
-[ITEM]
-[EN]
-Norway just logged an extremely warm October, with more than sixty temperature records in the north. NRK Norway reports that northern Norway broke over sixty temperature records during an October described as extremely warm, a striking signal in a region that is warming faster than the global average. Scientists there also warned that Norway's conservation protections are proving too weak to keep pace with the pressures on nature. Translated and summarized here from NRK's Norwegian-language coverage.
-[EN]
-Sources: NRK Norway.
+Source: The Guardian.
 [EN]
 Tech and Niche.
 [ITEM]
 [EN]
-CrowdStrike is spending nearly five hundred million dollars on two AI-security startups as securing the agents becomes a market. The cybersecurity giant is acquiring two startups focused on protecting AI agents, a bet that as companies deploy autonomous AI, defending it becomes its own fast-growing category. It's one of the clearest signs yet that the AI build-out is spawning entire sub-industries around it. Where there's a gold rush, someone sells the locks.
+The AI frontier keeps churning, now weekly.
 [EN]
-Sources: TechCrunch.
+The relentless model treadmill rolled on: Moonshot released the open weights for its Kimi K3.1 Pro, Baidu dropped ERNIE 5.5 Flash Base, and OpenAI shipped Images 2.6, its latest image model. The pace, new frontier-class systems landing within days of each other, often open-weight, keeps compressing the shelf life of any single best model. It's a vivid illustration of how quickly technical authority now turns over.
+[EN]
+Sources: Hugging Face, Baidu, and OpenAI.
 [ITEM]
 [EN]
-Anthropic is still wrestling with the economics of compute. A TechCrunch piece digs into how Anthropic continues to grapple with the sheer cost of the computing power its models demand — a tension sitting at the heart of the whole AI industry's business model. Even the frontier labs can't outrun the electricity and silicon bill. It's a useful antidote to the narrative that AI economics are a solved problem.
+OpenAI's AI found 948 ways into the Linux kernel.
 [EN]
-Sources: TechCrunch.
+OpenAI described an autonomous pipeline that finds, validates, exploits and patches vulnerabilities in the Linux kernel, with human researchers reviewing results before they're reported to maintainers. In one run it produced 948 working local-privilege-escalation exploits at roughly 1.2 million dollars in API costs. The takeaway cuts both ways: AI can now probe complex software at a scale no manual team could match, which makes fast automated patching, and human oversight of it, essential rather than optional.
+[EN]
+Source: OpenAI.
 [ITEM]
 [EN]
-Researchers had warned about North Korean hacking years before a record six-point-three-billion-dollar Binance heist. Security researchers flagged the exact North Korean tactics used in what's being called a record-setting six-point-three-billion-dollar theft from Binance — years before it happened. The story is a case study in how known-but-ignored warnings can compound into enormous losses. A sobering reminder that in security, we told you so is cold comfort.
+Google pulls AI from classrooms by default, but you can't escape it in Search.
 [EN]
-Sources: TechCrunch.
+Google will turn off its AI tools by default for schoolchildren, starting in the US, after criticism that students were being nudged into using them. The catch, Google admits, is that there's now no way to use Search without using artificial intelligence, so schools blocking the AI features effectively block Search too. It's a neat encapsulation of how deeply AI has been woven into everyday tools, whether you asked for it or not.
+[EN]
+Sources: The Guardian and SvD.
 [ITEM]
 [EN]
-And for the tinkerers: someone jailbroke their Renault's navigation system just to change the clock. In the week's most charmingly stubborn hack, and the top story on Hacker News, an engineer reverse-engineered their car's locked-down nav computer purely to fix the displayed time themselves rather than pay or wait for the carmaker. It's a tiny act of defiance against software that treats owners as tenants. Deeply relatable to anyone who's ever fought their own gadget.
+Residential proxies spotted on the White House network.
 [EN]
-Sources: Hacker News.
+Security researchers reported detecting residential proxy traffic on the White House network, the kind of setup often used to disguise the origin of connections. The finding set off a lively debate online about what it might mean and who could be responsible. It's unconfirmed in its implications, but notable enough to top the tech discussion today.
+[EN]
+Source: Layer3 Intel.
+[ITEM]
+[EN]
+AI's courtroom embarrassments keep piling up.
+[EN]
+A UK prosecutor cited a completely imaginary legal precedent to the High Court after relying on an AI search, one of dozens of AI-related errors that have surfaced in British courts this year. The judge called it a serious failure. The episode underscores a recurring lesson: these tools are powerful, but handing them your judgment unchecked keeps backfiring.
+[EN]
+Source: The Guardian.
 [SV]
 Sverige.
 [ITEM]
 [SV]
-Regeringsbildning i gungning: Kristersson tackar ja till att sondera. Efter att Centerledaren Elisabeth Thand Ringqvist föll i omröstningen om statsminister är det nu Ulf Kristersson som tackat ja till att sondera förutsättningarna för en ny regering. Det svenska politiska läget är fortsatt osäkert, och turerna kring vem som kan samla ett underlag fortsätter. Mer besked väntas de närmaste dagarna.
+Svenskt stridsflyg i skarp Nato-insats i Polen.
 [SV]
-Källor: DN.
+Sverige skickade stridsflygplan från Blekinge till Polen för att hjälpa till att skydda polskt luftrum inom ramen för en Nato-operation. Insatsen understryker hur Sveriges Nato-medlemskap nu omsätts i konkreta uppdrag nära Rysslands intressesfär. Det sker samtidigt som spänningarna i öst håller i sig och Ukraina fortsätter att pressas.
+[SV]
+Källa: Dagens Nyheter.
 [ITEM]
 [SV]
-Nytt ellarm: upp till 9 400 procent dyrare el i söder. Elpriserna rusar i södra Sverige samtidigt som de faller i norr, och skillnaden väntas bli enorm på onsdagen — i elområde 4 stiger priset kraftigt medan norra landet knappt märker av det. Det blottlägger återigen hur delat det svenska elprissystemet är mellan nord och syd. För hushåll i söder blir det en dyr dag.
+Våldet i skolan eskalerar: knivar, yxor, smällare.
 [SV]
-Källor: Dagens Industri via TN.
+En elevassistent på en resursskola söder om Stockholm beskriver vardagliga hot och våld mot personalen, med tillhyggen som knivar och yxor. Lärarförbundet rapporterar rekordnivåer av hot och våld mot skolpersonal. Vittnesmålet sätter fingret på en arbetsmiljökris som fackförbunden varnat för länge.
+[SV]
+Källa: Morgonbladet.
+[ITEM]
+[SV]
+Misstänkt mord och mordförsök i Sollentuna.
+[SV]
+En person dödades och en annan skadades allvarligt i ett våldsdåd i Sollentuna på onsdagseftermiddagen. Polisen grep kort därefter en misstänkt för mord och mordförsök. Utredningen är i ett tidigt skede och polisen håller igen på detaljerna.
+[SV]
+Källa: Göteborgs-Posten.
 [SECTION connecting_dots]
 [EN]
 Connecting the Dots.
 [EN]
-This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+This section is interpretation and informed speculation, not reported news. It's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
 [EN]
-Patricio, the single thread running through today is reversal — of political power in Washington, of market positioning, of who's assumed to be in charge. And the market reaction is the part that lands closest to you in Chile. The dollar sliding to a one-month low is, on balance, friendly to Chilean terms of trade: copper is priced in dollars, so a weaker dollar tends to firm up the peso and support copper's local value. But read the reason the dollar fell — fears that a Democratic Congress means tougher AI regulation and therefore slower US growth — and the picture gets more two-sided. Slower US and global growth eventually softens demand for industrial metals, so the same story that's good for the peso today could, if it hardens into a genuine growth scare, chip away at copper demand down the line. Worth watching, not a confident prediction.
+Patricio, the thread running through today is a shift in the center of gravity of power, and it's happening on several boards at once. In Washington, a party that had looked dominant a year ago just got checked hard, and the markets read it instantly: oil down, renewables up, Trump- and Musk-linked stocks falling. The single most telling detail is Musk's 446 million dollars buying nothing: five big Senate races where his money went heaviest all went the other way. Money and platform ownership, it turns out, still bump into something stubborn in voters. Hold that thought, because it rhymes with the AI stories below.
 [EN]
-The Strait of Hormuz is the thread I'd keep one eye on for the opposite reason. Chile imports essentially all its oil, so any sustained disruption to that chokepoint feeds straight into fuel prices and, with a lag, into local inflation — exactly the kind of imported-cost pressure that complicates the central bank's job. For now it reads as a flare-up with diplomacy running alongside it, so I wouldn't overweight it; but a tanker war in Hormuz is the sort of tail risk that doesn't announce itself politely before it moves the oil price.
+For you in Chile, the most direct channel today is energy and copper. Oil falling on the US result is quietly good news for a net oil importer like Chile: cheaper imported energy takes pressure off inflation and the trade balance, which matters when Kast is trying to hold spending growth to 1.5% and still deliver on jobs. But watch the Strait of Hormuz: two tankers on fire there is exactly the kind of shock that can reverse an oil-price drop overnight, so the relief could be fragile. Copper, meanwhile, has been sitting at historically strong levels, and a weaker dollar and risk-on mood after the US election tend to be tailwinds for the metal, a genuine, if modest, boost to Chilean fiscal math and the peso. None of this is a confident prediction; it's a set of levers worth watching over the next few weeks.
 [EN]
-There's also a quietly interesting political mirror today. The US just swung sharply left in a midterm rebuke of its right-populist president, on the very day Chile's President Kast — who arrived via the opposite, rightward swing — was in Madrid shaking hands with Felipe VI. It's a reminder that the direction of democratic politics isn't a global tide moving everyone the same way at once; it's local, reactive, and often out of phase between countries. For a Chilean reading the world, that's a useful corrective to importing US political mood wholesale.
+Two financial-fragility signals are worth filing away. Paraguay's biggest bank failing and locking out depositors is a reminder that regional banking confidence can crack fast, and contagion fear, even unfounded, travels across borders in Latin America. And Binance's 6.3 billion dollar hack plus the quiet sabotage of European cold-storage systems point to a world where the attack surface is everything connected. For a copper-and-trade economy plugged into global finance, the lesson is less panic and more that resilience and diversification aren't optional.
 [EN]
-Finally, the energy stories — Sweden's wild north-south electricity split and Norway's record-warm October — rhyme with a theme that matters a lot for Chile's own transition: the grid, not the generation, is becoming the binding constraint. Sweden can have cheap power in the north and punishing prices in the south at the same hour because the wires and market zones can't move it fast enough. Chile, with its superb solar in the north and demand in the center, knows this problem intimately. The lesson other countries are learning the hard way — that transmission and storage are where the real fight is — is one Chile is well-placed to get ahead of. Worth watching how that plays out.
+Then there's the AI layer, which is less a day's news than a backdrop that keeps thickening. Three frontier models in a week, an AI that can autonomously generate a thousand kernel exploits, Google admitting you literally cannot search without AI anymore, and a prosecutor humiliated for trusting an AI's invented case. The pattern I'd flag for you: the technology's reach is expanding faster than anyone's ability to vouch for it, which is pushing responsibility back onto individual human judgment, the engineer reviewing the exploit, the lawyer who should have checked the citation, the school deciding what to switch off. That tension between automated scale and irreducible human judgment is the quiet throughline of the whole brief, and it's the same muscle your standing hypothesis is about.
 [SECTION hypothesis_watch]
 [EN]
 Hypothesis Watch.
 [EN]
-An ongoing daily scan of your standing hypothesis on AI, shrinking authority cycles, and social cohesion — read against the recent trend in the log rather than today alone, and not a full re-argument. Sub-claims: (a) shrinking thought-leadership and authority cycles, (b) a stronger internal voice, (c) a move away from individualism, (d) more human collaboration and social cohesion.
+An ongoing watch on your standing hypothesis about AI, shrinking authority cycles and social cohesion, a light daily scan read against the recent trend in the log, not a full re-argument.
 [EN]
-Today is a strong day for (a). A sitting president's movement getting decisively repudiated two years in, the Trump-era is over commentary already printing, and Russia's Novaya Gazeta announcing its own closure all point the same way: authority and the cycles around it keep compressing. That continues what has been an unbroken supporting run for (a) across the entire forty-five-entry log — this is the claim the evidence keeps feeding. (b) gets a modest supporting signal too: a midterm read as voters acting on their own judgment against institutional and AI-era messaging, Abdul El-Sayed winning on conviction despite targeted attacks, even the Renault tinkerer insisting on controlling his own device — all small assertions of an internal voice over external authority. That fits (b)'s steady majority-support pattern in the log.
+Today reads as a continuation, not a turn. Sub-claim (a), shrinking authority cycles, gets another clear supporting signal and extends what is now an unbroken streak across the entire log: three frontier AI models landing in a single week, Kimi K3.1 Pro, ERNIE 5.5 Flash and OpenAI Images 2.6, on top of a US midterm that reversed the political map overnight and the usual churn of leaders and institutions. Authority is turning over about as fast as the log has ever recorded.
 [EN]
-(c) stays neutral, exactly as it has every single day on record. Today's collective action — an election, EU states coordinating on Ukraine — is partisan, issue-based, or state-level, not the civilizational turn away from individualism the hypothesis envisions. (d) is also neutral: the EU moving to convene a broad Ukraine-support coalition is a faint cooperative positive, but it's set against an active tanker crisis in Hormuz, a deadly Russian strike, and North Korean missiles — so cohesion signals remain offset by conflict, the same mixed picture the log shows, its last clear (d) support back on the twenty-sixth of October. The integral-review history is still empty — no monthly verdict has been recorded yet — so there's no prior whole-chain judgment to weigh today against. Net read: the front of the chain (a to b) keeps firing, the back half (c to d) still hasn't moved.
+Sub-claim (b), a stronger internal voice, also gets support, and it keeps the recent run going, with support on November 1st, 2nd and 4th, and only the October 24th blank breaking the pattern lately. The cleanest evidence today is in the AI stories read together: OpenAI's kernel pipeline is explicitly built around human researchers reviewing the machine's output, the UK prosecutor's serious failure is a cautionary tale about not exercising that judgment, and Google handing schools an off-switch is institutions being told to decide for themselves rather than defer to the default. The common note is people reasserting their own judgment against automated authority.
+[EN]
+Sub-claims (c) and (d) stay where they've stubbornly been. Sub-claim (c), a move away from individualism, gets nothing again: the collective action on display today, the Democratic wave, the Ibero-American summit, is partisan or state-level, not a cultural shift away from individualism, matching all 44 prior entries of neutral. Sub-claim (d), human collaboration and cohesion, is neutral too: the Spain-Latin America alliance pitch and the Ukraine-US talks are cooperation, but state-level and offset by the Hormuz fires, Europe's cyber-siege and Paraguay's bank collapse. The last genuine (d) support was the leaderless Serbian movement back on October 26th; nothing today moves it. So the honest read remains what the log has shown for two months: (a) and (b) keep stacking up, while the back half of the chain, the leap from individual voice to renewed collective cohesion, still hasn't shown itself.
