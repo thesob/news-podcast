@@ -1,9 +1,9 @@
 [SECTION intro]
 [ES]
-Buenos días. Este es tu resumen diario del 4 de noviembre de 2026.
+Buenos días. Este es tu resumen diario del 5 de noviembre de 2026.
 
 [ES]
-Nota sobre las fuentes: hoy no pude acceder a El País, BBC News Mundo, BBC RSS ni DW en Español. Lo cubrí con el proxy de titulares, Emol, TechCrunch y Hacker News.
+Nota sobre fuentes: hoy no pude leer directamente BBC News RSS, The New York Times, The Washington Post, Reuters, AP, Al Jazeera ni Xinhua Español; BBC News Mundo, DW en Español y Ars Technica solo se consultaron por el respaldo /extract (portadas), y https://www.google.com/url?q=http://latercera.cl&source=gmail&ust=1793956510410000&sa=E no devolvió titulares útiles. Cubrí esos huecos con The Guardian, El País (vía el proxy de titulares), Emol, BBC Mundo, DW, TechCrunch y Hacker News.
 
 [SECTION news]
 [ES]
@@ -11,40 +11,59 @@ Titulares.
 
 [ITEM]
 [ES]
-Los demócratas barren en las elecciones legislativas de Estados Unidos.
+Los demócratas arrasan en las legislativas de EE.UU. y toman el control del Congreso.
 
 [ES]
-Los demócratas recuperan el Senado y se espera que controlen todo el Congreso desde el próximo año, en lo que The Guardian describe como un rechazo de los votantes a la agenda de Trump. También ganaron gubernaturas clave, entre ellas Texas y Georgia, donde Keisha Lance Bottoms será la primera mujer negra en gobernar el estado. Según el análisis, Trump se ha distanciado de varios candidatos republicanos derrotados.
+Los republicanos perdieron siete escaños en el Senado, 30 distritos de la Cámara y cinco gobernaciones, según el análisis de The Guardian, en un contexto de combustibles caros y descontento con el presidente. Trump dijo que aceptará el resultado y que trabajará con los demócratas, tras una campaña previa que sembró dudas sobre la votación.
+
+[ES]
+La carrera al Senado en Mississippi sigue sin cerrarse, con el desafiante demócrata levemente por delante. El vicepresidente J. D. Vance atribuyó la derrota a la guerra con Irán y advirtió contra giros radicales en migración.
+
+[ES]
+Fuente: The Guardian, DW en Español, Emol, El País.
+
+[ITEM]
+[ES]
+Renovables y tecnológicas ante el nuevo mapa político.
+
+[ES]
+Las acciones de energías renovables, en especial las de Ørsted, subieron tras el triunfo demócrata, con la esperanza de un respiro frente a la hostilidad de la era Trump. Según The Guardian, el enojo público con la tecnología, la IA y los superricos ayudó a los demócratas.
+
+[ES]
+Eso deja a los magnates tecnológicos que se acercaron a Trump ante un clima político más duro en un país ahora más azul.
 
 [ES]
 Fuente: The Guardian.
 
 [ITEM]
 [ES]
-Los mercados reaccionan: cae el dólar, suben el oro y los bonos.
+El Banco de Inglaterra subiría hoy las tasas por primera vez en más de tres años.
 
 [ES]
-El dólar retrocede mientras el oro y los bonos del Tesoro de Estados Unidos suben tras la victoria demócrata, y los futuros de las bolsas se recuperan. Una posible regulación más dura de la inteligencia artificial pesa sobre las tecnológicas. En Chile, Emol informaba el martes de que el dólar volvía a rondar los 980 pesos, con el mercado pendiente de las elecciones.
+Se espera que el banco central británico endurezca su política mientras el FTSE 100 alcanza máximos de tres meses. Noruega, por su parte, mantuvo sus tasas, pero dejó abierta la posibilidad de subidas.
 
 [ES]
-Fuentes: The Guardian y Emol.
-
-[ITEM]
-[ES]
-Abdul El-Sayed, primer senador musulmán de Estados Unidos.
-
-[ES]
-El progresista Abdul El-Sayed derrotó a Mike Rogers en Michigan y se convertirá en el primer senador musulmán del país. Lo logró tras una campaña marcada por ataques islamófobos.
+El petróleo y la inflación, con el conflicto en Irán de fondo, marcan el debate en los mercados.
 
 [ES]
 Fuente: The Guardian.
 
 [ITEM]
 [ES]
-La Unión Europea lidera conversaciones de apoyo a Ucrania.
+Ola de amenazas de bomba contra vuelos europeos.
 
 [ES]
-La Comisión Europea hablará con Estados Unidos, los principales países europeos, la OTAN y el Banco Mundial sobre la ayuda invernal a Ucrania. Las conversaciones también abordarán el proceso de paz.
+Un vuelo de Aer Lingus de Dublín a Roma fue desviado a una base militar francesa tras una nueva amenaza, según informó Francia. El episodio se suma a una oleada de amenazas contra vuelos en Europa.
+
+[ES]
+Fuente: The Guardian.
+
+[ITEM]
+[ES]
+Joshua Wong, condenado a 10 años de cárcel en Hong Kong.
+
+[ES]
+El activista prodemocracia recibió la pena tras declararse culpable de «colusión con fuerzas extranjeras». Es su segunda condena bajo la ley de seguridad nacional.
 
 [ES]
 Fuente: The Guardian.
@@ -54,175 +73,175 @@ España y Latinoamérica.
 
 [ITEM]
 [ES]
-Milei viaja a Madrid y se reunirá con Abascal.
+Colombia: el Congreso aprueba la ley de sometimiento.
 
 [ES]
-Javier Milei viaja a España para la Cumbre Iberoamericana y tiene previsto reunirse con el líder de Vox, Santiago Abascal. No tendrá encuentros bilaterales con otros mandatarios, ni está prevista una reunión con el rey Felipe Sexto.
+El Espectador cuenta cómo se cocinó la aprobación de la ley en el Congreso. La presenta como una victoria del gobierno de Abelardo de la Espriella.
 
 [ES]
-Fuente: TN.
+Fuente: El Espectador.
 
 [ITEM]
 [ES]
-Kast busca atraer inversiones en Madrid.
+Argentina: el dólar blue cierra bajo el tipo de cambio minorista.
 
 [ES]
-El presidente chileno José Antonio Kast aprovecha su visita a Madrid para buscar inversiones. Allí también se reunió con el rey Felipe Sexto.
+Cerró en $1.545 para la compra y $1.565 para la venta, por debajo del minorista por segundo día seguido. El mayorista bajó tras la elección en EE.UU., aunque el contado con liquidación rozó los $1.700.
+
+[ES]
+Fuente: Ámbito.
+
+[ITEM]
+[ES]
+Perú: nuevas cárceles en Huacho y un fallo electoral en Ica.
+
+[ES]
+La presidenta Keiko Fujimori entregó dos terrenos estatales de 2.600 hectáreas en Huacho para construir centros penitenciarios, que espera operativos en los próximos meses. En paralelo, el JEE de Ica proclamó alcaldesa de San Juan Bautista a la segunda regidora, Rita del Carmen Guerrero, y no al alcalde actual, por considerar que sería una reelección encubierta.
+
+[ES]
+Fuente: RPP, La República.
+
+[ITEM]
+[ES]
+Chile: el 69% de los trabajadores latinoamericanos no cotiza.
+
+[ES]
+Un índice del BID ubica a Chile en segundo lugar en calidad del empleo, pero muestra que cerca del 69% de los trabajadores de la región no cotiza en seguridad social. El dato recuerda la brecha entre los mejores y los peores mercados laborales de Latinoamérica.
 
 [ES]
 Fuente: Emol.
 
 [ITEM]
 [ES]
-Chile: dudas sobre los votos para la acusación constitucional contra Rabat.
+Chile: Contraloría detecta inconsistencias en más de 9.000 inmuebles fiscales.
 
 [ES]
-El diputado Ilabaca, del PS, reconoció que hoy no están los votos para la acusación constitucional contra Rabat, aunque el panorama podría cambiar con el apoyo del PDG. Por su parte, Cordero sostiene que falta información para la acusación y considera un error la querella por prevaricación contra ministros de la Corte Suprema.
+El cruce de datos de la Contraloría halló irregularidades en el registro y control de más de 9.000 propiedades del Estado. El hallazgo reabre la discusión sobre cómo se administra el patrimonio público.
 
 [ES]
 Fuente: Emol.
 
 [ITEM]
 [ES]
-Cristina Fernández Cubas, Premio Cervantes.
+Bukele descarta que los cuerpos hallados en Haití sean de los soldados salvadoreños.
 
 [ES]
-La escritora catalana recibió en su casa de Barcelona la noticia de que ha ganado el Premio Cervantes. En la conversación reflexiona sobre qué hace bueno a un cuento y por qué algunas historias se quedan con el lector.
+El presidente rechazó un reporte del New York Times según el cual los cuatro militares secuestrados habían sido encontrados en Puerto Príncipe. La situación de los soldados sigue sin aclararse.
 
 [ES]
-Fuente: RTVE.
-
-[ITEM]
-[ES]
-Aysén: setenta y tres niños sin ninguna dosis contra el sarampión.
-
-[ES]
-Salud Aysén advierte que 282 menores de uno a tres años tienen esquemas incompletos, y 73 de ellos no han recibido ninguna dosis. Esto ocurre en medio de un brote reciente, y las autoridades piden acudir a los centros públicos de vacunación.
-
-[ES]
-Fuente: Radio Santa María.
+Fuente: BBC News Mundo.
 
 [ES]
 Mundo.
 
 [ITEM]
 [ES]
-California amenaza con arrestar a agentes de ICE que interfieran en las elecciones.
+Eisenkot, el general que perdió un hijo en Gaza, desafía a Netanyahu.
 
 [ES]
-El gobernador Gavin Newsom respondió a las amenazas de ICE contra personas no autorizadas que voten. Advirtió que su estado perseguirá, detendrá y procesará a quienes interfieran en los comicios.
+El exjefe militar retirado es la mayor amenaza política para el primer ministro en las primeras elecciones desde el ataque del 7 de octubre. Su candidatura llega marcada por la pérdida de un hijo en la guerra de Gaza.
 
 [ES]
-Fuente: BioBioChile.
-
-[ITEM]
-[ES]
-Ciberataque a supermercados en Italia.
-
-[ES]
-Italia celebró una reunión de urgencia tras un ciberataque contra supermercados. Las autoridades describen su impacto como limitado.
-
-[ES]
-Fuente: Emol.
+Fuente: BBC News Mundo.
 
 [ITEM]
 [ES]
-M&S tarda más de un año en recuperarse de un ciberataque.
+Barnier: el Reino Unido podría evitar el euro, pero no la libre circulación.
 
 [ES]
-Marks and Spencer vio rebotar sus beneficios hasta los 355 millones de libras. Aun así, las ventas de ropa y artículos para el hogar siguen por debajo de los niveles previos al ataque.
+El exnegociador del Brexit dijo que Londres no tendría que adoptar el euro para volver a la UE, aunque la libre circulación sería innegociable. Farage, además, enfrenta preguntas por su pronóstico electoral.
 
 [ES]
 Fuente: The Guardian.
 
 [ITEM]
 [ES]
-Catar renuncia a albergar la Nations Championship de rugby 2028.
+Astrónomos desde Chile confirman un «planeta bebé».
 
 [ES]
-Catar no será sede de las finales de 2028 debido a la crisis en Oriente Medio. También se cancela el patrocinio de Qatar Airways.
+Un equipo internacional liderado por investigadores chilenos confirmó un planeta que sería el más joven conocido, a unos 450 años luz de la Tierra.
 
 [ES]
-Fuente: The Guardian.
-
-[ITEM]
-[ES]
-Choque de helicópteros en el Everest.
-
-[ES]
-Dos helicópteros chocaron en el Everest, con un turista muerto y otro herido. Un video del suceso circula en los medios.
-
-[ES]
-Fuente: Emol.
+Fuente: Radio Agricultura.
 
 [ES]
 Tecnología y Nicho.
 
 [ITEM]
 [ES]
-Palantir: un trimestre estelar con una señal preocupante.
+Más de 100 grupos protestarán en 15 países contra los centros de datos.
 
 [ES]
-El fuerte trimestre de Palantir incluyó un hecho llamativo: los ingresos comerciales en Estados Unidos superaron a los del gobierno. Aun así, los pequeños inversores recibieron la acción con frialdad, según TechCrunch.
+Activistas europeos preparan dos días de protestas para pedir una moratoria a los grandes proyectos de centros de datos por sus costos ambientales y sociales. Es otra señal del creciente malestar público con la expansión de la IA.
+
+[ES]
+Fuente: The Guardian.
+
+[ITEM]
+[ES]
+OpenAI ya intenta influir en las elecciones de 2028.
+
+[ES]
+Su jefe de asuntos globales, Chris Lehane, sostiene en un ensayo que 2028 será decisivo para la IA y pide políticas que respondan a la ansiedad pública, con un paralelo con el New Deal. Críticos como Kate Brennan, del AI Now Institute, replican que sus propuestas promueven más adopción e infraestructura, con pocas salvaguardas obligatorias.
 
 [ES]
 Fuente: TechCrunch.
 
 [ITEM]
 [ES]
-Canva recorta cerca de una quinta parte de su plantilla.
+Sequoia revierte 20 años de expansión.
 
 [ES]
-Canva anunció despidos masivos en lo que describe como el momento más duro de su historia. La reestructuración responde a un crecimiento más lento.
+La firma dice haber levantado unos 10.000 millones de dólares mientras se reduce a una operación más pequeña centrada en la Bahía de San Francisco. Cierra su oficina de Londres, termina sus programas Arc y Scouts, y elimina la reunión semanal de socios; para los fundadores europeos, es un mensaje duro.
 
 [ES]
-Fuente: The Sydney Morning Herald.
-
-[ITEM]
-[ES]
-Hacker News: C++26 desaprobado.
-
-[ES]
-Una entrada del blog de Andreas Fertig, con unos cien puntos, reaviva el debate sobre el futuro del estándar C++26 y cómo sobrevivirá el lenguaje. Otro de los más votados del día es un recorrido por el funcionamiento interno de PostgreSQL, con unos 175 puntos.
-
-[ES]
-Fuente: Hacker News.
+Fuente: TechCrunch.
 
 [ITEM]
 [ES]
-GTA VI: la precarga comienza el 10 de noviembre.
+Google actualiza su política: tu Gmail podría usarse para publicidad.
 
 [ES]
-Rockstar confirmó que la descarga anticipada de GTA VI estará disponible desde el 10 de noviembre en PS5 y Xbox Series X y S. Requiere hasta 212 gigabytes e incluye un nuevo mapa de Leónida.
+Según Ars Technica, activar Personal Intelligence le da a Google más datos para segmentar anuncios. El cambio reabre el debate sobre cuánta información personal cede el usuario a cambio de asistentes de IA.
 
 [ES]
-Fuente: Revista Young.
+Fuente: Ars Technica.
+
+[ITEM]
+[ES]
+Lo más votado en Hacker News.
+
+[ES]
+Encabeza la lista un informe sobre proxies residenciales detectados en la red de la Casa Blanca, con 495 puntos. Le siguen un texto de OpenAI sobre cómo reducir caminos hacia el acceso root, el lanzamiento de Images 2.6 y Starfall de SpaceX, que promete acceso asequible y rutinario a la microgravedad.
+
+[ES]
+Fuente: Hacker News, OpenAI, SpaceX.
 
 [SECTION connecting_dots]
 [ES]
-Conectando los puntos.
+Conectando los Puntos.
 
 [ES]
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
 
 [ES]
-Hoy hay un hilo común: los ciclos de poder y de mercado se mueven rápido. Un giro electoral en EE.UU. mueve en horas al dólar, al oro y a los bonos, y las tecnológicas ya descuentan la posibilidad de una regulación más dura de la IA. Mientras tanto, Canva recorta personal por un crecimiento más lento y Palantir muestra que su negocio se desplaza del gobierno al sector comercial. Vale la pena vigilar si ese ritmo se vuelve la norma.
+El hilo común de hoy es el malestar con el poder concentrado. En EE.UU., según The Guardian, la rabia contra la tecnología, la IA y los superricos ayudó a los demócratas; en Europa, más de cien grupos preparan protestas contra los centros de datos; y Sequoia desmantela jerarquías que construyó en dos décadas. Vale la pena vigilar si la expansión de la IA empieza a toparse con un freno político y social, no solo técnico.
 
 [ES]
-Para ti, en el mundo hispanohablante, la ruta más directa es la cambiaria y la de materias primas. Un dólar más débil suele aliviar monedas como el peso chileno, que andaba cerca de 980 por dólar, y puede sostener los precios de metales y del oro. No es una predicción segura, porque un solo día de mercado dice poco sobre una tendencia.
+Para ti, en el mundo hispanohablante, hay efectos concretos pero inciertos. Un Congreso estadounidense dividido podría suavizar o complicar la política comercial y migratoria, y eso importa para el peso, el sol o el real, que hoy reaccionan al dólar: en Argentina el mayorista bajó tras la elección, pero el contado con liquidación rozó los $1.700. Un eventual alivio para las renovables también podría influir en el precio de la energía y en el cobre y el litio que exporta la región, aunque no es una predicción segura.
 
 [ES]
-La política regional también se reordena: Milei busca a Abascal, Kast busca inversiones en Madrid y Madrid funciona como escenario de alianzas. Con un Congreso estadounidense en otras manos, podría cambiar el tono hacia América Latina en comercio, migración y seguridad, algo que vale la pena seguir sin darlo por hecho.
+Por último, el alza de tasas esperada en el Reino Unido y el peso del petróleo en el debate sugieren que la inflación energética sigue viva en medio de tensiones en Medio Oriente. Si se confirma, podría encarecer el crédito global y presionar a las economías emergentes con deuda en dólares. Son conexiones plausibles, no certezas: conviene seguir los datos de las próximas semanas.
 
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
 
 [ES]
-Vigilancia continua de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente, no una nueva argumentación completa.
+Vigilancia continua de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no una nueva argumentación completa.
 
 [ES]
-Las sub-afirmaciones son: a, ciclos de liderazgo e influencia cada vez más cortos; b, eso empuja a las personas hacia una voz interior más fuerte; c, lo cual provoca un alejamiento del individualismo; y d, lleva a más colaboración humana y cohesión social. Según el registro reciente, a y d han acumulado apoyo casi todos los días, b se ha mantenido mayormente neutral, y c ha recibido señales en contra de forma casi constante. La última revisión integral concluyó red de desafío para la cadena completa; nada de hoy lo mueve.
+Hoy hay señal a favor de (a): Sequoia deshace una estructura de veinte años, y OpenAI, con un ensayo político sobre 2028 y el lanzamiento de Images 2.6, muestra que los relevos tecnológicos y de narrativa siguen acelerándose. Es el enésimo día seguido con apoyo para (a), según el registro de las últimas semanas. Para (b), sin evidencia clara: TechCrunch describe los Siri Recaps como útiles pero un poco inquietantes, una señal ambigua sobre la voz interior.
 
 [ES]
-Hoy, a recibe apoyo: un giro electoral que cambia en una noche el equilibrio de poder, y Canva recortando personal por un crecimiento más lento, según The Guardian y el Sydney Morning Herald. Para b no hay señal clara. Para c, la reunión de Milei con Abascal sin otros bilaterales sugiere política de bloques, según TN. Para d, las celebraciones colectivas de expatriados y la movilización de votantes apuntan a acción compartida, según The Guardian.
+Para (c) la señal es neutra: el voto de bloques en EE.UU. convive con protestas colectivas, lo que rompe la racha de desafíos. Para (d) hay apoyo: más de cien grupos coordinan protestas en 15 países contra los centros de datos y Trump dijo que aceptará los resultados y cooperará con los demócratas. Como señaló la última revisión integral (net challenge, cadena sin propagación), (a) y (d) avanzan, pero (b) y (c) apenas se mueven; nada de hoy cambia eso.
