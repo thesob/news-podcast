@@ -1,9 +1,9 @@
 [SECTION intro]
 [ES]
-Buenos días. Este es tu resumen diario del 5 de noviembre de 2026.
+Buenos días. Este es tu resumen diario del 6 de noviembre de 2026.
 
 [ES]
-Nota sobre fuentes: hoy no pude leer directamente BBC News RSS, The New York Times, The Washington Post, Reuters, AP, Al Jazeera ni Xinhua Español; BBC News Mundo, DW en Español y Ars Technica solo se consultaron por el respaldo /extract (portadas), y https://www.google.com/url?q=http://latercera.cl&source=gmail&ust=1793956510410000&sa=E no devolvió titulares útiles. Cubrí esos huecos con The Guardian, El País (vía el proxy de titulares), Emol, BBC Mundo, DW, TechCrunch y Hacker News.
+Nota sobre fuentes: hoy no pude acceder a BBC Mundo, DW en Español, El País en su sección internacional, AP News ni Ars Technica, porque el sitio bloqueó la lectura directa, y tampoco obtuve contenido útil de La Tercera. Cubrí esos huecos con el proxy de titulares, Al Jazeera, Xinhua en Español, Emol y The Guardian. Reuters, The New York Times y The Washington Post no los revisé directamente hoy.
 
 [SECTION news]
 [ES]
@@ -11,211 +11,252 @@ Titulares.
 
 [ITEM]
 [ES]
-Los demócratas arrasan en las legislativas de EE.UU. y toman el control del Congreso.
+Las bolsas se desploman por el temor a una burbuja de IA tras el triunfo demócrata.
 
 [ES]
-Los republicanos perdieron siete escaños en el Senado, 30 distritos de la Cámara y cinco gobernaciones, según el análisis de The Guardian, en un contexto de combustibles caros y descontento con el presidente. Trump dijo que aceptará el resultado y que trabajará con los demócratas, tras una campaña previa que sembró dudas sobre la votación.
+Los mercados globales cayeron después de que los demócratas ganaran las elecciones legislativas de EE. UU., en parte por el temor a que frenen la expansión de los centros de datos de IA. Bloomberg Línea reporta que el S&P 500 tuvo su mayor caída desde 2025 y que el Nasdaq entró en corrección, mientras The Guardian cuenta que el FTSE 100 abrió cerca de un 1,5 % a la baja y que fondos apalancados enfrentan llamadas de margen. En Chile, el dólar subió unos 13 pesos al cierre, según Emol.
 
 [ES]
-La carrera al Senado en Mississippi sigue sin cerrarse, con el desafiante demócrata levemente por delante. El vicepresidente J. D. Vance atribuyó la derrota a la guerra con Irán y advirtió contra giros radicales en migración.
-
-[ES]
-Fuente: The Guardian, DW en Español, Emol, El País.
+Fuentes: The Guardian, Bloomberg Línea, Emol.
 
 [ITEM]
 [ES]
-Renovables y tecnológicas ante el nuevo mapa político.
+Paraguay: el Congreso rechaza la renuncia de Peña tras el colapso de Ueno Bank.
 
 [ES]
-Las acciones de energías renovables, en especial las de Ørsted, subieron tras el triunfo demócrata, con la esperanza de un respiro frente a la hostilidad de la era Trump. Según The Guardian, el enojo público con la tecnología, la IA y los superricos ayudó a los demócratas.
+El presidente Santiago Peña intentó renunciar mientras millones de clientes del banco digital Ueno perdían acceso a sus cuentas, pero el Congreso no aceptó la dimisión y el Senado avanza con un juicio político. El banco, que administraba cerca de 850 millones de dólares en fondos públicos, cayó por debajo del índice legal de solvencia y el jefe del banco central también renunció. Peña, que dice haber vendido su participación en la matriz de Ueno en 2025, enfrenta acusaciones de conflicto de intereses; si es destituido, lo reemplazaría el vicepresidente Pedro Alliana.
 
 [ES]
-Eso deja a los magnates tecnológicos que se acercaron a Trump ante un clima político más duro en un país ahora más azul.
-
-[ES]
-Fuente: The Guardian.
+Fuentes: Al Jazeera, Emol.
 
 [ITEM]
 [ES]
-El Banco de Inglaterra subiría hoy las tasas por primera vez en más de tres años.
+Trump amenaza con "destruir" el resto de Irán mientras Teherán explora una vía nuclear.
 
 [ES]
-Se espera que el banco central británico endurezca su política mientras el FTSE 100 alcanza máximos de tres meses. Noruega, por su parte, mantuvo sus tasas, pero dejó abierta la posibilidad de subidas.
+Trump dijo que EE. UU. podría tener que "destruir" lo que queda de Irán y añadió que "pronto lo sabrán". Según Al Jazeera, Irán habría enviado una propuesta nuclear a Washington a través de mediadores de Qatar, y el jefe de seguridad iraní se reunió con Putin en Moscú con un mensaje de Jamenei.
 
 [ES]
-El petróleo y la inflación, con el conflicto en Irán de fondo, marcan el debate en los mercados.
-
-[ES]
-Fuente: The Guardian.
+Fuentes: Al Jazeera.
 
 [ITEM]
 [ES]
-Ola de amenazas de bomba contra vuelos europeos.
+Francia: cientos de miles marchan por salarios dignos y contra el costo de la vida.
 
 [ES]
-Un vuelo de Aer Lingus de Dublín a Roma fue desviado a una base militar francesa tras una nueva amenaza, según informó Francia. El episodio se suma a una oleada de amenazas contra vuelos en Europa.
+Los sindicatos convocaron huelgas y marchas en todo el país por salarios, precios de combustibles y alimentos, y servicios públicos, con más de 260 protestas previstas. Según Channel News Asia, la policía informó de 448 detenciones y 53 agentes heridos.
 
 [ES]
-Fuente: The Guardian.
+Fuentes: Al Jazeera, Channel News Asia.
 
 [ITEM]
 [ES]
-Joshua Wong, condenado a 10 años de cárcel en Hong Kong.
+Tras las legislativas, Trump respalda a Hegseth y se habla de un posible voto en la Cámara.
 
 [ES]
-El activista prodemocracia recibió la pena tras declararse culpable de «colusión con fuerzas extranjeras». Es su segunda condena bajo la ley de seguridad nacional.
+Trump defendió al secretario de Defensa Pete Hegseth diciendo que hizo un "trabajo fantástico", aunque legisladores de ambos partidos piden su salida por el peso de la guerra con Irán en las derrotas republicanas. Xinhua, citando a CNN, señala que la Cámara podría votar su destitución la próxima semana.
 
 [ES]
-Fuente: The Guardian.
+Fuentes: Al Jazeera, Xinhua Español.
 
 [ES]
 España y Latinoamérica.
 
 [ITEM]
 [ES]
-Colombia: el Congreso aprueba la ley de sometimiento.
+España: más dinero para el tren y renuncia en Adif.
 
 [ES]
-El Espectador cuenta cómo se cocinó la aprobación de la ley en el Congreso. La presenta como una victoria del gobierno de Abelardo de la Espriella.
+Tras dos accidentes ferroviarios graves en 2026, el nuevo ministro de Transportes, Carlos Cuerpo, anunció un aumento del 50 % de la financiación para los próximos cinco años y aseguró que no hay previsión de cerrar la línea Madrid–Barcelona. Xinhua informa además de que el jefe de Adif, el gestor de la infraestructura ferroviaria, renunció.
 
 [ES]
-Fuente: El Espectador.
-
-[ITEM]
-[ES]
-Argentina: el dólar blue cierra bajo el tipo de cambio minorista.
-
-[ES]
-Cerró en $1.545 para la compra y $1.565 para la venta, por debajo del minorista por segundo día seguido. El mayorista bajó tras la elección en EE.UU., aunque el contado con liquidación rozó los $1.700.
-
-[ES]
-Fuente: Ámbito.
+Fuentes: Mundo Deportivo, Xinhua Español.
 
 [ITEM]
 [ES]
-Perú: nuevas cárceles en Huacho y un fallo electoral en Ica.
+Sánchez responde a Milei.
 
 [ES]
-La presidenta Keiko Fujimori entregó dos terrenos estatales de 2.600 hectáreas en Huacho para construir centros penitenciarios, que espera operativos en los próximos meses. En paralelo, el JEE de Ica proclamó alcaldesa de San Juan Bautista a la segunda regidora, Rita del Carmen Guerrero, y no al alcalde actual, por considerar que sería una reelección encubierta.
+El presidente del Gobierno español respondió a un insulto de Javier Milei y aseguró que ese lenguaje no forma parte de su manera de hacer política. Emol destaca el cruce entre ambos mandatarios en su portada de hoy.
 
 [ES]
-Fuente: RPP, La República.
-
-[ITEM]
-[ES]
-Chile: el 69% de los trabajadores latinoamericanos no cotiza.
-
-[ES]
-Un índice del BID ubica a Chile en segundo lugar en calidad del empleo, pero muestra que cerca del 69% de los trabajadores de la región no cotiza en seguridad social. El dato recuerda la brecha entre los mejores y los peores mercados laborales de Latinoamérica.
-
-[ES]
-Fuente: Emol.
+Fuentes: Emol.
 
 [ITEM]
 [ES]
-Chile: Contraloría detecta inconsistencias en más de 9.000 inmuebles fiscales.
+Machado y González critican la Cumbre Iberoamericana.
 
 [ES]
-El cruce de datos de la Contraloría halló irregularidades en el registro y control de más de 9.000 propiedades del Estado. El hallazgo reabre la discusión sobre cómo se administra el patrimonio público.
+Los líderes opositores venezolanos María Corina Machado y Edmundo González lamentaron que la XXX Cumbre Iberoamericana, celebrada en Madrid, no defendiera con claridad la democracia. Para ambos, la cita no respaldó de forma inequívoca la libertad en la región.
 
 [ES]
-Fuente: Emol.
+Fuentes: BioBioChile.
 
 [ITEM]
 [ES]
-Bukele descarta que los cuerpos hallados en Haití sean de los soldados salvadoreños.
+Chile: cambios en Codelco y Presupuesto 2027 en el Congreso.
 
 [ES]
-El presidente rechazó un reporte del New York Times según el cual los cuatro militares secuestrados habían sido encontrados en Puerto Príncipe. La situación de los soldados sigue sin aclararse.
+Una junta extraordinaria de accionistas de Codelco trajo cambios de gobernanza, una posible sanción de hasta 140 millones de dólares y duras críticas a la administración anterior. En paralelo, la Comisión Mixta despachó el Presupuesto 2027 pero rechazó la partida de Educación, y la Cámara lo votará la próxima semana.
 
 [ES]
-Fuente: BBC News Mundo.
+Fuentes: Emol.
 
 [ES]
 Mundo.
 
 [ITEM]
 [ES]
-Eisenkot, el general que perdió un hijo en Gaza, desafía a Netanyahu.
+Europa en alerta por amenazas de bomba falsas contra vuelos.
 
 [ES]
-El exjefe militar retirado es la mayor amenaza política para el primer ministro en las primeras elecciones desde el ataque del 7 de octubre. Su candidatura llega marcada por la pérdida de un hijo en la guerra de Gaza.
+Al menos 35 aviones fueron registrados o desviados esta semana por amenazas de bomba falsas, y un piloto de Aer Lingus enfrenta el escrutinio de Francia por desviarse a una base militar. Según Xinhua, las agencias de la UE se comprometieron a apoyar y monitorear la situación.
 
 [ES]
-Fuente: BBC News Mundo.
-
-[ITEM]
-[ES]
-Barnier: el Reino Unido podría evitar el euro, pero no la libre circulación.
-
-[ES]
-El exnegociador del Brexit dijo que Londres no tendría que adoptar el euro para volver a la UE, aunque la libre circulación sería innegociable. Farage, además, enfrenta preguntas por su pronóstico electoral.
-
-[ES]
-Fuente: The Guardian.
+Fuentes: The Guardian, Xinhua Español.
 
 [ITEM]
 [ES]
-Astrónomos desde Chile confirman un «planeta bebé».
+Florida: aparecen restos de la cola del avión privado siniestrado a seis kilómetros.
 
 [ES]
-Un equipo internacional liderado por investigadores chilenos confirmó un planeta que sería el más joven conocido, a unos 450 años luz de la Tierra.
+Los investigadores hallaron parte de la cola del jet privado que cayó el domingo 1 de noviembre sobre una carretera del sur de Florida, a unos seis kilómetros del lugar del impacto. Las autoridades identificaron a las nueve víctimas, entre ellas una pareja y sus dos hijos pequeños, y el cráter dejado por el avión será clave en la investigación.
 
 [ES]
-Fuente: Radio Agricultura.
+Fuentes: El País, El Tiempo.
+
+[ITEM]
+[ES]
+Israel: la Lista Conjunta respaldará a Eisenkot para formar gobierno.
+
+[ES]
+La Lista Conjunta, de mayoría árabe, anunció que apoyará a Gadi Eisenkot en su intento de formar el próximo gobierno israelí tras las elecciones. El gesto puede pesar en las negociaciones para armar una mayoría.
+
+[ES]
+Fuentes: Al Jazeera.
+
+[ITEM]
+[ES]
+California conmuta las penas de más de 500 personas en el corredor de la muerte.
+
+[ES]
+El gobernador Gavin Newsom conmutó las sentencias de más de 500 reos condenados a muerte. Es una de las mayores decisiones de este tipo en la historia reciente de Estados Unidos.
+
+[ES]
+Fuentes: Al Jazeera.
+
+[ITEM]
+[ES]
+Piden a Jensen Huang, de Nvidia, informar al Congreso sobre un informe de espionaje chino.
+
+[ES]
+Líderes republicanos de un comité de la Cámara solicitaron una sesión a puerta cerrada con Huang sobre su relación con un ejecutivo tecnológico señalado como presunto agente de inteligencia chino. Según CNBC, Trump habría sido informado de esos hallazgos hace aproximadamente un año.
+
+[ES]
+Fuentes: CNBC.
+
+[ITEM]
+[ES]
+Reino Unido: salarios obligatorios en las ofertas de empleo y caída de precios de vivienda.
+
+[ES]
+El gobierno británico obligará a las empresas a publicar el salario en sus avisos de trabajo, una medida que según sus defensores ayudará a jóvenes y mujeres a lograr pagos más justos. Por otro lado, Lloyds reporta que los precios de las viviendas cayeron un 0,6 % en octubre, el cuarto descenso mensual seguido, con tasas hipotecarias altas como factor.
+
+[ES]
+Fuentes: The Guardian.
+
+[ITEM]
+[ES]
+China: abre la feria de importaciones y critica un arancel de la UE.
+
+[ES]
+Se inauguró en Shanghái la novena Exposición Internacional de Importaciones de China, mientras Pekín expresó su rechazo a un nuevo arancel de la UE sobre importaciones de bajo valor. China también dijo que estaría abierta a comprar más productos agrícolas de EE. UU. si se concretan recortes arancelarios recíprocos.
+
+[ES]
+Fuentes: Xinhua Español.
+
+[ITEM]
+[ES]
+COP31 en Antalya pondrá a prueba la dependencia mundial de los combustibles fósiles.
+
+[ES]
+La cumbre climática de la ONU en Turquía, coorganizada con Australia, se centrará en la electricidad limpia en un contexto geopolítico difícil. The Guardian anticipa que expondrá los conflictos y contradicciones de un mundo todavía muy ligado al carbón y al petróleo.
+
+[ES]
+Fuentes: The Guardian.
+
+[ITEM]
+[ES]
+Gaza: familias desplazadas enfrentan el invierno en tiendas sobre la playa.
+
+[ES]
+Familias desplazadas en Gaza se preparan para el invierno en carpas instaladas en la costa, con una precaria barrera hecha con ollas dañadas para contener el agua del mar. Los testimonios hablan de una sensación de desamparo ante el frío que se acerca.
+
+[ES]
+Fuentes: Al Jazeera.
 
 [ES]
 Tecnología y Nicho.
 
 [ITEM]
 [ES]
-Más de 100 grupos protestarán en 15 países contra los centros de datos.
+El rechazo electoral a los centros de datos preocupa a la industria de la IA.
 
 [ES]
-Activistas europeos preparan dos días de protestas para pedir una moratoria a los grandes proyectos de centros de datos por sus costos ambientales y sociales. Es otra señal del creciente malestar público con la expansión de la IA.
+Meta advirtió que el rechazo político a los centros de datos puede dificultar la expansión de la IA. Según Fox News, OpenAI presentó nuevas políticas sobre sus centros de datos en medio de las preocupaciones por el costo de la energía y los esfuerzos demócratas por frenar esta infraestructura.
 
 [ES]
-Fuente: The Guardian.
-
-[ITEM]
-[ES]
-OpenAI ya intenta influir en las elecciones de 2028.
-
-[ES]
-Su jefe de asuntos globales, Chris Lehane, sostiene en un ensayo que 2028 será decisivo para la IA y pide políticas que respondan a la ansiedad pública, con un paralelo con el New Deal. Críticos como Kate Brennan, del AI Now Institute, replican que sus propuestas promueven más adopción e infraestructura, con pocas salvaguardas obligatorias.
-
-[ES]
-Fuente: TechCrunch.
+Fuentes: TechCrunch, Fox News.
 
 [ITEM]
 [ES]
-Sequoia revierte 20 años de expansión.
+OpenAI podría estar lista para salir a bolsa en 2027.
 
 [ES]
-La firma dice haber levantado unos 10.000 millones de dólares mientras se reduce a una operación más pequeña centrada en la Bahía de San Francisco. Cierra su oficina de Londres, termina sus programas Arc y Scouts, y elimina la reunión semanal de socios; para los fundadores europeos, es un mensaje duro.
+El presidente de OpenAI, Greg Brockman, dijo que la compañía podría estar preparada para una oferta pública en 2027. El comentario llega en una semana de fuerte nerviosismo bursátil por el futuro de la IA.
 
 [ES]
-Fuente: TechCrunch.
-
-[ITEM]
-[ES]
-Google actualiza su política: tu Gmail podría usarse para publicidad.
-
-[ES]
-Según Ars Technica, activar Personal Intelligence le da a Google más datos para segmentar anuncios. El cambio reabre el debate sobre cuánta información personal cede el usuario a cambio de asistentes de IA.
-
-[ES]
-Fuente: Ars Technica.
+Fuentes: TechCrunch.
 
 [ITEM]
 [ES]
-Lo más votado en Hacker News.
+Avatares y agentes de IA: Meta lanza videollamadas con su avatar Muse y Airbnb prepara un agente de viajes.
 
 [ES]
-Encabeza la lista un informe sobre proxies residenciales detectados en la red de la Casa Blanca, con 495 puntos. Le siguen un texto de OpenAI sobre cómo reducir caminos hacia el acceso root, el lanzamiento de Images 2.6 y Starfall de SpaceX, que promete acceso asequible y rutinario a la microgravedad.
+Meta permite ahora a usuarios en EE. UU. hacer videollamadas con su avatar personalizado de IA llamado Muse. Por su parte, Airbnb dijo que lanzará un agente de viajes con IA en el primer semestre de 2027.
 
 [ES]
-Fuente: Hacker News, OpenAI, SpaceX.
+Fuentes: TechCrunch.
+
+[ITEM]
+[ES]
+Ciberseguridad: ataques a congeladores industriales y un nuevo modelo de OpenAI.
+
+[ES]
+El gobierno de EE. UU. advirtió de una "amenaza cibernética continua" por ataques masivos contra congeladores conectados usados en entornos industriales, comerciales y militares. Aparte, OpenAI lanzó un nuevo modelo de ciberseguridad, y TechCrunch se pregunta si es suficiente.
+
+[ES]
+Fuentes: TechCrunch.
+
+[ITEM]
+[ES]
+The New York Times negocia comprar Letterboxd por 330 millones de dólares.
+
+[ES]
+Según TechCrunch, The New York Times estaría en conversaciones para adquirir la plataforma de reseñas de cine Letterboxd. La cifra reportada ronda los 330 millones de dólares.
+
+[ES]
+Fuentes: TechCrunch.
+
+[ITEM]
+[ES]
+Hacker News: un issue sobre Claude Code y una vulnerabilidad en MS Paint.
+
+[ES]
+Entre lo más votado hoy en Hacker News está un issue en el repositorio de Claude Code titulado "Claude Code sends your email address to websites", con 549 puntos. También destaca un registro CVE sobre una vulnerabilidad de ejecución remota de código en MS Paint, con 380 puntos; solo pude revisar los títulos, no el detalle técnico.
+
+[ES]
+Fuentes: Hacker News.
 
 [SECTION connecting_dots]
 [ES]
@@ -225,23 +266,26 @@ Conectando los Puntos.
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
 
 [ES]
-El hilo común de hoy es el malestar con el poder concentrado. En EE.UU., según The Guardian, la rabia contra la tecnología, la IA y los superricos ayudó a los demócratas; en Europa, más de cien grupos preparan protestas contra los centros de datos; y Sequoia desmantela jerarquías que construyó en dos décadas. Vale la pena vigilar si la expansión de la IA empieza a toparse con un freno político y social, no solo técnico.
+Hay un hilo que une la caída bursátil, el rechazo a los centros de datos y la salida a bolsa que sueña OpenAI: la IA pasó de ser una promesa abstracta a un asunto de política local, de facturas de luz y de votos. Si los mercados empiezan a dudar de que la infraestructura se pueda construir al ritmo previsto, es posible que veamos valoraciones más cautelosas y un debate más áspero sobre quién paga la energía. No es una predicción segura, pero vale la pena vigilar si el voto castigo en EE. UU. se convierte en regulación concreta.
 
 [ES]
-Para ti, en el mundo hispanohablante, hay efectos concretos pero inciertos. Un Congreso estadounidense dividido podría suavizar o complicar la política comercial y migratoria, y eso importa para el peso, el sol o el real, que hoy reaccionan al dólar: en Argentina el mayorista bajó tras la elección, pero el contado con liquidación rozó los $1.700. Un eventual alivio para las renovables también podría influir en el precio de la energía y en el cobre y el litio que exporta la región, aunque no es una predicción segura.
+Para el mundo hispanohablante, la transmisión es bastante directa. Cuando Wall Street se asusta, suele subir el dólar frente a monedas como el peso chileno, como pasó hoy, y se encarecen el crédito y las deudas en divisas. A la vez, un enfriamiento de la inversión tecnológica podría moderar la demanda de cobre, clave para Chile y Perú por su uso en redes eléctricas y centros de datos, aunque eso dependerá de cuánto dure el ajuste.
 
 [ES]
-Por último, el alza de tasas esperada en el Reino Unido y el peso del petróleo en el debate sugieren que la inflación energética sigue viva en medio de tensiones en Medio Oriente. Si se confirma, podría encarecer el crédito global y presionar a las economías emergentes con deuda en dólares. Son conexiones plausibles, no certezas: conviene seguir los datos de las próximas semanas.
+También se repite una escena de desconfianza en las instituciones: Paraguay con un presidente que quiere renunciar y un Congreso que no lo deja, Francia con calles llenas por el costo de vida, España con el tren bajo presión tras accidentes. Cuando los precios suben y los servicios fallan, la paciencia se acorta, y los cambios políticos parecen volverse más rápidos y menos predecibles. Vale la pena observar si esa volatilidad se sostiene en Latinoamérica con los bancos y los presupuestos públicos como puntos sensibles.
+
+[ES]
+Por último, la guerra con Irán sigue en el fondo como un factor de riesgo para el petróleo y la política estadounidense. Una escalada o una salida negociada afectaría los costos de energía de España y de importadores latinoamericanos de combustibles, y a la vez pesa en el equilibrio político de Washington tras las legislativas. Es un escenario con demasiadas variables para apostar por un desenlace, pero conviene seguirlo junto con el precio de la energía.
 
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
 
 [ES]
-Vigilancia continua de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no una nueva argumentación completa.
+Seguimiento continuo de la hipótesis vigente sobre la IA, la voz interior y la cohesión social: un escaneo diario informado por la tendencia reciente del registro, no una nueva discusión completa.
 
 [ES]
-Hoy hay señal a favor de (a): Sequoia deshace una estructura de veinte años, y OpenAI, con un ensayo político sobre 2028 y el lanzamiento de Images 2.6, muestra que los relevos tecnológicos y de narrativa siguen acelerándose. Es el enésimo día seguido con apoyo para (a), según el registro de las últimas semanas. Para (b), sin evidencia clara: TechCrunch describe los Siri Recaps como útiles pero un poco inquietantes, una señal ambigua sobre la voz interior.
+Mirando el registro de las últimas 30 entradas, el patrón es estable: (a) ciclos de autoridad cada vez más cortos ha tenido apoyo en 27 días y (d) colaboración y cohesión en 29, mientras que (c) alejamiento del individualismo ha sido desafiado en 25 y (b) voz interior más fuerte se ha mantenido casi siempre neutral (23 días). La revisión integral de noviembre concluyó "net challenge" y sin eslabonamiento entre las partes de la cadena; nada de lo de hoy mueve ese veredicto.
 
 [ES]
-Para (c) la señal es neutra: el voto de bloques en EE.UU. convive con protestas colectivas, lo que rompe la racha de desafíos. Para (d) hay apoyo: más de cien grupos coordinan protestas en 15 países contra los centros de datos y Trump dijo que aceptará los resultados y cooperará con los demócratas. Como señaló la última revisión integral (net challenge, cadena sin propagación), (a) y (d) avanzan, pero (b) y (c) apenas se mueven; nada de hoy cambia eso.
+Hoy continúa la racha de apoyo para (a): el pánico bursátil por la IA y los cambios bruscos de narrativa sobre su futuro muestran lo rápido que se desgastan las certezas, según The Guardian y TechCrunch. Para (b) la señal es neutral: avatares y agentes de IA que invitan a delegar más, pero sin evidencia de que la gente esté fortaleciendo su voz propia, según TechCrunch. Para (c) vuelve el desafío, con la polarización postelectoral en EE. UU., según Al Jazeera, y el cruce Milei–Sánchez, según Emol. Y para (d) hay otra señal de apoyo en la movilización masiva en Francia, según Al Jazeera, y la resistencia a los centros de datos, según TechCrunch, aunque, como señaló la revisión integral, esa acción colectiva parece responder más al malestar económico que a la cadena propuesta.
