@@ -1,0 +1,169 @@
+[EN]
+Good morning, Patricio. It's a heavy news day: a sitting Latin American president toppled overnight, a hard-edged White House shake-up in the wake of the US midterms, markets wobbling on AI, and the Iran conflict flaring again. Here's the rundown.
+
+[EN]
+Top Stories.
+[EN]
+Paraguay's president toppled overnight. Peña out, Alliana sworn in.
+[EN]
+In a fast-moving political earthquake, President Santiago Peña has been removed through an impeachment, and Vice President Pedro Alliana has taken over as president, with Brazil's Lula among the first foreign leaders to congratulate him. Paraguayan outlet ABC reports Peña now faces detention proceedings, though his lawyer argues the legal conditions for preventive custody haven't been met. The speed of it is drawing comparisons to the 2012 express removal of Fernando Lugo, and the region is watching closely for the fallout.
+[EN]
+Sources: NRK Norway, and ABC Paraguay.
+[EN]
+Trump names hardliner Stephen Miller chief of staff after the midterm drubbing.
+[EN]
+Days after Democrats swept the US midterms, Trump has replaced chief of staff Susie Wiles with Stephen Miller, the architect of his hardline immigration agenda, a move Democrats and even some Republicans called dangerous, branding Miller a xenophobe. Across the Atlantic, UK officials reacted to the Republicans' losses with cautious relief, seeing an opening to help wind down the Iran war while warning that Trump is far from finished politically.
+[EN]
+Source: The Guardian.
+[EN]
+Markets whipsaw on AI as the bubble debate sharpens.
+[EN]
+After Thursday's brutal AI-led selloff, with the Nasdaq falling five and a half percent, tech stocks clawed back about one percent on Friday, but strategists warn the underlying nerves haven't gone away. The mixed signals are everywhere: OpenAI reportedly raised another eleven billion dollars at a staggering one-point-two-five trillion dollar valuation, even as fresh Ramp spending data suggests business AI adoption is leveling off, just as Anthropic approaches its IPO.
+[EN]
+Sources: Göteborgs-Posten, and TechCrunch.
+[EN]
+Iran conflict flares again, and Qatar floats a Hormuz off-ramp.
+[EN]
+Trump confirmed fresh US strikes on an Iranian island, and Washington has posted a bounty for information on Iran's nuclear program, keeping the long-running conflict on a knife's edge. In parallel, Qatar is mediating a plan under which UN inspectors would visit Iran's bombed nuclear sites, possibly in exchange for reopening the Strait of Hormuz, a diplomatic thread worth watching given how much global shipping and oil ride on it.
+[EN]
+Sources: NRK Norway, and The Guardian.
+[EN]
+Russia shutters Novaya Gazeta.
+[EN]
+Russia's most prominent independent newspaper has closed after being evicted and losing its donation channel, with staff facing the risk of prosecution. Writing on its demise, longtime reporter Elena Kostyuchenko said closing was ultimately judged safer than carrying on, a stark marker of how little space is left for independent journalism inside Russia.
+[EN]
+Source: The Guardian.
+[ES]
+España y América Latina.
+[ES]
+Lula se impone a Bolsonaro, y la oposición reconoce la derrota.
+[ES]
+Tras una intensa campaña en redes, el presidente brasileño Lula da Silva salió victorioso y el propio Partido Liberal reconoció su triunfo, admitiendo además la derrota en el Senado, en una jornada marcada por caídas bursátiles. Donald Trump lanzó acusaciones de fraude que el vicepresidente Geraldo Alckmin rechazó de plano.
+[ES]
+Fuente: El País.
+[ES]
+Kast llama a la unidad en su primer Teletón como presidente.
+[ES]
+El presidente chileno José Antonio Kast aprovechó su primer Teletón en el cargo para hacer un llamado a la unidad nacional. En paralelo, el ministro de Hacienda, Quiroz, aceleró las negociaciones en el Congreso sobre los proyectos de Reconstrucción y Presupuesto, desbloqueando algunos acuerdos clave para el cierre del año legislativo.
+[ES]
+Fuente: Emol.
+[ES]
+Los camioneros de San Antonio deponen el paro.
+[ES]
+Los camioneros del puerto de San Antonio llegaron a un acuerdo con los operadores y levantaron su huelga, pasando a convertirse en contratistas directos. Es un respiro para una de las cadenas logísticas más importantes del país, que llevaba días bajo presión.
+[ES]
+Fuente: Emol.
+[ES]
+El papa León XIV inicia su gira por Sudamérica.
+[ES]
+En el avión que abrió su primera gira sudamericana, el papa León XIV habló con los periodistas sobre su rápida recuperación médica, insistió en la importancia de los chequeos preventivos y celebró visitar la tierra natal de su predecesor. El viaje incluye Argentina, el país que Francisco nunca visitó como pontífice.
+[ES]
+Fuente: Clarín.
+[ES]
+México se prepara para la Ley de Economía Digital.
+[ES]
+Un análisis de El Economista detalla siete movimientos financieros que los ciudadanos pueden hacer hoy ante la nueva ley, que no prohíbe el efectivo pero faculta a Hacienda para designar sectores donde el pago digital podría ser la única vía. Esos sectores, de momento, aún no están definidos.
+[ES]
+Fuente: El Economista.
+[EN]
+US and International.
+[EN]
+New Zealand's cliffhanger election.
+[EN]
+National and Labour are running neck-and-neck in one of the closest New Zealand elections in recent memory, with a minor party eyeing a kingmaker role and no coalition clearly on track for a majority. National is projected around forty-one seats, but several senior ministers, including Finance Minister Nicola Willis, could lose theirs.
+[EN]
+Source: The Guardian.
+[EN]
+Israel votes for the first time since the 2023 Hamas attack.
+[EN]
+The opposition bloc leads the prime minister's coalition in polls, but neither looks set to win a majority, with roughly a dozen parties splitting the 120 Knesset seats and government formation expected to be messy. Notably, the main candidates have offered no real plan for the devastated Gaza Strip, focusing their campaigns on the victims of Hamas.
+[EN]
+Source: El País.
+[EN]
+The White House is reportedly pushing Orbán to lead the UN.
+[EN]
+According to the Wall Street Journal, reported via El País, the Trump administration is floating former Hungarian leader Viktor Orbán as a successor to Secretary-General António Guterres, a candidacy Europe would almost certainly veto. It's an audacious bid that signals how the US wants to reshape multilateral institutions.
+[EN]
+Sources: El País, and the Wall Street Journal.
+[EN]
+Berlin's radical left prepares to govern.
+[EN]
+Germany's Die Linke is poised to take power in Berlin on a platform that includes expropriating 160,000 homes, a dramatic escalation of the city's long-running fight over housing costs. If it holds, it would be one of the boldest municipal housing experiments in Europe.
+[EN]
+Source: El País.
+[EN]
+Norway's prime minister heads to the G20 in Miami.
+[EN]
+Prime Minister Jonas Gahr Støre is travelling to the G20 summit in Miami, NRK reports, as Norway positions itself in a fractured round of global economic diplomacy. The venue itself, a Trump-hosted G20 on US soil, adds an unusual layer of political theater.
+[EN]
+Source: NRK Norway.
+[EN]
+Tech and Niche.
+[EN]
+Tesla winds down the Cybertruck.
+[EN]
+Tesla is reportedly ending Cybertruck production after years of poor sales, a quietly stunning reversal for what was meant to be a flagship product. The story topped Hacker News with over a thousand points and nearly nineteen hundred comments, a sign of how symbolic the vehicle became.
+[EN]
+Sources: NBC News, and Hacker News.
+[EN]
+Google scoops up a troubled Wyoming data center.
+[EN]
+Google is buying a struggling Wyoming data-center project from Crusoe, folding more compute capacity into its AI infrastructure push even as questions swirl about overbuilding. It's part of a broader land-grab for power and cooling that's reshaping the American grid.
+[EN]
+Source: TechCrunch.
+[EN]
+The RealPage rent-pricing case ends with about 360 million dollars to renters.
+[EN]
+The closely watched antitrust case over RealPage's rent-pricing algorithm has wrapped with nearly 360 million dollars headed to renters, a milestone for critics who argue such software quietly inflated rents across US cities. It's one of the first big financial reckonings for algorithmic price-setting.
+[EN]
+Sources: Multifamily Dive, and Hacker News.
+[EN]
+Libghostty 1.0 lands.
+[EN]
+Mitchell Hashimoto shipped Libghostty 1.0, the reusable core library behind the Ghostty terminal, a notable moment for the open-source developer-tools world. It drew hundreds of points on Hacker News from a community that's been tracking the project closely.
+[EN]
+Source: Hacker News.
+[SV]
+Sverige.
+[SV]
+Teknikaktier studsade upp efter AI-raset.
+[SV]
+Efter torsdagens kraftiga börsfall återhämtade sig teknikaktierna något på fredagen, då Nasdaq Composite steg 1,1 procent efter att ha rasat 5,5 procent dagen innan. En strateg på Nordea varnar dock för att oron kring AI-värderingarna är långt ifrån över.
+[SV]
+Källa: Göteborgs-Posten.
+[SV]
+Rekordstor julhandel väntas.
+[SV]
+HUI Research spår en rekordstor julhandel i år, med en detaljhandelsomsättning på omkring 104 miljarder kronor i december. Den sänkta matmomsen och den låga inflationen pekas ut som viktiga skäl till att svenskarna får mer kvar i plånboken.
+[SV]
+Källa: Sydsvenskan.
+[SV]
+Goncourtprisad författare erkänner AI-användning.
+[SV]
+Den franske författaren Philippe Jaenada, som nyligen tilldelades Goncourtpriset, erkände i en radiointervju att han använt ChatGPT tre gånger under skrivandet av sin roman. Han lade in en AI-genererad mening som en lekfull gåta till läsarna, en liten men talande detalj om hur AI nu smyger sig in i finlitteraturen.
+[SV]
+Källa: Sydsvenskan.
+
+[EN]
+Connecting the Dots.
+[EN]
+This section is interpretation and informed speculation, not reported news. It's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN]
+Patricio, the loudest chord across today's stories is the sound of authority being re-priced in real time, sometimes literally. The Nasdaq's five and a half percent plunge and Friday's partial bounce, OpenAI raising eleven billion dollars at one-point-two-five trillion while Ramp's data quietly shows corporate AI spending flattening, Anthropic heading toward an IPO under junk-rated scrutiny; this is a market trying, and failing, to agree on what AI is actually worth. The interesting tell isn't the volatility itself; it's that the people closest to the technology, investors, CFOs, even a Goncourt novelist confessing to three ChatGPT prompts, are increasingly trusting their own read over the hype machine. When the smart money starts hedging the story the whole industry is selling, that's usually a turning point in the narrative, even if the fundamentals take longer to follow.
+[EN]
+The political stories rhyme with that. A sitting president in Paraguay gone before breakfast; Trump reshuffling his White House with a hardliner days after voters rebuked him; Novaya Gazeta going dark in Moscow; Israel heading into a fragmented vote with no governing majority in sight. Power everywhere looks less durable and more contested than it did even a year ago; incumbency is no longer the shield it once was. I'd be cautious about reading a single global trend into very different local causes, but the common thread is speed: the half-life of the person in charge keeps shrinking.
+[EN]
+For you in Chile specifically, a few of these land close to home. The AI selloff matters because risk-off days in US tech tend to strengthen the dollar and pressure emerging-market currencies, worth a glance at the peso if the volatility continues into next week, and by extension at copper, which lives and dies by global risk appetite and Chinese demand. Kast's call for unity at the Teletón and Quiroz's scramble to unlock the Budget and Reconstruction bills tell you the new government is trying to lock in fiscal credibility early; a clean budget passage would be mildly peso-supportive, a messy one the opposite. And the San Antonio truckers standing down removes at least one friction point from the export logistics chain, small, but copper and fruit both move through those ports.
+[EN]
+The Iran-Hormuz thread is the wildcard I'd keep half an eye on. If the Qatari mediation actually reopens the strait, energy prices ease and that's a tailwind for a net energy importer like Chile; if Trump's fresh strikes escalate instead, you get the opposite, plus a flight to the dollar that compounds the AI-selloff currency pressure above. None of this is a confident prediction, more a map of which dominoes are leaning toward each other today.
+
+[EN]
+Hypothesis Watch.
+[EN]
+An ongoing daily scan of your standing hypothesis on AI, shrinking authority cycles, and social cohesion, read against the recent trend in the log, not a full re-argument of the whole chain.
+[EN]
+On sub-claim (a), shrinking thought-leadership and authority cycles, today is another clear supporting signal, extending what is now an unbroken run stretching back to mid-September. A Paraguayan president removed mid-term, Trump swapping his chief of staff days after an electoral rebuke, markets violently re-pricing the AI giants' dominance, and Novaya Gazeta's forced closure all point the same way: authority, whether political, institutional, or market-granted, is turning over faster and holding less firmly. That's roughly fifty-plus consecutive entries tagged support for (a), so today adds confirmation rather than news.
+[EN]
+On (b), individuals pushed toward a stronger internal voice, I'd also mark today as supporting, consistent with the recent trend. The clearest evidence is in the markets: investors and CFOs trusting their own skeptical read over the industry's AI-hype narrative, with Ramp's spending data giving that instinct hard numbers. Novaya Gazeta's journalists choosing conscience over safety, and even the small, self-aware admission by the Goncourt winner about his own AI use, fit the same pattern of people calibrating their own judgment rather than deferring to an authority.
+[EN]
+On (c), a move away from individualism, and (d), more human collaboration and social cohesion, today is neutral on both, exactly as the log has run for weeks. Chile's budget negotiations and the truckers' settlement are institutional bargaining, not a cultural shift away from individualism; the Qatar-Hormuz mediation and the Miami G20 are state-level diplomacy, not grassroots cohesion. The enduring story of this hypothesis remains that links (a) and (b) are firing steadily while (c) and (d) stay stubbornly quiet; the chain is still lit only at its first two links.
