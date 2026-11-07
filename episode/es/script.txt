@@ -1,9 +1,9 @@
 [SECTION intro]
 [ES]
-Buenos días. Este es tu resumen diario del 6 de noviembre de 2026.
+Hola, este es tu resumen diario del siete de noviembre de dos mil veintiséis.
 
 [ES]
-Nota sobre fuentes: hoy no pude acceder a BBC Mundo, DW en Español, El País en su sección internacional, AP News ni Ars Technica, porque el sitio bloqueó la lectura directa, y tampoco obtuve contenido útil de La Tercera. Cubrí esos huecos con el proxy de titulares, Al Jazeera, Xinhua en Español, Emol y The Guardian. Reuters, The New York Times y The Washington Post no los revisé directamente hoy.
+Nota sobre las fuentes. Hoy no pudimos acceder a BBC Mundo, los feeds de BBC News, Ars Technica, Reuters, AP, The New York Times ni The Washington Post, y El País y La Tercera entregaron contenido parcial. Cubrimos esos huecos con DW en Español, Al Jazeera, The Guardian, Emol, Xinhua Español, TechCrunch y Hacker News.
 
 [SECTION news]
 [ES]
@@ -11,249 +11,189 @@ Titulares.
 
 [ITEM]
 [ES]
-Las bolsas se desploman por el temor a una burbuja de IA tras el triunfo demócrata.
+Trump nombra a Stephen Miller jefe de gabinete de la Casa Blanca.
 
 [ES]
-Los mercados globales cayeron después de que los demócratas ganaran las elecciones legislativas de EE. UU., en parte por el temor a que frenen la expansión de los centros de datos de IA. Bloomberg Línea reporta que el S&P 500 tuvo su mayor caída desde 2025 y que el Nasdaq entró en corrección, mientras The Guardian cuenta que el FTSE 100 abrió cerca de un 1,5 % a la baja y que fondos apalancados enfrentan llamadas de margen. En Chile, el dólar subió unos 13 pesos al cierre, según Emol.
+Donald Trump designó a Stephen Miller, su asesor de siempre y arquitecto de su política migratoria, como nuevo jefe de gabinete en reemplazo de Susie Wiles, quien pasará a otro rol dentro de su operación política. Miller, de cuarenta y un años, ya era subjefe de gabinete y asesor de seguridad nacional, y su nombre quedó muy asociado al programa de deportaciones masivas. El movimiento llega después de que los demócratas recuperaran la Cámara de Representantes y el Senado en las elecciones de medio mandato, y se lee como una señal de que Trump no piensa moderar su rumbo.
 
 [ES]
-Fuentes: The Guardian, Bloomberg Línea, Emol.
-
-[ITEM]
-[ES]
-Paraguay: el Congreso rechaza la renuncia de Peña tras el colapso de Ueno Bank.
-
-[ES]
-El presidente Santiago Peña intentó renunciar mientras millones de clientes del banco digital Ueno perdían acceso a sus cuentas, pero el Congreso no aceptó la dimisión y el Senado avanza con un juicio político. El banco, que administraba cerca de 850 millones de dólares en fondos públicos, cayó por debajo del índice legal de solvencia y el jefe del banco central también renunció. Peña, que dice haber vendido su participación en la matriz de Ueno en 2025, enfrenta acusaciones de conflicto de intereses; si es destituido, lo reemplazaría el vicepresidente Pedro Alliana.
-
-[ES]
-Fuentes: Al Jazeera, Emol.
+Fuentes: DW en Español y Al Jazeera.
 
 [ITEM]
 [ES]
-Trump amenaza con "destruir" el resto de Irán mientras Teherán explora una vía nuclear.
+Qatar presiona por un acuerdo entre Estados Unidos e Irán mientras Ormuz sigue en el centro.
 
 [ES]
-Trump dijo que EE. UU. podría tener que "destruir" lo que queda de Irán y añadió que "pronto lo sabrán". Según Al Jazeera, Irán habría enviado una propuesta nuclear a Washington a través de mediadores de Qatar, y el jefe de seguridad iraní se reunió con Putin en Moscú con un mensaje de Jamenei.
+Qatar pidió a Washington y Teherán que cierren ya un acuerdo de paz para poner fin a la guerra, sin esperar un momento perfecto. Irán, por su parte, intensifica su diplomacia con Rusia y los Emiratos mientras Estados Unidos evalúa retomar las hostilidades, y ha eximido a India, China, Qatar e Irak de sus restricciones en el estrecho de Ormuz. The Guardian añade que un plan qatarí podría reabrir el estrecho como parte de inspecciones nucleares a Irán.
 
 [ES]
-Fuentes: Al Jazeera.
-
-[ITEM]
-[ES]
-Francia: cientos de miles marchan por salarios dignos y contra el costo de la vida.
-
-[ES]
-Los sindicatos convocaron huelgas y marchas en todo el país por salarios, precios de combustibles y alimentos, y servicios públicos, con más de 260 protestas previstas. Según Channel News Asia, la policía informó de 448 detenciones y 53 agentes heridos.
-
-[ES]
-Fuentes: Al Jazeera, Channel News Asia.
+Fuentes: Al Jazeera y The Guardian.
 
 [ITEM]
 [ES]
-Tras las legislativas, Trump respalda a Hegseth y se habla de un posible voto en la Cámara.
+Paraguay: Pedro Alliana asume la presidencia tras la destitución y arresto de Santiago Peña.
 
 [ES]
-Trump defendió al secretario de Defensa Pete Hegseth diciendo que hizo un "trabajo fantástico", aunque legisladores de ambos partidos piden su salida por el peso de la guerra con Irán en las derrotas republicanas. Xinhua, citando a CNN, señala que la Cámara podría votar su destitución la próxima semana.
+El Senado paraguayo destituyó a Santiago Peña con cuarenta y cuatro de cuarenta y cinco votos y rechazó su oferta de renuncia; Pedro Alliana, de cincuenta y dos años, juró como presidente. Peña quedó bajo arresto domiciliario por sospechas de abuso de confianza y otros delitos. La crisis nace del colapso de Ueno Bank, intervenido por el banco central, que dejó a millones de clientes sin acceso a sus cuentas y pensiones; al menos veintisiete personas enfrentan cargos.
 
 [ES]
-Fuentes: Al Jazeera, Xinhua Español.
+Fuentes: Al Jazeera y Emol.
+
+[ITEM]
+[ES]
+España: la Fiscalía Europea investiga fondos de la red ferroviaria tras el choque de Urda.
+
+[ES]
+La Fiscalía Europea abrió una investigación por posible uso indebido de fondos de la Unión Europea en la red ferroviaria de España, tras el choque de un tren de alta velocidad en Urda en octubre, que dejó al menos sesenta y nueve muertos. Sus investigadores visitaron las oficinas del gestor de infraestructura, Adif, la agencia de seguridad ferroviaria y el Tribunal de Cuentas. El accidente, el segundo mortal del año tras el de Adamuz en enero, llevó a la dimisión del ministro de Transportes, Óscar Puente, y a la salida del presidente de Adif.
+
+[ES]
+Fuentes: Al Jazeera y El País.
+
+[ITEM]
+[ES]
+OpenAI levanta once mil millones de dólares a una valoración de un billón doscientos cincuenta mil millones.
+
+[ES]
+Según Bloomberg, OpenAI ya habría reunido once mil millones de dólares en una ronda que podría llegar a unos veinte mil millones, bastante menos que los treinta mil millones que buscaba en septiembre. Horas antes, Bloomberg informó de que los compradores potenciales de acciones de la salida a bolsa de Anthropic podrían valorarla en apenas un billón cien mil millones de dólares, muy por debajo de los cerca de dos billones que esperaban los inversores un mes atrás.
+
+[ES]
+Fuentes: TechCrunch.
 
 [ES]
 España y Latinoamérica.
 
 [ITEM]
 [ES]
-España: más dinero para el tren y renuncia en Adif.
+España: encuestas, mascarillas y un clima preelectoral tenso.
 
 [ES]
-Tras dos accidentes ferroviarios graves en 2026, el nuevo ministro de Transportes, Carlos Cuerpo, anunció un aumento del 50 % de la financiación para los próximos cinco años y aseguró que no hay previsión de cerrar la línea Madrid–Barcelona. Xinhua informa además de que el jefe de Adif, el gestor de la infraestructura ferroviaria, renunció.
+Tras un mes de la tragedia de Urda, el PP ha perdido algo de terreno en todas las encuestadoras, aunque PP y Vox siguen sumando mayoría en nueve de cada diez simulaciones del modelo de El País. En paralelo, la Abogacía del Estado pide procesar a la expareja de Ábalos y a otros implicados por defraudar con los contratos de mascarillas.
 
 [ES]
-Fuentes: Mundo Deportivo, Xinhua Español.
+Fuentes: El País.
 
 [ITEM]
 [ES]
-Sánchez responde a Milei.
+Chile despide a Sebastián Lelio.
 
 [ES]
-El presidente del Gobierno español respondió a un insulto de Javier Milei y aseguró que ese lenguaje no forma parte de su manera de hacer política. Emol destaca el cruce entre ambos mandatarios en su portada de hoy.
+La muerte repentina del cineasta chileno ganador del Óscar, a los cincuenta y dos años, generó homenajes transversales en el país, que lo describen como una figura fundamental y talentosa. La Fiscalía ordenó a la PDI investigar las circunstancias del fallecimiento.
+
+[ES]
+Fuentes: Emol y La Cuarta.
+
+[ITEM]
+[ES]
+Chile y Bélgica compiten con China por la sede del Tratado de Alta Mar.
+
+[ES]
+Chile y Bélgica presentan una candidatura conjunta para alojar la secretaría del Tratado de Alta Mar, frente a la oferta de China. La decisión se tomará en enero de dos mil veintisiete.
 
 [ES]
 Fuentes: Emol.
 
 [ITEM]
 [ES]
-Machado y González critican la Cumbre Iberoamericana.
+Chile: camioneros de San Antonio ponen fin al paro.
 
 [ES]
-Los líderes opositores venezolanos María Corina Machado y Edmundo González lamentaron que la XXX Cumbre Iberoamericana, celebrada en Madrid, no defendiera con claridad la democracia. Para ambos, la cita no respaldó de forma inequívoca la libertad en la región.
-
-[ES]
-Fuentes: BioBioChile.
-
-[ITEM]
-[ES]
-Chile: cambios en Codelco y Presupuesto 2027 en el Congreso.
-
-[ES]
-Una junta extraordinaria de accionistas de Codelco trajo cambios de gobernanza, una posible sanción de hasta 140 millones de dólares y duras críticas a la administración anterior. En paralelo, la Comisión Mixta despachó el Presupuesto 2027 pero rechazó la partida de Educación, y la Cámara lo votará la próxima semana.
+Los camioneros de San Antonio alcanzaron acuerdos con los operadores y depusieron su paro. Con el pacto pasarán a contratar directamente sus servicios.
 
 [ES]
 Fuentes: Emol.
+
+[ITEM]
+[ES]
+Perú en alerta por lluvias vinculadas a El Niño.
+
+[ES]
+Tumbes y Piura enfrentan lluvias extremas, con posibles acumulados diarios superiores a noventa milímetros según un aviso meteorológico de Senamhi. Varias regiones están en alerta ante posibles desbordes.
+
+[ES]
+Fuentes: El Comercio de Perú.
+
+[ITEM]
+[ES]
+Concluye en Madrid la trigésima Cumbre Iberoamericana.
+
+[ES]
+La cumbre cerró con un compromiso renovado con el multilateralismo, según la cobertura de Xinhua Español. Es una cita clave para la relación entre España y los países de América Latina.
+
+[ES]
+Fuentes: Xinhua Español.
 
 [ES]
 Mundo.
 
 [ITEM]
 [ES]
-Europa en alerta por amenazas de bomba falsas contra vuelos.
+Estados Unidos registra más de cinco mil casos de sarampión, la cifra más alta en treinta y cinco años.
 
 [ES]
-Al menos 35 aviones fueron registrados o desviados esta semana por amenazas de bomba falsas, y un piloto de Aer Lingus enfrenta el escrutinio de Francia por desviarse a una base militar. Según Xinhua, las agencias de la UE se comprometieron a apoyar y monitorear la situación.
-
-[ES]
-Fuentes: The Guardian, Xinhua Español.
-
-[ITEM]
-[ES]
-Florida: aparecen restos de la cola del avión privado siniestrado a seis kilómetros.
-
-[ES]
-Los investigadores hallaron parte de la cola del jet privado que cayó el domingo 1 de noviembre sobre una carretera del sur de Florida, a unos seis kilómetros del lugar del impacto. Las autoridades identificaron a las nueve víctimas, entre ellas una pareja y sus dos hijos pequeños, y el cráter dejado por el avión será clave en la investigación.
-
-[ES]
-Fuentes: El País, El Tiempo.
-
-[ITEM]
-[ES]
-Israel: la Lista Conjunta respaldará a Eisenkot para formar gobierno.
-
-[ES]
-La Lista Conjunta, de mayoría árabe, anunció que apoyará a Gadi Eisenkot en su intento de formar el próximo gobierno israelí tras las elecciones. El gesto puede pesar en las negociaciones para armar una mayoría.
+Los CDC reportan cinco mil ciento ochenta y dos casos confirmados en dos mil veintiséis, más del doble de los dos mil doscientos ochenta y nueve de dos mil veinticinco y el mayor número anual desde mil novecientos noventa y uno. Niños y adolescentes son cerca del cincuenta y nueve por ciento de los casos, y la cobertura de vacunación en jardín infantil bajó de noventa y cinco coma dos a noventa y dos coma cuatro por ciento. Los CDC cuentan cuatro muertes, mientras Pensilvania reporta seis, y hay disputa sobre cómo clasificarlas.
 
 [ES]
 Fuentes: Al Jazeera.
 
 [ITEM]
 [ES]
-California conmuta las penas de más de 500 personas en el corredor de la muerte.
+Los avances de Rusia en Ucrania casi se detienen.
 
 [ES]
-El gobernador Gavin Newsom conmutó las sentencias de más de 500 reos condenados a muerte. Es una de las mayores decisiones de este tipo en la historia reciente de Estados Unidos.
+El Instituto para el Estudio de la Guerra cuenta unos ciento diecisiete kilómetros cuadrados conquistados por Rusia en diez meses de dos mil veintiséis, frente a unos cinco mil trescientos en dos mil veinticinco. Ucrania estima en unas trescientas ochenta y una mil las bajas rusas de enero a octubre, y sus ataques a refinerías continúan; un informe del Financial Times, que el Kremlin calificó de falso, dice que cuatro petroleros de diésel ruso tienen problemas para encontrar comprador.
 
 [ES]
 Fuentes: Al Jazeera.
 
 [ITEM]
 [ES]
-Piden a Jensen Huang, de Nvidia, informar al Congreso sobre un informe de espionaje chino.
+Científicos de la ESA ven indicios de actividad volcánica en Marte.
 
 [ES]
-Líderes republicanos de un comité de la Cámara solicitaron una sesión a puerta cerrada con Huang sobre su relación con un ejecutivo tecnológico señalado como presunto agente de inteligencia chino. Según CNBC, Trump habría sido informado de esos hallazgos hace aproximadamente un año.
+El análisis de gases halló cloruro de hidrógeno en zonas donde no debería aparecer. Eso sugiere que el vulcanismo del planeta podría estar latente en lugar de extinto.
 
 [ES]
-Fuentes: CNBC.
+Fuentes: AS.
 
 [ITEM]
 [ES]
-Reino Unido: salarios obligatorios en las ofertas de empleo y caída de precios de vivienda.
+Elecciones en Nueva Zelanda: Laboristas y Nacionales, parejos.
 
 [ES]
-El gobierno británico obligará a las empresas a publicar el salario en sus avisos de trabajo, una medida que según sus defensores ayudará a jóvenes y mujeres a lograr pagos más justos. Por otro lado, Lloyds reporta que los precios de las viviendas cayeron un 0,6 % en octubre, el cuarto descenso mensual seguido, con tasas hipotecarias altas como factor.
+Con el recuento en marcha, el Partido Laborista y el Nacional aparecen igualados, y ninguna coalición se encamina con claridad a una mayoría. El conteo sigue abierto.
 
 [ES]
 Fuentes: The Guardian.
 
 [ITEM]
 [ES]
-China: abre la feria de importaciones y critica un arancel de la UE.
+Reino Unido ve oportunidades tras las derrotas de Trump en las legislativas.
 
 [ES]
-Se inauguró en Shanghái la novena Exposición Internacional de Importaciones de China, mientras Pekín expresó su rechazo a un nuevo arancel de la UE sobre importaciones de bajo valor. China también dijo que estaría abierta a comprar más productos agrícolas de EE. UU. si se concretan recortes arancelarios recíprocos.
-
-[ES]
-Fuentes: Xinhua Español.
-
-[ITEM]
-[ES]
-COP31 en Antalya pondrá a prueba la dependencia mundial de los combustibles fósiles.
-
-[ES]
-La cumbre climática de la ONU en Turquía, coorganizada con Australia, se centrará en la electricidad limpia en un contexto geopolítico difícil. The Guardian anticipa que expondrá los conflictos y contradicciones de un mundo todavía muy ligado al carbón y al petróleo.
+Según The Guardian, funcionarios británicos ven posibles aperturas tras los malos resultados de Trump en las elecciones de medio mandato. Entre ellas, la de contribuir a poner fin a la guerra con Irán.
 
 [ES]
 Fuentes: The Guardian.
-
-[ITEM]
-[ES]
-Gaza: familias desplazadas enfrentan el invierno en tiendas sobre la playa.
-
-[ES]
-Familias desplazadas en Gaza se preparan para el invierno en carpas instaladas en la costa, con una precaria barrera hecha con ollas dañadas para contener el agua del mar. Los testimonios hablan de una sensación de desamparo ante el frío que se acerca.
-
-[ES]
-Fuentes: Al Jazeera.
 
 [ES]
 Tecnología y Nicho.
 
 [ITEM]
 [ES]
-El rechazo electoral a los centros de datos preocupa a la industria de la IA.
+Crusoe vende a Google su proyecto de centro de datos en Wyoming.
 
 [ES]
-Meta advirtió que el rechazo político a los centros de datos puede dificultar la expansión de la IA. Según Fox News, OpenAI presentó nuevas políticas sobre sus centros de datos en medio de las preocupaciones por el costo de la energía y los esfuerzos demócratas por frenar esta infraestructura.
-
-[ES]
-Fuentes: TechCrunch, Fox News.
-
-[ITEM]
-[ES]
-OpenAI podría estar lista para salir a bolsa en 2027.
-
-[ES]
-El presidente de OpenAI, Greg Brockman, dijo que la compañía podría estar preparada para una oferta pública en 2027. El comentario llega en una semana de fuerte nerviosismo bursátil por el futuro de la IA.
+Crusoe, valorada en treinta mil novecientos millones de dólares, vendió un proyecto inacabado en Wyoming a Google, que según reportes tenía dudas sobre su costo y calendario. Google planea invertir diecisiete mil millones de dólares en el campus, que Crusoe y Tallgrass pensaban escalar hasta diez gigavatios; Crusoe sigue siendo socia de Google en otro centro de datos cerca de Amarillo, Texas.
 
 [ES]
 Fuentes: TechCrunch.
 
 [ITEM]
 [ES]
-Avatares y agentes de IA: Meta lanza videollamadas con su avatar Muse y Airbnb prepara un agente de viajes.
+Lo más votado en Hacker News.
 
 [ES]
-Meta permite ahora a usuarios en EE. UU. hacer videollamadas con su avatar personalizado de IA llamado Muse. Por su parte, Airbnb dijo que lanzará un agente de viajes con IA en el primer semestre de 2027.
-
-[ES]
-Fuentes: TechCrunch.
-
-[ITEM]
-[ES]
-Ciberseguridad: ataques a congeladores industriales y un nuevo modelo de OpenAI.
-
-[ES]
-El gobierno de EE. UU. advirtió de una "amenaza cibernética continua" por ataques masivos contra congeladores conectados usados en entornos industriales, comerciales y militares. Aparte, OpenAI lanzó un nuevo modelo de ciberseguridad, y TechCrunch se pregunta si es suficiente.
-
-[ES]
-Fuentes: TechCrunch.
-
-[ITEM]
-[ES]
-The New York Times negocia comprar Letterboxd por 330 millones de dólares.
-
-[ES]
-Según TechCrunch, The New York Times estaría en conversaciones para adquirir la plataforma de reseñas de cine Letterboxd. La cifra reportada ronda los 330 millones de dólares.
-
-[ES]
-Fuentes: TechCrunch.
-
-[ITEM]
-[ES]
-Hacker News: un issue sobre Claude Code y una vulnerabilidad en MS Paint.
-
-[ES]
-Entre lo más votado hoy en Hacker News está un issue en el repositorio de Claude Code titulado "Claude Code sends your email address to websites", con 549 puntos. También destaca un registro CVE sobre una vulnerabilidad de ejecución remota de código en MS Paint, con 380 puntos; solo pude revisar los títulos, no el detalle técnico.
+La comunidad destaca el lanzamiento de Libghostty uno punto cero, una biblioteca del proyecto de terminal Ghostty, con trescientos setenta y nueve puntos. También sube un artículo que sostiene que un modelo auxiliar puede pedir ayuda a Opus y lograr su precisión con un costo cuatro veces menor, y otro de un autor que visitó la fábrica de Unitree y concluye que es más optimista sobre Occidente.
 
 [ES]
 Fuentes: Hacker News.
@@ -266,26 +206,23 @@ Conectando los Puntos.
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
 
 [ES]
-Hay un hilo que une la caída bursátil, el rechazo a los centros de datos y la salida a bolsa que sueña OpenAI: la IA pasó de ser una promesa abstracta a un asunto de política local, de facturas de luz y de votos. Si los mercados empiezan a dudar de que la infraestructura se pueda construir al ritmo previsto, es posible que veamos valoraciones más cautelosas y un debate más áspero sobre quién paga la energía. No es una predicción segura, pero vale la pena vigilar si el voto castigo en EE. UU. se convierte en regulación concreta.
+Hay un hilo que cruza varias historias de hoy: la fragilidad de las instituciones y de las promesas de gran escala. En Paraguay, un banco que colapsa arrastra a un presidente; en España, un accidente ferroviario termina en dimisiones y una investigación europea sobre fondos de infraestructura. Vale la pena vigilar si en tu país el mantenimiento y la supervisión de lo aburrido, bancos, trenes, redes, está tan bien financiado como las promesas de lo nuevo.
 
 [ES]
-Para el mundo hispanohablante, la transmisión es bastante directa. Cuando Wall Street se asusta, suele subir el dólar frente a monedas como el peso chileno, como pasó hoy, y se encarecen el crédito y las deudas en divisas. A la vez, un enfriamiento de la inversión tecnológica podría moderar la demanda de cobre, clave para Chile y Perú por su uso en redes eléctricas y centros de datos, aunque eso dependerá de cuánto dure el ajuste.
+Algo parecido pasa en tecnología: una inteligencia artificial con valoraciones que oscilan en un mes de unos dos billones esperados a un billón cien mil millones, y un gigante que compra un centro de datos que otro no logró terminar. No es una predicción segura, pero si el entusiasmo financiero se enfría, podría moderar la inversión en centros de datos y, con ella, el apetito por energía y cobre, algo que importa a economías exportadoras como las de Chile o Perú.
 
 [ES]
-También se repite una escena de desconfianza en las instituciones: Paraguay con un presidente que quiere renunciar y un Congreso que no lo deja, Francia con calles llenas por el costo de vida, España con el tren bajo presión tras accidentes. Cuando los precios suben y los servicios fallan, la paciencia se acorta, y los cambios políticos parecen volverse más rápidos y menos predecibles. Vale la pena observar si esa volatilidad se sostiene en Latinoamérica con los bancos y los presupuestos públicos como puntos sensibles.
-
-[ES]
-Por último, la guerra con Irán sigue en el fondo como un factor de riesgo para el petróleo y la política estadounidense. Una escalada o una salida negociada afectaría los costos de energía de España y de importadores latinoamericanos de combustibles, y a la vez pesa en el equilibrio político de Washington tras las legislativas. Es un escenario con demasiadas variables para apostar por un desenlace, pero conviene seguirlo junto con el precio de la energía.
+En geopolítica, el estrecho de Ormuz y la mediación de Qatar recuerdan cuánto del precio del combustible depende de pocos pasos marítimos. Si un acuerdo avanza, el petróleo podría aliviarse; si la guerra se reanuda, el riesgo es inverso, con efecto en transporte y precios en toda la región. A la vez, la llegada de Miller a la jefatura de gabinete sugiere continuidad dura en Washington, con posibles consecuencias para la migración hacia Estados Unidos y las remesas. Son lecturas tentativas, no certezas.
 
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
 
 [ES]
-Seguimiento continuo de la hipótesis vigente sobre la IA, la voz interior y la cohesión social: un escaneo diario informado por la tendencia reciente del registro, no una nueva discusión completa.
+Seguimiento continuo de la hipótesis vigente: es un escaneo diario informado por la tendencia reciente del registro, no un nuevo debate completo.
 
 [ES]
-Mirando el registro de las últimas 30 entradas, el patrón es estable: (a) ciclos de autoridad cada vez más cortos ha tenido apoyo en 27 días y (d) colaboración y cohesión en 29, mientras que (c) alejamiento del individualismo ha sido desafiado en 25 y (b) voz interior más fuerte se ha mantenido casi siempre neutral (23 días). La revisión integral de noviembre concluyó "net challenge" y sin eslabonamiento entre las partes de la cadena; nada de lo de hoy mueve ese veredicto.
+Lectura de hoy. Sobre los ciclos de autoridad cada vez más cortos, hay apoyo: en un solo mes las expectativas de valoración de Anthropic pasaron de unos dos billones a un billón cien mil millones y OpenAI recaudó menos de lo buscado, según TechCrunch, un ejemplo de lo rápido que cambian los líderes. Sobre la voz interior más fuerte, sin señal clara hoy. Sobre el alejamiento del individualismo, hay complicación: la designación de Miller y el cierre de filas en Washington apuntan a polarización más que a apertura, según DW. Sobre la colaboración y la cohesión, un leve apoyo: la mediación de Qatar y el cierre de la Cumbre Iberoamericana con compromiso multilateral, según Al Jazeera y Xinhua.
 
 [ES]
-Hoy continúa la racha de apoyo para (a): el pánico bursátil por la IA y los cambios bruscos de narrativa sobre su futuro muestran lo rápido que se desgastan las certezas, según The Guardian y TechCrunch. Para (b) la señal es neutral: avatares y agentes de IA que invitan a delegar más, pero sin evidencia de que la gente esté fortaleciendo su voz propia, según TechCrunch. Para (c) vuelve el desafío, con la polarización postelectoral en EE. UU., según Al Jazeera, y el cruce Milei–Sánchez, según Emol. Y para (d) hay otra señal de apoyo en la movilización masiva en Francia, según Al Jazeera, y la resistencia a los centros de datos, según TechCrunch, aunque, como señaló la revisión integral, esa acción colectiva parece responder más al malestar económico que a la cadena propuesta.
+Frente a la tendencia reciente. En las últimas cuatro semanas del registro, los puntos a y d acumulan apoyo casi diario, el b sigue mayormente neutral y el c casi siempre complica; hoy repite ese patrón. La revisión integral de noviembre concluyó net challenge con eslabones sin conexión, y nada de hoy cambia ese veredicto.
