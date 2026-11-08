@@ -1,0 +1,191 @@
+[ES]
+Buenos días. Este es tu resumen diario del domingo 8 de noviembre de 2026.
+
+[ES]
+Nota sobre las fuentes: hoy varias fuentes nombradas devolvieron bloqueo de acceso en la lectura directa, así que cubrí esas historias con el proxy de titulares, la API de Hacker News y los resúmenes disponibles de esas fuentes.
+
+[ES]
+Titulares.
+
+[ES]
+Tiroteo en la plaza del mercado de Cracovia.
+
+[ES]
+Un hombre armado atacó la plaza del mercado de Cracovia, en Polonia, y dejó seis muertos y 16 heridos. Según The Guardian, el sospechoso habría tenido posturas de extrema derecha, aunque las investigaciones siguen en curso.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Detienen al expresidente paraguayo Santiago Peña.
+
+[ES]
+Un juez decretó prisión preventiva contra Santiago Peña, expresidente de Paraguay, tras imputarlo por la crisis del Ueno Bank. El colapso del banco ha dejado congelados los fondos de cerca de tres millones de clientes, lo que explica el peso político y social del caso.
+
+[ES]
+Fuente: DW en Español.
+
+[ES]
+Lluvias inundan unas 70.000 tiendas de desplazados en Gaza.
+
+[ES]
+Las fuertes lluvias anegaron alrededor de 70.000 tiendas de campaña en la Franja de Gaza, donde viven miles de personas desplazadas. La inundación agrava unas condiciones de vida ya muy precarias a las puertas del invierno.
+
+[ES]
+Fuente: RTVE.
+
+[ES]
+España y Latinoamérica.
+
+[ES]
+La princesa Ana viaja a las Malvinas.
+
+[ES]
+La princesa Ana y su marido llegarán el lunes a las islas Malvinas en un viaje de 11 días. La visita coincide con el inicio de una audiencia en el Tribunal del Mar por la exploración petrolera en la zona, lo que le da un fuerte trasfondo diplomático.
+
+[ES]
+Fuente: La Nación.
+
+[ES]
+Perú podría superar a Chile como cuarta economía de Sudamérica en 2027.
+
+[ES]
+Según el Panorama Económico Mundial del FMI, el PIB de Perú rondaría los 413.600 millones de dólares en 2027, apenas por encima de los 413.400 millones de Chile. La diferencia viene del crecimiento: Perú crecería cerca de 3% en 2026 frente a 0,6% de Chile, y la brecha se ampliaría hasta 2031. Las cifras están en dólares corrientes, sin ajustar por precios.
+
+[ES]
+Fuente: Gestión.
+
+[ES]
+La visita del papa León XIV a Argentina enfrenta a la Iglesia con Milei.
+
+[ES]
+El viaje del papa León XIV a Argentina pone de relieve las tensiones con el presidente Javier Milei. Uno de los puntos de fricción son los recortes al financiamiento para personas con discapacidad.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Productores bananeros latinoamericanos piden mejores pagos.
+
+[ES]
+Los productores de banano de América Latina reclaman mejores precios para enfrentar los efectos de la crisis climática. El fenómeno de El Niño ha reducido la producción, lo que les resta margen para absorber los costos.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Alonso saldrá octavo en Brasil tras una clasificación bajo la lluvia.
+
+[ES]
+Fernando Alonso largará octavo en el GP de Brasil, después de una clasificación retrasada cerca de hora y media por la lluvia. Colapinto también correrá en Interlagos, con Antonelli ya coronado campeón.
+
+[ES]
+Fuentes: laSexta y TyC Sports.
+
+[ES]
+Mundo.
+
+[ES]
+Trump y los votantes tras las elecciones de medio término.
+
+[ES]
+The Guardian publica un análisis de las últimas afirmaciones de Trump antes de las elecciones de medio término y de cómo respondieron los votantes. El resultado, con avances demócratas, abre un escenario político más difícil para el presidente.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Más rechazos de residencia a ciudadanos turcos en el Reino Unido.
+
+[ES]
+Crece la preocupación por el fuerte aumento de solicitudes de residencia permanente rechazadas a ciudadanos turcos. Algunas voces lo comparan con el escándalo Windrush.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Tecnología y Nicho.
+
+[ES]
+Atasco de IA: los organismos públicos británicos, desbordados por quejas escritas con chatbots.
+
+[ES]
+Despachos de diputados, ayuntamientos y otros organismos del Reino Unido reciben una avalancha de quejas y solicitudes complejas redactadas con IA. La asistente de un diputado calcula que cerca de la mitad de su correo ya es generado por inteligencia artificial.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Tesla pondrá fin a la producción del Cybertruck.
+
+[ES]
+Elon Musk dijo que la producción del Cybertruck terminará hacia mediados del próximo año. La planta de Texas pasará a fabricar el Cybercab, el taxi autónomo, mientras Musk se centra en robótica e inteligencia artificial.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+El gasto récord de Musk en las elecciones fue un fracaso.
+
+[ES]
+Musk destinó al menos 446 millones de dólares a respaldar a republicanos, una cifra récord. Aun así, los demócratas ganaron las cinco carreras al Senado donde su grupo más gastó.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+La UE acusa a TikTok de no proteger la salud mental de sus usuarios.
+
+[ES]
+La Comisión Europea concluyó de forma preliminar que el algoritmo de TikTok puede dañar a jóvenes y personas vulnerables. Según el organismo, los atrapa en contenido repetitivo que empeora la ansiedad y los trastornos alimentarios.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+Ciberataques a congeladores en Europa.
+
+[ES]
+Hackers subieron los límites de temperatura en tres bancos de sangre franceses, aunque las alarmas permitieron intervenir antes de que se dañaran los productos. También proveedores de alimentos del Reino Unido sufrieron ataques que elevaron la temperatura de sus congeladores, y el NCSC advierte que podría ser una señal temprana de una amenaza mayor.
+
+[ES]
+Fuente: The Guardian.
+
+[ES]
+En Hacker News: seguridad de agentes de código y homelabs baratos.
+
+[ES]
+Un informe de Apiiro, con 200 puntos, sostiene que la opción No volver a preguntar de Claude Code expuso contraseñas en 1.122 archivos públicos de GitHub. En otra línea, un artículo sobre qué ejecutar en un homelab OpenStick de 10 dólares lidera la lista con 449 puntos.
+
+[ES]
+Fuente: Hacker News, Apiiro y blog punto bosscher.
+
+[ES]
+Conectando los Puntos.
+
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
+[ES]
+Un hilo que cruza el día es la fricción entre la IA y las instituciones: los organismos británicos se ahogan en quejas escritas con chatbots, la UE señala los algoritmos de TikTok y los atacantes juegan con la infraestructura física de los congeladores. Si la IA abarata producir texto y ataques, vale la pena vigilar si los gobiernos y las empresas de tu entorno están preparados para el mismo volumen.
+
+[ES]
+Otro patrón es que el dinero y la influencia no siempre se traducen en resultados: los 446 millones de Musk no cambiaron el Senado, y el Cybertruck cede su planta a una apuesta futura. No es una predicción segura, pero sugiere que la autoridad de figuras individuales se desgasta más rápido de lo que solía.
+
+[ES]
+Para el mundo hispanohablante, la noticia de Perú y Chile recuerda que el crecimiento relativo cambia el mapa regional, aunque las cifras en dólares corrientes dependen mucho del tipo de cambio. Los bananeros y El Niño apuntan a que el clima seguirá presionando a las exportaciones agrícolas de la región.
+
+[ES]
+La detención de Peña y el congelamiento de fondos del Ueno Bank muestran cómo una crisis bancaria puede volverse política en días. Si tienes ahorros o negocios con exposición a bancos pequeños de la región, vale la pena seguir cómo se resuelve el caso, sin sacar conclusiones apresuradas.
+
+[ES]
+Vigilancia de la Hipótesis.
+
+[ES]
+Seguimiento continuo de la hipótesis vigente sobre la IA, la voz interior y la cohesión social: es un escaneo diario informado por la tendencia reciente, no un nuevo argumento completo.
+
+[ES]
+Las subafirmaciones son: a, ciclos de autoridad cada vez más cortos; b, más voz interior; c, alejamiento del individualismo; y d, más colaboración y cohesión social. Hoy, la a recibe apoyo: el gasto récord de Musk no compró resultados, según The Guardian. Sobre la b hay una señal en contra: el atasco de IA muestra a personas delegando en chatbots la redacción de sus quejas, según The Guardian. Sobre la c también hay una señal en contra, por el ataque en Cracovia con un sospechoso de extrema derecha, según The Guardian. En la d no veo una señal clara hoy.
+
+[ES]
+Frente a la tendencia reciente del registro, con 31 entradas: la a lleva casi todos los días con apoyo y hoy lo continúa; la b sigue mayormente neutral y hoy se inclina a desafío; la c ha sido desafiada casi a diario y hoy se suma; la d estaba respaldada casi a diario, así que hoy es una pausa. La última revisión integral concluyó net challenge con encadenamiento no, y nada de hoy cambia ese veredicto.
