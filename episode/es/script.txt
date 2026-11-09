@@ -1,9 +1,9 @@
 [SECTION intro]
 [ES]
-Buenos días. Este es tu resumen diario del domingo 8 de noviembre de 2026.
+Buenos días. Este es tu resumen diario del lunes 9 de noviembre de 2026.
 
 [ES]
-Nota sobre las fuentes: hoy varias fuentes nombradas devolvieron bloqueo de acceso en la lectura directa, así que cubrí esas historias con el proxy de titulares, la API de Hacker News y los resúmenes disponibles de esas fuentes.
+Nota sobre fuentes: hoy no pude consultar directamente BBC News, Reuters, AP, The New York Times, The Washington Post, Xinhua Español ni Al Jazeera, y El País solo mostró titulares de portada. BBC News Mundo y DW en Español se leyeron mediante el servicio de extracción.
 
 [SECTION news]
 [ES]
@@ -11,172 +11,162 @@ Titulares.
 
 [ITEM]
 [ES]
-Tiroteo en la plaza del mercado de Cracovia.
+La COP31 arranca en Antalya con un nuevo aviso de la OMM: la Tierra acumula calor cada vez más rápido.
 
 [ES]
-Un hombre armado atacó la plaza del mercado de Cracovia, en Polonia, y dejó seis muertos y 16 heridos. Según The Guardian, el sospechoso habría tenido posturas de extrema derecha, aunque las investigaciones siguen en curso.
+Líderes y diplomáticos se reúnen en Antalya, Turquía, para la 31.ª conferencia climática de la ONU. El informe de la Organización Meteorológica Mundial dice que entre enero y septiembre de 2026 la temperatura media fue unos 1,47 grados superior a la preindustrial, y que 2026 va camino de ser uno de los cuatro años más cálidos registrados. El nivel del mar es el más alto desde que hay registros, y António Guterres habló de una nueva era de extremos climáticos. DW añade que la lucha contra el hambre marca el inicio de la cumbre.
 
 [ES]
-Fuente: The Guardian.
-
-[ITEM]
-[ES]
-Detienen al expresidente paraguayo Santiago Peña.
-
-[ES]
-Un juez decretó prisión preventiva contra Santiago Peña, expresidente de Paraguay, tras imputarlo por la crisis del Ueno Bank. El colapso del banco ha dejado congelados los fondos de cerca de tres millones de clientes, lo que explica el peso político y social del caso.
-
-[ES]
-Fuente: DW en Español.
+Fuentes: The Guardian, DW en Español.
 
 [ITEM]
 [ES]
-Lluvias inundan unas 70.000 tiendas de desplazados en Gaza.
+Nvidia investiga a su CEO, Jensen Huang, por un presunto caso de espionaje chino.
 
 [ES]
-Las fuertes lluvias anegaron alrededor de 70.000 tiendas de campaña en la Franja de Gaza, donde viven miles de personas desplazadas. La inundación agrava unas condiciones de vida ya muy precarias a las puertas del invierno.
+Nvidia abrió una investigación sobre Jensen Huang tras conocerse un memorando de inteligencia de Estados Unidos que, según medios, dice que una ejecutiva de la firma Megaspeed fue reclutada para vigilarlo. Los reportes añaden que Huang habría tenido una relación sentimental con ella; Nvidia respondió que sus contactos no eran inusuales y que no comparte información clasificada con clientes. China niega las acusaciones, y analistas dudan de que el caso lo obligue a dejar el cargo.
 
 [ES]
-Fuente: RTVE.
+Fuentes: TechCrunch, The Guardian, DW en Español, El Universal.
+
+[ITEM]
+[ES]
+Paraguay: el expresidente Santiago Peña, en prisión preventiva por el caso Ueno Bank.
+
+[ES]
+Un juez paraguayo decretó prisión preventiva contra Santiago Peña, destituido por el Congreso en un juicio político; la fiscalía lo acusa de presunto abuso de confianza y gestión en beneficio propio. La cobertura en vivo de BBC Mundo habla de arresto domiciliario, así que conviene seguir los detalles. La fiscalía allanó una casa de Peña y, según Emol, halló una bóveda oculta; Pedro Alliana asumió como nuevo presidente e Itaipú dice tener unos 183 millones de dólares en el banco extinto.
+
+[ES]
+Fuentes: BBC News Mundo, DW en Español, Emol.
+
+[ITEM]
+[ES]
+Trump admite que su política de deportaciones fue demasiado dura y ficha a Stephen Miller como jefe de gabinete.
+
+[ES]
+En una entrevista con 60 Minutes, tras las derrotas republicanas en las elecciones de medio mandato, Trump reconoció que su ofensiva migratoria pudo haber ido demasiado lejos y se mostró abierto a un acuerdo que permita quedarse a algunos inmigrantes sin papeles. Casi al mismo tiempo, Stephen Miller, arquitecto de esa política, pasa a ser jefe de gabinete de la Casa Blanca, lo que BBC Mundo interpreta como señal de que Trump se prepara para una pelea política.
+
+[ES]
+Fuentes: The Guardian, BBC News Mundo.
+
+[ITEM]
+[ES]
+Polonia califica de terrorista el tiroteo en Cracovia.
+
+[ES]
+Un ataque armado en Cracovia dejó al menos seis muertos y decenas de heridos, y las autoridades polacas lo califican de atentado terrorista. El presunto autor murió después de resultar herido, y por ahora no se ha aclarado el móvil.
+
+[ES]
+Fuentes: DW en Español, BBC News Mundo.
 
 [ES]
 España y Latinoamérica.
 
 [ITEM]
 [ES]
-La princesa Ana viaja a las Malvinas.
+Chile: la aprobación de Kast sube tres puntos, hasta 29 por ciento, según Cadem.
 
 [ES]
-La princesa Ana y su marido llegarán el lunes a las islas Malvinas en un viaje de 11 días. La visita coincide con el inicio de una audiencia en el Tribunal del Mar por la exploración petrolera en la zona, lo que le da un fuerte trasfondo diplomático.
+La última encuesta Cadem muestra que la aprobación del presidente José Antonio Kast subió tres puntos, hasta 29 por ciento. Entre quienes lo desaprueban, las razones principales son las rebajas de penas, con 43 por ciento, y el aumento del desempleo, con 42 por ciento.
 
 [ES]
-Fuente: La Nación.
-
-[ITEM]
-[ES]
-Perú podría superar a Chile como cuarta economía de Sudamérica en 2027.
-
-[ES]
-Según el Panorama Económico Mundial del FMI, el PIB de Perú rondaría los 413.600 millones de dólares en 2027, apenas por encima de los 413.400 millones de Chile. La diferencia viene del crecimiento: Perú crecería cerca de 3% en 2026 frente a 0,6% de Chile, y la brecha se ampliaría hasta 2031. Las cifras están en dólares corrientes, sin ajustar por precios.
-
-[ES]
-Fuente: Gestión.
+Fuente: Emol.
 
 [ITEM]
 [ES]
-La visita del papa León XIV a Argentina enfrenta a la Iglesia con Milei.
+Ecuador: más de dos mil detenidos en una semana de toques de queda.
 
 [ES]
-El viaje del papa León XIV a Argentina pone de relieve las tensiones con el presidente Javier Milei. Uno de los puntos de fricción son los recortes al financiamiento para personas con discapacidad.
+Más de 2.000 personas fueron capturadas durante los toques de queda en Ecuador en solo una semana. La cifra muestra la dimensión de las medidas de seguridad que mantiene el país.
 
 [ES]
-Fuente: The Guardian.
-
-[ITEM]
-[ES]
-Productores bananeros latinoamericanos piden mejores pagos.
-
-[ES]
-Los productores de banano de América Latina reclaman mejores precios para enfrentar los efectos de la crisis climática. El fenómeno de El Niño ha reducido la producción, lo que les resta margen para absorber los costos.
-
-[ES]
-Fuente: The Guardian.
+Fuente: DW en Español.
 
 [ITEM]
 [ES]
-Alonso saldrá octavo en Brasil tras una clasificación bajo la lluvia.
+León XIV en Sudamérica: el reto de reconquistar a los jóvenes.
 
 [ES]
-Fernando Alonso largará octavo en el GP de Brasil, después de una clasificación retrasada cerca de hora y media por la lluvia. Colapinto también correrá en Interlagos, con Antonelli ya coronado campeón.
+La gira del papa León XIV por Sudamérica incluye Uruguay, el país menos católico de la región, según BBC Mundo. DW recoge la opinión de expertos de que la Iglesia debe escuchar más y hablar menos si quiere recuperar a los jóvenes.
 
 [ES]
-Fuentes: laSexta y TyC Sports.
+Fuentes: BBC News Mundo, DW en Español.
+
+[ITEM]
+[ES]
+España: crece el debate sobre la donación de órganos tras una eutanasia.
+
+[ES]
+El caso de Ana, que donó órganos tras recibir la eutanasia, reabrió la discusión sobre esta práctica en España. Un grupo de abogados cristianos quiere prohibirla.
+
+[ES]
+Fuente: BBC News Mundo.
 
 [ES]
 Mundo.
 
 [ITEM]
 [ES]
-Trump y los votantes tras las elecciones de medio término.
+Un despertar político global: las protestas de la generación Z se extienden por el mundo.
 
 [ES]
-The Guardian publica un análisis de las últimas afirmaciones de Trump antes de las elecciones de medio término y de cómo respondieron los votantes. El resultado, con avances demócratas, abre un escenario político más difícil para el presidente.
+Investigadores han documentado al menos 25 protestas con participación de jóvenes de entre 14 y 29 años, motivadas por corrupción, vivienda, educación y clima. Entre los casos citados están Serbia, Brasil, Bangladés, India, Marruecos, México y Francia, y los analistas señalan que estas protestas sufren más represión. La politóloga Erica Chenoweth habla de una posible transformación generacional profunda.
 
 [ES]
 Fuente: The Guardian.
 
 [ITEM]
 [ES]
-Más rechazos de residencia a ciudadanos turcos en el Reino Unido.
+Llamado poco habitual a más suministro eléctrico en Reino Unido por la caída del viento en Europa.
 
 [ES]
-Crece la preocupación por el fuerte aumento de solicitudes de residencia permanente rechazadas a ciudadanos turcos. Algunas voces lo comparan con el escándalo Windrush.
+El operador de la red británica, Neso, emitió un aviso de margen eléctrico por un déficit previsto de oferta debido al poco viento. Pidió además a las centrales de gas que aumenten su producción.
 
 [ES]
 Fuente: The Guardian.
+
+[ITEM]
+[ES]
+Hungría abre sus archivos de la era comunista.
+
+[ES]
+Los expedientes de la policía secreta podrían revelar quién espió a quién durante el comunismo. La apertura reabre un debate histórico sensible en el país.
+
+[ES]
+Fuente: BBC News Mundo.
 
 [ES]
 Tecnología y Nicho.
 
 [ITEM]
 [ES]
-Atasco de IA: los organismos públicos británicos, desbordados por quejas escritas con chatbots.
+El gasto empresarial en IA se enfría justo cuando Anthropic se acerca a su salida a bolsa.
 
 [ES]
-Despachos de diputados, ayuntamientos y otros organismos del Reino Unido reciben una avalancha de quejas y solicitudes complejas redactadas con IA. La asistente de un diputado calcula que cerca de la mitad de su correo ya es generado por inteligencia artificial.
+Datos de Ramp indican que el gasto en tokens de IA de las empresas estadounidenses creció solo 1,5 por ciento entre agosto y septiembre, aunque el uso siguió subiendo; su economista lo atribuye sobre todo a recortes de precios y a un mejor control de costos. En octubre el gasto rebotó 8,9 por ciento. Bloomberg informó de que la valoración potencial de Anthropic habría bajado de unos 2 billones de dólares a entre 1,2 y 1,3 billones.
 
 [ES]
-Fuente: The Guardian.
-
-[ITEM]
-[ES]
-Tesla pondrá fin a la producción del Cybertruck.
-
-[ES]
-Elon Musk dijo que la producción del Cybertruck terminará hacia mediados del próximo año. La planta de Texas pasará a fabricar el Cybercab, el taxi autónomo, mientras Musk se centra en robótica e inteligencia artificial.
-
-[ES]
-Fuente: The Guardian.
+Fuente: TechCrunch.
 
 [ITEM]
 [ES]
-El gasto récord de Musk en las elecciones fue un fracaso.
+Tesla dejará de fabricar el Cybertruck en 2027.
 
 [ES]
-Musk destinó al menos 446 millones de dólares a respaldar a republicanos, una cifra récord. Aun así, los demócratas ganaron las cinco carreras al Senado donde su grupo más gastó.
+Elon Musk dijo que usará ese espacio de fábrica para producir más robotaxis Cybercab. Las ventas quedaron muy por debajo de lo esperado, y el precio base subió a unos 60.000 dólares frente a la promesa original de menos de 40.000.
 
 [ES]
-Fuente: The Guardian.
-
-[ITEM]
-[ES]
-La UE acusa a TikTok de no proteger la salud mental de sus usuarios.
-
-[ES]
-La Comisión Europea concluyó de forma preliminar que el algoritmo de TikTok puede dañar a jóvenes y personas vulnerables. Según el organismo, los atrapa en contenido repetitivo que empeora la ansiedad y los trastornos alimentarios.
-
-[ES]
-Fuente: The Guardian.
+Fuente: TechCrunch.
 
 [ITEM]
 [ES]
-Ciberataques a congeladores en Europa.
+Investigadores encadenan fallos para desbloquear coches conectados de una marca.
 
 [ES]
-Hackers subieron los límites de temperatura en tres bancos de sangre franceses, aunque las alarmas permitieron intervenir antes de que se dañaran los productos. También proveedores de alimentos del Reino Unido sufrieron ataques que elevaron la temperatura de sus congeladores, y el NCSC advierte que podría ser una señal temprana de una amenaza mayor.
+Dos investigadores de seguridad mostraron que sistemas de un fabricante no identificado podían encadenarse para desbloquear vehículos en Australia a partir solo de la matrícula. El ataque combinaba una herramienta de administración expuesta, credenciales incrustadas y una autenticación multifactor mal configurada; dicen haber probado solo coches propios o con permiso.
 
 [ES]
-Fuente: The Guardian.
-
-[ITEM]
-[ES]
-En Hacker News: seguridad de agentes de código y homelabs baratos.
-
-[ES]
-Un informe de Apiiro, con 200 puntos, sostiene que la opción No volver a preguntar de Claude Code expuso contraseñas en 1.122 archivos públicos de GitHub. En otra línea, un artículo sobre qué ejecutar en un homelab OpenStick de 10 dólares lidera la lista con 449 puntos.
-
-[ES]
-Fuente: Hacker News, Apiiro y blog punto bosscher.
+Fuente: Hacker News.
 
 [SECTION connecting_dots]
 [ES]
@@ -186,26 +176,23 @@ Conectando los Puntos.
 Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
 
 [ES]
-Un hilo que cruza el día es la fricción entre la IA y las instituciones: los organismos británicos se ahogan en quejas escritas con chatbots, la UE señala los algoritmos de TikTok y los atacantes juegan con la infraestructura física de los congeladores. Si la IA abarata producir texto y ataques, vale la pena vigilar si los gobiernos y las empresas de tu entorno están preparados para el mismo volumen.
+Varias historias de hoy hablan de lo mismo: sistemas que se calientan más rápido de lo que las instituciones reaccionan. El planeta acumula energía a ritmo récord mientras la COP31 intenta convertir promesas en hechos, y la red eléctrica británica pide más oferta porque el viento falló. Para ti, en el mundo hispanohablante, eso se traduce en vigilar el costo de la energía y el clima extremo, que golpea a la agricultura y a los seguros en Latinoamérica y el sur de Europa. No es una predicción segura, pero vale la pena seguirlo.
 
 [ES]
-Otro patrón es que el dinero y la influencia no siempre se traducen en resultados: los 446 millones de Musk no cambiaron el Senado, y el Cybertruck cede su planta a una apuesta futura. No es una predicción segura, pero sugiere que la autoridad de figuras individuales se desgasta más rápido de lo que solía.
+En tecnología, la mezcla de un posible escándalo de espionaje en torno a Nvidia, un gasto en IA que se estanca y valoraciones que bajan sugiere un mercado que se está volviendo más cauteloso. Si el entusiasmo se enfría, podría afectar a países que dependen de materias primas ligadas a la demanda tecnológica, como el cobre y el litio de Chile y Perú, aunque aún es pronto para saberlo.
 
 [ES]
-Para el mundo hispanohablante, la noticia de Perú y Chile recuerda que el crecimiento relativo cambia el mapa regional, aunque las cifras en dólares corrientes dependen mucho del tipo de cambio. Los bananeros y El Niño apuntan a que el clima seguirá presionando a las exportaciones agrícolas de la región.
-
-[ES]
-La detención de Peña y el congelamiento de fondos del Ueno Bank muestran cómo una crisis bancaria puede volverse política en días. Si tienes ahorros o negocios con exposición a bancos pequeños de la región, vale la pena seguir cómo se resuelve el caso, sin sacar conclusiones apresuradas.
+En política, un Trump que admite que se pasó con las deportaciones pero nombra a Miller refuerza la idea de un poder más débil que sigue peleando. Para los migrantes latinoamericanos y sus remesas, el rumbo sigue siendo incierto. Y en Paraguay y Chile vemos instituciones sometidas a presión, con un expresidente detenido y un gobierno con aprobación baja; vale la pena vigilar cómo reaccionan los mercados y la región.
 
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
 
 [ES]
-Seguimiento continuo de la hipótesis vigente sobre la IA, la voz interior y la cohesión social: es un escaneo diario informado por la tendencia reciente, no un nuevo argumento completo.
+Seguimiento diario de la hipótesis vigente sobre IA, voz interior y cohesión social: es un escaneo informado por la tendencia reciente del registro, no una nueva argumentación completa.
 
 [ES]
-Las subafirmaciones son: a, ciclos de autoridad cada vez más cortos; b, más voz interior; c, alejamiento del individualismo; y d, más colaboración y cohesión social. Hoy, la a recibe apoyo: el gasto récord de Musk no compró resultados, según The Guardian. Sobre la b hay una señal en contra: el atasco de IA muestra a personas delegando en chatbots la redacción de sus quejas, según The Guardian. Sobre la c también hay una señal en contra, por el ataque en Cracovia con un sospechoso de extrema derecha, según The Guardian. En la d no veo una señal clara hoy.
+De las 33 entradas del registro, el eslabón a lleva 30 con señal de apoyo y el d lleva 31, mientras el c acumula 28 señales en contra y el b sigue casi siempre neutral. La última revisión integral concluyó net challenge sin vínculo causal entre los eslabones, y hoy no cambia ese cuadro.
 
 [ES]
-Frente a la tendencia reciente del registro, con 31 entradas: la a lleva casi todos los días con apoyo y hoy lo continúa; la b sigue mayormente neutral y hoy se inclina a desafío; la c ha sido desafiada casi a diario y hoy se suma; la d estaba respaldada casi a diario, así que hoy es una pausa. La última revisión integral concluyó net challenge con encadenamiento no, y nada de hoy cambia ese veredicto.
+El eslabón a apoya: el estancamiento del gasto en IA por recortes de precios y la caída de valoraciones muestran ciclos cada vez más cortos, según TechCrunch. El b es neutral: no hay evidencia clara hoy sobre voz interior. El c desafía: polarización y pulso político en Estados Unidos y la región, según The Guardian. El d apoya: las protestas juveniles coordinadas apuntan a acción colectiva, según The Guardian, aunque pueden nacer de agravios más que de una voz interior fortalecida.
