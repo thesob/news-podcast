@@ -1,0 +1,181 @@
+[EN]
+Good morning, Patricio. Here is your news brief for Monday, November 9th, 2026. One quick note on sources: everything on today's list was reachable, though El País, NRK, emol and DW came in through the article-extraction fallback. The two exceptions are The New York Times and The Washington Post, both paywalled today, so the US and international coverage leans on The Guardian, DW, AP and Al Jazeera instead. Let's get into it.
+
+[EN]
+Top Stories.
+
+[EN]
+The Iran crisis escalates sharply.
+[EN]
+Trump announced that a land blockade of Iran is now in effect, and Tehran warned it would rain down hell if the US resumes strikes. A drone attack has already halted output at Iraq's Khor Mor gasfield, and Secretary of State Marco Rubio called Iran's latest demands unacceptable. In a partial de-escalation signal, Trump said fresh US strikes are unlikely while peace talks continue, and he expects to discuss the conflict with Xi and Putin at an upcoming China summit.
+[EN]
+Sources: Al Jazeera, DW, and NRK.
+
+[EN]
+COP31 opens in Antalya, Turkey, under a heavy cloud.
+[EN]
+World leaders gathered as the World Meteorological Organization reported a record Earth energy imbalance, with 2026 on track to be among the four warmest years ever recorded. The central question hanging over the summit is whether it can move beyond large pledges to actual implementation of emissions cuts. Awkwardly, host Turkey is pushing a global transition away from coal while continuing to burn it heavily at home.
+[EN]
+Sources: The Guardian and DW.
+
+[EN]
+An AI-stock selloff rattles markets, and a spy scandal rocks Nvidia.
+[EN]
+A post-midterm selloff in AI-linked stocks shook global markets and revived the is-this-a-bubble anxiety, though Asian exchanges clawed back much of the drop. Meanwhile, Nvidia CEO Jensen Huang admitted to an affair amid swirling rumors of China spy ties, after a US intelligence memo reportedly alleged a Megaspeed executive was recruited to target him; China flatly denies the spying claims. Even so, OpenAI reportedly raised another eleven billion dollars at a one-point-two-five trillion dollar valuation, a reminder that the money hasn't stopped flowing.
+[EN]
+Sources: The Guardian, DW, TechCrunch, and Al Jazeera.
+
+[EN]
+Trump concedes ground after the midterm drubbing.
+[EN]
+In a 60 Minutes interview, the president admitted his deportation policy had become too tough and signaled he's open to letting some undocumented immigrants stay, even floating a deal with Democrats. At the same time he named hardliner Stephen Miller as his new chief of staff, a move El País reads as a sign he won't tolerate internal debate about the party's direction after the losses. The mixed signals capture a presidency trying to regroup.
+[EN]
+Sources: The Guardian, DW, and El País.
+
+[EN]
+US-brokered Ukraine talks head to Abu Dhabi.
+[EN]
+Rubio said progress has been made on postwar security guarantees for Ukraine, with US-mediated Russia-Ukraine talks set for Abu Dhabi, though the Kremlin says no European officials will attend. On the ground the war ground on: Russia struck three Ukrainian power plants, a deadly offensive hit Kyiv, and a Russian oil refinery was set ablaze. G7 foreign ministers met as Europe pushes for a bigger seat at the peace table.
+[EN]
+Sources: The Guardian, NRK, DW, and El País.
+
+[ES]
+España y América Latina.
+
+[ES]
+Chile: Kast se desinfla en las encuestas mientras se arma una acusación constitucional.
+[ES]
+La encuesta Cadem muestra que las principales razones del rechazo al Presidente Kast son las rebajas de penas, con un 43 por ciento, y el alza del desempleo, con un 42 por ciento, aunque su apoyo subió tres puntos hasta el 29 por ciento; en paralelo, Criteria lo sitúa cayendo al 24 por ciento. Al mismo tiempo avanza una acusación constitucional contra el ministro Rabat, que según el diputado Soto, del PPD, se presentaría en los próximos días, mientras crece la presión por un cambio de gabinete. El senador Kaiser salió a respaldar a Rabat y calificó la maniobra como una operación política.
+[ES]
+Fuentes: Emol.
+
+[ES]
+Chile: la economía se estabiliza, pero sin señales de recuperación.
+[ES]
+El Imacec de 0,2 por ciento llevó al economista Alejandro Micco a advertir que no se puede hablar de cambio de tendencia, pero sí de estabilización; es decir, el freno sin el repunte. Los camioneros, en tanto, pidieron al Gobierno evitar un alza del diésel y acelerar proyectos clave, reclamando una modificación de los parámetros del MEPCO. Es el tipo de tira y afloja por costos de combustible que suele terminar presionando precios en toda la cadena.
+[ES]
+Fuentes: Emol.
+
+[ES]
+España: El Hierro declara la emergencia social por la llegada de migrantes.
+[ES]
+La isla canaria declaró una emergencia social ante un fuerte repunte de arribos de migrantes, una señal de la presión sostenida sobre la ruta atlántica. El anuncio llega mientras la Unión Europea sigue debatiendo cómo repartir la responsabilidad migratoria. Para las islas más pequeñas, la capacidad de acogida se mide en días, no en meses.
+[ES]
+Fuentes: DW.
+
+[ES]
+América Latina: el Papa León le pide a Milei poner a las personas por delante de la economía.
+[ES]
+En un mensaje dirigido a Argentina, el Papa León instó al presidente Javier Milei a anteponer a las personas frente a los indicadores económicos. El contrapunto resume una tensión de fondo en buena parte de la región: ajuste fiscal versus costo social. Es una intervención poco habitual del Vaticano en la política económica de un país.
+[ES]
+Fuentes: DW.
+
+[EN]
+US and International.
+
+[EN]
+A gunman kills nine in Kraków.
+[EN]
+A shooting in a Kraków market square left nine people dead and sixteen wounded, and the suspected attacker, a 24-year-old Polish man, later died of his injuries. Poland opened a terrorism investigation aimed at establishing whether he acted alone, and police reportedly found three more bodies at his home. The country has begun two days of national mourning.
+[EN]
+Sources: NRK, The Guardian, and DW.
+
+[EN]
+Israel's opposition gets the mandate to form a government.
+[EN]
+President Isaac Herzog tasked opposition figure Gadi Eisenkot with trying to assemble a new coalition to replace Benjamin Netanyahu. Notably, Eisenkot has signaled he's open to Netanyahu himself joining the next government, despite the deep ideological rifts. It's an unsettled, fluid moment in Israeli politics.
+[EN]
+Sources: Al Jazeera, El País, and DW.
+
+[EN]
+A global political awakening led by Gen Z.
+[EN]
+Researchers have now documented at least 25 youth-led protest movements worldwide, from Serbia to Bangladesh, India and France, pushing back against authoritarianism and economic frustration. Harvard's Erica Chenoweth says many Gen Z citizens feel their political systems have simply failed them. It's less one movement than a shared generational mood erupting in parallel across very different countries.
+[EN]
+Sources: The Guardian.
+
+[EN]
+Moldova plugs into Europe's grid, Mexico nabs a cartel boss.
+[EN]
+Moldova switched on a new high-voltage line connecting its power grid directly to Romania and the EU electricity market, a concrete step away from dependence on Russian energy. In Mexico, authorities arrested Rafael Álvarez, alias R2, an alleged regional leader of the Jalisco New Generation Cartel, in Guadalajara. Two very different stories, both about states trying to claw back control of their own territory.
+[EN]
+Sources: Al Jazeera.
+
+[EN]
+Grim toll at Europe's edges.
+[EN]
+Greek authorities recovered roughly twenty dead migrants from boats off Crete, one of the deadlier incidents on the eastern Mediterranean route in recent weeks. Separately, China delayed a planned tariff increase on US goods, a small thaw just as Trump prepares for his China summit. And South Africa's long-dominant ANC posted its worst-ever result in local elections.
+[EN]
+Sources: NRK, DW, and Reuters.
+
+[EN]
+Tech and Niche.
+
+[EN]
+Anthropic says self-improving AI is close.
+[EN]
+Anthropic warned that it is very close to recursive self-improvement, where an AI can meaningfully improve itself, a threshold with enormous implications if real. The claim lands in the same week markets are nervously debating whether AI valuations have run too far ahead of reality. Expect it to sharpen both the hype and the safety arguments.
+[EN]
+Sources: TechCrunch.
+
+[EN]
+The AI-bubble debate goes fully public.
+[EN]
+A widely-read essay titled I'm not convinced the AI bubble exists drew nearly 500 comments on Hacker News, with developers picking apart the bull and bear cases in real time. It's a neat snapshot of a crowd reasoning its way through a question the markets are pricing live. Separately, a thread questioning whether Claude Opus 5.5 was quietly nerfed after November 3rd shows users running their own informal regression tests on the tools they depend on.
+[EN]
+Sources: Hacker News.
+
+[EN]
+Open-source and security corner.
+[EN]
+KetchUp, an open-source SketchUp alternative built in Rust and WebGPU, shot up Hacker News with nearly 500 points, a sign of appetite for browser-native, no-license 3D tools. Less cheerfully, a security researcher published a method to remotely unlock, quote, any car from X brand, across much of the world, a stark reminder of how much of the connected-car fleet rides on fragile backends. And a slick Declarative Dragging demo topped the front page, nerd-catnip for the web-platform crowd.
+[EN]
+Sources: Hacker News.
+
+[EN]
+Tesla retires the Cybertruck.
+[EN]
+Tesla plans to end Cybertruck production in 2027, drawing a line under one of its most divisive products. The news arrives alongside reports that Elon Musk's data-center ambitions are hitting headwinds after the midterms. Even the most hyped hardware has a shelf life.
+[EN]
+Sources: TechCrunch.
+
+[SV]
+Sverige.
+
+[SV]
+Regeringsbildningen drar ut på tiden.
+[SV]
+Efter valet den 13 september förhandlar partierna fortfarande: Kristerssons sonderingsuppdrag har förlängts, Sverigedemokraterna har släppt sitt krav på ministerposter och Centerpartiet har öppnat för nya lösningar. Socialdemokraternas Magdalena Andersson säger att hon vill regera med C och MP, utan V, och menar att Vänsterpartiet kan säkra sitt inflytande utan statsrådsposter. Det är ett ovanligt rörligt läge där de gamla blockgränserna verkar vika undan.
+[SV]
+Källor: SVT.
+
+[SV]
+En 11-åring kan bli schackhistoriens yngsta stormästare.
+[SV]
+Roman Sjogdzjijev, 11 år, är på väg att kunna bli den yngsta stormästaren någonsin i schack. Artikeln jämför hans ålder med Kasparov, Fischer och Carlsen när de tog titeln, och noterar att ryska spelares status är ett känsligt ämne just nu. Oavsett utgången är det den sortens prestation som får hela schackvärlden att hålla andan.
+[SV]
+Källor: Dagens Nyheter.
+
+[EN]
+Connecting the Dots.
+[EN]
+This section is interpretation and informed speculation, not reported news. It's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN]
+Patricio, the thread I keep tripping over today is repricing, of assets, of authority, of promises. The AI-stock selloff and the is-this-a-bubble argument on one side, Nvidia's CEO caught in a tawdry scandal on another, Anthropic claiming self-improving AI is around the corner on a third, and OpenAI still hoovering up eleven billion dollars at a trillion-plus valuation on a fourth. These aren't contradictory so much as a market and a culture trying, in real time, to figure out what the AI story is actually worth now that the first giddy phase is over. When the people selling the future start contradicting each other and themselves, the price of their authority gets marked down even as the price of the chips stays high.
+[EN]
+The same repricing is happening in politics, and here's where it comes home. Trump conceding on 60 Minutes that his signature deportation policy was too tough is the sound of a leader absorbing a market correction, the midterms, and quietly discounting a position he'd treated as non-negotiable. Kast sliding in the Chilean polls, 24 percent in Criteria, a modest bounce to 29 percent in Cadem, while a constitutional accusation builds against a minister, is the same dynamic on your doorstep: authority that looked solid six months ago being re-rated downward, fast. All over the world right now, the half-life of a mandate is getting shorter.
+[EN]
+For you specifically in Chile, I'd watch two things. First, copper and the peso through the AI-market lens: if the AI selloff deepens into a broader risk-off move, emerging-market currencies and industrial-metal demand usually feel it first, and a wobble in the global tech trade can reach a copper exporter faster than the headlines suggest. Today's Asian-market rebound is reassuring but not decisive; this is a watch-don't-panic signal. Second, the diesel and MEPCO fight: the truckers pushing back on a fuel-price hike is exactly the kind of cost pressure that, combined with a flat 0.2 percent Imacec, keeps the squeeze-without-recovery feeling alive for ordinary Chileans. Micco's word, estabilización, is the honest one; the economy isn't falling, but it isn't lifting you either.
+[EN]
+The last pattern worth naming is energy as leverage, everywhere at once. Iran facing a land blockade and a gasfield knocked offline, Moldova physically rewiring itself into Europe's grid and out of Russia's, Britain issuing a rare call for extra electricity as the wind drops, Norway freezing new data-center connections because the grid can't promise them power. Electricity and fuel are quietly becoming the hard currency of geopolitics, the thing states fight over, hoard, and reroute. For a country like Chile, sitting on copper the whole electrified world needs and on enormous renewable potential, that's not a bad place to be standing when the music is about repricing energy, worth watching whether Chile's leadership frames that as the opportunity it is.
+
+[EN]
+Hypothesis Watch.
+[EN]
+An ongoing, lightweight daily scan of your standing hypothesis, read against the recent two-month trend in the log, not just today's stories, and not a full re-argument of the chain.
+[EN]
+On sub-claim A, shrinking authority and thought-leadership cycles, today is another clear support, extending what is now an essentially unbroken streak across the whole log. The post-midterm AI selloff is literally the market re-pricing who owns the AI future; Nvidia's CEO is engulfed in scandal; Anthropic and OpenAI are making grand, partly self-contradicting claims in the same week the bubble question goes mainstream; and Trump and Kast are both absorbing fast, humbling downgrades to their authority. The cycle of who's in charge of the narrative keeps spinning faster; nothing today breaks the pattern.
+[EN]
+On sub-claim B, a stronger internal voice, today also reads as support, consistent with the log's steady run. The I'm-not-convinced-the-AI-bubble-exists essay drawing 500 comments, the Hacker News crowd running its own regression tests on whether a model was nerfed, and investors visibly trusting their own read over the hype are all people declining to outsource judgment to the official story. It's modest, individual-level evidence, but it's the same shape that's shown up most days.
+[EN]
+On sub-claim C, a move away from individualism, and sub-claim D, more collaboration and cohesion, I'd keep both at neutral, exactly where the log has parked them for weeks. The most tempting counter-example is The Guardian's global political awakening piece, at least 25 Gen Z protest movements worldwide. But as every prior entry has noted, this is still collective action that is issue-based and anti-authoritarian, not evidence of a cultural shift away from individualism, and the cohesion signals, G7 coordination on Ukraine, Moldova joining the EU grid, remain firmly state-level rather than grassroots. So sub-claims A and B continue their long supporting runs, while C and D stay stubbornly quiet; the front half of the chain keeps firing while the back half doesn't move.
