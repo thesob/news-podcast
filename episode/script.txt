@@ -1,205 +1,133 @@
 [SECTION intro]
 [EN]
-Good morning, Patricio. Here is your news brief for Monday, November 9th, 2026. One quick note on sources: everything on today's list was reachable, though El País, NRK, emol and DW came in through the article-extraction fallback. The two exceptions are The New York Times and The Washington Post, both paywalled today, so the US and international coverage leans on The Guardian, DW, AP and Al Jazeera instead. Let's get into it.
-
+Good morning, Patricio. Here's your news brief for Tuesday, November tenth, 2026.
+[EN]
+A quick note on sources today. NRK's site wouldn't load for me and I had no single article to route through the backup, so today's Norway story comes from the Norwegian government's own announcement and Norwegian tech press instead. The New York Times and Washington Post were behind their paywalls, so their big stories are covered through The Guardian and wire reporting. Everything else came through fine.
 [SECTION news]
 [EN]
 Top Stories.
-
 [ITEM]
 [EN]
-The Iran crisis escalates sharply.
+Peace talks: the United States, Russia and Ukraine sit down together in Abu Dhabi.
 [EN]
-Trump announced that a land blockade of Iran is now in effect, and Tehran warned it would rain down hell if the US resumes strikes. A drone attack has already halted output at Iraq's Khor Mor gasfield, and Secretary of State Marco Rubio called Iran's latest demands unacceptable. In a partial de-escalation signal, Trump said fresh US strikes are unlikely while peace talks continue, and he expects to discuss the conflict with Xi and Putin at an upcoming China summit.
+The three sides are meeting face-to-face in Abu Dhabi today, with Washington mediating what US envoy Steve Witkoff framed as a fresh trilateral round aimed at ending the war. It's a notable moment simply because Russian and Ukrainian delegations are in the same process at all, with the US in the middle rather than shuttling between them. Expectations are being kept deliberately low, but the fact that the talks are happening at all marks a shift from the on-again, off-again diplomacy of recent months.
 [EN]
-Sources: Al Jazeera, DW, and NRK.
-
+Source: The Guardian.
 [ITEM]
 [EN]
-COP31 opens in Antalya, Turkey, under a heavy cloud.
+Trump says the Iran war is effectively over, and oil tumbles.
 [EN]
-World leaders gathered as the World Meteorological Organization reported a record Earth energy imbalance, with 2026 on track to be among the four warmest years ever recorded. The central question hanging over the summit is whether it can move beyond large pledges to actual implementation of emissions cuts. Awkwardly, host Turkey is pushing a global transition away from coal while continuing to burn it heavily at home.
+Markets exhaled as President Trump downplayed any need for further strikes on Iran at this point. Brent crude fell nearly three percent to eighty-nine dollars and sixty-six cents, its lowest since the thirty-first of August, after an almost six percent drop the day before. Europe's Stoxx 600 rose nine-tenths of a percent toward a record, and airline stocks climbed on hopes of cheaper fuel. The calm isn't total — the US reportedly moved aircraft out of RAF Mildenhall in England over an Iran threat — but the direction of travel this week has been toward de-escalation.
 [EN]
-Sources: The Guardian and DW.
-
+Source: The Guardian.
 [ITEM]
 [EN]
-An AI-stock selloff rattles markets, and a spy scandal rocks Nvidia.
+Nvidia hit by a shareholder lawsuit over Jensen Huang and a suspected Chinese spy.
 [EN]
-A post-midterm selloff in AI-linked stocks shook global markets and revived the is-this-a-bubble anxiety, though Asian exchanges clawed back much of the drop. Meanwhile, Nvidia CEO Jensen Huang admitted to an affair amid swirling rumors of China spy ties, after a US intelligence memo reportedly alleged a Megaspeed executive was recruited to target him; China flatly denies the spying claims. Even so, OpenAI reportedly raised another eleven billion dollars at a one-point-two-five trillion dollar valuation, a reminder that the money hasn't stopped flowing.
+Nvidia shareholders have sued over CEO Jensen Huang's acknowledged extramarital relationship with a businesswoman US officials suspect of being a Chinese intelligence asset. Trump said the FBI is looking into the matter, and Nvidia's shares slid on the New York exchange as the story spread. For the company at the very center of the AI boom, it's an uncomfortable governance cloud at an already jittery moment for AI valuations.
 [EN]
-Sources: The Guardian, DW, TechCrunch, and Al Jazeera.
-
+Sources: The Guardian, and Dagens Nyheter.
 [ITEM]
 [EN]
-Trump concedes ground after the midterm drubbing.
+COP31 opens in Antalya with a rare bit of good news, and an awkward one.
 [EN]
-In a 60 Minutes interview, the president admitted his deportation policy had become too tough and signaled he's open to letting some undocumented immigrants stay, even floating a deal with Democrats. At the same time he named hardliner Stephen Miller as his new chief of staff, a move El País reads as a sign he won't tolerate internal debate about the party's direction after the losses. The mixed signals capture a presidency trying to regroup.
+At the UN climate summit in Antalya, Turkey, delegates got word that global fossil-fuel carbon emissions appear to have dipped, a genuinely encouraging data point. In the same news cycle, though, host Turkey announced a new oilfield — a jarring juxtaposition that captures the summit's central tension between climate pledges and energy-security politics. Whether COP31 turns that emissions dip into binding action is the question hanging over Antalya.
 [EN]
-Sources: The Guardian, DW, and El País.
-
-[ITEM]
-[EN]
-US-brokered Ukraine talks head to Abu Dhabi.
-[EN]
-Rubio said progress has been made on postwar security guarantees for Ukraine, with US-mediated Russia-Ukraine talks set for Abu Dhabi, though the Kremlin says no European officials will attend. On the ground the war ground on: Russia struck three Ukrainian power plants, a deadly offensive hit Kyiv, and a Russian oil refinery was set ablaze. G7 foreign ministers met as Europe pushes for a bigger seat at the peace table.
-[EN]
-Sources: The Guardian, NRK, DW, and El País.
-
-[ES]
-España y América Latina.
-
+Source: The Guardian.
 [ITEM]
 [ES]
-Chile: Kast se desinfla en las encuestas mientras se arma una acusación constitucional.
+El papa León XIV defiende con fuerza la doctrina social de la Iglesia en Buenos Aires.
 [ES]
-La encuesta Cadem muestra que las principales razones del rechazo al Presidente Kast son las rebajas de penas, con un 43 por ciento, y el alza del desempleo, con un 42 por ciento, aunque su apoyo subió tres puntos hasta el 29 por ciento; en paralelo, Criteria lo sitúa cayendo al 24 por ciento. Al mismo tiempo avanza una acusación constitucional contra el ministro Rabat, que según el diputado Soto, del PPD, se presentaría en los próximos días, mientras crece la presión por un cambio de gabinete. El senador Kaiser salió a respaldar a Rabat y calificó la maniobra como una operación política.
+Ante empresarios y sindicatos reunidos en la Universidad Católica Argentina, el papa León XIV hizo una defensa encendida de la doctrina social de la Iglesia: reivindicó el pleno empleo, subrayó el valor social de la propiedad privada y advirtió sobre los riesgos de la inteligencia artificial para el trabajo y la dignidad humana. Su mensaje apuntó directamente contra el individualismo económico y a favor de la solidaridad como criterio para organizar la economía. Es una de las intervenciones más políticas del pontífice desde el inicio de su gira latinoamericana.
 [ES]
-Fuentes: Emol.
-
-[ITEM]
-[ES]
-Chile: la economía se estabiliza, pero sin señales de recuperación.
-[ES]
-El Imacec de 0,2 por ciento llevó al economista Alejandro Micco a advertir que no se puede hablar de cambio de tendencia, pero sí de estabilización; es decir, el freno sin el repunte. Los camioneros, en tanto, pidieron al Gobierno evitar un alza del diésel y acelerar proyectos clave, reclamando una modificación de los parámetros del MEPCO. Es el tipo de tira y afloja por costos de combustible que suele terminar presionando precios en toda la cadena.
-[ES]
-Fuentes: Emol.
-
+Fuente: Página/12.
 [ITEM]
 [ES]
-España: El Hierro declara la emergencia social por la llegada de migrantes.
+Nuevo rifirrafe en la Corte mexicana: Lenia Batres protagoniza otro altercado.
 [ES]
-La isla canaria declaró una emergencia social ante un fuerte repunte de arribos de migrantes, una señal de la presión sostenida sobre la ruta atlántica. El anuncio llega mientras la Unión Europea sigue debatiendo cómo repartir la responsabilidad migratoria. Para las islas más pequeñas, la capacidad de acogida se mide en días, no en meses.
+La ministra Lenia Batres volvió a chocar con sus colegas en la Suprema Corte, reclamando por la oposición a sus proyectos y por el manejo de la sesión conducida por Hugo Aguilar Ortiz. El episodio, con la frase "si quiere darme la palabra el día que usted guste", expone las tensiones internas de un tribunal reconfigurado tras la reforma judicial. No es un hecho aislado: refleja el pulso permanente entre las corrientes que hoy conviven en la Corte.
 [ES]
-Fuentes: DW.
-
-[ITEM]
-[ES]
-América Latina: el Papa León le pide a Milei poner a las personas por delante de la economía.
-[ES]
-En un mensaje dirigido a Argentina, el Papa León instó al presidente Javier Milei a anteponer a las personas frente a los indicadores económicos. El contrapunto resume una tensión de fondo en buena parte de la región: ajuste fiscal versus costo social. Es una intervención poco habitual del Vaticano en la política económica de un país.
-[ES]
-Fuentes: DW.
-
-[EN]
-US and International.
-
+Fuente: El Financiero.
 [ITEM]
 [EN]
-A gunman kills nine in Kraków.
+Norway moves to become the first country to temporarily ban AI glasses.
 [EN]
-A shooting in a Kraków market square left nine people dead and sixteen wounded, and the suspected attacker, a 24-year-old Polish man, later died of his injuries. Poland opened a terrorism investigation aimed at establishing whether he acted alone, and police reportedly found three more bodies at his home. The country has begun two days of national mourning.
+Norway's government has proposed a temporary ban on AI-enabled smart glasses in certain places, with the digitalisation minister citing an enormous potential for misuse — covert recording, facial recognition and eavesdropping chief among the worries. It's part of a broader Norwegian push, alongside earlier moves to restrict AI in primary schools, to put guardrails on consumer AI before the devices become ubiquitous. NRK's own site was down for me today, so this is drawn from the government's announcement and Norwegian tech press.
 [EN]
-Sources: NRK, The Guardian, and DW.
-
+Sources: the Norwegian government, and Norwegian tech press — originally a Norway story NRK would carry.
 [ITEM]
 [EN]
-Israel's opposition gets the mandate to form a government.
+Sheikh Hasina signals a return to Bangladesh after two years in exile.
 [EN]
-President Isaac Herzog tasked opposition figure Gadi Eisenkot with trying to assemble a new coalition to replace Benjamin Netanyahu. Notably, Eisenkot has signaled he's open to Netanyahu himself joining the next government, despite the deep ideological rifts. It's an unsettled, fluid moment in Israeli politics.
+Bangladesh's deposed former leader Sheikh Hasina says she plans to return home, two years after she fled amid the uprising that ended her long rule. The announcement lands in an already-charged political environment and raises immediate questions about security, prosecution and whether her return would inflame or settle a fragile transition. It's a story worth watching for its potential to reshape South Asian politics.
 [EN]
-Sources: Al Jazeera, El País, and DW.
-
+Source: The Guardian.
 [ITEM]
 [EN]
-A global political awakening led by Gen Z.
+In the UK, Badenoch pitches deep welfare cuts as Britons quietly stock the pantry.
 [EN]
-Researchers have now documented at least 25 youth-led protest movements worldwide, from Serbia to Bangladesh, India and France, pushing back against authoritarianism and economic frustration. Harvard's Erica Chenoweth says many Gen Z citizens feel their political systems have simply failed them. It's less one movement than a shared generational mood erupting in parallel across very different countries.
+Conservative leader Kemi Badenoch proposed substantial cuts to disability and other benefits, sharpening the opposition's fiscal dividing lines. In a separate but telling thread, Britons have been steadily stockpiling water, tinned food and essentials in response to the government's Be Ready preparedness campaign — notably without tipping into panic buying. Together the two stories sketch a country bracing, economically and psychologically, for a harder season.
 [EN]
-Sources: The Guardian.
-
+Source: The Guardian.
 [ITEM]
 [EN]
-Moldova plugs into Europe's grid, Mexico nabs a cartel boss.
+Anthropic ships Claude Fable 5.2 and Mythos 5.2.
 [EN]
-Moldova switched on a new high-voltage line connecting its power grid directly to Romania and the EU electricity market, a concrete step away from dependence on Russian energy. In Mexico, authorities arrested Rafael Álvarez, alias R2, an alleged regional leader of the Jalisco New Generation Cartel, in Guadalajara. Two very different stories, both about states trying to claw back control of their own territory.
+Anthropic released a new pair of models, Claude Fable 5.2 and Mythos 5.2 — the latest entry in an AI release cadence that now measures in weeks rather than quarters. The launch topped Hacker News, a reminder of how closely developers track each incremental jump in capability and price. Coming the same week Nvidia is mired in scandal and AI valuations are wobbling, it underscores a field where the technology keeps racing ahead even as the business and governance questions pile up.
 [EN]
-Sources: Al Jazeera.
-
+Source: Anthropic, via Hacker News.
 [ITEM]
 [EN]
-Grim toll at Europe's edges.
+Canada switches on real-time, twenty-four-seven payments.
 [EN]
-Greek authorities recovered roughly twenty dead migrants from boats off Crete, one of the deadlier incidents on the eastern Mediterranean route in recent weeks. Separately, China delayed a planned tariff increase on US goods, a small thaw just as Trump prepares for his China summit. And South Africa's long-dominant ANC posted its worst-ever result in local elections.
+Payments Canada launched its Real-Time Rail, national infrastructure for instant, round-the-clock money transfers between banks. It's the kind of plumbing upgrade that sounds dull and quietly changes everyday life — payroll, gig payouts and person-to-person transfers that clear in seconds, any hour of any day. Canada joins a growing list of countries treating instant payment rails as basic economic infrastructure.
 [EN]
-Sources: NRK, DW, and Reuters.
-
-[EN]
-Tech and Niche.
-
+Source: Payments Canada, via Hacker News.
 [ITEM]
 [EN]
-Anthropic says self-improving AI is close.
+A faster way to cluster data, and a more useful US map.
 [EN]
-Anthropic warned that it is very close to recursive self-improvement, where an AI can meaningfully improve itself, a threshold with enormous implications if real. The claim lands in the same week markets are nervously debating whether AI valuations have run too far ahead of reality. Expect it to sharpen both the hype and the safety arguments.
+Two smaller items caught the developer community's eye: E-means, a technique its authors say runs k-means clustering about ten times faster at equal loss, and the US Postal Service's quiet release of official ZIP Code boundary polygons — long a missing public dataset that mapmakers and analysts have improvised around for years. Neither is headline-grabbing, but both remove real friction for people who build with data. It's a good reminder that a lot of progress is infrastructure nobody notices until it's there.
 [EN]
-Sources: TechCrunch.
-
-[ITEM]
-[EN]
-The AI-bubble debate goes fully public.
-[EN]
-A widely-read essay titled I'm not convinced the AI bubble exists drew nearly 500 comments on Hacker News, with developers picking apart the bull and bear cases in real time. It's a neat snapshot of a crowd reasoning its way through a question the markets are pricing live. Separately, a thread questioning whether Claude Opus 5.5 was quietly nerfed after November 3rd shows users running their own informal regression tests on the tools they depend on.
-[EN]
-Sources: Hacker News.
-
-[ITEM]
-[EN]
-Open-source and security corner.
-[EN]
-KetchUp, an open-source SketchUp alternative built in Rust and WebGPU, shot up Hacker News with nearly 500 points, a sign of appetite for browser-native, no-license 3D tools. Less cheerfully, a security researcher published a method to remotely unlock, quote, any car from X brand, across much of the world, a stark reminder of how much of the connected-car fleet rides on fragile backends. And a slick Declarative Dragging demo topped the front page, nerd-catnip for the web-platform crowd.
-[EN]
-Sources: Hacker News.
-
-[ITEM]
-[EN]
-Tesla retires the Cybertruck.
-[EN]
-Tesla plans to end Cybertruck production in 2027, drawing a line under one of its most divisive products. The news arrives alongside reports that Elon Musk's data-center ambitions are hitting headwinds after the midterms. Even the most hyped hardware has a shelf life.
-[EN]
-Sources: TechCrunch.
-
-[SV]
-Sverige.
-
+Sources: E-means, and the US Postal Service, via Hacker News.
 [ITEM]
 [SV]
-Regeringsbildningen drar ut på tiden.
+Regeringsbildningen: partiledare för S, C och MP i samtal.
 [SV]
-Efter valet den 13 september förhandlar partierna fortfarande: Kristerssons sonderingsuppdrag har förlängts, Sverigedemokraterna har släppt sitt krav på ministerposter och Centerpartiet har öppnat för nya lösningar. Socialdemokraternas Magdalena Andersson säger att hon vill regera med C och MP, utan V, och menar att Vänsterpartiet kan säkra sitt inflytande utan statsrådsposter. Det är ett ovanligt rörligt läge där de gamla blockgränserna verkar vika undan.
+Enligt Dagens Nyheter har partiledarna för Socialdemokraterna, Centerpartiet och Miljöpartiet mötts, efter att planerade fyrpartisamtal mellan S, C, MP och V ställts in. Parallellt öppnar Centerpartiet för att stödja den statsministerkandidat som når längst, samtidigt som Sverigedemokraterna uppges ha släppt kravet på egna ministerposter. Det politiska pusslet efter valet den trettonde september är alltså fortfarande långt ifrån lagt, och turerna fortsätter dag för dag.
 [SV]
-Källor: SVT.
-
+Källor: Dagens Nyheter, och SVT Nyheter.
 [ITEM]
 [SV]
-En 11-åring kan bli schackhistoriens yngsta stormästare.
+Spädbarn allvarligt skadat i Lund — två gripna.
 [SV]
-Roman Sjogdzjijev, 11 år, är på väg att kunna bli den yngsta stormästaren någonsin i schack. Artikeln jämför hans ålder med Kasparov, Fischer och Carlsen när de tog titeln, och noterar att ryska spelares status är ett känsligt ämne just nu. Oavsett utgången är det den sortens prestation som får hela schackvärlden att hålla andan.
+Polisen utreder grov misshandel efter att ett spädbarn förts till sjukhus i Lund med skador, varpå en kvinna och en man greps. Sjukhuspersonalen larmade polisen, och utredningen är i ett tidigt skede. Det är en skakande händelse som väcker frågor om hur den lilla fått sina skador.
 [SV]
-Källor: Dagens Nyheter.
-
+Källor: Aftonbladet, och Dagens Nyheter.
+[ITEM]
+[SV]
+Lida Starodubtseva får Svenska Dagbladets litteraturpris.
+[SV]
+Författaren Lida Starodubtseva tilldelas SvD:s litteraturpris för romanen "Hilja går". Priset lyfter fram ett av årets mer uppmärksammade skönlitterära verk och ger en välkommen kulturnyhet i en annars tung nyhetsvecka. Ett fint kvitto på att den svenska litteraturen fortsätter att blomstra.
+[SV]
+Källa: Svenska Dagbladet.
 [SECTION connecting_dots]
 [EN]
-Connecting the Dots.
+Connecting the Dots. This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact.
 [EN]
-This section is interpretation and informed speculation, not reported news. It's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+Patricio, the thread running through today is de-escalation meeting fragility. The Abu Dhabi talks and Trump calling the Iran war effectively over sent Brent crude down to eighty-nine dollars and sixty-six cents — its lowest since late August — and lifted European equities toward records. For you in Chile, the oil move is the most directly relevant line in the whole brief: cheaper crude eases imported-fuel and transport costs, takes some pressure off inflation, and is generally kind to a peso that has spent the year buffeted by global risk sentiment. The catch is that this relief is built on a presidential sentence, not a signed agreement — if the Abu Dhabi talks stall or the Iran threat that reportedly scrambled aircraft out of RAF Mildenhall turns hot again, that eighty-nine dollar level could snap back just as fast. Worth watching, not banking on.
 [EN]
-Patricio, the thread I keep tripping over today is repricing, of assets, of authority, of promises. The AI-stock selloff and the is-this-a-bubble argument on one side, Nvidia's CEO caught in a tawdry scandal on another, Anthropic claiming self-improving AI is around the corner on a third, and OpenAI still hoovering up eleven billion dollars at a trillion-plus valuation on a fourth. These aren't contradictory so much as a market and a culture trying, in real time, to figure out what the AI story is actually worth now that the first giddy phase is over. When the people selling the future start contradicting each other and themselves, the price of their authority gets marked down even as the price of the chips stays high.
+The second pattern is the AI sector visibly wobbling at the top even as the technology keeps sprinting. Nvidia — the single most important company in the boom — is now fighting a shareholder suit and an FBI-flavored spy scandal around its CEO, UK banks are trimming AI exposure, and valuations have been jittery for a couple of weeks. Yet in the same news cycle Anthropic ships two more models and Canada flips on real-time payments. The gap between the tech is accelerating and the business and governance scaffolding is shaky is widening, and that's the kind of divergence that tends to resolve in a repricing. For Chile, the exposure here is indirect but real: a sharp AI-sector correction would hit global risk appetite, copper demand expectations, and the dollar — the channels through which Santiago feels a Wall Street mood swing.
 [EN]
-The same repricing is happening in politics, and here's where it comes home. Trump conceding on 60 Minutes that his signature deportation policy was too tough is the sound of a leader absorbing a market correction, the midterms, and quietly discounting a position he'd treated as non-negotiable. Kast sliding in the Chilean polls, 24 percent in Criteria, a modest bounce to 29 percent in Cadem, while a constitutional accusation builds against a minister, is the same dynamic on your doorstep: authority that looked solid six months ago being re-rated downward, fast. All over the world right now, the half-life of a mandate is getting shorter.
+Third, notice how much of today's cooperation is top-down. Peace talks between states, a pope preaching social doctrine to assembled business and union leaders, Swedish party bosses negotiating a coalition behind closed doors — these are elites and institutions reaching for collaboration, not citizens spontaneously doing so. It's cohesion by negotiation rather than by groundswell, which is the normal way order gets rebuilt but also the fragile way, because it depends on a handful of people staying at the table.
 [EN]
-For you specifically in Chile, I'd watch two things. First, copper and the peso through the AI-market lens: if the AI selloff deepens into a broader risk-off move, emerging-market currencies and industrial-metal demand usually feel it first, and a wobble in the global tech trade can reach a copper exporter faster than the headlines suggest. Today's Asian-market rebound is reassuring but not decisive; this is a watch-don't-panic signal. Second, the diesel and MEPCO fight: the truckers pushing back on a fuel-price hike is exactly the kind of cost pressure that, combined with a flat 0.2 percent Imacec, keeps the squeeze-without-recovery feeling alive for ordinary Chileans. Micco's word, estabilización, is the honest one; the economy isn't falling, but it isn't lifting you either.
-[EN]
-The last pattern worth naming is energy as leverage, everywhere at once. Iran facing a land blockade and a gasfield knocked offline, Moldova physically rewiring itself into Europe's grid and out of Russia's, Britain issuing a rare call for extra electricity as the wind drops, Norway freezing new data-center connections because the grid can't promise them power. Electricity and fuel are quietly becoming the hard currency of geopolitics, the thing states fight over, hoard, and reroute. For a country like Chile, sitting on copper the whole electrified world needs and on enormous renewable potential, that's not a bad place to be standing when the music is about repricing energy, worth watching whether Chile's leadership frames that as the opportunity it is.
-
+Finally, the climate juxtaposition at COP31 — an emissions dip announced alongside a host-country oilfield — is a small parable for the whole moment: genuine progress and business-as-usual advancing in parallel, neither quite willing to yield. For a copper-exporting, energy-importing country like Chile, the long game in that tension is enormous. A world that actually acts on the emissions dip is a world hungry for the copper and lithium under the Atacama; a world that keeps opening oilfields is one where your import bill stays volatile. Today didn't resolve which way it tips, but it put both futures on the same page.
 [SECTION hypothesis_watch]
 [EN]
-Hypothesis Watch.
+Hypothesis Watch. An ongoing watch on your standing hypothesis about AI, thought-leadership cycles and social cohesion — a daily scan read against the recent trend, not a full re-argument.
 [EN]
-An ongoing, lightweight daily scan of your standing hypothesis, read against the recent two-month trend in the log, not just today's stories, and not a full re-argument of the chain.
+On sub-claim A, shrinking thought-leadership and authority cycles, today adds to an already unbroken streak. Anthropic shipping Claude Fable 5.2 and Mythos 5.2 continues the weeks-not-quarters release cadence, and more strikingly, Jensen Huang — arguably the most powerful single figure in AI — is suddenly engulfed in a shareholder suit and a spy-affair scandal, with UK banks trimming AI exposure around him. When the field's dominant authority can be destabilized this fast, that's the pattern you're tracking. This is roughly the sixtieth consecutive day the log codes A as support; the question is no longer whether authority cycles are compressing but whether anything could register as a counter-signal.
 [EN]
-On sub-claim A, shrinking authority and thought-leadership cycles, today is another clear support, extending what is now an essentially unbroken streak across the whole log. The post-midterm AI selloff is literally the market re-pricing who owns the AI future; Nvidia's CEO is engulfed in scandal; Anthropic and OpenAI are making grand, partly self-contradicting claims in the same week the bubble question goes mainstream; and Trump and Kast are both absorbing fast, humbling downgrades to their authority. The cycle of who's in charge of the narrative keeps spinning faster; nothing today breaks the pattern.
+On sub-claim B, a stronger internal voice, there's a modest supporting read: Nvidia shareholders suing rather than deferring to the Huang halo, and Norway moving to regulate AI glasses before they're ubiquitous, both show people trusting their own judgment over a tech authority's momentum. That continues the recent run of B supporting signals.
 [EN]
-On sub-claim B, a stronger internal voice, today also reads as support, consistent with the log's steady run. The I'm-not-convinced-the-AI-bubble-exists essay drawing 500 comments, the Hacker News crowd running its own regression tests on whether a model was nerfed, and investors visibly trusting their own read over the hype are all people declining to outsource judgment to the official story. It's modest, individual-level evidence, but it's the same shape that's shown up most days.
-[EN]
-On sub-claim C, a move away from individualism, and sub-claim D, more collaboration and cohesion, I'd keep both at neutral, exactly where the log has parked them for weeks. The most tempting counter-example is The Guardian's global political awakening piece, at least 25 Gen Z protest movements worldwide. But as every prior entry has noted, this is still collective action that is issue-based and anti-authoritarian, not evidence of a cultural shift away from individualism, and the cohesion signals, G7 coordination on Ukraine, Moldova joining the EU grid, remain firmly state-level rather than grassroots. So sub-claims A and B continue their long supporting runs, while C and D stay stubbornly quiet; the front half of the chain keeps firing while the back half doesn't move.
+On sub-claim C, a move away from individualism, and sub-claim D, more human collaboration, today is neutral on both, consistent with the long trend. Pope Leo XIV's explicit attack on economic individualism at the UCA is the closest thing to a C signal the log has seen in a while — but it's a single institutional voice preaching to elites, not individuals actually shedding individualism, so it stays a faint echo rather than structural change. Likewise the Abu Dhabi peace talks and Swedish coalition-building are real cooperation, but state-level and negotiated, not the grassroots cohesion D is really about. The chain still lights up brightly at its first two links and stays dim at the last two — exactly where it has sat for two months.
