@@ -1,133 +1,157 @@
 [SECTION intro]
 [EN]
-Good morning, Patricio. Here's your news brief for Tuesday, November tenth, 2026.
-[EN]
-A quick note on sources today. NRK's site wouldn't load for me and I had no single article to route through the backup, so today's Norway story comes from the Norwegian government's own announcement and Norwegian tech press instead. The New York Times and Washington Post were behind their paywalls, so their big stories are covered through The Guardian and wire reporting. Everything else came through fine.
+Good morning, Patricio. It's a heavy day on markets and geopolitics: a hotter US inflation print rattled rate expectations, the Nvidia spy saga keeps metastasizing, and two sets of talks — Ukraine–Russia in Abu Dhabi and COP31 in Turkey — are grinding through their middle days. Here's the rundown.
 [SECTION news]
 [EN]
 Top Stories.
 [ITEM]
 [EN]
-Peace talks: the United States, Russia and Ukraine sit down together in Abu Dhabi.
+US inflation runs hot, and markets flinch.
 [EN]
-The three sides are meeting face-to-face in Abu Dhabi today, with Washington mediating what US envoy Steve Witkoff framed as a fresh trilateral round aimed at ending the war. It's a notable moment simply because Russian and Ukrainian delegations are in the same process at all, with the US in the middle rather than shuttling between them. Expectations are being kept deliberately low, but the fact that the talks are happening at all marks a shift from the on-again, off-again diplomacy of recent months.
+October consumer prices rose zero point four percent on the month, above the zero point three percent economists expected, with core prices up zero point three percent — enough to push futures markets to price an roughly eighty-eight percent chance of a December Fed rate hike, and an outside chance of a larger half-point move. Gold and silver sold off hard, with gold down about two point six percent to near four thousand and thirty-two dollars, Treasury yields spiked with the ten-year briefly topping five percent, and the dollar strengthened. US stocks slipped on the news even as gas prices fell below four dollars a gallon for the first time since July — a rare bit of relief for consumers against an otherwise sticky-inflation backdrop.
+[EN]
+Sources: Kitco and The Guardian.
+[ITEM]
+[EN]
+Nvidia's Jensen Huang scandal keeps widening.
+[EN]
+The chipmaker's board has hired the heavyweight New York law firm Wachtell, Lipton, Rosen and Katz to run a thorough and independent investigation into CEO Jensen Huang's relationship with an alleged Chinese spy — the same firm, Swedish business press noted, that helped bring down Elon Musk in an earlier fight. Nvidia's market value has fallen roughly four hundred and thirty billion dollars since the allegations surfaced, though the company insists Huang will keep leading without interruption. For a company that has been the single load-bearing pillar of the AI trade, that's a lot of weight resting on one unfolding story.
+[EN]
+Sources: The Guardian and Dagens industri.
+[ITEM]
+[EN]
+Ukraine and Russia hold rare direct talks in Abu Dhabi.
+[EN]
+US-brokered negotiations entered a second and final day, marking the first direct Russia–Ukraine contact in nine months, with high-level delegations present though neither Putin nor Zelenskyy attended. Zelenskyy said he was happy with a shift in tone from the US mediators, and Secretary of State Marco Rubio called the first day constructive — but the central obstacle remains Russia's insistence that Ukraine cede the entire Donbas, including territory Kyiv still holds. There's unease in European capitals that Washington and Moscow could cut a broader deal that sidelines both Kyiv and NATO.
 [EN]
 Source: The Guardian.
 [ITEM]
 [EN]
-Trump says the Iran war is effectively over, and oil tumbles.
+COP31 opens its third day with the UN chief swinging at fossil fuels.
 [EN]
-Markets exhaled as President Trump downplayed any need for further strikes on Iran at this point. Brent crude fell nearly three percent to eighty-nine dollars and sixty-six cents, its lowest since the thirty-first of August, after an almost six percent drop the day before. Europe's Stoxx 600 rose nine-tenths of a percent toward a record, and airline stocks climbed on hopes of cheaper fuel. The calm isn't total — the US reportedly moved aircraft out of RAF Mildenhall in England over an Iran threat — but the direction of travel this week has been toward de-escalation.
+Secretary-General António Guterres told the Turkey summit that fossil fuels must go the way of the dinosaurs, taking direct aim at industry lobbying, even as leaders of many of the biggest polluting nations stayed away. Guterres, who steps down as UN chief at year's end, vowed to keep telling the truth about the climate. On the sidelines, the UK leaned into a security framing: foreign secretary Ed Miliband warned that climate breakdown is now the next frontier of national security, and Britain appointed the world's first special representative for climate security.
+[EN]
+Source: The Guardian.
+[ES]
+España y América Latina.
+[ITEM]
+[ES]
+Chile entra en recesión técnica, pero Hacienda promete un rebote rápido.
+[ES]
+El ministro de Hacienda, Jorge Quiroz, reconoció por primera vez en una entrevista con Bloomberg que la economía chilena está en recesión técnica, atribuyéndola sobre todo a la fuerte caída de la producción de cobre durante el año. Quiroz insistió en que la contracción será corta y que el sector no cuprífero muestra un crecimiento sólido, confiando en que las medidas para impulsar la inversión aceleren la recuperación. Es un reconocimiento políticamente delicado para el ministro más poderoso del gabinete, y deja al cobre, una vez más, como el fiel de la balanza de toda la economía nacional.
+[ES]
+Fuente: Diario Financiero.
+[ITEM]
+[ES]
+España vive su primera huelga general en 14 años.
+[ES]
+La jornada de paro arrancó este miércoles con un seguimiento desigual y numerosas incidencias por todo el país; en Cataluña, el transporte público ferroviario y por carretera quedó suspendido durante más de diez horas, dejando a Barcelona sin metro en dos franjas del día. El PP restó legitimidad a la convocatoria, calificándola de huelga preventiva contra el próximo Gobierno y huelga electoral con poquito sentido. El pulso llega en un momento de alta tensión política, con la convocatoria sindical convertida en terreno de disputa partidista.
+[ES]
+Fuentes: El País y Antena 3.
+[ITEM]
+[ES]
+El papa León XIV oficia una misa multitudinaria en Luján.
+[ES]
+La plana mayor del peronismo bonaerense —encabezada por el gobernador Axel Kicillof y la vice Verónica Magario, con Máximo Kirchner y Sergio Massa presentes— convergió este miércoles frente a la Basílica de Luján para la Santa Misa que ofició el pontífice ante cientos de miles de personas. El acto religioso se transformó, de paso, en una postal política de primer orden para el justicialismo. Para quien, como tú, mira hacia una futura mudanza a Argentina, es un recordatorio de cuán entrelazadas siguen estando allí la fe multitudinaria y la política.
+[ES]
+Fuente: Infobae.
+[EN]
+US and International.
+[ITEM]
+[EN]
+Mississippi elects its first Black senator since Reconstruction.
+[EN]
+Democrat Scott Colom unseated Republican incumbent Cindy Hyde-Smith by a razor-thin margin, becoming the state's first Democratic senator since 1982 and its first Black senator since 1875 — a stunning upset called more than a week after election day. Colom campaigned in hair salons, colleges and even at Trump rallies, and got a late viral boost from an ad mocking Hyde-Smith's tone-deaf answer about rising beef prices. It caps a midterm cycle that has delivered a string of surprises against the national political grain.
 [EN]
 Source: The Guardian.
 [ITEM]
 [EN]
-Nvidia hit by a shareholder lawsuit over Jensen Huang and a suspected Chinese spy.
+Republicans block a Hegseth impeachment — with help from absent Democrats.
 [EN]
-Nvidia shareholders have sued over CEO Jensen Huang's acknowledged extramarital relationship with a businesswoman US officials suspect of being a Chinese intelligence asset. Trump said the FBI is looking into the matter, and Nvidia's shares slid on the New York exchange as the story spread. For the company at the very center of the AI boom, it's an uncomfortable governance cloud at an already jittery moment for AI valuations.
-[EN]
-Sources: The Guardian, and Dagens Nyheter.
-[ITEM]
-[EN]
-COP31 opens in Antalya with a rare bit of good news, and an awkward one.
-[EN]
-At the UN climate summit in Antalya, Turkey, delegates got word that global fossil-fuel carbon emissions appear to have dipped, a genuinely encouraging data point. In the same news cycle, though, host Turkey announced a new oilfield — a jarring juxtaposition that captures the summit's central tension between climate pledges and energy-security politics. Whether COP31 turns that emissions dip into binding action is the question hanging over Antalya.
-[EN]
-Source: The Guardian.
-[ITEM]
-[ES]
-El papa León XIV defiende con fuerza la doctrina social de la Iglesia en Buenos Aires.
-[ES]
-Ante empresarios y sindicatos reunidos en la Universidad Católica Argentina, el papa León XIV hizo una defensa encendida de la doctrina social de la Iglesia: reivindicó el pleno empleo, subrayó el valor social de la propiedad privada y advirtió sobre los riesgos de la inteligencia artificial para el trabajo y la dignidad humana. Su mensaje apuntó directamente contra el individualismo económico y a favor de la solidaridad como criterio para organizar la economía. Es una de las intervenciones más políticas del pontífice desde el inicio de su gira latinoamericana.
-[ES]
-Fuente: Página/12.
-[ITEM]
-[ES]
-Nuevo rifirrafe en la Corte mexicana: Lenia Batres protagoniza otro altercado.
-[ES]
-La ministra Lenia Batres volvió a chocar con sus colegas en la Suprema Corte, reclamando por la oposición a sus proyectos y por el manejo de la sesión conducida por Hugo Aguilar Ortiz. El episodio, con la frase "si quiere darme la palabra el día que usted guste", expone las tensiones internas de un tribunal reconfigurado tras la reforma judicial. No es un hecho aislado: refleja el pulso permanente entre las corrientes que hoy conviven en la Corte.
-[ES]
-Fuente: El Financiero.
-[ITEM]
-[EN]
-Norway moves to become the first country to temporarily ban AI glasses.
-[EN]
-Norway's government has proposed a temporary ban on AI-enabled smart glasses in certain places, with the digitalisation minister citing an enormous potential for misuse — covert recording, facial recognition and eavesdropping chief among the worries. It's part of a broader Norwegian push, alongside earlier moves to restrict AI in primary schools, to put guardrails on consumer AI before the devices become ubiquitous. NRK's own site was down for me today, so this is drawn from the government's announcement and Norwegian tech press.
-[EN]
-Sources: the Norwegian government, and Norwegian tech press — originally a Norway story NRK would carry.
-[ITEM]
-[EN]
-Sheikh Hasina signals a return to Bangladesh after two years in exile.
-[EN]
-Bangladesh's deposed former leader Sheikh Hasina says she plans to return home, two years after she fled amid the uprising that ended her long rule. The announcement lands in an already-charged political environment and raises immediate questions about security, prosecution and whether her return would inflame or settle a fragile transition. It's a story worth watching for its potential to reshape South Asian politics.
+A procedural effort to impeach Defense Secretary Pete Hegseth failed by just seven votes, after eleven Democrats missed the vote, drawing furious recriminations from colleagues who blamed traffic, scheduling conflicts, and an early-closed vote. The embarrassment compounded a rough day for Hegseth, who was loudly reprimanded by a sentinel at the Tomb of the Unknown Soldier after some of his group were heard laughing near the memorial following a Veterans Day ceremony. Both episodes feed a narrative of an administration under mounting internal strain.
 [EN]
 Source: The Guardian.
 [ITEM]
 [EN]
-In the UK, Badenoch pitches deep welfare cuts as Britons quietly stock the pantry.
+Germany bans Chinese-made drones from military sites.
 [EN]
-Conservative leader Kemi Badenoch proposed substantial cuts to disability and other benefits, sharpening the opposition's fiscal dividing lines. In a separate but telling thread, Britons have been steadily stockpiling water, tinned food and essentials in response to the government's Be Ready preparedness campaign — notably without tipping into panic buying. Together the two stories sketch a country bracing, economically and psychologically, for a harder season.
+Berlin has barred commercially available Chinese drones from military bases and training grounds, effective immediately, over fears the technology could relay sensitive data to Beijing. The move follows the US military banning Chinese BYD electric vehicles from its Kadena airbase in Okinawa, and reflects a broadening Western wariness of Chinese hardware embedded in defense environments. It's another brick in the slow decoupling of Western security infrastructure from Chinese technology.
 [EN]
 Source: The Guardian.
+[EN]
+Tech and Niche.
 [ITEM]
 [EN]
-Anthropic ships Claude Fable 5.2 and Mythos 5.2.
+Google widens access to Gemini 4 Carbon.
 [EN]
-Anthropic released a new pair of models, Claude Fable 5.2 and Mythos 5.2 — the latest entry in an AI release cadence that now measures in weeks rather than quarters. The launch topped Hacker News, a reminder of how closely developers track each incremental jump in capability and price. Coming the same week Nvidia is mired in scandal and AI valuations are wobbling, it underscores a field where the technology keeps racing ahead even as the business and governance questions pile up.
+Two weeks after unveiling its latest frontier model for cybersecurity professionals, Google has opened Gemini 4 Carbon to developers, enterprises, scientists and ordinary consumers on its AI Ultra tier. The staggered rollout — niche specialists first, then everyone — is becoming the house style for frontier launches, and it keeps the model-leapfrogging cadence relentless. Each release further compresses how long any single system can claim to sit at the frontier.
 [EN]
-Source: Anthropic, via Hacker News.
+Source: CNET.
 [ITEM]
 [EN]
-Canada switches on real-time, twenty-four-seven payments.
+The US tightens rules on ordering synthetic DNA.
 [EN]
-Payments Canada launched its Real-Time Rail, national infrastructure for instant, round-the-clock money transfers between banks. It's the kind of plumbing upgrade that sounds dull and quietly changes everyday life — payroll, gig payouts and person-to-person transfers that clear in seconds, any hour of any day. Canada joins a growing list of countries treating instant payment rails as basic economic infrastructure.
+To guard against bioterrorism, US authorities are imposing new screening requirements on companies that sell synthetic DNA, aiming to keep dangerous genetic sequences out of the wrong hands. It's a quiet but consequential piece of biosecurity governance, landing as AI tools make designing novel sequences dramatically easier. The policy is a reminder that the hardest frontier-tech problems are increasingly about gatekeeping access, not just building capability.
 [EN]
-Source: Payments Canada, via Hacker News.
+Source: Science.
 [ITEM]
 [EN]
-A faster way to cluster data, and a more useful US map.
+Nick Cave calls AI music our most soul-destroying humiliation.
 [EN]
-Two smaller items caught the developer community's eye: E-means, a technique its authors say runs k-means clustering about ten times faster at equal loss, and the US Postal Service's quiet release of official ZIP Code boundary polygons — long a missing public dataset that mapmakers and analysts have improvised around for years. Neither is headline-grabbing, but both remove real friction for people who build with data. It's a good reminder that a lot of progress is infrastructure nobody notices until it's there.
+In his Red Hand Files newsletter, the musician unloaded on AI song generators, describing the technology's demonic potential to hollow out human endeavour and admitting he's unsure whether it will save the world or annihilate it. Coming from an artist who has long wrestled publicly with creativity and grief, it's less a Luddite's reflex than a defense of the human struggle that makes art mean something. It lands squarely in the widening debate over what, exactly, we want to keep doing ourselves.
 [EN]
-Sources: E-means, and the US Postal Service, via Hacker News.
+Source: The Red Hand Files, via Yahoo.
+[ITEM]
+[EN]
+Terence Tao publishes Six Math Essentials.
+[EN]
+The Fields medalist put out a compact set of foundational principles for doing mathematics well — a deliberate reassertion of human mathematical judgment at a moment when AI systems are increasingly cited as collaborators in proofs. The piece topped Hacker News, a sign of how much appetite there is among technical people for guidance on keeping their own reasoning sharp. It reads as a gentle insistence that understanding, not just answers, is the point.
+[EN]
+Source: Terence Tao, via Hacker News.
+[SV]
+Sverige.
 [ITEM]
 [SV]
-Regeringsbildningen: partiledare för S, C och MP i samtal.
+Regeringsbildningen i kaos — Centern pekas ut som svikare.
 [SV]
-Enligt Dagens Nyheter har partiledarna för Socialdemokraterna, Centerpartiet och Miljöpartiet mötts, efter att planerade fyrpartisamtal mellan S, C, MP och V ställts in. Parallellt öppnar Centerpartiet för att stödja den statsministerkandidat som når längst, samtidigt som Sverigedemokraterna uppges ha släppt kravet på egna ministerposter. Det politiska pusslet efter valet den trettonde september är alltså fortfarande långt ifrån lagt, och turerna fortsätter dag för dag.
+Samarbetet i den gamla alliansen spricker på lokal nivå, bland annat i Täby där Moderaterna och Socialdemokraterna nu beskriver ett tomt kontor emellan sig som en demilitariserad zon. Dagens industri frågade sexton näringslivstoppar om hur Centerpartiets vägval i regeringsfrågan påverkar dem, och flera av de svarande efterlyser nu ett extra val för att bryta dödläget. Osäkerheten kring vem som ska styra landet biter sig fast och börjar tära på näringslivets tålamod.
 [SV]
-Källor: Dagens Nyheter, och SVT Nyheter.
+Källor: Dagens Nyheter och Dagens industri.
 [ITEM]
 [SV]
-Spädbarn allvarligt skadat i Lund — två gripna.
+Energimyndigheten varnar för höga elpriser — men ingen effektbrist.
 [SV]
-Polisen utreder grov misshandel efter att ett spädbarn förts till sjukhus i Lund med skador, varpå en kvinna och en man greps. Sjukhuspersonalen larmade polisen, och utredningen är i ett tidigt skede. Det är en skakande händelse som väcker frågor om hur den lilla fått sina skador.
+Risken för högre elpriser är förhöjd, skriver myndigheten, och pekar på den svaga hydrologiska situationen, förlängda revisioner i kärnkraften och högre naturgaspriser i Europa. Samtidigt lugnar man med att det inte väntas någon effektbrist där produktion och import inte räcker för att möta efterfrågan. För hushåll och industri betyder det dyrare men inte otillgänglig el under vintern — ett välbekant nordiskt vinterbekymmer snarare än en kris.
 [SV]
-Källor: Aftonbladet, och Dagens Nyheter.
+Källor: Ny Teknik och Göteborgs-Posten.
 [ITEM]
 [SV]
-Lida Starodubtseva får Svenska Dagbladets litteraturpris.
+GTA VI närmar sig lansering — och Embracer ser möjligheter.
 [SV]
-Författaren Lida Starodubtseva tilldelas SvD:s litteraturpris för romanen "Hilja går". Priset lyfter fram ett av årets mer uppmärksammade skönlitterära verk och ger en välkommen kulturnyhet i en annars tung nyhetsvecka. Ett fint kvitto på att den svenska litteraturen fortsätter att blomstra.
+Rockstars efterlängtade spel får premiär den nittonde november, siktar på trettio bilder per sekund och går att strömma till och med gamla Xbox One via molnet. Det svenska spelbolaget Embracer, som nyss redovisade betydligt högre omsättning och cash ebit än väntat, ser jätten som något övervägande positivt: vd Phil Rogers tror att den enorma lanseringen lockar tillbaka mängder av spelare till sina konsoler, till gagn för hela branschen. En stigande tidvattenvåg, hoppas han, lyfter alla båtar.
 [SV]
-Källa: Svenska Dagbladet.
+Källor: EFN och Dopest.
 [SECTION connecting_dots]
 [EN]
-Connecting the Dots. This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact.
+Connecting the Dots.
 [EN]
-Patricio, the thread running through today is de-escalation meeting fragility. The Abu Dhabi talks and Trump calling the Iran war effectively over sent Brent crude down to eighty-nine dollars and sixty-six cents — its lowest since late August — and lifted European equities toward records. For you in Chile, the oil move is the most directly relevant line in the whole brief: cheaper crude eases imported-fuel and transport costs, takes some pressure off inflation, and is generally kind to a peso that has spent the year buffeted by global risk sentiment. The catch is that this relief is built on a presidential sentence, not a signed agreement — if the Abu Dhabi talks stall or the Iran threat that reportedly scrambled aircraft out of RAF Mildenhall turns hot again, that eighty-nine dollar level could snap back just as fast. Worth watching, not banking on.
+This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
 [EN]
-The second pattern is the AI sector visibly wobbling at the top even as the technology keeps sprinting. Nvidia — the single most important company in the boom — is now fighting a shareholder suit and an FBI-flavored spy scandal around its CEO, UK banks are trimming AI exposure, and valuations have been jittery for a couple of weeks. Yet in the same news cycle Anthropic ships two more models and Canada flips on real-time payments. The gap between the tech is accelerating and the business and governance scaffolding is shaky is widening, and that's the kind of divergence that tends to resolve in a repricing. For Chile, the exposure here is indirect but real: a sharp AI-sector correction would hit global risk appetite, copper demand expectations, and the dollar — the channels through which Santiago feels a Wall Street mood swing.
+Patricio, the thread running through today's hard news is monetary gravity, and it reaches you directly through copper. Your own finance minister just conceded that Chile's technical recession is, at its core, a copper-production story — and on the same day, a hot US inflation print sent the dollar and Treasury yields sharply higher while gold and silver plunged. A stronger dollar and a more hawkish Fed are rarely kind to commodity-exporting emerging markets: they tend to pressure the peso and cap the copper price just when Santiago needs it to rebound. The one bright spot, oil slipping to its lowest since late August as the Iran war premium deflates, is genuinely good news for an energy-importing economy like Chile's — worth watching whether that feeds through to pump prices and inflation locally in the coming weeks.
 [EN]
-Third, notice how much of today's cooperation is top-down. Peace talks between states, a pope preaching social doctrine to assembled business and union leaders, Swedish party bosses negotiating a coalition behind closed doors — these are elites and institutions reaching for collaboration, not citizens spontaneously doing so. It's cohesion by negotiation rather than by groundswell, which is the normal way order gets rebuilt but also the fragile way, because it depends on a handful of people staying at the table.
+The second thread is the AI trade's single-point-of-failure problem. Nvidia has shed something like four hundred and thirty billion dollars in value over a scandal that is fundamentally about one man's private life, and the fact that a chipmaker's CEO affair can move markets this much tells you how concentrated the whole edifice has become. Set that beside Google quietly widening Gemini 4 Carbon to everyone and the relentless model-leapfrogging it implies: the capability keeps compounding while the market structure underneath it looks increasingly brittle. If you're sitting in Chile thinking about where AI genuinely changes your work versus where it's froth, this is the tension to hold — the technology is real and accelerating, the financial scaffolding around it is not obviously stable.
 [EN]
-Finally, the climate juxtaposition at COP31 — an emissions dip announced alongside a host-country oilfield — is a small parable for the whole moment: genuine progress and business-as-usual advancing in parallel, neither quite willing to yield. For a copper-exporting, energy-importing country like Chile, the long game in that tension is enormous. A world that actually acts on the emissions dip is a world hungry for the copper and lithium under the Atacama; a world that keeps opening oilfields is one where your import bill stays volatile. Today didn't resolve which way it tips, but it put both futures on the same page.
+A third, quieter pattern is the re-securitization of everything. Germany banning Chinese drones, the US ordering stricter screening on synthetic DNA, Britain appointing a climate-security envoy and reframing climate as a defense problem — these look unrelated until you notice they're all governments deciding that civilian technology and environmental risk are now national-security matters. That worldview tends to harden supply chains, raise compliance costs, and reward the kind of self-hosted, sovereign-control-of-your-own-stack instincts you already apply at work. It's a tailwind, in an odd way, for anyone who prefers to own their infrastructure rather than rent it.
+[EN]
+Finally, two human-scale stories cut against the macro gloom in a way worth noticing: a come-from-behind Senate win in the reddest of states, and an artist flatly refusing to cede creative ground to a machine. Neither is market-moving, but both are reminders that individual judgment and local effort still bend outcomes that the big trend lines say are settled. For you — a builder weighing moves across three countries and several side projects — that's the useful counterweight to a day that otherwise reads as impersonal forces grinding away.
 [SECTION hypothesis_watch]
 [EN]
-Hypothesis Watch. An ongoing watch on your standing hypothesis about AI, thought-leadership cycles and social cohesion — a daily scan read against the recent trend, not a full re-argument.
+Hypothesis Watch.
 [EN]
-On sub-claim A, shrinking thought-leadership and authority cycles, today adds to an already unbroken streak. Anthropic shipping Claude Fable 5.2 and Mythos 5.2 continues the weeks-not-quarters release cadence, and more strikingly, Jensen Huang — arguably the most powerful single figure in AI — is suddenly engulfed in a shareholder suit and a spy-affair scandal, with UK banks trimming AI exposure around him. When the field's dominant authority can be destabilized this fast, that's the pattern you're tracking. This is roughly the sixtieth consecutive day the log codes A as support; the question is no longer whether authority cycles are compressing but whether anything could register as a counter-signal.
+An ongoing, low-key watch on your standing hypothesis about AI, internal voice, and social cohesion — a daily scan read against the recent trend in the log, not a full re-argument.
 [EN]
-On sub-claim B, a stronger internal voice, there's a modest supporting read: Nvidia shareholders suing rather than deferring to the Huang halo, and Norway moving to regulate AI glasses before they're ubiquitous, both show people trusting their own judgment over a tech authority's momentum. That continues the recent run of B supporting signals.
+On the first sub-claim, shrinking thought-leadership and authority cycles, today offers clear support. The Nvidia–Huang scandal is compressing the authority of the AI trade's central figure almost overnight, Google's wider Gemini 4 Carbon rollout keeps the model-leapfrogging churn relentless, Guterres announced he's standing down as UN chief, and the Mississippi upset extends a midterm cycle full of reversals. This continues an unbroken run — the first sub-claim has registered support on essentially every entry for the last two months straight, and nothing today interrupts it.
 [EN]
-On sub-claim C, a move away from individualism, and sub-claim D, more human collaboration, today is neutral on both, consistent with the long trend. Pope Leo XIV's explicit attack on economic individualism at the UCA is the closest thing to a C signal the log has seen in a while — but it's a single institutional voice preaching to elites, not individuals actually shedding individualism, so it stays a faint echo rather than structural change. Likewise the Abu Dhabi peace talks and Swedish coalition-building are real cooperation, but state-level and negotiated, not the grassroots cohesion D is really about. The chain still lights up brightly at its first two links and stays dim at the last two — exactly where it has sat for two months.
+On the second sub-claim, individuals pushed toward a stronger internal voice, there's solid support too. Nick Cave's refusal to let AI hollow out human artistic endeavour, Terence Tao's Six Math Essentials reasserting human mathematical judgment, and Nvidia's own investors and board demanding scrutiny rather than deferring to hype all point the same way: when the machine or the institution wobbles, people fall back on their own judgment. That tracks the log's steady second-claim support pattern, which has held most days across the recent window.
+[EN]
+On the third sub-claim, a move away from individualism, and the fourth, more human collaboration and cohesion, today is neutral on both, as it has been for most of the run. Spain's general strike is collective action, but it's labor- and issue-based rather than any structural shift away from individualism, and the cohesion signals — the Ukraine–Russia talks in Abu Dhabi, the COP31 multilateral push — are state-level diplomacy, not grassroots social bonding. The pattern remains what it's been for weeks: the first two links of the chain light up reliably, the last two don't yet move. No integral review has run yet, so there's no prior monthly verdict to weigh today against — the review log is still empty.
