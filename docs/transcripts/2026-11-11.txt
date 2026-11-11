@@ -1,0 +1,136 @@
+[EN]
+Good morning, Patricio. It's a heavy day on markets and geopolitics: a hotter US inflation print rattled rate expectations, the Nvidia spy saga keeps metastasizing, and two sets of talks — Ukraine–Russia in Abu Dhabi and COP31 in Turkey — are grinding through their middle days. Here's the rundown.
+[EN]
+Top Stories.
+[EN]
+US inflation runs hot, and markets flinch.
+[EN]
+October consumer prices rose zero point four percent on the month, above the zero point three percent economists expected, with core prices up zero point three percent — enough to push futures markets to price an roughly eighty-eight percent chance of a December Fed rate hike, and an outside chance of a larger half-point move. Gold and silver sold off hard, with gold down about two point six percent to near four thousand and thirty-two dollars, Treasury yields spiked with the ten-year briefly topping five percent, and the dollar strengthened. US stocks slipped on the news even as gas prices fell below four dollars a gallon for the first time since July — a rare bit of relief for consumers against an otherwise sticky-inflation backdrop.
+[EN]
+Sources: Kitco and The Guardian.
+[EN]
+Nvidia's Jensen Huang scandal keeps widening.
+[EN]
+The chipmaker's board has hired the heavyweight New York law firm Wachtell, Lipton, Rosen and Katz to run a thorough and independent investigation into CEO Jensen Huang's relationship with an alleged Chinese spy — the same firm, Swedish business press noted, that helped bring down Elon Musk in an earlier fight. Nvidia's market value has fallen roughly four hundred and thirty billion dollars since the allegations surfaced, though the company insists Huang will keep leading without interruption. For a company that has been the single load-bearing pillar of the AI trade, that's a lot of weight resting on one unfolding story.
+[EN]
+Sources: The Guardian and Dagens industri.
+[EN]
+Ukraine and Russia hold rare direct talks in Abu Dhabi.
+[EN]
+US-brokered negotiations entered a second and final day, marking the first direct Russia–Ukraine contact in nine months, with high-level delegations present though neither Putin nor Zelenskyy attended. Zelenskyy said he was happy with a shift in tone from the US mediators, and Secretary of State Marco Rubio called the first day constructive — but the central obstacle remains Russia's insistence that Ukraine cede the entire Donbas, including territory Kyiv still holds. There's unease in European capitals that Washington and Moscow could cut a broader deal that sidelines both Kyiv and NATO.
+[EN]
+Source: The Guardian.
+[EN]
+COP31 opens its third day with the UN chief swinging at fossil fuels.
+[EN]
+Secretary-General António Guterres told the Turkey summit that fossil fuels must go the way of the dinosaurs, taking direct aim at industry lobbying, even as leaders of many of the biggest polluting nations stayed away. Guterres, who steps down as UN chief at year's end, vowed to keep telling the truth about the climate. On the sidelines, the UK leaned into a security framing: foreign secretary Ed Miliband warned that climate breakdown is now the next frontier of national security, and Britain appointed the world's first special representative for climate security.
+[EN]
+Source: The Guardian.
+[ES]
+España y América Latina.
+[ES]
+Chile entra en recesión técnica, pero Hacienda promete un rebote rápido.
+[ES]
+El ministro de Hacienda, Jorge Quiroz, reconoció por primera vez en una entrevista con Bloomberg que la economía chilena está en recesión técnica, atribuyéndola sobre todo a la fuerte caída de la producción de cobre durante el año. Quiroz insistió en que la contracción será corta y que el sector no cuprífero muestra un crecimiento sólido, confiando en que las medidas para impulsar la inversión aceleren la recuperación. Es un reconocimiento políticamente delicado para el ministro más poderoso del gabinete, y deja al cobre, una vez más, como el fiel de la balanza de toda la economía nacional.
+[ES]
+Fuente: Diario Financiero.
+[ES]
+España vive su primera huelga general en 14 años.
+[ES]
+La jornada de paro arrancó este miércoles con un seguimiento desigual y numerosas incidencias por todo el país; en Cataluña, el transporte público ferroviario y por carretera quedó suspendido durante más de diez horas, dejando a Barcelona sin metro en dos franjas del día. El PP restó legitimidad a la convocatoria, calificándola de huelga preventiva contra el próximo Gobierno y huelga electoral con poquito sentido. El pulso llega en un momento de alta tensión política, con la convocatoria sindical convertida en terreno de disputa partidista.
+[ES]
+Fuentes: El País y Antena 3.
+[ES]
+El papa León XIV oficia una misa multitudinaria en Luján.
+[ES]
+La plana mayor del peronismo bonaerense —encabezada por el gobernador Axel Kicillof y la vice Verónica Magario, con Máximo Kirchner y Sergio Massa presentes— convergió este miércoles frente a la Basílica de Luján para la Santa Misa que ofició el pontífice ante cientos de miles de personas. El acto religioso se transformó, de paso, en una postal política de primer orden para el justicialismo. Para quien, como tú, mira hacia una futura mudanza a Argentina, es un recordatorio de cuán entrelazadas siguen estando allí la fe multitudinaria y la política.
+[ES]
+Fuente: Infobae.
+[EN]
+US and International.
+[EN]
+Mississippi elects its first Black senator since Reconstruction.
+[EN]
+Democrat Scott Colom unseated Republican incumbent Cindy Hyde-Smith by a razor-thin margin, becoming the state's first Democratic senator since 1982 and its first Black senator since 1875 — a stunning upset called more than a week after election day. Colom campaigned in hair salons, colleges and even at Trump rallies, and got a late viral boost from an ad mocking Hyde-Smith's tone-deaf answer about rising beef prices. It caps a midterm cycle that has delivered a string of surprises against the national political grain.
+[EN]
+Source: The Guardian.
+[EN]
+Republicans block a Hegseth impeachment — with help from absent Democrats.
+[EN]
+A procedural effort to impeach Defense Secretary Pete Hegseth failed by just seven votes, after eleven Democrats missed the vote, drawing furious recriminations from colleagues who blamed traffic, scheduling conflicts, and an early-closed vote. The embarrassment compounded a rough day for Hegseth, who was loudly reprimanded by a sentinel at the Tomb of the Unknown Soldier after some of his group were heard laughing near the memorial following a Veterans Day ceremony. Both episodes feed a narrative of an administration under mounting internal strain.
+[EN]
+Source: The Guardian.
+[EN]
+Germany bans Chinese-made drones from military sites.
+[EN]
+Berlin has barred commercially available Chinese drones from military bases and training grounds, effective immediately, over fears the technology could relay sensitive data to Beijing. The move follows the US military banning Chinese BYD electric vehicles from its Kadena airbase in Okinawa, and reflects a broadening Western wariness of Chinese hardware embedded in defense environments. It's another brick in the slow decoupling of Western security infrastructure from Chinese technology.
+[EN]
+Source: The Guardian.
+[EN]
+Tech and Niche.
+[EN]
+Google widens access to Gemini 4 Carbon.
+[EN]
+Two weeks after unveiling its latest frontier model for cybersecurity professionals, Google has opened Gemini 4 Carbon to developers, enterprises, scientists and ordinary consumers on its AI Ultra tier. The staggered rollout — niche specialists first, then everyone — is becoming the house style for frontier launches, and it keeps the model-leapfrogging cadence relentless. Each release further compresses how long any single system can claim to sit at the frontier.
+[EN]
+Source: CNET.
+[EN]
+The US tightens rules on ordering synthetic DNA.
+[EN]
+To guard against bioterrorism, US authorities are imposing new screening requirements on companies that sell synthetic DNA, aiming to keep dangerous genetic sequences out of the wrong hands. It's a quiet but consequential piece of biosecurity governance, landing as AI tools make designing novel sequences dramatically easier. The policy is a reminder that the hardest frontier-tech problems are increasingly about gatekeeping access, not just building capability.
+[EN]
+Source: Science.
+[EN]
+Nick Cave calls AI music our most soul-destroying humiliation.
+[EN]
+In his Red Hand Files newsletter, the musician unloaded on AI song generators, describing the technology's demonic potential to hollow out human endeavour and admitting he's unsure whether it will save the world or annihilate it. Coming from an artist who has long wrestled publicly with creativity and grief, it's less a Luddite's reflex than a defense of the human struggle that makes art mean something. It lands squarely in the widening debate over what, exactly, we want to keep doing ourselves.
+[EN]
+Source: The Red Hand Files, via Yahoo.
+[EN]
+Terence Tao publishes Six Math Essentials.
+[EN]
+The Fields medalist put out a compact set of foundational principles for doing mathematics well — a deliberate reassertion of human mathematical judgment at a moment when AI systems are increasingly cited as collaborators in proofs. The piece topped Hacker News, a sign of how much appetite there is among technical people for guidance on keeping their own reasoning sharp. It reads as a gentle insistence that understanding, not just answers, is the point.
+[EN]
+Source: Terence Tao, via Hacker News.
+[SV]
+Sverige.
+[SV]
+Regeringsbildningen i kaos — Centern pekas ut som svikare.
+[SV]
+Samarbetet i den gamla alliansen spricker på lokal nivå, bland annat i Täby där Moderaterna och Socialdemokraterna nu beskriver ett tomt kontor emellan sig som en demilitariserad zon. Dagens industri frågade sexton näringslivstoppar om hur Centerpartiets vägval i regeringsfrågan påverkar dem, och flera av de svarande efterlyser nu ett extra val för att bryta dödläget. Osäkerheten kring vem som ska styra landet biter sig fast och börjar tära på näringslivets tålamod.
+[SV]
+Källor: Dagens Nyheter och Dagens industri.
+[SV]
+Energimyndigheten varnar för höga elpriser — men ingen effektbrist.
+[SV]
+Risken för högre elpriser är förhöjd, skriver myndigheten, och pekar på den svaga hydrologiska situationen, förlängda revisioner i kärnkraften och högre naturgaspriser i Europa. Samtidigt lugnar man med att det inte väntas någon effektbrist där produktion och import inte räcker för att möta efterfrågan. För hushåll och industri betyder det dyrare men inte otillgänglig el under vintern — ett välbekant nordiskt vinterbekymmer snarare än en kris.
+[SV]
+Källor: Ny Teknik och Göteborgs-Posten.
+[SV]
+GTA VI närmar sig lansering — och Embracer ser möjligheter.
+[SV]
+Rockstars efterlängtade spel får premiär den nittonde november, siktar på trettio bilder per sekund och går att strömma till och med gamla Xbox One via molnet. Det svenska spelbolaget Embracer, som nyss redovisade betydligt högre omsättning och cash ebit än väntat, ser jätten som något övervägande positivt: vd Phil Rogers tror att den enorma lanseringen lockar tillbaka mängder av spelare till sina konsoler, till gagn för hela branschen. En stigande tidvattenvåg, hoppas han, lyfter alla båtar.
+[SV]
+Källor: EFN och Dopest.
+[EN]
+Connecting the Dots.
+[EN]
+This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN]
+Patricio, the thread running through today's hard news is monetary gravity, and it reaches you directly through copper. Your own finance minister just conceded that Chile's technical recession is, at its core, a copper-production story — and on the same day, a hot US inflation print sent the dollar and Treasury yields sharply higher while gold and silver plunged. A stronger dollar and a more hawkish Fed are rarely kind to commodity-exporting emerging markets: they tend to pressure the peso and cap the copper price just when Santiago needs it to rebound. The one bright spot, oil slipping to its lowest since late August as the Iran war premium deflates, is genuinely good news for an energy-importing economy like Chile's — worth watching whether that feeds through to pump prices and inflation locally in the coming weeks.
+[EN]
+The second thread is the AI trade's single-point-of-failure problem. Nvidia has shed something like four hundred and thirty billion dollars in value over a scandal that is fundamentally about one man's private life, and the fact that a chipmaker's CEO affair can move markets this much tells you how concentrated the whole edifice has become. Set that beside Google quietly widening Gemini 4 Carbon to everyone and the relentless model-leapfrogging it implies: the capability keeps compounding while the market structure underneath it looks increasingly brittle. If you're sitting in Chile thinking about where AI genuinely changes your work versus where it's froth, this is the tension to hold — the technology is real and accelerating, the financial scaffolding around it is not obviously stable.
+[EN]
+A third, quieter pattern is the re-securitization of everything. Germany banning Chinese drones, the US ordering stricter screening on synthetic DNA, Britain appointing a climate-security envoy and reframing climate as a defense problem — these look unrelated until you notice they're all governments deciding that civilian technology and environmental risk are now national-security matters. That worldview tends to harden supply chains, raise compliance costs, and reward the kind of self-hosted, sovereign-control-of-your-own-stack instincts you already apply at work. It's a tailwind, in an odd way, for anyone who prefers to own their infrastructure rather than rent it.
+[EN]
+Finally, two human-scale stories cut against the macro gloom in a way worth noticing: a come-from-behind Senate win in the reddest of states, and an artist flatly refusing to cede creative ground to a machine. Neither is market-moving, but both are reminders that individual judgment and local effort still bend outcomes that the big trend lines say are settled. For you — a builder weighing moves across three countries and several side projects — that's the useful counterweight to a day that otherwise reads as impersonal forces grinding away.
+[EN]
+Hypothesis Watch.
+[EN]
+An ongoing, low-key watch on your standing hypothesis about AI, internal voice, and social cohesion — a daily scan read against the recent trend in the log, not a full re-argument.
+[EN]
+On the first sub-claim, shrinking thought-leadership and authority cycles, today offers clear support. The Nvidia–Huang scandal is compressing the authority of the AI trade's central figure almost overnight, Google's wider Gemini 4 Carbon rollout keeps the model-leapfrogging churn relentless, Guterres announced he's standing down as UN chief, and the Mississippi upset extends a midterm cycle full of reversals. This continues an unbroken run — the first sub-claim has registered support on essentially every entry for the last two months straight, and nothing today interrupts it.
+[EN]
+On the second sub-claim, individuals pushed toward a stronger internal voice, there's solid support too. Nick Cave's refusal to let AI hollow out human artistic endeavour, Terence Tao's Six Math Essentials reasserting human mathematical judgment, and Nvidia's own investors and board demanding scrutiny rather than deferring to hype all point the same way: when the machine or the institution wobbles, people fall back on their own judgment. That tracks the log's steady second-claim support pattern, which has held most days across the recent window.
+[EN]
+On the third sub-claim, a move away from individualism, and the fourth, more human collaboration and cohesion, today is neutral on both, as it has been for most of the run. Spain's general strike is collective action, but it's labor- and issue-based rather than any structural shift away from individualism, and the cohesion signals — the Ukraine–Russia talks in Abu Dhabi, the COP31 multilateral push — are state-level diplomacy, not grassroots social bonding. The pattern remains what it's been for weeks: the first two links of the chain light up reliably, the last two don't yet move. No integral review has run yet, so there's no prior monthly verdict to weigh today against — the review log is still empty.
