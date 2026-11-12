@@ -1,143 +1,171 @@
 [SECTION intro]
 [ES]
-Resumen diario del miércoles 11 de noviembre de 2026.
+Nota de fuentes: todas las fuentes de la lista respondieron hoy (Reuters y AP, mediante el extractor de artículos). Algunas fuentes contenían instrucciones incrustadas, que ignoré.
 [ES]
-Una nota sobre las fuentes: hoy no pude leer directamente BBC News Mundo, DW en Español, Reuters, AP News, los feeds de la BBC, La Tercera ni Ars Technica, y The New York Times y The Washington Post no se consultaron por su muro de pago. Cubrí esos huecos con El País, Al Jazeera, Xinhua Español, Emol, The Guardian y TechCrunch.
+Resumen Diario — 12 de noviembre de 2026.
+[ES]
+¡Buenos días! Hoy manda una noticia que mezcla tecnología, geopolítica y escándalo: el futuro de Jensen Huang al frente de Nvidia. Además, España vivió su primera huelga general en 14 años, Chile negocia con camioneros en paro y el estrecho de Ormuz vuelve a arder. Vamos por partes.
 [SECTION news]
 [ES]
 Titulares.
 [ITEM]
 [ES]
-Estados Unidos frena el juicio político contra Hegseth.
+Nvidia debate si destituir a Jensen Huang y sus acciones se desploman.
 [ES]
-La Cámara de Representantes votó 211 a 204 para enviar a comisión la resolución de destitución del secretario de Defensa, Pete Hegseth, con lo que el intento queda detenido en la práctica. La medida, impulsada por el republicano Thomas Massie en medio de la guerra con Irán, fracasó con once demócratas ausentes en la votación, uno de ellos culpó al tráfico, y varios colegas de partido les reprocharon duramente no haberse presentado. Hegseth había calificado el intento de sabotaje y la Casa Blanca se opuso a destituirlo.
+La junta directiva de Nvidia, la mayor fabricante de chips para IA del mundo, se reunió el miércoles para decidir si aparta a su fundador y consejero delegado durante 33 años, Jensen Huang. Hace apenas unos días el consejo le había expresado su confianza, pero el panorama cambió tras su admisión de una relación con una mujer a la que la inteligencia estadounidense vincula con el espionaje chino, y después de que The New York Times informara de una segunda relación con una ejecutiva de la propia empresa. La acción cayó más de un 8 % fuera de hora, el FBI investiga y el Congreso lo ha citado a dar explicaciones; Pekín califica las acusaciones de espionaje de "pura calumnia".
 [ES]
-Fuentes: Al Jazeera, El País, The Guardian y Xinhua Español.
+Fuentes: The Guardian, The New York Times, DW en Español, El País, TechCrunch, Ars Technica, BBC News, Emol
 [ITEM]
 [ES]
-Abu Dabi: conversaciones trilaterales entre Rusia, Estados Unidos y Ucrania.
+España vive su primera huelga general en 14 años por la vivienda.
 [ES]
-Rusia, Estados Unidos y Ucrania celebran en Abu Dabi sus primeras conversaciones trilaterales desde febrero. Zelensky calificó la primera jornada de constructiva y bastante sustancial, con foco en asuntos humanitarios como la liberación de prisioneros, las garantías de seguridad para Ucrania y posibles medidas de distensión. Según El País, el Kremlin intenta atar la guerra a una revisión de la seguridad de toda Europa, mientras los enviados de la Unión Europea han quedado fuera de la mesa y Moscú quiere centrar la discusión en el repliegue de tropas de la OTAN.
+Unos 4 millones de trabajadores, cerca de una quinta parte de la fuerza laboral, secundaron el miércoles la huelga general convocada por los principales sindicatos contra la crisis de la vivienda y la pérdida de poder adquisitivo. En Madrid marcharon unas 120.000 personas bajo la lluvia al grito de "no tenemos hogar", y la jornada fue mayormente pacífica, aunque al final hubo cargas policiales en Madrid, disturbios en Barcelona y al menos 73 detenidos. Llega a menos de tres semanas de las elecciones anticipadas del 29 de noviembre, con el Banco de España estimando un déficit de 750.000 viviendas.
 [ES]
-Fuentes: Xinhua Español y El País.
+Fuentes: Reuters, DW en Español, BBC News Mundo, Al Jazeera, El País
 [ITEM]
 [ES]
-España, a huelga general por la vivienda y el costo de la vida.
+Ucrania: Abu Dabi termina sin paz y los enviados de EE. UU. van a Moscú.
 [ES]
-España vive una huelga general de 24 horas convocada por Comisiones Obreras y UGT bajo el lema salarios, vivienda, precios, la primera que ambos sindicatos convocan desde 2012. Se esperan interrupciones en transporte, escuelas y sanidad, con servicios mínimos en los sectores esenciales. El detonante fue el desalojo en septiembre de una mujer de 87 años en Madrid, que desató protestas y una crisis política que llevó a elecciones anticipadas el 29 de noviembre. El Partido Popular y Vox tachan la huelga de política; mientras tanto, el alquiler medio ronda los 1.176 euros al mes frente a un salario joven medio de 1.190 euros.
+Las conversaciones de dos días en Abu Dabi entre Rusia, Ucrania y Estados Unidos cerraron con un canje de prisioneros y poco más, mientras el Kremlin presiona para ligar la guerra a una revisión de toda la seguridad europea. Ahora Jared Kushner y Steve Witkoff se reunirán con Vladímir Putin en Moscú y con Volodímir Zelenski en Dublín. Mientras tanto, Rusia lanzó un ataque masivo nocturno contra fábricas militares ucranianas; en Kiev un dron golpeó un edificio residencial y dejó al menos una muerta y cinco heridos.
 [ES]
-Fuentes: Al Jazeera.
+Fuentes: El País, Reuters, The Washington Post, DW en Español, BBC News
 [ITEM]
 [ES]
-Chile: sigue el paro de camioneros sin acuerdo con el Gobierno.
+Scott Colom gana en Misisipi y amplía la mayoría demócrata en el Senado.
 [ES]
-Tras una segunda reunión en La Moneda, el Gobierno y los camioneros movilizados no lograron un acuerdo. El principal choque es el plazo para congelar el precio de los combustibles: el Ejecutivo ofreció 74 días y los transportistas piden 120, y tampoco hubo consenso sobre rebajar el impuesto específico. Un vocero de Fuerza del Norte dijo que el paro es indefinido, porque las bases rechazaron la propuesta. El conflicto coincide con la sexta alza consecutiva de los combustibles, con el diésel subiendo casi 42 pesos por litro, y las aerolíneas piden revisar el estado de los vuelos por las complicaciones de traslado.
+El demócrata Scott Colom derrotó por un margen mínimo (49,2 % frente a 48,7 %) a la senadora republicana Cindy Hyde-Smith, en un estado donde Trump ganó por más de 22 puntos en 2024. Es el primer senador negro elegido por Misisipi en más de 140 años y el primer demócrata del estado en el Senado desde 1982. Con su victoria, los demócratas suman 55 escaños, a la espera de lo que pase en Alaska.
 [ES]
-Fuentes: Emol.
+Fuentes: BBC News Mundo, The New York Times, DW en Español, Reuters, Al Jazeera
+[ITEM]
+[ES]
+Ormuz: Irán dice que dos superpetroleros arden tras una "gran explosión".
+[ES]
+La Guardia Revolucionaria iraní afirmó este jueves que dos superpetroleros, que en conjunto llevaban más de cuatro millones de barriles, se incendiaron tras sufrir "un accidente" al usar una "ruta no autorizada" en el estrecho de Ormuz. En paralelo, el presidente del Parlamento y negociador jefe iraní, Mohammad Bagher Ghalibaf, dijo a Al Jazeera que el estrecho "nunca volverá" a su estatus previo a la guerra, aunque Irán se declara abierto a un acuerdo si EE. UU. evita "exigencias excesivas". Es la vía por la que pasa una parte crucial del petróleo mundial, así que conviene seguirlo de cerca.
+[ES]
+Fuentes: La Tercera (Europa Press), Al Jazeera, The Guardian
 [ES]
 España y Latinoamérica.
 [ITEM]
 [ES]
-Amazon pone en marcha sus centros de datos en Chile.
+Chile: sigue el paro camionero pese al congelamiento de combustibles.
 [ES]
-Amazon Web Services inauguró su región de centros de datos en Chile, en una ceremonia con el presidente José Antonio Kast, quien dijo que Chile entra en las grandes ligas. Es la tercera región de AWS en Latinoamérica, parte de una inversión de más de cuatro mil millones de dólares en 15 años; la empresa estima un aporte de más de siete mil quinientos millones al PIB y unos 4.100 empleos anuales. Entre los primeros clientes figuran BancoEstado, BTG Pactual, Cencosud, Consorcio, Itaú y Ripley, y la compañía promete capacitar gratis a 300.000 personas en inteligencia artificial y nube hasta 2028.
+Tras dos reuniones en La Moneda no hubo acuerdo con los transportistas movilizados: el principal punto de choque es el plazo para congelar el precio de los combustibles, con el Gobierno ofreciendo 74 días y los camioneros pidiendo 120. Aun así, el biministro Claudio Alvarado anunció que el Ejecutivo revertirá por ley la sexta alza consecutiva (el diésel sube casi 42 pesos por litro) y congelará los precios hasta el 3 de febrero de 2027. La Confederación Fuerza del Norte dice que el paro sigue "indefinido".
 [ES]
-Fuentes: Emol.
+Fuentes: Emol
 [ITEM]
 [ES]
-El papa León XIV, recibido por multitudes en Argentina.
+El papa León XIV, recibido por millones en Perú.
 [ES]
-Tras casi 40 años sin una visita papal, el papa León XIV congregó a multitudes en Córdoba, con fieles que viajaron durante horas o días para verlo. En sus tres días en el país instó repetidamente al Gobierno de Javier Milei a hacer la economía más inclusiva, proteger a los sindicatos y revertir recortes que afectan a los más pobres y a las personas con discapacidad. Emol registró la despedida de Milei en el aeropuerto, visiblemente emocionado y entre lágrimas.
+El pontífice llegó a Lima, la última etapa de su gira por Uruguay, Argentina y Perú, y según el Vaticano tres millones de personas salieron a recibirlo, un nuevo récord de su papado. León XIV, que fue misionero y obispo en Perú durante décadas, pasará tres días en Chiclayo, la diócesis que dirigió entre 2015 y 2023. El viaje llega pocas semanas después de que fuera operado.
 [ES]
-Fuentes: Al Jazeera y Emol.
+Fuentes: Al Jazeera, The Washington Post, Emol
+[ITEM]
+[ES]
+Argentina: reservas en mínimos de un mes y emisión de pesos.
+[ES]
+Las reservas del Banco Central argentino cayeron 312 millones de dólares, hasta 49.642 millones, golpeadas por la baja del oro y el fortalecimiento internacional del dólar, aunque el BCRA siguió comprando divisas y el mayorista cerró estable en 1.544 pesos. Al mismo tiempo, el Ministerio de Economía renovó sus vencimientos de deuda en pesos, pero al sumar el pago de dos bonos la operación terminó inyectando unos 1,7 billones de pesos al mercado. Es un equilibrio delicado entre acumular reservas y contener la presión cambiaria.
+[ES]
+Fuentes: Ámbito, Infobae
+[ITEM]
+[ES]
+Colombia: la Corte avala la emergencia por el terremoto, con límites.
+[ES]
+La Corte Constitucional declaró ajustado a la Constitución el estado de emergencia económica, social y ecológica decretado tras el sismo de magnitud 7,4 del 10 de agosto, pero le puso condiciones al Gobierno. La emergencia solo podrá cubrir a los municipios realmente afectados según la UNGRD, y no podrá usarse para resolver problemas previos al terremoto, como reformas estructurales del sistema carcelario.
+[ES]
+Fuentes: Caracol Radio
 [ES]
 Mundo.
 [ITEM]
 [ES]
-Guerra con Irán: Teherán niega conversaciones con Washington.
+Xi insiste en la "reunificación" con Taiwán; el G7 advierte a China.
 [ES]
-El jefe de seguridad iraní, Mohsen Rezaei, desmintió que haya conversaciones en curso con Estados Unidos, y el presidente del Parlamento, Mohammad Bagher Ghalibaf, acusó a Israel de tratar de arrastrar a Washington a una guerra sin fin. Un diplomático ruso respaldó la disposición de Irán a negociar la paz, mientras Al Jazeera informa de que Estados Unidos acusó a tres supuestos operativos respaldados por Irán por un presunto complot contra una base aérea británica. En paralelo, Irán dice respetar el tratado de no proliferación, aunque los sectores duros plantean la posibilidad de la bomba.
+En un discurso por el 160.º aniversario del natalicio de Sun Yat-sen, Xi Jinping afirmó que "la marea de la historia no puede detenerse" y llamó a una reunificación pacífica bajo el modelo de "un país, dos sistemas", sin mencionar el uso de la fuerza. Taipéi respondió que ni su gobierno ni su gente aceptarán ese modelo. El mismo día, los cancilleres del G7 reunidos en París dijeron que las acciones chinas al este de Taiwán amenazan la estabilidad.
 [ES]
-Fuentes: Al Jazeera.
+Fuentes: Reuters, Al Jazeera, La Tercera, Xinhua Español
 [ITEM]
 [ES]
-Scott Colom gana el Senado en Misisipi y hace historia.
+Un ataque israelí contra el hospital Nasser de Gaza deja seis muertos.
 [ES]
-El demócrata Scott Colom derrotó a la senadora republicana Cindy Hyde-Smith por un margen mínimo, tras más de una semana de recuento, y será el primer senador negro de Misisipi desde la era de la Reconstrucción. El estado no elegía a un demócrata para el Senado desde 1982. Hyde-Smith reconoció la derrota en un breve video, y la campaña de Colom, basada en conversar con la gente en peluquerías, universidades e incluso mítines de Trump, se hizo viral con un anuncio sobre el precio de la carne.
+Un misil alcanzó durante la noche un edificio con quirófanos y cuidados intensivos del hospital Nasser, el mayor del sur de Gaza, y mató al menos a seis personas, según el Ministerio de Salud gestionado por Hamás, que lo calificó de "violación flagrante" del derecho internacional. El ejército israelí asegura que atacó a un alto mando de Hamás que usaba el hospital como centro de operaciones. El golpe llega cuando apenas empiezan a remitir las lluvias que inundaron decenas de miles de tiendas de campaña.
 [ES]
-Fuentes: The Guardian.
+Fuentes: BBC News, El País, DW en Español, Reuters
 [ITEM]
 [ES]
-Reino Unido crea el primer representante especial de seguridad climática.
+COP31 en Antalya: "la crisis climática nos está dejando atrás".
 [ES]
-El Gobierno británico nombró a Madeleine Alessandri, presidenta del comité conjunto de inteligencia, como la primera representante especial del mundo para la seguridad climática, con la misión de asesorar a Downing Street sobre riesgos de seguridad nacional derivados de la crisis climática. El primer ministro Andy Burnham lo anunciará en la COP31 y recordará que el verano fue el más caluroso registrado en el Reino Unido, con olas de calor consecutivas.
+El secretario general de la ONU, António Guterres, abrió la cumbre del clima en Turquía advirtiendo que la lenta respuesta global pone al mundo en camino de superar el umbral de temperatura pactado. Participan negociadores de unos 200 países, con el foco en la electrificación y el financiamiento, y por segundo año sin Estados Unidos tras su salida del Acuerdo de París. Países como Malí reclamaron que quienes menos contaminaron no carguen con la deuda climática, y Brasil presentó una hoja de ruta para dejar atrás los combustibles fósiles.
 [ES]
-Fuentes: The Guardian.
+Fuentes: DW en Español, The Guardian, AP News, Xinhua Español
+[ITEM]
+[ES]
+Dimite el vicepresidente de Indonesia.
+[ES]
+Gibran Rakabuming Raka, hijo del expresidente Joko Widodo, presentó su renuncia al Parlamento tras un fallo que invalidó un documento escolar usado en su campaña de 2024 y en medio de pedidos de destitución. Su salida refleja el desgaste de la alianza entre Widodo y el presidente Prabowo Subianto, quien aceptó la dimisión "con pesar". El Parlamento tiene 60 días para elegir reemplazo entre dos candidatos que propondrá el presidente.
+[ES]
+Fuentes: BBC News, Al Jazeera, Reuters
+[ITEM]
+[ES]
+La IA impulsa el mayor crecimiento del Reino Unido en más de dos años.
+[ES]
+La economía británica creció un 0,7 % en el tercer trimestre, su ritmo más rápido en dos años y medio, impulsada casi por completo por los servicios y, en particular, por el sector de tecnología y el despliegue de servicios de IA. Septiembre sumó un 0,2 %, por encima de lo previsto, aunque agosto se revisó a la baja hasta cero. Es una de las primeras cifras oficiales en atribuir de forma directa un salto del PIB a la inteligencia artificial.
+[ES]
+Fuentes: The Guardian
 [ES]
 Tecnología y Nicho.
 [ITEM]
 [ES]
-Anthropic fija el rango de su salida a bolsa: de 70 a 78 dólares por acción.
+TSMC invertirá 1.000 millones de dólares en Anthropic y OpenAI.
 [ES]
-Anthropic ofrecerá 825 millones de acciones Clase A y podría recaudar entre 57.750 y 64.350 millones de dólares, con una valoración implícita de hasta 1,4 billones de dólares, por debajo de los 2 billones que se barajaron meses atrás. Cotizaría en Nasdaq alrededor del 19 de noviembre con el símbolo A N T. Según el prospecto actualizado, sus ingresos anualizados llegaron a 81.000 millones de dólares a fines de octubre, aunque acumula una pérdida neta de 104.000 millones en nueve meses por compromisos de cómputo. Transparencia: este resumen lo redacta Claude, un producto de Anthropic.
+El consejo de TSMC, el fabricante que produce la gran mayoría de los chips de IA de Nvidia, aprobó invertir hasta 500 millones en acciones preferentes de OpenAI y otros 500 millones en acciones de Anthropic (la creadora de Claude, el asistente que redacta este resumen) al precio de su próxima salida a bolsa. Ars Technica lo presenta como un nuevo ejemplo de "financiamiento circular": proveedores, inversores y clientes se compran entre sí, lo que dificulta medir la demanda real de IA. Puede dar un empujón de confianza a un mercado que se ve nervioso.
 [ES]
-Fuentes: TechCrunch y Emol.
+Fuentes: Ars Technica
 [ITEM]
 [ES]
-Claude Meetings, Whiteboards y Sheets: la inteligencia artificial entra a las reuniones.
+CoreWeave cambia cómo financia su expansión en IA.
 [ES]
-Anthropic presentó Claude Meetings, que se suma como participante visible a una videollamada y redacta planes, arma cronogramas en una pizarra y responde preguntas en el chat mientras la gente habla. Lanzó además Claude Whiteboards y Claude Sheets, y dejó disponible Claude Data, antes llamado Dashboards. Es parte de la carrera de Anthropic, OpenAI y Meta por convertir sus asistentes en suites de oficina que compitan con Microsoft y Google.
+La "neonube" CoreWeave ingresó 3.660 millones de dólares en el trimestre (un 168 % más), pero perdió 709 millones y pagó 846 millones solo en intereses. Su respuesta: pedir a los clientes pagos por adelantado (espera unos 9.000 millones en los próximos tres meses), endeudarse contra contratos concretos y firmar acuerdos más cortos que podrían subir precios. Funciona mientras la demanda y el poder de precios se mantengan, y ese es justo el gran interrogante del momento.
 [ES]
-Fuentes: TechCrunch.
+Fuentes: TechCrunch
 [ITEM]
 [ES]
-Nvidia investiga la relación de su director ejecutivo con una presunta espía china.
+El mundo indie debate cuánta IA es "demasiada".
 [ES]
-El directorio de Nvidia contrató al bufete Wachtell, Lipton, Rosen y Katz, con el socio Joon Kim al frente, para una investigación independiente sobre la relación de Jensen Huang con una presunta espía china. La empresa, valorada en 4,1 billones de dólares, asegura que Huang seguirá dirigiéndola sin interrupción. TechCrunch añade que Huang se bajó de una cumbre de ElevenLabs y que habría contratado hace un año a una firma de relaciones públicas.
+Diecinueve miembros del jurado de los prestigiosos premios del Independent Games Festival firmaron un comunicado en el que anuncian que no votarán por ningún juego que use IA generativa "en ninguna medida", y piden prohibirla en futuras ediciones. El debate se centró rápidamente en Big Walk, de House House, cuyos desarrolladores admitieron que usaron modelos de lenguaje "con moderación" para resolver algunos errores técnicos difíciles. La pregunta de fondo: ¿dónde se traza la línea?
 [ES]
-Fuentes: The Guardian y TechCrunch.
+Fuentes: Ars Technica
 [ITEM]
 [ES]
-X-energy recibe luz verde para sus primeros reactores modulares pequeños.
+Usuarios denuncian fallos de seguridad en la nueva web de Humble Bundle.
 [ES]
-El regulador nuclear de Estados Unidos aprobó el permiso de construcción de cuatro reactores Xe-100 en una planta de Dow en Texas, de 80 megavatios eléctricos cada uno. Es el primer visto bueno para un reactor avanzado en un sitio industrial del país, aunque no estarán operativos hasta comienzos de la década de 2030. La Unión de Científicos Preocupados cuestionó la rapidez del trámite, mientras Amazon, que lidera su financiamiento, se comprometió a comprar 5 gigavatios de capacidad.
+La tienda de videojuegos Humble Bundle estrenó un nuevo sitio web y, según usuarios en foros que llegaron a lo más alto de Hacker News, desmontó buena parte de su seguridad: por ejemplo, permitiría cambiar el correo de la cuenta sin confirmar la contraseña. Los usuarios atribuyen el problema a un desarrollo apoyado en IA ("vibecoding"); son denuncias de la comunidad, no confirmadas por la empresa, pero vale la pena revisar tu cuenta si la usas.
 [ES]
-Fuentes: TechCrunch.
+Fuentes: Hacker News, SpaceBattles
 [ITEM]
 [ES]
-Hacker News: los dispositivos del hogar inteligente deben funcionar sin internet.
+Muere Tim Peters, autor del "Zen de Python".
 [ES]
-Una publicación que superó los 1.100 puntos en Hacker News defiende una regla simple: nada esencial en la casa debe depender del servidor de un fabricante. Su autor, tras diez años de domótica, usa Tasmota, un broker MQTT y Node-RED en una Raspberry Pi, y deja a Alexa solo como una puerta de entrada más. Los lectores aportaron ejemplos de fallos absurdos, como neveras o televisores que dejan de funcionar sin la app, y consejos como preferir Zigbee o Z-Wave.
+La comunidad de Python despide a Tim Peters (1952-2026), autor del célebre Zen de Python y creador de Timsort, el algoritmo de ordenamiento que luego adoptaron Java y Android. Guido van Rossum lo recordó como mentor y codiseñador del lenguaje, famoso como "Timbot" por sus respuestas pacientes y con humor en las listas de correo. Fue la noticia más votada del día en Hacker News.
 [ES]
-Fuentes: Hacker News y Do Code That Matters.
-[ITEM]
-[ES]
-Hacker News: Scion vuelve con una camioneta kei para Estados Unidos.
-[ES]
-Toyota revive la marca Scion como Scion by Toyota, un laboratorio de ideas de movilidad, y su primer modelo es la KEI-01, una camioneta ultracompacta que en la práctica es un Toyota Pixis rebautizado. Con motor de 660 centímetros cúbicos y tracción 4x4, está certificada como vehículo de baja velocidad, con tope inferior a 40 kilómetros por hora. Llegará solo como programa piloto para flotas desde fines de 2027.
-[ES]
-Fuentes: Hacker News y The Autopian.
+Fuentes: Hacker News, Python Discourse
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
 [ES]
-Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+"Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes."
 [ES]
-Hay un hilo común entre varias historias de hoy: la energía y los precios. Mientras la guerra con Irán no muestra salida clara, en Chile los combustibles suman seis alzas seguidas y los camioneros paralizan rutas; en España, el costo de la vivienda y de la vida llevó a los grandes sindicatos a una huelga general. Son conflictos distintos, pero ambos sugieren que un choque externo en la energía se traduce rápido en tensión doméstica. Vale la pena vigilar si el diésel y el transporte se convierten en el próximo foco de presión sobre precios en la región; no es una predicción segura.
+Fíjate en cómo se juntan hoy tres historias de IA que parecen distintas. Nvidia podría perder al líder que la convirtió en la empresa más valiosa del mundo; TSMC invierte en sus propios clientes, Anthropic y OpenAI; y CoreWeave pide a sus clientes que paguen por adelantado para financiar centros de datos. Todo apunta a un ecosistema donde el dinero circula en un circuito bastante cerrado y donde la confianza depende mucho de pocas personas y pocos contratos. Al mismo tiempo, el Reino Unido ya ve la IA en su PIB. El auge es real, pero también lo es su fragilidad: vale la pena vigilar si el escándalo de Nvidia se queda en un tema de gobierno corporativo o se convierte en una corrección más amplia.
 [ES]
-Otro patrón es la infraestructura de la inteligencia artificial. El mismo día en que Amazon abre su región de centros de datos en Chile, Anthropic fija un rango de salida a bolsa que la valoraría hasta en 1,4 billones de dólares y X-energy recibe permiso para reactores que los gigantes tecnológicos quieren para alimentar sus centros de datos. Si esa demanda sigue creciendo, podría traducirse para Latinoamérica en más inversión, pero también en más presión sobre electricidad, agua y minerales como el cobre. Vale la pena seguir qué se negocia localmente y a qué costo; los números de hoy son proyecciones de las propias empresas.
+El segundo hilo es la energía. Si se confirman los incendios de superpetroleros en Ormuz y Teherán insiste en que el estrecho "nunca volverá" a ser lo que era, el petróleo seguirá caro y volátil. Eso no se queda en el Golfo: en Chile ya se ven seis alzas seguidas del diésel y un paro camionero que obliga al Gobierno a congelar precios a un costo fiscal considerable. Si vives en un país importador de combustibles, como Chile, buena parte de Centroamérica o España, este es probablemente el riesgo más directo para tu bolsillo en los próximos meses. Para exportadores como Brasil, Colombia o Venezuela la ecuación es distinta, aunque no necesariamente más estable.
 [ES]
-En geopolítica, varias historias apuntan a decisiones que se toman entre pocos actores: Estados Unidos, Rusia y Ucrania conversan en Abu Dabi con la Unión Europea fuera de la mesa, y el Congreso estadounidense frena por bloques el juicio a Hegseth. Para España y Europa, la lección posible es que la seguridad puede definirse sin ellas; para los países latinoamericanos, que la agenda de grandes potencias puede imponerse con poco margen de maniobra. En esa línea, Sheinbaum insiste en cooperar sin subordinación; es un matiz que vale la pena observar más que una conclusión.
+El tercer hilo es el coste de vida como motor político. La huelga general en España por la vivienda, el paro camionero en Chile y la presión sobre las reservas argentinas cuentan la misma historia desde ángulos distintos: cuando el dinero no alcanza para lo básico, la gente sale a la calle o los gobiernos improvisan alivios. Con las elecciones españolas a menos de tres semanas, la vivienda podría pesar más que cualquier otro tema. Y en Argentina, un dólar global más fuerte y un oro más débil recuerdan lo expuestas que siguen las reservas a factores que nadie controla desde Buenos Aires.
 [ES]
-Por último, la victoria de Scott Colom en Misisipi y el empuje demócrata para moderar la política migratoria sugieren que el péndulo político en Estados Unidos se está moviendo tras las elecciones de medio mandato. Hasta enero la Cámara sigue en manos republicanas, pero un Congreso distinto podría cambiar el tono hacia la región en migración y comercio, con efectos en remesas y exportaciones. No es una predicción segura: depende de cuánto se atreva a cambiar la Casa Blanca.
+Por último, un contrapunto más luminoso: millones de personas reunidas en Lima por el papa, decenas de miles marchando juntas en Madrid y jurados indie que se organizan para defender una forma de trabajar. En un día dominado por escándalos y guerras, también hay señales de gente que busca lo colectivo. No es una predicción segura, pero sí un patrón que aparece una y otra vez en estas páginas.
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
 [ES]
-Seguimiento diario de la hipótesis vigente, ciclos de renovación cada vez más cortos que llevan a fortalecer la voz interior y, finalmente, a más colaboración y cohesión social: es una lectura rápida, informada por la tendencia reciente del registro y no solo por las historias de hoy, no un nuevo debate completo.
+Seguimiento continuo de la hipótesis de referencia: un escaneo diario de las noticias de hoy, leído a la luz de la tendencia reciente del registro, no una nueva argumentación completa.
 [ES]
-Sobre el punto a, ciclos de autoridad más cortos: apoyo. Claude Meetings, Whiteboards y Sheets llegan semanas después de las herramientas de oficina de OpenAI y mientras Meta lanza su agente Muse, y la valoración de Anthropic ya se mueve entre 965.000 millones y 1,4 billones de dólares en seis meses, según TechCrunch. Es otra señal de apoyo en una racha larga: llevamos más de dos semanas seguidas con señal favorable en a.
+Hoy (a), el acortamiento de los ciclos de liderazgo, recibe una de sus señales más claras: Jensen Huang, quizá la figura más emblemática del auge de la IA, podría perder su puesto en cuestión de días tras 33 años al frente de Nvidia (The Guardian). Con esto, (a) suma apoyo en todas las entradas recientes del registro. Para (b), la voz interior, hay una señal moderada de apoyo: jurados del Independent Games Festival se plantan contra la IA generativa por convicción propia, aunque el viento de la industria sople en contra (Ars Technica); el caso de Humble Bundle funciona como recordatorio de lo que cuesta delegar el criterio en una máquina. Esto rompe una larga racha de "neutral" para (b): es su primer apoyo desde el 2 de noviembre, así que de momento es un hecho aislado, no una tendencia.
 [ES]
-Sobre el punto b, voz interior: neutral. Sobre el punto c, alejarse del individualismo: desafío. Sobre el punto d, colaboración y cohesión: apoyo. Sobre b no hay evidencia directa; la publicación sobre hogares que funcionan sin internet habla de autonomía frente a los proveedores, pero es una señal ambigua. En c pesan en contra el frenazo por bloques al juicio a Hegseth y la mesa de Abu Dabi sin la Unión Europea, según The Guardian y Xinhua Español, la sexta jornada consecutiva con desafío. En d apoyan la huelga general española y la movilización de gremios en Chile, según Al Jazeera y Emol, la tercera jornada seguida de apoyo, aunque nacen más del agravio que de una voz interior fortalecida.
-[ES]
-La última revisión integral, de noviembre de 2026, concluyó net challenge, con la cadena sin propagarse más allá de los primeros eslabones; nada de hoy lo cambia: a y d siguen firmes, b sigue sin moverse y c sigue en contra.
+En (c), el alejamiento del individualismo, la lógica de bloques sigue mandando: Xi y Taipéi enfrentados (Reuters), y los choques del final de la huelga en Barcelona y Madrid. Continúa así la racha casi ininterrumpida de señales en contra para (c). En (d), en cambio, la huelga general española de unos 4 millones de trabajadores (Reuters) y las multitudes que recibieron al papa en Perú (Al Jazeera) mantienen el apoyo casi diario. La revisión integral de este mes llegó a un net challenge: (a) y (d) se mueven por su cuenta sin que la cadena se propague por (b) y (c). Lo de hoy no cambia ese veredicto: la acción colectiva en España nace del agravio por la vivienda más que de una voz interior fortalecida.
