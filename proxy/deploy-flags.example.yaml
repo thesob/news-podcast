@@ -20,6 +20,10 @@
 --allow-unauthenticated:
 --set-env-vars:
   RECIPIENT_EMAIL: you@example.com
+  # Optional hardening: restrict /extract to the outlets in your prompt's source
+  # list (suffix match). Unset = any public http(s) site. Recommended once your
+  # outlet list is stable; add a domain here whenever you add an outlet.
+  # EXTRACT_ALLOWED_DOMAINS: elpais.com,theguardian.com,dn.se
 --set-secrets:
   GUARDIAN_API_KEY: GUARDIAN_API_KEY:latest
   GNEWS_API_KEY: GNEWS_API_KEY:latest

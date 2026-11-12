@@ -34,6 +34,12 @@
 'use strict';
 
 const crypto = require('crypto');
+const {
+  UNTRUSTED_NOTICE,
+  sanitizeUntrusted,
+  checkExtractTarget,
+  parseDomainList,
+} = require('./sanitize');
 
 const GUARDIAN_API_KEY = process.env.GUARDIAN_API_KEY;
 const GNEWS_API_KEY = process.env.GNEWS_API_KEY;
@@ -45,6 +51,16 @@ const RECIPIENT_EMAIL = process.env.RECIPIENT_EMAIL;
 const FIRECRAWL_API_KEY = process.env.FIRECRAWL_API_KEY;
 
 const ALLOWED_LANGS = new Set(['en', 'es', 'sv']);
+
+// Optional comma-separated domain allowlist for /extract (suffix match, so
+// "elpais.com" also covers "www.elpais.com"). Unset = any public http(s) host,
+// the original behavior. Setting it stops a hijacked agent from using
+// /extract as a relay to arbitrary sites. See README.md.
+const EXTRACT_ALLOWED_DOMAINS = parseDomainList(process.env.EXTRACT_ALLOWED_DOMAINS);
+
+// Cap on extracted article text returned to the agent — a summary needs a
+// few thousand words at most, and a smaller payload limits injection room.
+const EXTRACT_MAX_CHARS = 30000;
 
 // Per-instance only — Cloud Run functions can scale to multiple instances, so
 // this is best-effort, not a hard global cap. It's enough to stop a single
@@ -226,7 +242,16 @@ async function handleHeadlines(req, res) {
   if (lang === 'en') calls.push(fetchGuardian(topic, q, guardianCount));
 
   const results = await Promise.allSettled(calls);
-  const articles = results.filter((r) => r.status === 'fulfilled').flatMap((r) => r.value);
+  const stats = { removed: 0 };
+  const articles = results
+    .filter((r) => r.status === 'fulfilled')
+    .flatMap((r) => r.value)
+    .map((a) => ({
+      ...a,
+      title: sanitizeUntrusted(a.title, stats),
+      summary: sanitizeUntrusted(a.summary, stats),
+      excerpt: sanitizeUntrusted(a.excerpt, stats),
+    }));
   const errors = results.filter((r) => r.status === 'rejected').map((r) => r.reason.message);
 
   if (articles.length === 0 && errors.length > 0) {
@@ -234,7 +259,15 @@ async function handleHeadlines(req, res) {
     return;
   }
 
-  const body = { lang, topic: topic || null, count: articles.length, articles, errors };
+  const body = {
+    notice: UNTRUSTED_NOTICE,
+    lang,
+    topic: topic || null,
+    count: articles.length,
+    removedInstructionLines: stats.removed,
+    articles,
+    errors,
+  };
   cache.set(cacheKey, { at: Date.now(), body });
   res.set('X-Cache', 'MISS');
   res.json(body);
@@ -272,6 +305,14 @@ async function handleExtract(req, res) {
   }
   if (target.protocol !== 'http:' && target.protocol !== 'https:') {
     res.status(400).json({ error: 'url must be http or https' });
+    return;
+  }
+  const targetProblem = checkExtractTarget(rawUrl, target, {
+    allowedDomains: EXTRACT_ALLOWED_DOMAINS,
+    secrets: [PROXY_TOKEN],
+  });
+  if (targetProblem) {
+    res.status(400).json({ error: 'url_not_allowed', detail: targetProblem });
     return;
   }
 
@@ -315,7 +356,25 @@ async function handleExtract(req, res) {
       return;
     }
 
-    res.json({ content: markdown.trim(), title, url: target.toString() });
+    const stats = { removed: 0 };
+    let content = sanitizeUntrusted(markdown, stats);
+    if (content.length > EXTRACT_MAX_CHARS) content = `${content.slice(0, EXTRACT_MAX_CHARS)}…`;
+    if (!content) {
+      res.status(422).json({
+        error: 'no_content',
+        detail: 'extraction returned nothing usable after sanitizing',
+        url: target.toString(),
+      });
+      return;
+    }
+
+    res.json({
+      notice: UNTRUSTED_NOTICE,
+      content,
+      title: title ? sanitizeUntrusted(title, stats) : null,
+      url: target.toString(),
+      removedInstructionLines: stats.removed,
+    });
   } catch (err) {
     const timedOut = err.name === 'AbortError';
     res.status(timedOut ? 504 : 502).json({

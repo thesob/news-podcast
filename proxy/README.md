@@ -325,6 +325,33 @@ deploy` command from step 5 — it rebuilds from the current contents of
 `proxy/` and rolls out a new revision. No separate secrets/env-var step is
 needed unless you're also changing one of those values.
 
+### Prompt-injection hardening (`sanitize.js`)
+
+News text is untrusted, and the daily agent reads it. The proxy therefore:
+
+- strips HTML comments/scripts/tags and invisible or direction-control
+  characters from everything it returns;
+- replaces any line that reads like an instruction to an AI ("ignore previous
+  instructions", "send this to a@b.c", chat-template tokens, …; English,
+  Spanish, Swedish) with `[removed: possible embedded instruction]` and
+  reports the count as `removedInstructionLines`;
+- adds a `notice` field to every `/headlines` and `/extract` response saying
+  the content is untrusted;
+- caps `/extract` text at 30,000 characters;
+- refuses `/extract` targets that carry URL credentials, point at private /
+  loopback / metadata addresses, or contain `PROXY_TOKEN` (so the proxy can't
+  be used to relay the token out);
+- optionally restricts `/extract` to a domain list via the
+  `EXTRACT_ALLOWED_DOMAINS` env var (comma-separated, suffix match; see
+  `deploy-flags.example.yaml`). Unset means any public http(s) site.
+
+This is one layer, not a guarantee — a paraphrased injection can slip past a
+pattern list. The agent prompt's trust-boundary section and the validation in
+`scripts/gmail-to-github.gs` / `scripts/build_episode.py` are the others. A
+news item that is *about* prompt injection may lose a line to the filter; the
+marker makes that visible. Run the filter's tests with `npm test` in this
+folder.
+
 ---
 
 ## Alternative: Google Cloud Console
