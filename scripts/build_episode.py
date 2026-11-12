@@ -760,12 +760,32 @@ def warn_if_accents_stripped(segments) -> None:
             print(f"WARNING: {msg}", file=sys.stderr)
 
 
+MAX_SCRIPT_CHARS = 60000
+# Control characters and bidi-override characters have no place in a spoken
+# script; they are a way to smuggle hidden text past a human reviewer.
+BAD_CHARS_RE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f‪-‮⁦-⁩]")
+
+
+def validate_script_text(text: str) -> None:
+    """Second line of defense after the Apps Script gate (same limits).
+
+    The script is written by an agent that reads untrusted web text, so refuse
+    to synthesize or publish anything structurally off. Exits non-zero, which
+    fails the workflow before any audio, transcript or feed change is made.
+    """
+    if len(text) > MAX_SCRIPT_CHARS:
+        sys.exit(f"Refusing to build: script is {len(text)} chars (limit {MAX_SCRIPT_CHARS}).")
+    if BAD_CHARS_RE.search(text):
+        sys.exit("Refusing to build: script contains control or direction-override characters.")
+
+
 def main():
     if not SCRIPT_PATH.exists():
         print(f"No script found at {SCRIPT_PATH}", file=sys.stderr)
         sys.exit(1)
 
     text = SCRIPT_PATH.read_text(encoding="utf-8")
+    validate_script_text(text)
     segments = parse_segments(text)
     warn_if_accents_stripped(segments)
     audio = build_audio(segments)
@@ -777,6 +797,9 @@ def main():
 
     TRANSCRIPTS_DIR.mkdir(parents=True, exist_ok=True)
     transcript = ITEM_LINE_RE.sub("", SECTION_LINE_RE.sub("", text))  # drop marker lines
+    # The audio already drops URLs (see _strip_urls); keep the published
+    # transcript consistent so no link text from fetched sources is republished.
+    transcript = re.sub(r"[ \t]+([.,;])", r"\1", URL_RE.sub("", transcript))
     (TRANSCRIPTS_DIR / f"{episode_date}.txt").write_text(transcript, encoding="utf-8")
 
     duration_seconds = int(len(audio) / 1000)

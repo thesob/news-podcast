@@ -190,6 +190,34 @@ function processEdition_(ed) {
     return;
   }
 
+  // 0. Validate the payloads before anything is committed or published. The
+  //    brief is produced by an agent that reads untrusted web text, so this is
+  //    the last deterministic gate. A bad SCRIPT blocks the whole run (and
+  //    alerts the owner once); a bad log line / review is dropped on its own so
+  //    it can't wedge the podcast.
+  const scriptProblem = validateScript_(found.scriptText);
+  if (scriptProblem) {
+    Logger.log('[' + ed.id + '] REJECTED script in message ' + found.messageId + ': ' + scriptProblem);
+    alertOnce_(ed, 'script', found.messageId, scriptProblem);
+    return;
+  }
+  if (found.logLine) {
+    const logProblem = validateLogLine_(found.logLine);
+    if (logProblem) {
+      Logger.log('[' + ed.id + '] Dropping hypothesis log line: ' + logProblem);
+      alertOnce_(ed, 'log', found.messageId, logProblem);
+      found.logLine = null;
+    }
+  }
+  if (found.reviewBlock) {
+    const reviewProblem = validateReviewBlock_(found.reviewBlock);
+    if (reviewProblem) {
+      Logger.log('[' + ed.id + '] Dropping integral review block: ' + reviewProblem);
+      alertOnce_(ed, 'review', found.messageId, reviewProblem);
+      found.reviewBlock = null;
+    }
+  }
+
   // 1. The podcast script — the primary product and the pipeline trigger.
   //    If this fails, stop and retry the whole thing next poll.
   if (!commitToGithub_(ed, found.scriptText)) {
@@ -280,6 +308,96 @@ function extractBetween_(plainBody, startMarker, endMarker) {
     return null;
   }
   return plainBody.substring(startIdx + startMarker.length, endIdx).trim();
+}
+
+// ---------------------------------------------------------------------------
+// Payload validation (defence against a hijacked or malfunctioning agent)
+// ---------------------------------------------------------------------------
+
+const LIMITS = {
+  SCRIPT_MIN_CHARS: 200,
+  SCRIPT_MAX_CHARS: 60000,
+  LOG_MAX_CHARS: 800,
+  REVIEW_MAX_CHARS: 12000,
+};
+const VALID_SECTIONS_ = ['intro', 'news', 'connecting_dots', 'hypothesis_watch'];
+const CONTROL_CHARS_RE = /[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F‪-‮⁦-⁩]/;
+const MARKUP_RE = /<\/?(?:script|iframe|object|embed|style|html|img)\b|<a\s+href/i;
+
+/** Returns null if the script is structurally sound, else a short reason. */
+function validateScript_(text) {
+  if (text.length < LIMITS.SCRIPT_MIN_CHARS) return 'script too short (' + text.length + ' chars)';
+  if (text.length > LIMITS.SCRIPT_MAX_CHARS) return 'script too long (' + text.length + ' chars)';
+  if (CONTROL_CHARS_RE.test(text)) return 'script contains control or direction-override characters';
+  if (MARKUP_RE.test(text)) return 'script contains HTML markup';
+
+  const lines = text.split(/\r?\n/);
+  let first = true;
+  let spokenChars = 0;
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i].trim();
+    if (!line) continue;
+
+    const tag = line.match(/^\[([A-Za-z_]+)(?:\s+([A-Za-z_]+))?\]/);
+    if (tag) {
+      const name = tag[1].toUpperCase();
+      if (name === 'SECTION') {
+        if (!tag[2] || VALID_SECTIONS_.indexOf(tag[2].toLowerCase()) === -1) {
+          return 'unknown section marker on line ' + (i + 1) + ': ' + line.substring(0, 40);
+        }
+      } else if (['EN', 'ES', 'SV', 'ITEM'].indexOf(name) === -1 || tag[2]) {
+        return 'unknown tag on line ' + (i + 1) + ': ' + line.substring(0, 40);
+      }
+    } else if (first) {
+      return 'script must begin with a [SECTION] or language tag, not: ' + line.substring(0, 40);
+    } else {
+      spokenChars += line.length;
+    }
+    first = false;
+  }
+  if (spokenChars < LIMITS.SCRIPT_MIN_CHARS) return 'script has almost no spoken text';
+  return null;
+}
+
+/** The log line must be a single dated line of plain text. */
+function validateLogLine_(line) {
+  const l = line.trim();
+  if (l.length > LIMITS.LOG_MAX_CHARS) return 'log line too long (' + l.length + ' chars)';
+  if (/[\r\n]/.test(l)) return 'log line spans several lines';
+  if (!/^\d{4}-\d{2}-\d{2}\s*\|/.test(l)) return 'log line does not start with "YYYY-MM-DD |"';
+  if (CONTROL_CHARS_RE.test(l) || MARKUP_RE.test(l)) return 'log line contains markup or control characters';
+  if (/https?:\/\/|\]\(/i.test(l)) return 'log line contains a link';
+  return null;
+}
+
+/** The monthly review is markdown with a "(YYYY-MM)" tag; no active content. */
+function validateReviewBlock_(block) {
+  if (block.length > LIMITS.REVIEW_MAX_CHARS) return 'review block too long (' + block.length + ' chars)';
+  if (CONTROL_CHARS_RE.test(block) || MARKUP_RE.test(block)) return 'review contains markup or control characters';
+  if (!/\(\d{4}-\d{2}\)/.test(block)) return 'review is missing its "(YYYY-MM)" tag';
+  return null;
+}
+
+/**
+ * Emails the script owner once per (edition, kind, message) when a payload is
+ * rejected, so a stuck message doesn't re-alert on every 5-minute poll.
+ */
+function alertOnce_(ed, kind, messageId, reason) {
+  try {
+    const props = PropertiesService.getScriptProperties();
+    const key = 'ALERTED_' + ed.id + '_' + kind;
+    if (props.getProperty(key) === messageId) return;
+    props.setProperty(key, messageId);
+    GmailApp.sendEmail(
+      Session.getEffectiveUser().getEmail(),
+      'Podcast pipeline: ' + kind + ' rejected' + editionLabel_(ed),
+      'The ' + kind + ' payload in message ' + messageId + ' failed validation and was not ' +
+        'published.\n\nReason: ' + reason + '\n\nThe email itself is untouched in your mailbox. ' +
+        'Inspect it for odd or unexpected content before re-running.'
+    );
+  } catch (e) {
+    Logger.log('[' + ed.id + '] Could not send rejection alert: ' + e);
+  }
 }
 
 /** Removes every marker-delimited block (markers included) from a plain body. */
