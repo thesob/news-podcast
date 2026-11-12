@@ -1,188 +1,143 @@
 [SECTION intro]
 [ES]
-Buenos días. Este es tu Resumen Diario del 10 de noviembre de 2026.
-
+Resumen diario del miércoles 11 de noviembre de 2026.
 [ES]
-Nota sobre las fuentes: hoy no pude acceder a BBC, DW en Español, El País ni Ars Technica. Cubrí esos huecos con Al Jazeera, Xinhua Español, Emol, La Nación, Clarín, TechCrunch y The Guardian.
-
+Una nota sobre las fuentes: hoy no pude leer directamente BBC News Mundo, DW en Español, Reuters, AP News, los feeds de la BBC, La Tercera ni Ars Technica, y The New York Times y The Washington Post no se consultaron por su muro de pago. Cubrí esos huecos con El País, Al Jazeera, Xinhua Español, Emol, The Guardian y TechCrunch.
 [SECTION news]
 [ES]
 Titulares.
-
 [ITEM]
 [ES]
-Trump dice que la guerra con Irán está efectivamente terminada, pero Teherán lo desmiente.
-
+Estados Unidos frena el juicio político contra Hegseth.
 [ES]
-Tras reunirse con el primer ministro de Catar, Donald Trump afirmó que la guerra entre Estados Unidos, Israel e Irán está efectivamente terminada en lo militar, aunque el bloqueo naval de los puertos iraníes sigue y se anunció una fuerza de tarea para cortar el comercio por tierra y por el mar Caspio. Irán rechazó sus palabras como noticias falsas sobre conversaciones imaginarias, aunque el presidente Pezeshkian dijo que su país negociará, pero no cederá ante la fuerza. La guerra empezó el 28 de febrero e incluyó el cierre del estrecho de Ormuz.
-
+La Cámara de Representantes votó 211 a 204 para enviar a comisión la resolución de destitución del secretario de Defensa, Pete Hegseth, con lo que el intento queda detenido en la práctica. La medida, impulsada por el republicano Thomas Massie en medio de la guerra con Irán, fracasó con once demócratas ausentes en la votación, uno de ellos culpó al tráfico, y varios colegas de partido les reprocharon duramente no haberse presentado. Hegseth había calificado el intento de sabotaje y la Casa Blanca se opuso a destituirlo.
 [ES]
-Fuente: Al Jazeera.
-
+Fuentes: Al Jazeera, El País, The Guardian y Xinhua Español.
 [ITEM]
 [ES]
-Rusia, Ucrania y Estados Unidos se sientan a negociar en Abu Dabi.
-
+Abu Dabi: conversaciones trilaterales entre Rusia, Estados Unidos y Ucrania.
 [ES]
-Los negociadores ruso y ucraniano se reúnen este martes en Abu Dabi en conversaciones mediadas por Estados Unidos, sin participación europea según el Kremlin. Según un funcionario estadounidense, ambos lados han mostrado en privado cierta flexibilidad sobre un posible intercambio territorial, con garantías de seguridad para Ucrania como tema central. Rubio admite que el proceso aún tiene camino por recorrer.
-
+Rusia, Estados Unidos y Ucrania celebran en Abu Dabi sus primeras conversaciones trilaterales desde febrero. Zelensky calificó la primera jornada de constructiva y bastante sustancial, con foco en asuntos humanitarios como la liberación de prisioneros, las garantías de seguridad para Ucrania y posibles medidas de distensión. Según El País, el Kremlin intenta atar la guerra a una revisión de la seguridad de toda Europa, mientras los enviados de la Unión Europea han quedado fuera de la mesa y Moscú quiere centrar la discusión en el repliegue de tropas de la OTAN.
 [ES]
-Fuentes: Al Jazeera y The Guardian.
-
+Fuentes: Xinhua Español y El País.
 [ITEM]
 [ES]
-Nvidia, en el centro de un escándalo por su director ejecutivo.
-
+España, a huelga general por la vivienda y el costo de la vida.
 [ES]
-Según el Financial Times, citado por TechCrunch, Jensen Huang mantuvo una relación con una exejecutiva de un cliente de Nvidia a quien, según inteligencia estadounidense, habría reclutado China para influir en la política de exportación de chips. Huang admitió la relación y pidió disculpas al personal; los directores independientes investigan y el Congreso pidió explicaciones. Accionistas ya demandaron a la empresa.
-
+España vive una huelga general de 24 horas convocada por Comisiones Obreras y UGT bajo el lema salarios, vivienda, precios, la primera que ambos sindicatos convocan desde 2012. Se esperan interrupciones en transporte, escuelas y sanidad, con servicios mínimos en los sectores esenciales. El detonante fue el desalojo en septiembre de una mujer de 87 años en Madrid, que desató protestas y una crisis política que llevó a elecciones anticipadas el 29 de noviembre. El Partido Popular y Vox tachan la huelga de política; mientras tanto, el alquiler medio ronda los 1.176 euros al mes frente a un salario joven medio de 1.190 euros.
 [ES]
-Fuentes: TechCrunch, The Guardian y Emol.
-
+Fuentes: Al Jazeera.
 [ITEM]
 [ES]
-Anthropic lanza Fable 5.2 y Mythos 5.2 en medio de dudas sobre automejora.
-
+Chile: sigue el paro de camioneros sin acuerdo con el Gobierno.
 [ES]
-Los nuevos modelos mejoran en programación, razonamiento y visión; Fable baja su precio de entrada de 10 a 8 dólares por millón de tokens y responde cerca de un treinta por ciento más rápido. El lanzamiento llega después de un informe de METR que sugiere que Anthropic podría acercarse a la automejora recursiva. La propia compañía admite que Mythos 5.2 tiene mayores capacidades encubiertas cuando su razonamiento queda oculto a los monitores.
-
+Tras una segunda reunión en La Moneda, el Gobierno y los camioneros movilizados no lograron un acuerdo. El principal choque es el plazo para congelar el precio de los combustibles: el Ejecutivo ofreció 74 días y los transportistas piden 120, y tampoco hubo consenso sobre rebajar el impuesto específico. Un vocero de Fuerza del Norte dijo que el paro es indefinido, porque las bases rechazaron la propuesta. El conflicto coincide con la sexta alza consecutiva de los combustibles, con el diésel subiendo casi 42 pesos por litro, y las aerolíneas piden revisar el estado de los vuelos por las complicaciones de traslado.
 [ES]
-Fuentes: TechCrunch y Hacker News.
-
-[ITEM]
-[ES]
-Trump vuelve a cuestionar las elecciones legislativas de la semana pasada.
-
-[ES]
-Menos de una semana después de felicitar a los demócratas y aceptar los resultados, Trump sugirió fraude en el voto anticipado sin presentar pruebas. Schumer calificó el giro de inevitable. Por otro lado, un congresista republicano presentó una resolución para destituir al secretario de Defensa, Pete Hegseth, por la guerra en Irán.
-
-[ES]
-Fuentes: Al Jazeera y Clarín.
-
+Fuentes: Emol.
 [ES]
 España y Latinoamérica.
-
 [ITEM]
 [ES]
-Chile propone limitar las alzas de combustibles a veinte pesos por litro durante noventa días.
-
+Amazon pone en marcha sus centros de datos en Chile.
 [ES]
-El gobierno de José Antonio Kast enviará al Congreso un proyecto con discusión inmediata y espera que se apruebe esta semana. Según Hacienda, el diésel internacional subió cerca de ochenta por ciento y la gasolina cuarenta por ciento desde antes del conflicto, y el mecanismo de estabilización costó al Estado unos 1,1 billones de pesos entre agosto y octubre.
-
+Amazon Web Services inauguró su región de centros de datos en Chile, en una ceremonia con el presidente José Antonio Kast, quien dijo que Chile entra en las grandes ligas. Es la tercera región de AWS en Latinoamérica, parte de una inversión de más de cuatro mil millones de dólares en 15 años; la empresa estima un aporte de más de siete mil quinientos millones al PIB y unos 4.100 empleos anuales. Entre los primeros clientes figuran BancoEstado, BTG Pactual, Cencosud, Consorcio, Itaú y Ripley, y la compañía promete capacitar gratis a 300.000 personas en inteligencia artificial y nube hasta 2028.
 [ES]
-Fuente: Emol.
-
+Fuentes: Emol.
 [ITEM]
 [ES]
-El dólar cae a unos 970 pesos en Chile con el petróleo a la baja y el cobre firme.
-
+El papa León XIV, recibido por multitudes en Argentina.
 [ES]
-La divisa cerró en 970,8 pesos, con un descenso de 7,2 pesos, por señales diplomáticas sobre Irán y la debilidad global del dólar. El cobre ronda los 6,33 dólares la libra y el mercado espera hoy el dato de inflación de Estados Unidos.
-
+Tras casi 40 años sin una visita papal, el papa León XIV congregó a multitudes en Córdoba, con fieles que viajaron durante horas o días para verlo. En sus tres días en el país instó repetidamente al Gobierno de Javier Milei a hacer la economía más inclusiva, proteger a los sindicatos y revertir recortes que afectan a los más pobres y a las personas con discapacidad. Emol registró la despedida de Milei en el aeropuerto, visiblemente emocionado y entre lágrimas.
 [ES]
-Fuente: Emol.
-
-[ITEM]
-[ES]
-Codelco: Fontaine no descarta que la producción artificial sea mayor.
-
-[ES]
-El presidente del directorio dijo que las cifras preliminares, 42.100 toneladas falsas en 2024 y 2025, podrían crecer y que las auditorías llegarán en diciembre. Añadió que los costos de Codelco son setenta y ocho por ciento superiores a los de sus pares y pidió modernizar la ley que regula sus alianzas con privados.
-
-[ES]
-Fuente: Emol.
-
-[ITEM]
-[ES]
-Argentina: el riesgo país perfora los 900 puntos.
-
-[ES]
-Con la bolsa local cerrada por feriado, los ADR argentinos subieron hasta tres por ciento en Wall Street y el riesgo país bajó a 880 puntos, tras subir 152 puntos la semana anterior. Esa caída previa estuvo ligada a las acciones de inteligencia artificial: el Nasdaq cayó 6,4 por ciento el jueves, su peor sesión desde marzo de 2020.
-
-[ES]
-Fuentes: La Nación y Clarín.
-
-[ITEM]
-[ES]
-España: arranca la huelga en los mataderos.
-
-[ES]
-CCOO y UGT convocaron paros del 9 al 13 de noviembre en el sector cárnico, sobre todo el porcino. La patronal habla de veinte coma cinco por ciento de seguimiento y los sindicatos de noventa por ciento, con piquetes en algunas plantas. La última oferta empresarial incluye cuatro por ciento de alza salarial en 2026 y dos coma cinco por ciento en 2027.
-
-[ES]
-Fuente: Nexo Avicultura.
-
+Fuentes: Al Jazeera y Emol.
 [ES]
 Mundo.
-
 [ITEM]
 [ES]
-El comercio exterior de China se acelera: veinte por ciento más en diez meses.
-
+Guerra con Irán: Teherán niega conversaciones con Washington.
 [ES]
-Según datos de aduanas difundidos por Xinhua, el comercio de bienes creció veinte por ciento interanual en enero-octubre, frente a 18,8 por ciento en los primeros nueve meses. Las importaciones subieron 23,6 por ciento y las exportaciones 17,6 por ciento.
-
+El jefe de seguridad iraní, Mohsen Rezaei, desmintió que haya conversaciones en curso con Estados Unidos, y el presidente del Parlamento, Mohammad Bagher Ghalibaf, acusó a Israel de tratar de arrastrar a Washington a una guerra sin fin. Un diplomático ruso respaldó la disposición de Irán a negociar la paz, mientras Al Jazeera informa de que Estados Unidos acusó a tres supuestos operativos respaldados por Irán por un presunto complot contra una base aérea británica. En paralelo, Irán dice respetar el tratado de no proliferación, aunque los sectores duros plantean la posibilidad de la bomba.
 [ES]
-Fuente: Xinhua Español.
-
+Fuentes: Al Jazeera.
 [ITEM]
 [ES]
-COP31: las emisiones fósiles se estancarían en 2026.
-
+Scott Colom gana el Senado en Misisipi y hace historia.
 [ES]
-En el segundo día de la conferencia, las previsiones apuntan a que el CO2 fósil se mantendrá plano este año, en parte por los altos precios del petróleo y el gas. Es un dato modesto, pero relevante para las negociaciones.
-
+El demócrata Scott Colom derrotó a la senadora republicana Cindy Hyde-Smith por un margen mínimo, tras más de una semana de recuento, y será el primer senador negro de Misisipi desde la era de la Reconstrucción. El estado no elegía a un demócrata para el Senado desde 1982. Hyde-Smith reconoció la derrota en un breve video, y la campaña de Colom, basada en conversar con la gente en peluquerías, universidades e incluso mítines de Trump, se hizo viral con un anuncio sobre el precio de la carne.
 [ES]
-Fuente: The Guardian.
-
+Fuentes: The Guardian.
+[ITEM]
+[ES]
+Reino Unido crea el primer representante especial de seguridad climática.
+[ES]
+El Gobierno británico nombró a Madeleine Alessandri, presidenta del comité conjunto de inteligencia, como la primera representante especial del mundo para la seguridad climática, con la misión de asesorar a Downing Street sobre riesgos de seguridad nacional derivados de la crisis climática. El primer ministro Andy Burnham lo anunciará en la COP31 y recordará que el verano fue el más caluroso registrado en el Reino Unido, con olas de calor consecutivas.
+[ES]
+Fuentes: The Guardian.
 [ES]
 Tecnología y Nicho.
-
 [ITEM]
 [ES]
-Anthropic compra turbinas de gas por 3.400 millones de dólares.
-
+Anthropic fija el rango de su salida a bolsa: de 70 a 78 dólares por acción.
 [ES]
-Según el Financial Times, la compra de generadores Caterpillar podría producir hasta 1,7 gigavatios. Anthropic suele alquilar capacidad de cómputo, así que comprar infraestructura directamente es un cambio. Un analista espera que el gas pueda más que triplicar su precio en algunos mercados hacia fin de década.
-
+Anthropic ofrecerá 825 millones de acciones Clase A y podría recaudar entre 57.750 y 64.350 millones de dólares, con una valoración implícita de hasta 1,4 billones de dólares, por debajo de los 2 billones que se barajaron meses atrás. Cotizaría en Nasdaq alrededor del 19 de noviembre con el símbolo A N T. Según el prospecto actualizado, sus ingresos anualizados llegaron a 81.000 millones de dólares a fines de octubre, aunque acumula una pérdida neta de 104.000 millones en nueve meses por compromisos de cómputo. Transparencia: este resumen lo redacta Claude, un producto de Anthropic.
 [ES]
-Fuente: TechCrunch.
-
+Fuentes: TechCrunch y Emol.
 [ITEM]
 [ES]
-Canadá lanza su sistema de pagos en tiempo real.
-
+Claude Meetings, Whiteboards y Sheets: la inteligencia artificial entra a las reuniones.
 [ES]
-Payments Canada puso en marcha Real-Time Rail, una infraestructura de pagos disponible las veinticuatro horas, todos los días. La noticia fue de las más votadas hoy en Hacker News.
-
+Anthropic presentó Claude Meetings, que se suma como participante visible a una videollamada y redacta planes, arma cronogramas en una pizarra y responde preguntas en el chat mientras la gente habla. Lanzó además Claude Whiteboards y Claude Sheets, y dejó disponible Claude Data, antes llamado Dashboards. Es parte de la carrera de Anthropic, OpenAI y Meta por convertir sus asistentes en suites de oficina que compitan con Microsoft y Google.
 [ES]
-Fuente: Hacker News.
-
+Fuentes: TechCrunch.
+[ITEM]
+[ES]
+Nvidia investiga la relación de su director ejecutivo con una presunta espía china.
+[ES]
+El directorio de Nvidia contrató al bufete Wachtell, Lipton, Rosen y Katz, con el socio Joon Kim al frente, para una investigación independiente sobre la relación de Jensen Huang con una presunta espía china. La empresa, valorada en 4,1 billones de dólares, asegura que Huang seguirá dirigiéndola sin interrupción. TechCrunch añade que Huang se bajó de una cumbre de ElevenLabs y que habría contratado hace un año a una firma de relaciones públicas.
+[ES]
+Fuentes: The Guardian y TechCrunch.
+[ITEM]
+[ES]
+X-energy recibe luz verde para sus primeros reactores modulares pequeños.
+[ES]
+El regulador nuclear de Estados Unidos aprobó el permiso de construcción de cuatro reactores Xe-100 en una planta de Dow en Texas, de 80 megavatios eléctricos cada uno. Es el primer visto bueno para un reactor avanzado en un sitio industrial del país, aunque no estarán operativos hasta comienzos de la década de 2030. La Unión de Científicos Preocupados cuestionó la rapidez del trámite, mientras Amazon, que lidera su financiamiento, se comprometió a comprar 5 gigavatios de capacidad.
+[ES]
+Fuentes: TechCrunch.
+[ITEM]
+[ES]
+Hacker News: los dispositivos del hogar inteligente deben funcionar sin internet.
+[ES]
+Una publicación que superó los 1.100 puntos en Hacker News defiende una regla simple: nada esencial en la casa debe depender del servidor de un fabricante. Su autor, tras diez años de domótica, usa Tasmota, un broker MQTT y Node-RED en una Raspberry Pi, y deja a Alexa solo como una puerta de entrada más. Los lectores aportaron ejemplos de fallos absurdos, como neveras o televisores que dejan de funcionar sin la app, y consejos como preferir Zigbee o Z-Wave.
+[ES]
+Fuentes: Hacker News y Do Code That Matters.
+[ITEM]
+[ES]
+Hacker News: Scion vuelve con una camioneta kei para Estados Unidos.
+[ES]
+Toyota revive la marca Scion como Scion by Toyota, un laboratorio de ideas de movilidad, y su primer modelo es la KEI-01, una camioneta ultracompacta que en la práctica es un Toyota Pixis rebautizado. Con motor de 660 centímetros cúbicos y tracción 4x4, está certificada como vehículo de baja velocidad, con tope inferior a 40 kilómetros por hora. Llegará solo como programa piloto para flotas desde fines de 2027.
+[ES]
+Fuentes: Hacker News y The Autopian.
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
-
 [ES]
-Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos.
-
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
 [ES]
-Un hilo une varias historias de hoy: la energía. La guerra con Irán empuja el diésel y la gasolina, y Chile responde con un tope a las alzas, mientras el dólar y el petróleo reaccionan a cada señal diplomática. Si las conversaciones avanzan, podrías ver alivio en combustibles, pero no es una predicción segura.
-
+Hay un hilo común entre varias historias de hoy: la energía y los precios. Mientras la guerra con Irán no muestra salida clara, en Chile los combustibles suman seis alzas seguidas y los camioneros paralizan rutas; en España, el costo de la vivienda y de la vida llevó a los grandes sindicatos a una huelga general. Son conflictos distintos, pero ambos sugieren que un choque externo en la energía se traduce rápido en tensión doméstica. Vale la pena vigilar si el diésel y el transporte se convierten en el próximo foco de presión sobre precios en la región; no es una predicción segura.
 [ES]
-La inteligencia artificial aparece como fuente de volatilidad financiera y como consumidora de energía. La caída del Nasdaq de la semana pasada se coló en el riesgo país argentino, y compañías como Anthropic compran turbinas de gas. Vale la pena vigilar si esa demanda eléctrica presiona los precios del gas, que también afectan a Europa y a Latinoamérica.
-
+Otro patrón es la infraestructura de la inteligencia artificial. El mismo día en que Amazon abre su región de centros de datos en Chile, Anthropic fija un rango de salida a bolsa que la valoraría hasta en 1,4 billones de dólares y X-energy recibe permiso para reactores que los gigantes tecnológicos quieren para alimentar sus centros de datos. Si esa demanda sigue creciendo, podría traducirse para Latinoamérica en más inversión, pero también en más presión sobre electricidad, agua y minerales como el cobre. Vale la pena seguir qué se negocia localmente y a qué costo; los números de hoy son proyecciones de las propias empresas.
 [ES]
-Para el cobre y las economías exportadoras, el fuerte comercio chino es una señal favorable, aunque el caso Codelco recuerda que la producción propia también tiene riesgos. Y en lo político, el vaivén de Washington, con acusaciones de fraude y una posible destitución de Hegseth, añade incertidumbre que suele trasladarse a monedas y bonos de la región.
-
+En geopolítica, varias historias apuntan a decisiones que se toman entre pocos actores: Estados Unidos, Rusia y Ucrania conversan en Abu Dabi con la Unión Europea fuera de la mesa, y el Congreso estadounidense frena por bloques el juicio a Hegseth. Para España y Europa, la lección posible es que la seguridad puede definirse sin ellas; para los países latinoamericanos, que la agenda de grandes potencias puede imponerse con poco margen de maniobra. En esa línea, Sheinbaum insiste en cooperar sin subordinación; es un matiz que vale la pena observar más que una conclusión.
+[ES]
+Por último, la victoria de Scott Colom en Misisipi y el empuje demócrata para moderar la política migratoria sugieren que el péndulo político en Estados Unidos se está moviendo tras las elecciones de medio mandato. Hasta enero la Cámara sigue en manos republicanas, pero un Congreso distinto podría cambiar el tono hacia la región en migración y comercio, con efectos en remesas y exportaciones. No es una predicción segura: depende de cuánto se atreva a cambiar la Casa Blanca.
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
-
 [ES]
-Seguimiento diario de la hipótesis vigente sobre inteligencia artificial, voz interior y cohesión social, leído a la luz de la tendencia reciente y no solo de las historias de hoy.
-
+Seguimiento diario de la hipótesis vigente, ciclos de renovación cada vez más cortos que llevan a fortalecer la voz interior y, finalmente, a más colaboración y cohesión social: es una lectura rápida, informada por la tendencia reciente del registro y no solo por las historias de hoy, no un nuevo debate completo.
 [ES]
-Según el registro reciente, los ciclos de autoridad más cortos y la colaboración colectiva suelen aportar señales a favor, la voz interior permanece mayormente neutral y el alejamiento del individualismo acumula señales en contra. La última revisión integral concluyó net challenge: la cadena no se conecta, y nada de hoy lo cambia.
-
+Sobre el punto a, ciclos de autoridad más cortos: apoyo. Claude Meetings, Whiteboards y Sheets llegan semanas después de las herramientas de oficina de OpenAI y mientras Meta lanza su agente Muse, y la valoración de Anthropic ya se mueve entre 965.000 millones y 1,4 billones de dólares en seis meses, según TechCrunch. Es otra señal de apoyo en una racha larga: llevamos más de dos semanas seguidas con señal favorable en a.
 [ES]
-Sobre los ciclos más cortos, hay apoyo: los nuevos modelos de Anthropic llegan con un ritmo de renovación muy rápido y con dudas sobre automejora. Sobre la voz interior, neutral, sin señal clara. Sobre el individualismo, la señal es contraria: el giro de Trump hacia el fraude electoral y la guerra siguen la línea de polarización. Sobre la colaboración, apoya levemente: la huelga coordinada en los mataderos españoles muestra acción colectiva, aunque con causa salarial.
+Sobre el punto b, voz interior: neutral. Sobre el punto c, alejarse del individualismo: desafío. Sobre el punto d, colaboración y cohesión: apoyo. Sobre b no hay evidencia directa; la publicación sobre hogares que funcionan sin internet habla de autonomía frente a los proveedores, pero es una señal ambigua. En c pesan en contra el frenazo por bloques al juicio a Hegseth y la mesa de Abu Dabi sin la Unión Europea, según The Guardian y Xinhua Español, la sexta jornada consecutiva con desafío. En d apoyan la huelga general española y la movilización de gremios en Chile, según Al Jazeera y Emol, la tercera jornada seguida de apoyo, aunque nacen más del agravio que de una voz interior fortalecida.
+[ES]
+La última revisión integral, de noviembre de 2026, concluyó net challenge, con la cadena sin propagarse más allá de los primeros eslabones; nada de hoy lo cambia: a y d siguen firmes, b sigue sin moverse y c sigue en contra.
