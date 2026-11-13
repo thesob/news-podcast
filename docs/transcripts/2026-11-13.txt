@@ -1,0 +1,287 @@
+[EN]
+Daily News Brief — Friday, November 13, 2026.
+
+[EN]
+Good morning, Patricio! Here's what's moving the world today.
+
+[EN]
+Sources note: Reuters (blocked, 401), AP News (403; the /extract retry on the AP Nvidia article returned only site navigation), the Sarasota Herald-Tribune (paywall), Xinhua Español (feed returned 404) and Emol (empty feed) couldn't be read directly this morning, and the extraction proxy was rate-limited for part of the run. I covered the gaps through other outlets: the Nvidia story via The Guardian, NYT, DW and TechCrunch (which cites Reuters' reporting); international news via Al Jazeera and DW in place of Xinhua; and Chilean news via La Tercera plus the Spanish headlines proxy in place of Emol.
+
+[EN]
+Top Stories.
+
+[EN]
+Jensen Huang is out at Nvidia, and Washington wants answers
+
+[EN]
+Nvidia co-founder Jensen Huang resigned on Thursday after reports of several affairs, including one with a woman suspected of being a Chinese spy; CFO Colette Kress is running the company on an interim basis. Senate Banking Chair Tim Scott has now asked both Huang and Commerce Secretary Howard Lutnick to testify, and Lutnick is under growing pressure over claims his department went easy on Nvidia's chip sales to firms like Megaspeed. The NYT also reports that President Trump called Huang on Tuesday to urge him to fight for his job, and Reuters sources say there was a third affair. Nvidia's slide pulled Wall Street lower on Thursday.
+
+[EN]
+Sources: The Guardian, The New York Times, DW, Al Jazeera, TechCrunch, Hacker News.
+
+[EN]
+Global Microsoft outage enters its second day
+
+[EN]
+Outlook, Teams and Copilot went down at about 16:00 GMT on Thursday, and Downdetector logged reports from 74 countries within an hour. Microsoft says some servers became unexpectedly unavailable and that it wasn't a cyberattack or a traffic spike. More than 12 hours in, it's reporting only "incremental improvement," and in the UK hospitals, GPs, schools and police forces have been seriously disrupted.
+
+[EN]
+Sources: Al Jazeera, The Guardian, TechCrunch, NRK.
+
+[EN]
+Ukraine talks get going again, with Europe at the table
+
+[EN]
+After meeting Putin in Moscow, US envoys Steve Witkoff and Jared Kushner say Europe will join the next round of negotiations on ending the war. Zelensky said in Dublin that the trilateral format is "unblocked" and that the sides agreed on the biggest prisoner-of-war exchange of the war so far. Putin repeated that Western troops deployed after a deal would restart the fighting. Separately, El País reports that hacked Russian government data puts the number of dead on Moscow's side at more than 450,000.
+
+[EN]
+Sources: The Washington Post, El País, La Tercera, DW, The Guardian.
+
+[EN]
+Iran: Trump drops diplomacy as an LNG tanker hits a mine in Hormuz
+
+[EN]
+Trump said on Thursday that no deal with Iran is needed and shut down the negotiating effort Vice President Vance had been leading. On Friday, Iran's Revolutionary Guard said a ship carrying liquefied natural gas exploded after hitting a naval mine while using what Tehran calls an "unauthorized" southern route through the Strait of Hormuz, which US forces have been escorting. For energy markets it's one more sign that the strait, one of the world's key chokepoints, is still very dangerous.
+
+[EN]
+Sources: The Washington Post, La Tercera (Europa Press).
+
+[ES]
+España y Latinoamérica.
+
+[ES]
+Presupuesto 2027: la Cámara rechaza las partidas de Cultura y de la Mujer
+
+[ES]
+En una sesión que se alargó hasta la madrugada, los diputados rechazaron por 59 a 60 la partida de Cultura, que traía un recorte del 10,1% y dejaba los sitios de memoria con apenas mil pesos de financiamiento. También se cayó, por 58 a 59, la del Ministerio de la Mujer, aunque se aprobaron los recursos para Seguridad. El debate sobre el Museo de la Memoria enfrentó a la oposición, que habló de "negacionismo", con los republicanos, que dicen querer "ordenar prioridades".
+
+[ES]
+Fuente: La Tercera.
+
+[ES]
+Grietas en la derecha: "¡Qué patético!", dice Ossandón
+
+[ES]
+La discusión del Presupuesto ya acumula tantas multas por exabruptos que en la mesa de la Cámara no tienen el número exacto. El jueves, el diputado republicano Cristián Araya llamó a la oposición "mercaderes de la angustia" durante el debate de Salud, y molestó no solo a la izquierda sino también a la vicepresidenta de la Cámara, Ximena Ossandón (RN). El episodio deja a la vista la tensión entre el partido del Presidente Kast y sus socios de la derecha tradicional.
+
+[ES]
+Fuente: La Tercera.
+
+[ES]
+España arranca la campaña del 29N con la derecha rozando los 190 escaños
+
+[ES]
+El primer tracking diario de 40dB. para EL PAÍS y la SER confirma la fuerza de Vox, cuyo líder ya compite en popularidad con el del PP. Vox presentó un programa con lemas como "prioridad nacional" y "remigración", y Abascal busca triplicar sus escaños en Cataluña. Al mismo tiempo, varios expertos advierten de que el plan económico del PP podría llevar el déficit por encima del 4% del PIB.
+
+[ES]
+Fuentes: El País, laSexta.
+
+[ES]
+Paraguay: la Fiscalía allana la residencia presidencial
+
+[ES]
+En una operación sin precedentes, los fiscales registraron Mburuvicha Róga, la residencia que hasta la semana pasada ocupaba Santiago Peña, destituido por el escándalo de Ueno Bank y hoy en prisión preventiva. Ese mismo día fue detenido el superintendente de Bancos, Holger Insfrán, y se incautaron cerca de 500 fojas de documentos sobre el banco.
+
+[ES]
+Fuente: La Tercera.
+
+[ES]
+Venezuela: protestas por los apagones y transparencia petrolera
+
+[ES]
+Los venezolanos están protestando como no se veía en años, sobre todo por la caída de la red eléctrica, mientras el líder respaldado por EE.UU. adelanta la Navidad. En paralelo, el Departamento de Estado informó que Washington administró 12.000 millones de dólares en ingresos petroleros venezolanos y detalló cómo se devolvieron al país.
+
+[ES]
+Fuente: The Washington Post.
+
+[ES]
+Argentina: la inflación se aceleró al 2,2% en octubre
+
+[ES]
+Es el nivel más alto en seis meses. Los alimentos subieron algo menos que el promedio, en torno al 2%, aunque algunos productos de estación, como verduras y legumbres, saltaron hasta un 14,5% en la región de Cuyo.
+
+[ES]
+Fuente: Ámbito.
+
+[EN]
+US and International.
+
+[EN]
+Democrats keep winning in the South: Colom takes Mississippi
+
+[EN]
+Democrat Scott Colom won a Senate seat in Mississippi, possibly the biggest upset of these midterms and the latest in a run of Republican losses in the South. Cindy Holscher kept the Kansas governorship for Democrats, and in Georgia young Black voters turned out at higher rates than young white voters for the first time since 2012. In the Senate, Chris Van Hollen is now set to challenge Chuck Schumer for majority leader.
+
+[EN]
+Sources: The New York Times, SVT.
+
+[EN]
+Floods in Gaza's tent camps
+
+[EN]
+Weekend storms caused a landslide onto tent shelters that killed at least four people, and heavy rain has damaged thousands of tents. Displaced families are bracing for a worse winter, and power and healthcare are at risk every time it rains. The Holy See's envoy to the UN voiced "grave concern," while peace talks remain stalled.
+
+[EN]
+Sources: The Washington Post, Al Jazeera, DW, El País.
+
+[EN]
+Norway's Supreme Court voids approvals for three oil fields (from NRK, Norway)
+
+[EN]
+Greenpeace and Natur og Ungdom won their climate lawsuit against the Norwegian state. The court ruled that the government's approvals for three North Sea oil fields were invalid because of flaws in how they were processed. "We have changed Norwegian oil policy forever," said Natur og Ungdom's leader.
+
+[EN]
+Sources: NRK, Aftonbladet.
+
+[EN]
+COP31: "The age of electricity"
+
+[EN]
+On day five of the climate talks in Turkey, electrification has become a central theme. IEA chief Fatih Birol told The Guardian that the world has moved past the age of coal, oil and gas into an "age of electricity." Meanwhile, DW asks whether Brazil's TFFF rainforest fund is failing to get off the ground because it doesn't have enough money.
+
+[EN]
+Sources: The Guardian, DW.
+
+[EN]
+Czechia: a big protest is coming over cuts to public media
+
+[EN]
+A fast-tracked bill to cut funding for public broadcasters has already triggered strikes and rallies, and many fear for the independence of Czech public media. A large protest is planned for Prague on Sunday.
+
+[EN]
+Source: DW.
+
+[EN]
+South Africa's ANC suffers its worst result yet
+
+[EN]
+The ruling ANC took a beating in local elections across the country. Experts read the result as public frustration with failing basic services and as a sign of a wider political shift.
+
+[EN]
+Source: DW.
+
+[EN]
+Storm Charles floods southern Europe
+
+[EN]
+Portugal and the far south of Spain were hit hardest, after gusts of 136 km/h and 355 mm of rain in 12 hours on Madeira. Lisbon cancelled 183 flights on Wednesday, about a third of its normal daily traffic.
+
+[EN]
+Source: The Guardian.
+
+[EN]
+Tech and Niche.
+
+[EN]
+Google launches Gemini 4 Hydrogen
+
+[EN]
+The new model replaces Gemini 3.8 Flash, the fast, cheap tier most Google users actually use, and it's available to everyone right away rather than in the staged rollouts Argon and Carbon got. It also adds a new "xhigh" thinking level. On Hacker News, it's the AI launch drawing the most attention this week.
+
+[EN]
+Sources: Ars Technica, TechCrunch, Hacker News.
+
+[EN]
+Parents push back against AI in schools
+
+[EN]
+Families protested in seven US cities after Google confirmed that students won't be able to use Search without AI. A Chicago parents' group that already forced the city's school district to drop a Gemini pilot is now demanding a moratorium on AI in schools. Google is also being sued by a 13-year-old student who alleges that using Gemini on her school-issued Chromebook harmed her.
+
+[EN]
+Source: Ars Technica.
+
+[EN]
+The FAA rolls out AI air-traffic advice nationwide
+
+[EN]
+The $875 million SMART system will now advise all 22 US air traffic control centers. The FAA says it saved about 10 minutes and 80 gallons of fuel per rerouted flight during its trial over Washington. Humans still sign off on every recommendation, but the controllers' union says it wasn't involved in designing or testing the system.
+
+[EN]
+Source: Ars Technica.
+
+[EN]
+Rust 1.100 finally stabilizes the "never" type
+
+[EN]
+After ten years and five failed attempts, the ! type is finally stable. The release also stabilizes the Allocator API and adds a Cargo feature that reports unused dependencies. It's one of the most upvoted stories on Hacker News today.
+
+[EN]
+Sources: Rust Blog, Hacker News.
+
+[SV]
+Sverige.
+
+[SV]
+Regeringsfrågan: Centerpartiet vill ha besked i dag
+
+[SV]
+Klockan 17.00 löper C:s tidsgräns ut för Magdalena Andersson och Ulf Kristersson att lägga fram sina regeringsalternativ. Sverige står fortfarande utan ny regering, två månader efter valet den 13 september. En ny undersökning från Indikator visar att C-väljarna helst vill se en regering med Andersson, så länge Vänsterpartiet hålls utanför, och annars föredrar en alliansregering som släpps fram av SD.
+
+[SV]
+Källor: DN, SVT, Aftonbladet, SvD.
+
+[SV]
+Åtta av tio nya poliser utsätts för hot och våld
+
+[SV]
+Enligt en ny rapport från Polisförbundet är nya poliser betydligt mer utsatta än sina erfarna kollegor. Över hälften svarar dessutom att det saknas erfarna instruktörer för aspiranterna.
+
+[SV]
+Källa: SVT.
+
+[SV]
+Gängvåld: Foxtrots "superanstiftare" kopplas till mordet på Saba
+
+[SV]
+Mannen pekas ut som hjärnan bakom flera av årets grymmaste gängdåd. Nu kopplas han även till mordet på Saba Abraham i idrottshallen i Älvsjö, och enligt en poliskälla är en av huvudteorierna att han har tagit ut sin hämnd.
+
+[SV]
+Källa: DN.
+
+[SV]
+Snökaos i norr
+
+[SV]
+Det har kommit betydligt mer snö i Umeå än prognosen visade, och kommunen tvingas prioritera om för att hålla vägarna öppna. På E4 söder om Örnsköldsvik har lastbilschaufförer suttit fast i elva timmar, och Trafikverket har satt in tungbärgare.
+
+[SV]
+Källa: SVT.
+
+[SV]
+Nationella provet i svenska kan ha läckt på Tiktok
+
+[SV]
+Den muntliga delen av provet för årskurs nio ska ha publicerats på Tiktok. Det väcker nya frågor om hur säkra de nationella proven är.
+
+[SV]
+Källor: Aftonbladet, SvD.
+
+[EN]
+Connecting the Dots.
+
+[EN]
+"This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above."
+
+[EN]
+Patricio, today's common thread looks like single points of failure. The world's most valuable chipmaker lost its founder in four days, and a scandal at the top of a single company has turned into a national-security question for the US Commerce Department. Meanwhile, one infrastructure fault at Microsoft knocked email offline in 74 countries and left British hospitals unable to work normally. A lot of what the AI economy is being built on turns out to be more concentrated, and more fragile, than its valuations suggest. That's worth watching rather than panicking about, but it's a good argument for keeping some redundancy in your own tools and workflows.
+
+[EN]
+For Chile, the energy story pulls in two directions. At COP31, the IEA is describing an "age of electricity," which in the long run means demand for copper, and that's good for Chile's exports and the peso. In the short run, Trump has dropped talks with Iran just as a gas tanker hit a mine in Hormuz, which keeps LNG and fuel prices high and volatile, and Chile imports most of its fossil fuels. If AI stocks keep falling after the Nvidia shock, that could also weigh on the data-center buildout that's been part of the copper story. Put together, that probably means a jumpier peso and costly energy, even with a healthy long-run outlook for copper. That's my read, not a confident prediction.
+
+[EN]
+Politically, the region looks restless. Paraguay's ousted president is in pretrial detention, Venezuelans are protesting blackouts under a US-backed leader, and Spain looks headed for a right-wing majority with a much stronger Vox. At home, the fight over the 2027 budget and the clash between the Republicans and RN suggest President Kast's coalition is less tightly held together than its numbers in Congress imply. The memory-sites vote, decided by a single vote, shows how easily culture-war issues can derail budget talks. Next week's votes will show whether that's just noise or a real split.
+
+[EN]
+One more hopeful thread: the Ukraine talks are moving again, with Europe at the table and a large prisoner swap agreed. If that holds, it could gradually ease the pressure on energy and grain prices that has fed into inflation from Buenos Aires to Santiago. It's early, and Putin's warning about Western troops shows how fragile it is.
+
+[EN]
+Hypothesis Watch.
+
+[EN]
+This is the ongoing watch on your standing hypothesis about AI, internal voice and social cohesion. It's a daily scan read against the recent trend in the log, not a full re-argument.
+
+[EN]
+(a) Shrinking authority cycles: support. This continues the strongest streak in the log, with (a) reading support on every entry in the recent window. The Nvidia story has gone from founder-hero to resignation to Senate summons in about a week, and the pressure is now spreading to Lutnick, with a Schumer challenge on the political side and Gemini 4 Hydrogen quietly replacing a model that was itself recent. (b) A stronger internal voice: support, in line with the long run of (b) support. The parents fighting Google's "no Search without AI" policy are explicitly refusing a default and trusting their own judgment, and the FAA's SMART rollout keeps a human signature on every AI recommendation.
+
+[EN]
+(c) Moving away from individualism: neutral, as on every day in the log. The school protests are grassroots coalitions, but they're organized around a single issue, and the same goes for Czechia's public-media protest. (d) Collaboration and cohesion: neutral. Ukraine talks reopening with Europe at the table is real cooperation, but it's between states, and it's offset by the Hormuz mine strike and the rancor in Chile's Congress. The pattern from the last two months holds: the first two links in the chain keep showing up, while (c) and (d) still haven't moved, apart from the lone Serbian signal for (d) on October 26. No integral review has been published yet, so there's no earlier verdict to weigh today against. The first one is due on the first brief of December.
