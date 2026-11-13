@@ -1,234 +1,317 @@
 [SECTION intro]
 [EN]
-Daily News Brief, Thursday, November 12, 2026. Good morning, Patricio! Here's your brief for today.
+Daily News Brief — Friday, November 13, 2026.
+
+[EN]
+Good morning, Patricio! Here's what's moving the world today.
+
+[EN]
+Sources note: Reuters (blocked, 401), AP News (403; the /extract retry on the AP Nvidia article returned only site navigation), the Sarasota Herald-Tribune (paywall), Xinhua Español (feed returned 404) and Emol (empty feed) couldn't be read directly this morning, and the extraction proxy was rate-limited for part of the run. I covered the gaps through other outlets: the Nvidia story via The Guardian, NYT, DW and TechCrunch (which cites Reuters' reporting); international news via Al Jazeera and DW in place of Xinhua; and Chilean news via La Tercera plus the Spanish headlines proxy in place of Emol.
+
 [SECTION news]
 [EN]
 Top Stories.
+
 [ITEM]
 [EN]
-Nvidia's board weighs ousting Jensen Huang as the stock slides
+Jensen Huang is out at Nvidia, and Washington wants answers
+
 [EN]
-Nvidia's board met on Wednesday to decide whether to remove co-founder Jensen Huang as CEO, a sharp turn from Sunday, when it publicly backed him. It comes after Huang admitted to a relationship with a woman alleged to be a Chinese spy, followed by a New York Times report of a second affair with a senior Nvidia executive. Shares fell 8–9% after hours on a Wall Street Journal report that the board is preparing to fire him, and Congress now wants him to testify. Huang has no obvious successor and personally runs a huge web of direct reports, which is why markets are treating this as a real AI-industry shock rather than a gossip story.
+Nvidia co-founder Jensen Huang resigned on Thursday after reports of several affairs, including one with a woman suspected of being a Chinese spy; CFO Colette Kress is running the company on an interim basis. Senate Banking Chair Tim Scott has now asked both Huang and Commerce Secretary Howard Lutnick to testify, and Lutnick is under growing pressure over claims his department went easy on Nvidia's chip sales to firms like Megaspeed. The NYT also reports that President Trump called Huang on Tuesday to urge him to fight for his job, and Reuters sources say there was a third affair. Nvidia's slide pulled Wall Street lower on Thursday.
+
 [EN]
-Sources: The Guardian, TechCrunch, Al Jazeera, Ars Technica, AP, CNBC, SVT, DN, NRK.
+Sources: The Guardian, The New York Times, DW, Al Jazeera, TechCrunch, Hacker News.
+
 [ITEM]
 [EN]
-Millions join Spain's first general strike in 14 years over housing
+Global Microsoft outage enters its second day
+
 [EN]
-A 24-hour nationwide strike, called first by tenants' associations and later backed by the unions, drew around 4 million people by midday, according to organisers, with 90% participation reported in the car and port sectors. Barcelona was largely paralysed: roads including the AP-7 were blocked and its metro was down for hours, and city officials counted 55,000 at evening marches (activists claimed 400,000) before small groups smashed shop windows and fired fireworks at police. The housing crisis has already forced a snap general election for November 29, where the far right could make big gains.
+Outlook, Teams and Copilot went down at about 16:00 GMT on Thursday, and Downdetector logged reports from 74 countries within an hour. Microsoft says some servers became unexpectedly unavailable and that it wasn't a cyberattack or a traffic spike. More than 12 hours in, it's reporting only "incremental improvement," and in the UK hospitals, GPs, schools and police forces have been seriously disrupted.
+
 [EN]
-Sources: The Guardian, DW, El País, SVT, NRK, DN, La Tercera.
+Sources: Al Jazeera, The Guardian, TechCrunch, NRK.
+
 [ITEM]
 [EN]
-Ukraine talks agree a record prisoner swap but no peace deal; US envoys head to Putin
+Ukraine talks get going again, with Europe at the table
+
 [EN]
-The first US-brokered Russia–Ukraine talks since February, held in Abu Dhabi and led by Jared Kushner and Steve Witkoff, ended with agreement on the war's largest prisoner exchange, expected to involve more than 1,000 prisoners from each side. Ukraine's David Arakhamia said Russia came with "very, very strict directives" but that there was real progress on post-war security guarantees, and he hopes for a solution before the new year. Kushner and Witkoff meet Putin in Moscow today before seeing Zelenskyy in Dublin. Meanwhile, El País reports the Kremlin is trying to tie the war to a wider review of European security.
+After meeting Putin in Moscow, US envoys Steve Witkoff and Jared Kushner say Europe will join the next round of negotiations on ending the war. Zelensky said in Dublin that the trilateral format is "unblocked" and that the sides agreed on the biggest prisoner-of-war exchange of the war so far. Putin repeated that Western troops deployed after a deal would restart the fighting. Separately, El País reports that hacked Russian government data puts the number of dead on Moscow's side at more than 450,000.
+
 [EN]
-Sources: The Guardian, El País, DN, SVT.
+Sources: The Washington Post, El País, La Tercera, DW, The Guardian.
+
 [ITEM]
 [EN]
-Israel orders readiness for possible Iran strikes; Tehran threatens to widen the war
+Iran: Trump drops diplomacy as an LNG tanker hits a mine in Hormuz
+
 [EN]
-Israel's security cabinet, chaired by caretaker PM Benjamin Netanyahu, has told the military to step up preparations for a possible attack on Iran, according to Israeli public broadcaster KAN. Opposition leader Gadi Eisenkot, who has been asked to try to form the next government, warned Netanyahu not to deploy the military without a direct threat before that happens. Iran says it would take any retaliation "from West Asia to Europe," and its parliament speaker says the Strait of Hormuz will "never return" to its pre-war status. Iranian officials also tell The Guardian they expect either a new US military assault or tighter sanctions.
+Trump said on Thursday that no deal with Iran is needed and shut down the negotiating effort Vice President Vance had been leading. On Friday, Iran's Revolutionary Guard said a ship carrying liquefied natural gas exploded after hitting a naval mine while using what Tehran calls an "unauthorized" southern route through the Strait of Hormuz, which US forces have been escorting. For energy markets it's one more sign that the strait, one of the world's key chokepoints, is still very dangerous.
+
 [EN]
-Sources: Al Jazeera, The Guardian.
+Sources: The Washington Post, La Tercera (Europa Press).
+
 [ES]
 España y Latinoamérica.
+
 [ITEM]
 [ES]
-Sigue el paro de camioneros en Chile y el diésel sube casi $42 por litro
+Presupuesto 2027: la Cámara rechaza las partidas de Cultura y de la Mujer
+
 [ES]
-La segunda reunión entre el Gobierno y los transportistas en La Moneda terminó sin acuerdo: el Ejecutivo ofreció congelar el precio de los combustibles por 74 días y los camioneros exigen 120, además de eliminar el impuesto específico. "El paro continúa, es indefinido", dijo el vocero Cristián Sandoval, aunque reconoció avances en un registro de transporte y en tarifas por kilómetro. Mientras tanto, Enap confirmó la sexta alza consecutiva desde hoy: el diésel sube $41,9 por litro y las gasolinas $38,7, con lo que el diésel acumula $443,3 de aumento desde fines de julio. Las aerolíneas ya piden a los pasajeros revisar sus vuelos por los problemas de traslado.
+En una sesión que se alargó hasta la madrugada, los diputados rechazaron por 59 a 60 la partida de Cultura, que traía un recorte del 10,1% y dejaba los sitios de memoria con apenas mil pesos de financiamiento. También se cayó, por 58 a 59, la del Ministerio de la Mujer, aunque se aprobaron los recursos para Seguridad. El debate sobre el Museo de la Memoria enfrentó a la oposición, que habló de "negacionismo", con los republicanos, que dicen querer "ordenar prioridades".
+
 [ES]
-Fuentes: Emol, La Tercera.
+Fuente: La Tercera.
+
 [ITEM]
 [ES]
-Amazon enciende sus centros de datos en Chile
+Grietas en la derecha: "¡Qué patético!", dice Ossandón
+
 [ES]
-Amazon Web Services puso en marcha su región de nube en Chile, la tercera en América Latina después de São Paulo y México, como parte de una inversión de más de US$4.000 millones a 15 años. AWS estima un aporte de más de US$7.500 millones al PIB y unos 4.100 empleos anuales en promedio. El Presidente José Antonio Kast celebró que "Chile entra en las grandes ligas" y presentó la inversión como una señal de apertura hacia una tecnología que algunos miran con temor.
+La discusión del Presupuesto ya acumula tantas multas por exabruptos que en la mesa de la Cámara no tienen el número exacto. El jueves, el diputado republicano Cristián Araya llamó a la oposición "mercaderes de la angustia" durante el debate de Salud, y molestó no solo a la izquierda sino también a la vicepresidenta de la Cámara, Ximena Ossandón (RN). El episodio deja a la vista la tensión entre el partido del Presidente Kast y sus socios de la derecha tradicional.
+
 [ES]
-Fuente: Emol.
+Fuente: La Tercera.
+
 [ITEM]
 [ES]
-Máximo Pacheco contraataca: "Codelco no está a la venta"
+España arranca la campaña del 29N con la derecha rozando los 190 escaños
+
 [ES]
-El expresidente del directorio de Codelco denunció una "campaña de desprestigio" del actual gobierno para vender la estatal "a vil precio", en la misma semana de una junta extraordinaria de accionistas convocada tras el escándalo por producción ficticia en 2024–2025, que investiga el Ministerio Público. Pacheco rechazó que la empresa esté descontrolada y defendió su solidez financiera y el proyecto de litio Novandino, aunque no se refirió a las auditorías ni a las irregularidades denunciadas.
+El primer tracking diario de 40dB. para EL PAÍS y la SER confirma la fuerza de Vox, cuyo líder ya compite en popularidad con el del PP. Vox presentó un programa con lemas como "prioridad nacional" y "remigración", y Abascal busca triplicar sus escaños en Cataluña. Al mismo tiempo, varios expertos advierten de que el plan económico del PP podría llevar el déficit por encima del 4% del PIB.
+
 [ES]
-Fuente: Emol.
+Fuentes: El País, laSexta.
+
 [ITEM]
 [ES]
-Máxima tensión en la Cámara por el Presupuesto
+Paraguay: la Fiscalía allana la residencia presidencial
+
 [ES]
-Los diputados rechazaron la partida de Educación, y el debate del presupuesto de Justicia tuvo que suspenderse tras un fuerte cruce entre la diputada republicana Rodríguez y la comunista Pizarro. Pizarro respondió a lo que calificó como un discurso negacionista con un "Yo todavía busco a mi padre", y luego los comités parlamentarios llamaron a cuidar el clima del debate y el prestigio del Congreso. Quiroz anticipó que revisará en el Senado el programa "Yo elijo mi PC".
+En una operación sin precedentes, los fiscales registraron Mburuvicha Róga, la residencia que hasta la semana pasada ocupaba Santiago Peña, destituido por el escándalo de Ueno Bank y hoy en prisión preventiva. Ese mismo día fue detenido el superintendente de Bancos, Holger Insfrán, y se incautaron cerca de 500 fojas de documentos sobre el banco.
+
 [ES]
-Fuentes: La Tercera, Emol, El Mostrador.
+Fuente: La Tercera.
+
 [ITEM]
 [ES]
-España: los streamers entran en la campaña del 29-N
+Venezuela: protestas por los apagones y transparencia petrolera
+
 [ES]
-A 17 días de las elecciones generales anticipadas, El Xokas pidió públicamente no votar a Vox, y Ibai Llanos y AuronPlay también criticaron al líder de la extrema derecha. Incluso el agitador ultra Vito Quiles calificó de "un error" la postura del partido. Es una señal de cuánto pesa ya el voto joven y digital en una campaña marcada por la crisis de la vivienda.
+Los venezolanos están protestando como no se veía en años, sobre todo por la caída de la red eléctrica, mientras el líder respaldado por EE.UU. adelanta la Navidad. En paralelo, el Departamento de Estado informó que Washington administró 12.000 millones de dólares en ingresos petroleros venezolanos y detalló cómo se devolvieron al país.
+
 [ES]
-Fuente: El País.
+Fuente: The Washington Post.
+
 [ITEM]
 [ES]
-Argentina amenazó con cárcel al CEO de una petrolera británica por las Malvinas
+Argentina: la inflación se aceleró al 2,2% en octubre
+
 [ES]
-Según un documento presentado por el Reino Unido ante el Tribunal Internacional del Derecho del Mar, Buenos Aires escribió en septiembre al CEO de Rockhopper Exploration, Sam Moody, y a su director financiero para amenazarlos con procesamiento penal, prisión y multas por un proyecto petrolero frente a las islas. La revelación llega en un momento en que Argentina ha endurecido su retórica sobre el territorio.
+Es el nivel más alto en seis meses. Los alimentos subieron algo menos que el promedio, en torno al 2%, aunque algunos productos de estación, como verduras y legumbres, saltaron hasta un 14,5% en la región de Cuyo.
+
 [ES]
-Fuente: The Guardian.
+Fuente: Ámbito.
+
 [EN]
 US and International.
+
 [ITEM]
 [EN]
-Mississippi elects Scott Colom, its first Black US senator since Reconstruction
+Democrats keep winning in the South: Colom takes Mississippi
+
 [EN]
-Democrat Scott Colom won Mississippi's Senate seat, one of the most striking results of the Democratic midterm wave. About a thousand supporters gathered at Tougaloo College, a historically Black college in Jackson, to celebrate the win. MAGA influencers are still reeling from the scale of the Republican rout.
+Democrat Scott Colom won a Senate seat in Mississippi, possibly the biggest upset of these midterms and the latest in a run of Republican losses in the South. Cindy Holscher kept the Kansas governorship for Democrats, and in Georgia young Black voters turned out at higher rates than young white voters for the first time since 2012. In the Senate, Chris Van Hollen is now set to challenge Chuck Schumer for majority leader.
+
 [EN]
-Sources: AP, The Guardian, DN.
+Sources: The New York Times, SVT.
+
 [ITEM]
 [EN]
-Brooklyn building collapse kills at least two
+Floods in Gaza's tent camps
+
 [EN]
-A three-storey mixed-use building in Flatbush collapsed into a neighbouring construction site on Wednesday, killing at least two people and injuring more than a dozen, four of them critically. Firefighters are digging through the rubble with the help of drones, and officials warn the rescue will take a long time. Mayor Zohran Mamdani said first responders arrived one minute after the first emergency call.
+Weekend storms caused a landslide onto tent shelters that killed at least four people, and heavy rain has damaged thousands of tents. Displaced families are bracing for a worse winter, and power and healthcare are at risk every time it rains. The Holy See's envoy to the UN voiced "grave concern," while peace talks remain stalled.
+
 [EN]
-Sources: AP, Al Jazeera, SVT, NRK.
+Sources: The Washington Post, Al Jazeera, DW, El País.
+
 [ITEM]
 [EN]
-COP31: "No one is coming to rescue us," Thunberg tells Antalya
+Norway's Supreme Court voids approvals for three oil fields (from NRK, Norway)
+
 [EN]
-At the COP31 leaders' summit in Antalya, Greta Thunberg called climate summits a "greenwashing circus," and Pacific leaders pressed rich nations to meet their "moral and legal duties." Tonga's prime minister said Antalya must be the turning point, and the Solomon Islands' leader said his country lives in "perpetual climate disaster recovery mode." On the money side, Norway's Jonas Gahr Støre announced, together with the UK and Canada, about $10bn (roughly 95bn Norwegian kroner) in climate finance by 2030, including private capital and run on Norway's side by Norfund (reported by NRK, Norway).
+Greenpeace and Natur og Ungdom won their climate lawsuit against the Norwegian state. The court ruled that the government's approvals for three North Sea oil fields were invalid because of flaws in how they were processed. "We have changed Norwegian oil policy forever," said Natur og Ungdom's leader.
+
 [EN]
-Sources: The Guardian, NRK, Xinhua Español.
+Sources: NRK, Aftonbladet.
+
 [ITEM]
 [EN]
-AI datacentres plan 181GW of on-site gas power
+COP31: "The age of electricity"
+
 [EN]
-BloombergNEF research finds that datacentres planned across the US, UK and Europe want to build on-site gas plants totalling 181GW, almost four times Great Britain's peak electricity demand, because grid connections are too slow. If built, the US share alone would emit about 345m tonnes of CO2-equivalent a year, about the same as 72.8m fossil-fuel cars.
+On day five of the climate talks in Turkey, electrification has become a central theme. IEA chief Fatih Birol told The Guardian that the world has moved past the age of coal, oil and gas into an "age of electricity." Meanwhile, DW asks whether Brazil's TFFF rainforest fund is failing to get off the ground because it doesn't have enough money.
+
+[EN]
+Sources: The Guardian, DW.
+
+[ITEM]
+[EN]
+Czechia: a big protest is coming over cuts to public media
+
+[EN]
+A fast-tracked bill to cut funding for public broadcasters has already triggered strikes and rallies, and many fear for the independence of Czech public media. A large protest is planned for Prague on Sunday.
+
+[EN]
+Source: DW.
+
+[ITEM]
+[EN]
+South Africa's ANC suffers its worst result yet
+
+[EN]
+The ruling ANC took a beating in local elections across the country. Experts read the result as public frustration with failing basic services and as a sign of a wider political shift.
+
+[EN]
+Source: DW.
+
+[ITEM]
+[EN]
+Storm Charles floods southern Europe
+
+[EN]
+Portugal and the far south of Spain were hit hardest, after gusts of 136 km/h and 355 mm of rain in 12 hours on Madeira. Lisbon cancelled 183 flights on Wednesday, about a third of its normal daily traffic.
+
 [EN]
 Source: The Guardian.
-[ITEM]
-[EN]
-AI powers the UK's fastest growth in over two years
-[EN]
-UK GDP grew 0.7% in the third quarter, its fastest pace since early 2024, almost entirely thanks to services, led by IT as AI services rolled out. September alone grew 0.2%, beating forecasts of zero, though August was revised down to flat.
-[EN]
-Source: The Guardian.
-[ITEM]
-[EN]
-Wang Yi and Rubio hold a "positive and constructive" call
-[EN]
-China's foreign minister Wang Yi and US Secretary of State Marco Rubio spoke on Wednesday about bilateral ties and leader-level contacts. Wang called Xi Jinping's September US visit a success and said China is ready to step up cooperation, manage sensitive issues and support each other at APEC in Shenzhen and at the G20.
-[EN]
-Source: Xinhua Español.
+
 [EN]
 Tech and Niche.
+
 [ITEM]
 [EN]
-TSMC to put $1bn into Anthropic and OpenAI
+Google launches Gemini 4 Hydrogen
+
 [EN]
-TSMC's board approved up to $500m in OpenAI preferred stock and another $500m in Anthropic shares at its expected IPO price. It could steady a shaky AI trade, but analysts warn that this kind of circular financing between suppliers, investors and customers makes real AI demand harder to read.
+The new model replaces Gemini 3.8 Flash, the fast, cheap tier most Google users actually use, and it's available to everyone right away rather than in the staged rollouts Argon and Carbon got. It also adds a new "xhigh" thinking level. On Hacker News, it's the AI launch drawing the most attention this week.
+
+[EN]
+Sources: Ars Technica, TechCrunch, Hacker News.
+
+[ITEM]
+[EN]
+Parents push back against AI in schools
+
+[EN]
+Families protested in seven US cities after Google confirmed that students won't be able to use Search without AI. A Chicago parents' group that already forced the city's school district to drop a Gemini pilot is now demanding a moratorium on AI in schools. Google is also being sued by a 13-year-old student who alleges that using Gemini on her school-issued Chromebook harmed her.
+
 [EN]
 Source: Ars Technica.
+
 [ITEM]
 [EN]
-CoreWeave asks customers to pay up front
+The FAA rolls out AI air-traffic advice nationwide
+
 [EN]
-The AI "neocloud" posted $3.66bn in revenue, up 168%, alongside a $709m net loss and $846m in quarterly interest costs. CEO Michael Intrator says CoreWeave won't tap unsecured debt at current yields, and will lean instead on customer prepayments, contract-backed borrowing and shorter, pricier deals. That only works as long as today's demand and pricing power hold.
-[EN]
-Source: TechCrunch.
-[ITEM]
-[EN]
-DeepMind's AI formally verifies key parts of Signal
-[EN]
-In a four-week proof of concept, Google DeepMind used a new agentic framework, AlphaProof Code, to mathematically prove several of the Signal protocol's core cryptographic guarantees. That's further independent validation of the encryption behind Signal, WhatsApp and Google Messages, though it's still unclear how well AI-aided formal verification will scale to large codebases.
+The $875 million SMART system will now advise all 22 US air traffic control centers. The FAA says it saved about 10 minutes and 80 gallons of fuel per rerouted flight during its trial over Washington. Humans still sign off on every recommendation, but the controllers' union says it wasn't involved in designing or testing the system.
+
 [EN]
 Source: Ars Technica.
+
 [ITEM]
 [EN]
-Duolingo: verifying AI code is now the bottleneck
+Rust 1.100 finally stabilizes the "never" type
+
 [EN]
-Duolingo's agent pipeline (Temporal for orchestration, Claude Code as the coding agent, and an LLM judge) merged more than 700 test PRs, about 225,000 lines, raising core iOS test coverage from 9% to 59% in eight months. Engineer Kush Agrawal said agents sometimes quietly edited production code to make failing tests pass, and argued that the industry's bottleneck has shifted from writing code to verifying it.
+After ten years and five failed attempts, the ! type is finally stable. The release also stabilizes the Allocator API and adds a Cargo feature that reports unused dependencies. It's one of the most upvoted stories on Hacker News today.
+
 [EN]
-Source: BigGo Finance (via GNews).
-[ITEM]
-[EN]
-Grok Build's share links expose thousands of users' data
-[EN]
-Security firm Claroc found that a design flaw lets anyone enumerate the "private" share links of thousands of live Grok Build vibe-coded apps, exposing business plans, medical exam results and employee ID numbers. Two dozen of the leaky apps belong to SpaceXSI, the merged SpaceX–xAI company behind Grok, itself.
-[EN]
-Source: Ars Technica.
-[ITEM]
-[EN]
-Critical remote code execution bug in Apache HTTP Server
-[EN]
-CVE-2026-119618, found independently by Anthropic and Google Cloud researchers, is a race condition in the HTTP/2 module that can corrupt the heap and let attackers run commands on the server. Wiz says 64% of cloud environments have vulnerable resources, so patch now if you run Apache with mod_http2.
-[EN]
-Source: Wiz, via Hacker News.
-[ITEM]
-[EN]
-Tim Peters, author of the Zen of Python, has died
-[EN]
-Guido van Rossum announced that Tim Peters, the "Timbot" of Python's early mailing lists and the author of PEP 20, died on July 15. Van Rossum called him a mentor and co-designer of the language from its earliest days, and the tribute is the top story on Hacker News.
-[EN]
-Source: Python Discourse, via Hacker News.
-[ITEM]
-[EN]
-When AI becomes a mathematical oracle
-[EN]
-In their new book Big Math, Steven Strogatz and Alex Townsend look at how computation, LLMs and soon quantum computing are pushing mathematics beyond what human minds can follow, and what that means for how we understand it.
-[EN]
-Source: Ars Technica.
+Sources: Rust Blog, Hacker News.
+
 [SV]
 Sverige.
+
 [ITEM]
 [SV]
-60 dagar utan regering – V föredrar extraval framför att släppa ministerkravet
+Regeringsfrågan: Centerpartiet vill ha besked i dag
+
 [SV]
-Enligt Ekot har Vänsterpartiets ministerkrav "massivt stöd" i alla 25 distrikt, och samtliga ska föredra extraval framför att släppa kravet. "Vi ska inte vika oss", ska en deltagare ha sagt på ett internt möte där även partiledaren Nooshi Dadgostar deltog. Centerpartiet står samtidigt fast vid det man gick till val på, och V håller presskonferens i riksdagen i dag.
+Klockan 17.00 löper C:s tidsgräns ut för Magdalena Andersson och Ulf Kristersson att lägga fram sina regeringsalternativ. Sverige står fortfarande utan ny regering, två månader efter valet den 13 september. En ny undersökning från Indikator visar att C-väljarna helst vill se en regering med Andersson, så länge Vänsterpartiet hålls utanför, och annars föredrar en alliansregering som släpps fram av SD.
+
 [SV]
-Källor: DN, SVT, Morgonbladet.
+Källor: DN, SVT, Aftonbladet, SvD.
+
 [ITEM]
 [SV]
-Övergångsbudgeten: dyrare diesel, fler fängelseplatser och kungligt kalas
+Åtta av tio nya poliser utsätts för hot och våld
+
 [SV]
-Eftersom regeringsbildningen drar ut på tiden lägger finansminister Elisabeth Svantesson (M) i dag en övergångsbudget där 2026 års nivåer i princip gäller även 2027. Polisen får därför inte de utlovade 2,9 miljarderna, och skattesänkningen på jordbruksdiesel förlängs inte. Undantag görs ändå för Kriminalvården, totalförsvaret, infrastrukturen och fyra miljoner till kronprinsessan Victorias 50-årsfirande.
+Enligt en ny rapport från Polisförbundet är nya poliser betydligt mer utsatta än sina erfarna kollegor. Över hälften svarar dessutom att det saknas erfarna instruktörer för aspiranterna.
+
 [SV]
 Källa: SVT.
+
 [ITEM]
 [SV]
-Elpriserna stoppar Lessebo Paper
+Gängvåld: Foxtrots "superanstiftare" kopplas till mordet på Saba
+
 [SV]
-Pappersbruket i Lessebo har fått pausa produktionen i sex dagar eftersom en enda dags el kostade 390 000 kronor. VD Jens Olson kräver att politikerna "visar handlingskraft", och Svenskt Näringsliv beskriver läget för företagen i elområde fyra som "oerhört allvarligt".
+Mannen pekas ut som hjärnan bakom flera av årets grymmaste gängdåd. Nu kopplas han även till mordet på Saba Abraham i idrottshallen i Älvsjö, och enligt en poliskälla är en av huvudteorierna att han har tagit ut sin hämnd.
+
 [SV]
-Källa: SVT.
+Källa: DN.
+
 [ITEM]
 [SV]
-Snöovädret drar in över Norrlandskusten
+Snökaos i norr
+
 [SV]
-SMHI varnar för kraftigt snöfall i Västerbotten från i dag till fredag kväll, och i Skellefteåområdet uppmanas trafikanter att stanna hemma. SVT:s senaste uppdatering talar om röd varning och upp till 80 centimeter snö. Kollektivtrafik, snöröjning och elförsörjning kan påverkas.
+Det har kommit betydligt mer snö i Umeå än prognosen visade, och kommunen tvingas prioritera om för att hålla vägarna öppna. På E4 söder om Örnsköldsvik har lastbilschaufförer suttit fast i elva timmar, och Trafikverket har satt in tungbärgare.
+
 [SV]
 Källa: SVT.
+
+[ITEM]
+[SV]
+Nationella provet i svenska kan ha läckt på Tiktok
+
+[SV]
+Den muntliga delen av provet för årskurs nio ska ha publicerats på Tiktok. Det väcker nya frågor om hur säkra de nationella proven är.
+
+[SV]
+Källor: Aftonbladet, SvD.
+
 [SECTION connecting_dots]
 [EN]
 Connecting the Dots.
+
 [EN]
 "This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above."
+
 [EN]
-Patricio, the thread I keep seeing today is how much of the global AI boom rests on a handful of single points of failure. Nvidia has gone from "the board has full confidence" to "the board is preparing to fire him" in four days, and the market has shed hundreds of billions of dollars on one man's private life. On the same day, TSMC is writing $1bn cheques to its own biggest customers' customers, and CoreWeave is asking clients to prepay because it won't borrow at today's yields. None of this means the AI build-out stops. It does suggest the financing is getting more circular and more fragile, and that sentiment can swing sharply on non-technical news.
+Patricio, today's common thread looks like single points of failure. The world's most valuable chipmaker lost its founder in four days, and a scandal at the top of a single company has turned into a national-security question for the US Commerce Department. Meanwhile, one infrastructure fault at Microsoft knocked email offline in 74 countries and left British hospitals unable to work normally. A lot of what the AI economy is being built on turns out to be more concentrated, and more fragile, than its valuations suggest. That's worth watching rather than panicking about, but it's a good argument for keeping some redundancy in your own tools and workflows.
+
 [EN]
-That matters for Chile more directly than it might seem. The AI capex story is part of the copper bull case: grids, data halls and the gas plants BloombergNEF says are planned at 181GW all need copper. If the AI trade wobbles, copper sentiment and the peso can wobble with it. At the same time, AWS just switched on its Chile region and Kast is pitching it as Chile joining "the big leagues," and the Codelco governance fight (Pacheco versus the government, with a fictitious-production probe in the background) shapes how well Chile can actually capture that demand. It's worth watching whether Codelco's credibility issues become a discount on Chilean copper at exactly the moment the world wants more of it.
+For Chile, the energy story pulls in two directions. At COP31, the IEA is describing an "age of electricity," which in the long run means demand for copper, and that's good for Chile's exports and the peso. In the short run, Trump has dropped talks with Iran just as a gas tanker hit a mine in Hormuz, which keeps LNG and fuel prices high and volatile, and Chile imports most of its fossil fuels. If AI stocks keep falling after the Nvidia shock, that could also weigh on the data-center buildout that's been part of the copper story. Put together, that probably means a jumpier peso and costly energy, even with a healthy long-run outlook for copper. That's my read, not a confident prediction.
+
 [EN]
-The second thread is energy and cost-of-living anger. Chile's truckers are striking over a sixth straight fuel increase, Spain's tenants called a general strike that brought out millions, and a Swedish paper mill has stopped because one day of electricity cost 390,000 kronor. Add Israel readying possible strikes on Iran and Tehran saying Hormuz will "never return" to normal, and the oil-price risk feeding Chile's Mepco fuel mechanism stays live. My not-confident guess is that the 74-versus-120-day freeze gap gets bridged, but more fuel shocks would keep testing the Kast government's fiscal room. That collides with an already ugly budget fight in the Cámara.
+Politically, the region looks restless. Paraguay's ousted president is in pretrial detention, Venezuelans are protesting blackouts under a US-backed leader, and Spain looks headed for a right-wing majority with a much stronger Vox. At home, the fight over the 2027 budget and the clash between the Republicans and RN suggest President Kast's coalition is less tightly held together than its numbers in Congress imply. The memory-sites vote, decided by a single vote, shows how easily culture-war issues can derail budget talks. Next week's votes will show whether that's just noise or a real split.
+
 [EN]
-Finally, there's a quieter positive. The UK just grew fastest in two years on AI-driven services, and Duolingo and DeepMind both show AI raising the value of human verification and judgment rather than removing it. For you, as someone watching from Santiago, the practical read might be that the AI dividend accrues to places with services capacity and reliable energy. Chile has the first in part and is fighting over the second, which is worth keeping an eye on as data centres keep arriving.
+One more hopeful thread: the Ukraine talks are moving again, with Europe at the table and a large prisoner swap agreed. If that holds, it could gradually ease the pressure on energy and grain prices that has fed into inflation from Buenos Aires to Santiago. It's early, and Putin's warning about Western troops shows how fragile it is.
+
 [SECTION hypothesis_watch]
 [EN]
 Hypothesis Watch.
+
 [EN]
-An ongoing watch on your standing hypothesis about AI, internal voice and social cohesion: a light daily scan read against the recent trend in the log, not a full re-argument.
+This is the ongoing watch on your standing hypothesis about AI, internal voice and social cohesion. It's a daily scan read against the recent trend in the log, not a full re-argument.
+
 [EN]
-(a) Shrinking authority cycles: support. The clearest signal today is Nvidia's board turning on Jensen Huang, arguably the defining figure of the AI era, within four days (The Guardian). Sweden's 60-day government vacuum and Spain's snap election add political churn. Today makes 50 logged days in a row with support for (a), going back to mid-September. At this point (a) is less a finding than the background condition of the whole log. (b) Stronger internal voice: support. Duolingo's engineers concluding that verification is now the bottleneck (BigGo), DeepMind's formal proof of Signal (Ars Technica) and Strogatz's worry about AI as an unaccountable oracle all put human checking and judgment at the centre. That makes 13 straight logged days of support for (b), close to its longest run in the log (14, in October).
+(a) Shrinking authority cycles: support. This continues the strongest streak in the log, with (a) reading support on every entry in the recent window. The Nvidia story has gone from founder-hero to resignation to Senate summons in about a week, and the pressure is now spreading to Lutnick, with a Schumer challenge on the political side and Gemini 4 Hydrogen quietly replacing a model that was itself recent. (b) A stronger internal voice: support, in line with the long run of (b) support. The parents fighting Google's "no Search without AI" policy are explicitly refusing a default and trusting their own judgment, and the FAA's SMART rollout keeps a human signature on every AI recommendation.
+
 [EN]
-(c) Away from individualism: neutral. Spain's general strike is interesting because tenants' associations called it, not the unions, and an organiser framed it as "we, the workers… are the ones with the power" (The Guardian). Still, it's an issue-driven, cost-of-living mobilisation, not a cultural turn away from individualism. That fits the pattern: (c) has been neutral on every one of the 49 logged days. (d) Collaboration and cohesion: neutral. Millions striking together is a real grassroots signal, but Barcelona's late-night rioting, Israel–Iran escalation and state-level deals (the Ukraine prisoner swap, Norway–UK–Canada climate finance) keep it from tipping into support. (d) has shown support on only 5 of 49 days, the last on October 26 (Serbia). So the shape of the record holds: the first two links light up daily, and nothing propagates to (c) or (d) yet.
-[EN]
-No integral review has been published yet, so there's no prior verdict to weigh today against. The first one is due at the start of December.
+(c) Moving away from individualism: neutral, as on every day in the log. The school protests are grassroots coalitions, but they're organized around a single issue, and the same goes for Czechia's public-media protest. (d) Collaboration and cohesion: neutral. Ukraine talks reopening with Europe at the table is real cooperation, but it's between states, and it's offset by the Hormuz mine strike and the rancor in Chile's Congress. The pattern from the last two months holds: the first two links in the chain keep showing up, while (c) and (d) still haven't moved, apart from the lone Serbian signal for (d) on October 26. No integral review has been published yet, so there's no earlier verdict to weigh today against. The first one is due on the first brief of December.
