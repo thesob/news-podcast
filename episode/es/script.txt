@@ -1,211 +1,211 @@
 [SECTION intro]
 [ES]
-Resumen Diario — 13 de noviembre de 2026
-[ES]
-¡Buenos días! Aquí tienes lo más importante de las últimas 24 horas, en unos minutos de lectura.
+Resumen Diario, sábado 14 de noviembre de 2026.
+
 [SECTION news]
 [ES]
-Titulares
+Titulares.
+
 [ITEM]
 [ES]
-Jensen Huang deja Nvidia y será citado ante el Senado de EE. UU.
+Jensen Huang deja Nvidia tras 33 años y el Congreso de EE. UU. pide explicaciones.
+
 [ES]
-El cofundador de Nvidia renunció el jueves como consejero delegado tras revelarse varias relaciones extramatrimoniales, entre ellas una con una mujer sospechosa de espiar para China. El Comité Bancario del Senado lo ha citado a declarar en diciembre junto al secretario de Comercio, Howard Lutnick, que está bajo escrutinio por la exportación de chips de IA a China. Nvidia ha perdido unos 550.000 millones de dólares en bolsa en cinco días; la directora financiera Colette Kress asume de forma interina, mientras Trump ya sugirió a Tim Cook como sucesor.
+Jensen Huang renunció el jueves como consejero delegado de Nvidia después de que se revelara una relación con Alice Huang, ejecutiva de la tecnológica singapurense Megaspeed y presunta espía china; Colette Kress asume como CEO interina. En Washington el escándalo apenas empieza: el presidente del comité bancario del Senado, Tim Scott, citó a Huang y al secretario de Comercio, Howard Lutnick, a declarar en diciembre, y los demócratas, que controlarán ambas cámaras desde enero, ya preparan investigaciones sobre el cumplimiento de los controles de exportación. Según TechCrunch, el golpe también se siente en el ecosistema: Nvidia participó en 105 rondas de financiación este año y los inversores esperan que Kress firme cheques más pequeños y selectivos.
+
 [ES]
-Fuentes: BBC News, y también AP News, TechCrunch, The New York Times, EL PAÍS, La Tercera, Al Jazeera, BBC News Mundo y Hacker News
+Fuentes: CNBC/Reuters, TechCrunch, Hacker News
+
 [ITEM]
 [ES]
-Se desbloquean las negociaciones de paz en Ucrania, ahora con Europa en la mesa
+Trump, Xi y Putin celebrarán su primera cumbre a tres en China.
+
 [ES]
-Zelenski confirmó que el diálogo trilateral con Rusia y Estados Unidos se ha reactivado tras la ronda de Abu Dabi y la visita de los enviados Steve Witkoff y Jared Kushner a Moscú, con un acuerdo para el "mayor intercambio de prisioneros" desde la invasión. Los europeos se sumarán al equipo negociador en la próxima ronda. Aun así, Putin insistió en que no renunciará a sus exigencias territoriales y rechaza tropas europeas en Ucrania, lo que anticipa un posible estancamiento.
+La Casa Blanca confirmó que Donald Trump, Xi Jinping y Vladímir Putin se reunirán la próxima semana en Shenzhen, al margen de la cumbre de APEC, en el primer encuentro trilateral de los tres. Washington dice que la agenda girará en torno a la guerra con Irán y las armas nucleares —el tratado New START expiró en febrero y no hay límites a los mayores arsenales del mundo por primera vez en medio siglo—, aunque un alto funcionario admitió que no esperan llegar a un acuerdo. Zelenski teme una "Yalta 2.0" en la que se negocie sobre Ucrania sin Kiev; el Kremlin rechaza la comparación pero califica la cita de "extremadamente significativa".
+
 [ES]
-Fuentes: La Tercera, y también The Washington Post, DW en Español, BBC News y EL PAÍS
+Fuentes: Al Jazeera, The Guardian, Xinhua Español, La Tercera
+
 [ITEM]
 [ES]
-Trump da por cerrada la vía diplomática con Irán mientras la guerra se extiende al Golfo
+Estados Unidos paraliza todos sus despegues durante horas por un fallo en el control aéreo.
+
 [ES]
-Trump afirmó que Estados Unidos ya no necesita un acuerdo para terminar la guerra con Irán y apartó al vicepresidente JD Vance de las conversaciones para que se concentre en supuestos casos de corrupción en estados demócratas. Mientras tanto, la Guardia Revolucionaria iraní reivindicó un ataque a un radar estadounidense de alerta temprana en Baréin, y los hutíes de Yemen dijeron haber golpeado instalaciones de Aramco en Arabia Saudita. Irán también afirmó que un buque de gas natural licuado explotó tras chocar con una mina en el estrecho de Ormuz, que Teherán declara cerrado.
+La FAA ordenó el viernes una suspensión nacional de despegues "por razones de seguridad" tras una caída de comunicaciones en el control del tráfico aéreo; el espacio aéreo se reabrió casi cuatro horas después, pero el día cerró con 9.814 retrasos y 5.117 cancelaciones, y unos 1,5 millones de pasajeros varados según Cirium. El secretario de Transporte, Sean Duffy, culpó a un sistema "increíblemente antiguo" y pidió al Congreso fondos para uno nuevo, mientras que el secretario de Seguridad Nacional, Markwayne Mullin, cifró la reforma completa en unos 50.000 millones de dólares. El efecto llegó hasta Chile, donde el aeropuerto de Santiago canceló tres vuelos a EE. UU.
+
 [ES]
-Fuentes: DW en Español, y también The Washington Post, EL PAÍS, Reuters y La Tercera
+Fuentes: La Tercera, Al Jazeera, TechCrunch, Telemundo, Hacker News
+
 [ITEM]
 [ES]
-Una caída global de Microsoft deja sin Outlook ni Teams a millones de usuarios
+Microsoft pide disculpas por una caída global de casi 18 horas.
+
 [ES]
-Desde la tarde del jueves (hora europea), Outlook, Teams, Microsoft 365 y Copilot sufrieron fallas en todo el mundo porque varios servidores cayeron y sobrecargaron el resto de la infraestructura, según la propia empresa. Downdetector llegó a registrar más de 128.000 reportes solo sobre Outlook, y el apagón también afectó a servicios de OpenAI y Anthropic. En Reino Unido hubo problemas en el sistema de salud público, la policía y escuelas; Microsoft dice que está aplicando un método alternativo para restablecer el servicio.
+Outlook, Teams y otros servicios de Microsoft 365 estuvieron caídos unas 18 horas en buena parte del mundo; la empresa dijo estar "profundamente apenada" y atribuyó el fallo a un "problema técnico" sin relación con ciberataques ni agentes de IA. En Australia, expertos calculan daños de miles de millones y algunas clínicas volvieron a las recetas en papel; en el Reino Unido hubo alteraciones en sanidad y policía, y en EE. UU. afectó incluso a oficinas del Congreso. El episodio reabre el debate sobre la dependencia de un solo proveedor para sistemas críticos.
+
 [ES]
-Fuentes: BBC News Mundo, y también The Guardian, The New York Times, DW en Español y TechCrunch
+Fuentes: The Guardian, Infobae
+
 [ITEM]
 [ES]
-Chile: el Gobierno pacta con los camioneros y congela los combustibles hasta marzo
+Arranca la campaña de las generales del 29-N en España con el PP y Vox al alza.
+
 [ES]
-Tras días de paralización, el Gobierno acordó con gremios del transporte una rebaja de unos 140 pesos por litro de diésel, revertir el alza de las gasolinas de esta semana y congelar los precios hasta el 31 de marzo de 2027. Hasta esa fecha el precio solo podrá mantenerse o bajar, con un costo fiscal que ronda los 1.000 millones de dólares. Algunos transportistas independientes se desmarcaron del acuerdo y siguen movilizados.
+La campaña electoral española comenzó el viernes 13, de cara a los comicios del 29 de noviembre. Un promedio de once encuestas privadas da al PP de Alberto Núñez Feijóo un 31,4 % y 131 escaños, al PSOE de Pedro Sánchez un 27,2 % y 109 (frente a los 121 de 2023) y a Vox de Santiago Abascal un 18,8 % y 64 escaños, el doble que hace tres años. Si se confirmara, PP y Vox sumarían 195 diputados, muy por encima de la mayoría absoluta de 176.
+
 [ES]
-Fuentes: La Tercera, y también Emol
+Fuentes: El Debate
+
 [ES]
-España y Latinoamérica
+España y Latinoamérica.
+
 [ITEM]
 [ES]
-España arranca la campaña del 29-N con la vivienda en el centro
+Grandes marcas españolas retiran su publicidad de TikTok tras una denuncia por abuso infantil.
+
 [ES]
-Con la huelga general del miércoles aún fresca (los sindicatos hablan de más de tres millones en las calles), los partidos abrieron campaña: Feijóo se presentó en Badalona como "gestor" frente a Sánchez, Colau eligió Vallecas y Abascal cerró una precampaña de 25 actos. Según Reuters, Sánchez apostaba a que la indignación por la vivienda y el miedo a la extrema derecha unirían a la izquierda, pero muchos votantes están furiosos con el propio Gobierno. EL PAÍS recoge además advertencias de expertos de que el plan económico del PP podría llevar el déficit por encima del 4% del PIB.
+El Corte Inglés, Banco Santander, Moeve y Eroski suspendieron sus anuncios en TikTok después de que una investigación de Maldita.es encontrara publicidad junto a vídeos de abuso sexual infantil. La Fiscalía presentó una denuncia en los juzgados de Madrid y pidió la retirada urgente del contenido, y la Agencia de Protección de Datos exigirá información a la plataforma antes de decidir si ordena un bloqueo. El Gobierno central incluso pidió estudiar la suspensión de la actividad de TikTok en España.
+
 [ES]
-Fuentes: EL PAÍS, y también Reuters
+Fuentes: BioBioChile
+
 [ITEM]
 [ES]
-La tormenta Charles inunda el sur de la península ibérica
+Chile: recesión técnica, acusación contra Rabat y Kast rumbo a Asia.
+
 [ES]
-La tormenta Charles trajo lluvias torrenciales y vientos fuertes a Portugal y al extremo sur de España, con 355 mm de lluvia en 12 horas en Madeira. El miércoles se cancelaron 183 vuelos en Lisboa y 155 en Madrid-Barajas, y el sistema siguió luego hacia el sur de Francia y el norte de Italia, donde rige la alerta roja por lluvias.
+El ministro de Hacienda, Jorge Quiroz, reconoció por primera vez que Chile está en "recesión técnica", que atribuye sobre todo a la caída de la producción de cobre, y la oposición socialista ya pide su renuncia. A la vez, sigue abierta la crisis del ministro de Justicia, Fernando Rabat, contra quien la izquierda presentó una acusación constitucional, aunque Emol informa que a la oposición le cuesta reunir los votos y el oficialismo cierra filas. En medio de todo, el presidente José Antonio Kast parte a su primera gira asiática, con paradas en Vietnam, Japón y la cumbre de APEC en China.
+
 [ES]
-Fuentes: The Guardian
+Fuentes: La Tercera, Emol
+
 [ITEM]
 [ES]
-Paraguay: la Fiscalía allana la residencia presidencial por el caso Ueno Bank
+El Gobierno chileno acelera el congelamiento de los combustibles.
+
 [ES]
-En una operación inédita, fiscales registraron Mburuvicha Róga, la residencia ocupada hasta la semana pasada por Santiago Peña, destituido por el escándalo de Ueno Bank y hoy en prisión preventiva. El mismo día fue detenido el superintendente de Bancos, Holger Insfrán, mientras miles de ahorristas siguen reclamando la devolución de su dinero.
+El proyecto que revierte la última alza y congela los precios de la gasolina y el diésel hasta el 3 de febrero de 2027 empieza su trámite el lunes en la Cámara, con "discusión inmediata". El texto también alivia las finanzas de las empresas de transporte de carga, tras el conflicto con los camioneros, y el calendario prevé votarlo en la Cámara y en el Senado el mismo día. La Tercera apunta que, para La Moneda, supone una concesión ideológica: intervenir el mercado y gastar más de lo presupuestado en plena desaceleración.
+
 [ES]
-Fuentes: La Tercera, y también BBC News Mundo
+Fuentes: Emol, La Tercera
+
 [ITEM]
 [ES]
-Trump amenaza con duplicar los aranceles a México por las caravanas migrantes
+Entel vende su operación en Perú a Millicom por 1.714 millones de dólares.
+
 [ES]
-Trump exigió a México detener "ya" las caravanas que, según él, se dirigen a la frontera, o los aranceles se duplicarán de inmediato, sin aportar pruebas. Claudia Sheinbaum respondió que ninguna caravana ha llegado a la frontera desde enero de 2025 y que hoy hay solo dos: una en Arriaga, Chiapas, con menos de 100 personas, y otra recién formada en Honduras.
+La chilena Entel acordó vender el 100 % de Entel Perú y Americatel Perú a Millicom, en una operación que equivale a 5,34 veces su EBITDA de los últimos doce meses. La filial peruana aporta el 36 % de los ingresos del grupo y tiene más de 10 millones de clientes. Entel espera una ganancia extraordinaria de unos 98.000 millones de pesos y propone un dividendo eventual de 2.100 pesos por acción si la junta del 30 de noviembre aprueba la venta.
+
 [ES]
-Fuentes: BBC News Mundo, y también AP News y The Washington Post
+Fuentes: Emol
+
 [ITEM]
 [ES]
-EE. UU. dice haber devuelto más de 12.000 millones de dólares a Venezuela
+Argentina: la causa $LIBRA vuelve a complicar al entorno de Milei.
+
 [ES]
-Un informe del Departamento de Estado detalla el manejo de los ingresos por exportaciones venezolanas tuteladas por Washington, en respuesta a las demandas de transparencia. Sin embargo, omite qué empresas compraron el petróleo, el oro y los fertilizantes venezolanos.
+El lobista Mauricio Novelli pidió apartar a la camarista Ángela Ledesma de la causa por la criptomoneda $LIBRA, en la que fue investigado junto al presidente Javier Milei. El voto de Ledesma fue decisivo la semana pasada para que la Casación evalúe volver a admitir como querellantes a los damnificados por el desplome de la moneda, un paso que podría reabrir el expediente. Es un nuevo frente judicial para el Gobierno en una semana en que el papa León XIV, de gira por Sudamérica, también criticó sus políticas.
+
 [ES]
-Fuentes: EL PAÍS, y también The Washington Post
+Fuentes: La Nación, DW en Español (vía proxy de titulares)
+
+[ES]
+Mundo.
+
 [ITEM]
 [ES]
-León XIV en Perú: críticas al machismo y encuentro con víctimas de abusos
+Ormuz: cuarto barco alcanzado en 24 horas y pacto de defensa entre Qatar y Turquía.
+
 [ES]
-El papa llamó a promover "efectivamente" la presencia y participación de las mujeres y afirmó que la violencia contra ellas "hiere a toda la humanidad". También se reunió con seis sobrevivientes de abusos del clero, aunque cientos de víctimas dicen seguir excluidas de su búsqueda de justicia.
+La marina iraní informó que un petrolero chocó con una mina naval y se incendió al este del estrecho de Ormuz, el cuarto incidente de este tipo en un solo día; Teherán asegura que el buque navegaba por zonas que había vetado. La ONU pidió que cesen los ataques mortales contra la navegación. En paralelo, Qatar y Turquía firmaron un pacto de defensa mutua que los compromete a una "postura unificada" ante cualquier ataque externo contra cualquiera de los dos.
+
 [ES]
-Fuentes: EL PAÍS, y también Al Jazeera
+Fuentes: Al Jazeera
+
 [ITEM]
 [ES]
-Rosalía arrasa en los Latin Grammy
+Desactivan un artefacto "viable" en Dublín durante la cumbre europea.
+
 [ES]
-Rosalía ganó mejor álbum por LUX, su tercer premio en esa categoría, y mejor canción por "La Perla"; la mejor grabación fue para el argentino Milo J y Daddy Yankee fue homenajeado como Persona del Año. "Este disco es mi verdad", dijo la catalana en Las Vegas, en una gala que dejó sin premio a los artistas chilenos.
+La policía irlandesa neutralizó el viernes un artefacto explosivo "rudimentario pero viable" en un edificio de oficinas de Merrion Square, cerca de la embajada de Francia, mientras los líderes de la UE debatían sobre Ucrania en la capital irlandesa. Europa está en alerta tras una oleada de falsas amenazas de bomba contra aerolíneas, escuelas y medios. La Garda abrió una investigación; la cumbre y la reunión de la Comunidad Política Europea del día anterior se celebraron bajo un enorme dispositivo de seguridad.
+
 [ES]
-Fuentes: BBC News Mundo, y también La Tercera
+Fuentes: AFP vía Macau Business
+
 [ITEM]
 [ES]
-China y América Latina estrechan lazos, de la arqueología al turismo
+Un petrolero embiste un crucero fluvial en Nueva Orleans.
+
 [ES]
-El INAH de México, la Universidad de Shandong y una fundación cultural sino-mexicana iniciaron un proyecto arqueológico conjunto en el sitio maya de Yaxcopoil-Tanmul, en Yucatán. En paralelo, en la feria ITB Américas, expertos explicaron cómo la región se adapta para atraer a turistas chinos, que no usan Instagram ni TripAdvisor y valoran detalles como un calentador de agua en la habitación.
+El tanquero Atlantic Asphalt, que al parecer perdió el control, chocó de costado contra el crucero fluvial American Heritage mientras estaba atracado en el puerto de Nueva Orleans con unos 129 pasajeros, además de la tripulación, y lo volcó. Las imágenes mostraron a pasajeros trepando por el casco y a remolcadores rescatando a personas del Misisipi; según la alcaldía, todos los que iban a bordo sobrevivieron. Las causas aún no se han confirmado oficialmente.
+
 [ES]
-Fuentes: Xinhua Español, y también DW en Español
-[ES]
-Mundo
+Fuentes: Infobae, BBC News Mundo (vía proxy de titulares), The Globe and Mail
+
 [ITEM]
 [ES]
-EE. UU. tras las legislativas: un senador histórico en Misisipi y pulso por el liderazgo demócrata
+Congelan 2.700 millones de dólares robados a Binance.
+
 [ES]
-El demócrata Scott Colom ganó el escaño de Misisipi al Senado con el 49,2% frente al 48,7% de Cindy Hyde-Smith y será el primer senador negro del estado desde 1881. Con ese resultado, los demócratas suman 55 escaños, con Alaska aún por definir, y el senador Chris Van Hollen se perfila para disputarle a Chuck Schumer el liderazgo de la mayoría.
+El Gobierno de EE. UU. y empresas privadas lograron congelar más de 2.700 millones de los más de 6.000 millones de dólares en criptoactivos robados a Binance hacia el 29 de octubre, según el Departamento de Justicia. La justicia autorizó incautar o retener más de 1.200 millones de esa cifra, y el robo se atribuye a miembros del ejército norcoreano. Es una de las mayores recuperaciones de fondos cripto hasta la fecha, aunque la mayor parte del botín sigue fuera de alcance.
+
 [ES]
-Fuentes: BBC News, y también The New York Times y Al Jazeera
+Fuentes: PYMNTS
+
+[ES]
+Tecnología y Nicho.
+
 [ITEM]
 [ES]
-Una filtración eleva a más de 450.000 los muertos del bando ruso en Ucrania
+ChatGPT Wallet: los agentes de IA ya pueden comprar por ti.
+
 [ES]
-Una base de datos hackeada a la agencia estadística rusa Rosstat, basada en certificados de defunción y verificada por EL PAÍS y otros medios, cifra en más de 450.000 los militares muertos del lado ruso hasta agosto. Entre ellos figuran al menos un español y decenas de latinoamericanos.
-[ES]
-Fuentes: EL PAÍS
-[ITEM]
-[ES]
-Gaza: lluvias, frío y un ataque contra el mayor hospital del sur
-[ES]
-Las tormentas inundaron miles de tiendas de desplazados y un deslizamiento de tierra mató al menos a cuatro personas. Además, un ataque israelí contra el hospital Nasser mató a seis personas, entre ellas un médico y un niño, según el Ministerio de Salud gazatí.
-[ES]
-Fuentes: The Washington Post, y también BBC News, AP News y DW en Español
-[ITEM]
-[ES]
-COP31: se van los líderes y empieza la negociación de verdad
-[ES]
-Casi todos los más de 90 líderes que pasaron por Antalya ya se marcharon, y un primer borrador de la decisión final podría llegar entre hoy y el lunes. Los puntos clave: el "rebasamiento" de 1,5 °C, la transición fuera de los combustibles fósiles, la meta de electrificación y la financiación climática.
-[ES]
-Fuentes: The Guardian, y también DW en Español
-[ITEM]
-[ES]
-Mercedes-Benz congela inversiones y estudia cerrar fábricas en Alemania
-[ES]
-El fabricante suspenderá todas las inversiones en sus plantas alemanas y examina cierres ante el estancamiento de las negociaciones con los sindicatos sobre recortes de costos. La empresa sufre una caída de beneficios por el desplome de sus ventas en China y los altos costos de producir en Alemania.
-[ES]
-Fuentes: DW en Español
-[ITEM]
-[ES]
-Hackers norcoreanos robaron 400 millones de dólares en cripto con videollamadas falsas
-[ES]
-Según el FBI, el esquema llamado FaceStealer usó videollamadas falsas para engañar a sus víctimas. Se cree que más de 900 personas cayeron en la trampa en los últimos 18 meses.
-[ES]
-Fuentes: BBC News
-[ES]
-Tecnología y Nicho
-[ITEM]
-[ES]
-Google lanza Gemini 4 Hydrogen, su modelo rápido para agentes y Búsqueda
-[ES]
-Google presentó Gemini 4 Hydrogen, pensado para ejecutar rápido tareas de varios pasos, y asegura que es 2,5 veces más veloz que Gemini 3.8 Flash. En la Búsqueda promete entender mejor preguntas complejas, con mejores enlaces, respuestas visuales y mejor desempeño en los distintos idiomas del Modo IA.
-[ES]
-Fuentes: TechCrunch, y también Hacker News
-[ITEM]
-[ES]
-Edge0-145B: un modelo de 145.000 millones de parámetros que corre en tu portátil
-[ES]
-Edge0 liberó como código abierto un modelo que, según sus autores, rivaliza con modelos de frontera en programación y razonamiento y funciona en un portátil compatible, con un pico de memoria de 29 GB y más de 80 tokens por segundo. La propuesta: sin tarifas por uso de API, con los datos en tu equipo y funcionando sin conexión.
-[ES]
-Fuentes: Edge0, vía Hacker News
-[ITEM]
-[ES]
-United Airlines bloquea a los agentes de IA para reservar vuelos
-[ES]
-La aerolínea restringirá el uso de agentes de IA de terceros para reservar y gestionar viajes, alegando riesgos de ciberseguridad cuando los usuarios comparten sus credenciales. También advierte que ciertos trámites, como declarar que el equipaje no lleva sustancias prohibidas, deben hacerlos personas según la normativa federal.
+OpenAI lanzó ChatGPT Wallet, que permite a sus agentes elegir productos y completar la compra en nombre del usuario. Por ahora solo está disponible para algunos suscriptores Pro en EE. UU. mayores de 18 años con tarjeta Visa, Mastercard o American Express estadounidense. Cada compra se revisa y se aprueba con Face ID o huella, y un token de pago oculta los datos de la tarjeta al agente y al comercio; OpenAI planea añadir límites de gasto y preaprobaciones por categoría.
+
 [ES]
 Fuentes: TechCrunch
+
 [ITEM]
 [ES]
-La FAA extiende a todo EE. UU. una herramienta de IA para el tráfico aéreo
+"Es como el salvaje oeste": la IA sacude el mundo editorial.
+
 [ES]
-El Gobierno estadounidense amplió a todo el espacio aéreo nacional una herramienta de IA que asesora a los controladores para gestionar la congestión. Las aerolíneas la aplauden, pero el sindicato de controladores no participó en su implementación.
+Un reportaje de The Guardian retrata un sector convulsionado: autores que pierden contratos y escritores retirados de listas de premios por acusaciones de usar IA. El caso más llamativo es el de la novelista romántica Coral Hart, que desde 2025 ha escrito 370 novelas con IA bajo 21 seudónimos, empujada por un algoritmo de Kindle Unlimited que premia a quien publica al menos un libro al mes. Aun así, ella insiste en que sin oficio, estructura y criterio propio la IA no produce un buen libro.
+
 [ES]
-Fuentes: Ars Technica
-[ITEM]
-[ES]
-Rust 1.100 estabiliza por fin el tipo "never"
-[ES]
-Tras diez años y cinco intentos fallidos, el tipo !, que representa cálculos que nunca devuelven un valor, ya es estable en Rust. Es uno de los cambios más esperados por la comunidad y llega en una versión de número redondo.
-[ES]
-Fuentes: Rust Blog, vía Hacker News
-[ITEM]
-[ES]
-Su bordadora de 300 dólares pedía suscripción, así que programó su propia app
-[ES]
-Un desarrollador publicó ZigZag, software de bordado libre y gratuito para Mac y Windows que convierte ilustraciones SVG en diseños para máquinas bordadoras. Permite editar puntadas visualmente e incluso crear diseños con agentes de IA, y fue de lo más votado del día en Hacker News.
-[ES]
-Fuentes: GitHub – ZigZag, vía Hacker News
+Fuentes: The Guardian
+
 [SECTION connecting_dots]
 [ES]
-Conectando los Puntos
+Conectando los Puntos.
+
 [ES]
 "Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes."
+
 [ES]
-Si hoy hay un hilo común, es la fragilidad de lo concentrado. La salida de un solo hombre se llevó cerca de 550.000 millones de dólares del valor de Nvidia en cinco días, y una falla en un puñado de servidores de Microsoft dejó sin correo a hospitales, policías y empresas en medio mundo, e incluso arrastró a servicios de IA de terceros. Frente a eso aparecen señales en sentido contrario: un modelo de frontera que corre en tu propio portátil, un desarrollador que se fabrica su propia app en vez de pagar una suscripción. No es una predicción segura, pero vale la pena vigilar si la confianza en las grandes plataformas empieza a erosionarse y si ganan terreno las alternativas locales y abiertas.
+Si miras juntas la parálisis aérea de EE. UU. y la caída de Microsoft, el mensaje es incómodo: buena parte de la economía mundial corre sobre infraestructuras antiguas o concentradas en un solo proveedor, y cuando fallan, fallan a escala planetaria. Para ti, en España o Latinoamérica, esto no es abstracto: bancos, hospitales, municipios y pymes de la región dependen de las mismas nubes y los mismos sistemas. Vale la pena vigilar si gobiernos como el chileno o el español empiezan a exigir planes de respaldo o diversificación de proveedores, como ya piden en Australia.
+
 [ES]
-El segundo hilo es la energía. Con Trump dando por cerrada la diplomacia con Irán, minas en Ormuz y ataques contra Aramco, el riesgo de un petróleo y un gas más caros no desaparece. Chile muestra el costo concreto de ese contexto: congelar los combustibles para apagar un paro de camioneros le costará al fisco cerca de 1.000 millones de dólares. Para los países importadores de energía de América Latina y para España, cada semana de guerra en el Golfo puede traducirse en presión sobre la inflación y las cuentas públicas; para exportadores como Venezuela, Brasil o Colombia, en ingresos extra, pero también en volatilidad.
+La caída de Jensen Huang y la cumbre Trump–Xi–Putin se tocan más de lo que parece. El escándalo de Nvidia gira en torno a chips que llegan a China pese a los controles de exportación, justo cuando las tres potencias se sientan a hablar de armas nucleares e Irán en Shenzhen. Si de ahí sale un reparto de esferas de influencia, América Latina —gran proveedora de cobre, litio y alimentos para China y EE. UU.— podría verse presionada a elegir bando, o bien encontrar margen para negociar con ambos. No es una predicción segura, pero la gira asiática de Kast llega en un momento en que esa cuerda floja se nota.
+
 [ES]
-El tercer hilo es la política del costo de vida. La huelga por la vivienda en España llega a las urnas del 29-N con una izquierda dividida; en Chile, un paro logístico obligó al Gobierno a ceder en días; en Paraguay, el colapso de un banco tumbó a un presidente. Cuando las instituciones no responden rápido a problemas cotidianos como la casa, el combustible o los ahorros, la protesta se convierte en el canal, y eso hace a los gobiernos más reactivos e impredecibles.
+En lo económico, la combinación es delicada: Chile reconoce una recesión técnica por la caída del cobre y congela los combustibles, mientras los ataques en Ormuz mantienen el riesgo sobre el petróleo. Si el crudo sube y el cobre no repunta, los países importadores de energía y exportadores de materias primas de la región sufren por partida doble: más inflación importada y monedas bajo presión. Vigila el precio del petróleo y el del cobre las próximas semanas; son los dos termómetros que más pueden mover tu bolsillo.
+
 [ES]
-Por último, mira el tablero geoeconómico: Washington amenaza a México con duplicar aranceles mientras China avanza en América Latina con cooperación cultural y turismo, y a Mercedes-Benz le pesa haber dependido tanto del mercado chino. Para la región, la tentación de jugar a dos bandas existe, pero también el riesgo de quedar atrapada entre presiones. Vale la pena seguir cómo responde México y si otros gobiernos aceleran su diversificación comercial.
+Y en España, la campaña del 29-N arranca con las encuestas señalando un giro a la derecha, en paralelo a un debate sobre si bloquear TikTok que mezcla protección infantil, soberanía digital y libertad de expresión. Cualquiera que sea el resultado, la regulación de las plataformas —y de la IA que ya compra por nosotros o escribe novelas en serie— parece destinada a ser uno de los grandes temas políticos del próximo ciclo, a ambos lados del Atlántico.
+
 [SECTION hypothesis_watch]
 [ES]
-Vigilancia de la Hipótesis
+Vigilancia de la Hipótesis.
+
 [ES]
-Seguimiento continuo de la hipótesis permanente: un escaneo diario informado por la tendencia reciente del registro, no solo por las noticias de hoy, y no una nueva argumentación completa.
+Seguimiento continuo de la hipótesis de fondo: un escaneo diario de las noticias de hoy leído a la luz de la tendencia reciente del registro, no una nueva argumentación completa.
+
 [ES]
-Hoy el eslabón (a), el acortamiento de los ciclos de autoridad, recibe una de sus señales más claras: Jensen Huang, quizá la figura más emblemática del auge de la IA, cayó en cuestión de días, y Google ya relanza su gama de modelos con Gemini 4 Hydrogen. Esto continúa una racha casi ininterrumpida de apoyo a (a) desde finales de octubre. Para (b), la voz interior, hay una señal modesta de apoyo: el creador de ZigZag, que prefirió construir su propia herramienta antes que aceptar una suscripción, y el impulso de Edge0 hacia la IA local apuntan a recuperar control propio. Es el segundo día seguido con apoyo para (b), algo poco habitual en un eslabón que lleva semanas mayormente neutral, aunque la evidencia sigue siendo indirecta. En sentido contrario, la decisión de United de bloquear agentes de IA muestra que delegar en la IA ya es tan común que algunas empresas intentan frenarlo.
+(a) Ciclos de liderazgo más cortos — apoyo. La salida de Jensen Huang tras 33 años al frente de Nvidia, consumada en apenas días (CNBC), es casi un ejemplo de manual: ni la figura más poderosa de la era de la IA tiene garantizado su trono. Con hoy, (a) suma otra señal de apoyo en una racha que el registro muestra prácticamente ininterrumpida desde finales de octubre.
+
 [ES]
-En (c), el giro desde el individualismo, el desafío persiste: las amenazas arancelarias a México, la escalada con Irán y una izquierda española que, según Reuters, llega dividida y desencantada al 29-N refuerzan la lógica de bloques; (c) sigue sin una sola señal de apoyo en el registro. En (d), la colaboración, hay apoyo: el canje masivo de prisioneros y la vuelta de Europa a la mesa, y el acuerdo con los camioneros en Chile, alcanzado por diálogo. La revisión integral de noviembre concluyó net challenge porque la cadena se atasca en (b) y (c); nada de hoy cambia ese veredicto, aunque dos días seguidos de apoyo en (b) son lo más parecido a movimiento que ha mostrado ese eslabón.
+(b) Voz interior — desafío. Hoy las señales apuntan en contra: ChatGPT Wallet delega en un agente la elección y la compra (TechCrunch), y el reportaje sobre las 370 novelas escritas con IA describe una creatividad industrializada al ritmo del algoritmo (The Guardian), aunque la propia autora reivindica el criterio humano. Esto corta la pequeña racha de dos días de apoyo a (b) del 12 y 13 de noviembre y devuelve el eslabón a su patrón habitual: mayormente neutral, con apoyos sueltos.
+
+[ES]
+(c) y (d) — desafío y neutral. La cumbre a tres de las grandes potencias y las encuestas que dan a PP y Vox 195 escaños en España (El Debate) refuerzan la lógica de bloques, en línea con el desafío casi constante a (c) que muestra el registro. Para (d), el pacto Qatar–Turquía es cooperación entre Estados con fines militares, no cohesión social, así que lo marco neutral: se rompe una racha de cinco días seguidos de apoyo a (d). La revisión integral de este mes concluyó net challenge con la cadena sin propagarse más allá de los primeros eslabones; nada de hoy cambia ese veredicto.
