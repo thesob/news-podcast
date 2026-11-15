@@ -1,222 +1,347 @@
 [SECTION intro]
 [EN]
-Daily News Brief - Saturday, November 14, 2026.
+Daily News Brief. Sunday, November 15, 2026.
+
 [EN]
-Good morning, Patricio! It's a heavy one: America's skies went dark for five hours, Nvidia is suddenly leaderless, and Trump, Xi and Putin are about to sit at the same table. Coffee first, then let's go.
+Good morning, Patricio! Here's your Sunday brief.
+
 [EN]
-Sources note: The New York Times and The Washington Post couldn't be read today (NYT blocked/paywalled, WaPo served only a stale cached page), so their stories were covered via AP, Reuters, DW and Al Jazeera instead. The Herald-Tribune returned only September content even via the extraction proxy, so nothing fresh from it today. NRK (Norway) returned no current content on either the direct read or the extraction proxy, so there's no Norwegian story today; SVT and the other Swedish outlets cover the Nordic beat.
+Sources note. Reuters and AP News blocked direct reads today, so I reached their front pages through the extraction fallback. Herald Tribune's feed was paywalled (it was read the same way, but had nothing of international weight today). Three sources contained embedded instructions, which I ignored: the Reuters and AP pages, and the Lovable security write-up. NYT and Washington Post stories behind paywalls are covered via BBC, Guardian, DW and TechCrunch where the same story ran.
+
 [SECTION news]
 [EN]
 Top Stories.
+
 [ITEM]
 [EN]
-US skies reopen after the longest nationwide ground stop since 9/11.
+America's air system grinds back to life after a router swap grounded the country.
+
 [EN]
-The FAA halted every departure across the United States on Friday afternoon after a telecom failure knocked out communications at the air route traffic control centres, then lifted the stop at 8:15pm ET, roughly five hours later and the longest such halt in 25 years. Transportation Secretary Sean Duffy blames overloaded switches and routers on ageing equipment and wants a $50 billion overhaul, while Homeland Security says there's no sign of a cyberattack. Thousands of flights were cancelled and around 10,000 delayed by various counts, US-bound flights from Europe were held, and Duffy warns airlines may need days to get schedules back to normal.
+Friday's nationwide FAA ground stop, only the third in US history and the biggest grounding since 9/11, came down to a botched "routine" equipment upgrade by contractor L3Harris: Transportation Secretary Sean Duffy pointed to a copper-wire/router switch at a remote facility. Carriers canceled around 16,000 flights in 24 hours, and the FAA says schedules won't be back to normal until late Sunday. Officials stress there's "zero evidence of anything AI-related" or of sabotage, but coverage keeps coming back to the same point: an aging air-traffic system has failed several times in recent months.
+
 [EN]
-Sources: Al Jazeera, AP, BBC News, Reuters, DW, Ars Technica, TechCrunch, Hacker News, La Tercera, DN, SVT.
+Covered by: BBC, NYT, Al Jazeera, DW, Reuters, AP, TechCrunch, Ars Technica, NRK, El País.
+
 [ITEM]
 [EN]
-Trump, Xi and Putin to hold an unprecedented three-way summit in China.
+Ukraine: the US floats "Donbas for NATO", and Moscow goes back to its old ultimatums.
+
 [EN]
-The White House says Donald Trump, Xi Jinping and Vladimir Putin will meet together next week on the sidelines of the APEC summit in Shenzhen, with nuclear arms and the Iran war on Trump's agenda. It comes nine months after the New START treaty lapsed, leaving the US and Russia without caps on their arsenals for the first time in over half a century, and Trump wants a new deal that brings China in. Officials are managing expectations (one said they don't expect any agreement), while Zelenskyy and European leaders worry about a "new Yalta" that settles Ukraine's fate without Kyiv.
+Volodymyr Zelenskyy says Washington asked for the first time whether Ukraine would withdraw from parts of Donbas that Russia doesn't control in exchange for NATO membership. He said Ukraine wouldn't. At this week's talks, Russia went back to the hard-line demands it made of NATO before the 2022 invasion. Jared Kushner says the US is now facilitating direct Europe–Russia engagement, and the EU has chosen a team of five countries plus EU institutions to speak for Europe.
+
 [EN]
-Sources: Al Jazeera, AP, DW, The Guardian, SVT, Xinhua Español.
+Covered by: Guardian, BBC, Washington Post, CBS, Reuters, AP, Xinhua, El País.
+
 [ITEM]
 [EN]
-Jensen Huang is out at Nvidia; Colette Kress steps in.
+Asia's summit week: Trump, Xi and Putin plan a historic joint meeting in Shenzhen.
+
 [EN]
-Nvidia's board accepted Jensen Huang's resignation as CEO on Wednesday, days after he admitted in a letter to staff to an affair, reportedly with a Megaspeed executive whom US officials believe is a Chinese spy. CFO Colette Kress is interim CEO while the company searches for a permanent successor, and Nvidia's stock slid about 11% over five days. Huang has agreed to a closed-door congressional briefing before Thanksgiving, and VCs say his exit leaves a hole in AI startup funding, since Nvidia has been one of the sector's biggest backers.
+The White House says Trump, Xi Jinping and Vladimir Putin will meet together on the sidelines of APEC in Shenzhen next week, with nuclear arms reduction on the agenda. That has prompted "Yalta 2.0" worries in Kyiv and a delicate balancing act for Beijing. The ASEAN summit has already opened in Manila amid protests, with energy disruption from the Iran war high on the agenda. President Kast lands in Hanoi today on his longest trip yet. He meets Xi in Shenzhen on Tuesday, then Japan's Sanae Takaichi on the 19th.
+
 [EN]
-Sources: TechCrunch, SvD, El País, AP.
+Covered by: BBC, Guardian, DW, Al Jazeera, Xinhua Español, Emol.
+
 [ITEM]
 [EN]
-Iran war: four ships hit near Hormuz in 24 hours.
+The fallout from Jensen Huang's exit: a tech-elite petition, an AI funding hole, and copper sliding.
+
 [EN]
-Iran's navy says a tanker struck a mine and caught fire east of the Strait of Hormuz, the fourth vessel hit there in a single day (a supertanker among them), and Tehran says the ship was in a prohibited zone. The UN is urging an end to deadly attacks on shipping, while Qatar and Türkiye signed a mutual defence pact pledging a unified stance against any external attack on either. In Washington, Marco Rubio says further US military action isn't needed against an Iran he describes as economically weakened.
+A week after Jensen Huang resigned as Nvidia CEO over affairs, one of them with an executive linked to suspected chip smuggling to China, Elon Musk and other tech leaders have signed a petition urging the board to reinstate him (115,000+ signatures). Founders and VCs expect smaller cheques now that Nvidia's startup spending is in doubt. Copper fell to about $13,519/t, a near four-month low and its fifth straight weekly loss, as traders tied it to AI sentiment. Physical demand in China stays firm, though.
+
 [EN]
-Sources: Al Jazeera, AP.
+Covered by: TechCrunch, Guardian, NYT, BBC, OilPrice, El País, SvD.
+
 [ITEM]
 [EN]
-"Miracle on the Mississippi": everyone survives New Orleans ship collision.
+Gulf strikes resume: Iran says it targeted a US radar in Bahrain.
+
 [EN]
-A tanker collided with a river cruise ship on the Mississippi at New Orleans on Friday evening, throwing some passengers into the water. All passengers and crew have been accounted for alive, and local officials are calling it a miracle, though around 32 people were taken to hospital.
+Iran's Revolutionary Guards say they launched six drones at a US air-defence radar at Bahrain's Al-Rifaa base on Sunday morning, in retaliation for recent US strikes. Bahrain says its air defences thwarted several attacks. Oddly, the IEA reports that global oil supply swung back to surplus in October for the first time since the war began, almost 2m barrels a day more than demand.
+
 [EN]
-Sources: AP, Reuters, DW, SVT, DN, La Nación.
+Covered by: Al Jazeera, Guardian.
+
 [ES]
 España y América Latina.
+
 [ITEM]
 [ES]
-Chile: el congelamiento de los combustibles llega a la Cámara el lunes.
+Chile: el acuerdo con los camioneros, un giro en La Moneda.
+
 [ES]
-El proyecto del Presidente Kast busca revertir el último aumento y congelar los precios de las gasolinas y el diésel hasta el 3 de febrero de 2027, además de aliviar a las empresas de transporte de carga con cambios en la recuperación del impuesto específico al diésel. La Comisión de Hacienda lo revisará el lunes con los ministros de Hacienda y Energía, y el Gobierno espera votarlo en la Sala de la Cámara y en el Senado ese mismo día. Las movilizaciones de los camioneros terminaron tras negociar con el Ejecutivo.
+El primer paro social contra Kast terminó con una rebaja de los combustibles y su congelamiento hasta el 31 de marzo de 2027, una salida política negociada por el biministro Claudio Alvarado que se impuso sobre el criterio fiscal de Jorge Quiroz. Según cálculos preliminares de Emol, incluso sumando este acuerdo, el "bencinazo" de marzo deja al fisco un saldo favorable de unos US$1.000 millones. Mientras, el diésel sigue cerca de un 80% sobre los niveles de febrero.
+
 [ES]
-Fuentes: Emol.
+Fuentes: La Tercera, Emol.
+
 [ITEM]
 [ES]
-Entel vende su operación en Perú a Millicom por US$1.714 millones.
+Paraguay en crisis: ¿qué pasa con la inversión chilena?
+
 [ES]
-Entel acordó vender el 100 % de Entel Perú y Americatel Perú a Millicom, en una operación valorizada en US$1.714 millones, que debe aprobar una junta extraordinaria de accionistas el 30 de noviembre. La unidad peruana aporta el 36 % de los ingresos del grupo y tiene más de 10 millones de clientes; la compañía espera una utilidad extraordinaria de unos $98 mil millones y propondrá un dividendo eventual de $2.100 por acción si se concreta la venta.
+La intervención del Ueno Bank y la destitución del presidente Santiago Peña, por presunto aprovechamiento ilícito de recursos de esa entidad, dejaron a Pedro Alliana al mando y al país sumido en la incertidumbre. La inversión chilena acumulada llega a unos US$399 millones, con el grupo Luksic (CCU, Enex) entre los mayores actores. Laurence Golborne compara la situación con la crisis chilena de los 80, "pero acá sería sólo un banco".
+
 [ES]
-Fuentes: Emol.
+Fuente: La Tercera.
+
 [ITEM]
 [ES]
-España: arranca la campaña del 29-N con la derecha cerca de los 190 escaños.
+España: PSOE y PP se disputan el primer puesto rumbo al 29-N.
+
 [ES]
-Comenzó la campaña de las elecciones generales del 29 de noviembre, adelantadas por Pedro Sánchez, y según El País la derecha arranca cerca de los 190 escaños. El PP propone retirar el Ingreso Mínimo Vital a los inmigrantes que no trabajen y la ultraderecha plantea gravar las remesas, mientras El País advierte que el plan del PP podría llevar el déficit por encima del 4 % del PIB. Habrá un primer debate electoral consensuado, organizado por la Academia de Televisión.
+A dos semanas de las generales, Sánchez apuesta por su política social y el miedo a la ultraderecha, mientras Feijóo insiste en la corrupción y en su perfil de gestor. El tercer tracking de El País muestra que el PSOE gana por la izquierda lo que pierde por la derecha, con un millón de votos en riesgo por el flanco conservador.
+
 [ES]
-Fuentes: El País.
+Fuente: El País.
+
 [ITEM]
 [ES]
-México: Trump amaga con duplicar los aranceles.
+Canarias: aluvión récord de cayucos en El Hierro.
+
 [ES]
-El presidente de EE UU amenaza con duplicar las tarifas a México, su principal socio comercial, algo que alarma a un país cuyas exportaciones dependen en más de un 80 % de ese mercado. Un republicano advirtió a Claudia Sheinbaum que las tasas se duplicarán si no detiene a unas 1.500 personas que caminan hacia Estados Unidos.
+Más de 6.000 personas han llegado en noviembre al puerto de La Restinga, en la isla canaria menos poblada, superando todas las cifras anteriores. Reuters informa de casi 1.500 llegadas a Canarias en un solo día.
+
 [ES]
-Fuentes: El País.
+Fuentes: El País, Reuters.
+
 [ITEM]
 [ES]
-Perú: el Papa vuelve a Chiclayo, donde fue obispo.
+El papa León XIV en Perú: un regreso a casa marcado por la violencia.
+
 [ES]
-Miles de personas salieron a recibir al Papa en Chiclayo, la ciudad peruana donde sirvió como obispo. En su mensaje pidió apoyo para las familias, los jóvenes, los migrantes, los pueblos indígenas y las personas en situación de pobreza, y llamó a buscar la justicia, la paz y el bien común.
+Más de 1,5 millones de personas recibieron al papa en Chiclayo, su antigua diócesis, donde rezó por el fin de la violencia que golpea al país. El domingo visitó la remota comunidad andina de Santa Cruz de Succhabamba y habló del "sufrimiento" de sus habitantes.
+
 [ES]
-Fuentes: Página/12.
+Fuentes: BBC, Washington Post, AP (vía KSL).
+
+[ITEM]
+[ES]
+Ecuador denuncia un plan contra Noboa desde Colombia.
+
+[ES]
+El ministro del Interior, John Reimberg, acusó que el narcotraficante alias "Loco Ovidio" está protegido por el ELN en Colombia y que desde allí planearía un atentado contra el presidente Daniel Noboa. La denuncia vuelve a tensar la agenda de seguridad entre ambos países.
+
+[ES]
+Fuente: Caracol Radio.
+
 [EN]
 US and International.
+
 [ITEM]
 [EN]
-Europe gets its seat at the Ukraine table, minus Spain.
+France: a restless country, a rising Mélenchon, and a judo star in the race.
+
 [EN]
-Washington is pushing for Europe to join potential Ukraine peace talks while Moscow resists; the European delegation would include EU institutions, France, Germany, Italy, Poland and the UK, but not Spain, El País notes. Reported Russian demands include all occupied territory and Finland leaving NATO, drawing sharp reactions in Helsinki, and Ukraine is warning of hidden motives behind a Putin ceasefire offer.
+About 106,000 people marched across France in the fifth straight weekend of protests, the lowest turnout in weeks, while student blockades enter their eighth week and some teachers are losing patience. El País reports Jean-Luc Mélenchon is consolidating support among young and suburban voters. The BBC says judo great Teddy Riner's surprise candidacy is shaking up the presidential race, with one in five voters saying they could back him.
+
 [EN]
-Sources: DW, El País, SvD, SVT, DN.
+Covered by: DW, Guardian, El País, BBC.
+
 [ITEM]
 [EN]
-US midterms: everyone moved left, the young most of all.
+World Court to rule this week on Rohingya genocide.
+
 [EN]
-El País's breakdown of the US midterm results finds every demographic group moved left, but unevenly: voters under 30 swung 37 points compared with 2024, while over-65s barely shifted. House and Senate results are still being tallied state by state.
+The International Court of Justice will say whether Myanmar committed genocide against its Rohingya minority. The landmark judgment will set a 21st-century benchmark for the gravest of international crimes. Separately, ASEAN reaffirmed its engagement with Myanmar's peace plan at its Manila summit.
+
 [EN]
-Sources: El País.
+Covered by: Guardian, Reuters.
+
 [ITEM]
 [EN]
-COP31 enters its final week split over fossil fuels.
+Brazil: Indigenous communities targeted after backing Lula.
+
 [EN]
-The UN's climate chief urged negotiators at COP31 in Antalya, Turkey, to avoid "tactical delays" as the summit enters its final week with a deep divide over fossil fuels. Meanwhile, DW reports that the TFFF rainforest fund still needs about $2 billion before it can even launch.
+Violence against Indigenous people has risen since Lula defeated Flávio Bolsonaro last month, the Washington Post reports. Communities that openly backed the president say they're now paying the price.
+
 [EN]
-Sources: Reuters, DW.
+Covered by: Washington Post.
+
 [ITEM]
 [EN]
-Gaza: winter storm floods tents, deaths reported.
+COP31 under a "super El Niño" shadow.
+
 [EN]
-Heavy rain flooded tents across Gaza, killing several people, and the UN says Israeli policies worsened the storm's deadly impact. DW asks whether Trump's Board of Peace can break the political deadlock while the humanitarian situation deteriorates.
+A very strong El Niño is acting as a "risk multiplier" over the UN climate talks in Turkey, adding urgency to the fight over funding for vulnerable countries, after a year whose extreme-weather death toll is already in the high tens of thousands. In the host city, LGBTQ+ activists defied a government crackdown to lead the civil-society climate march.
+
 [EN]
-Sources: DW, Al Jazeera.
+Covered by: Guardian.
+
 [ITEM]
 [EN]
-Czechs rally to defend public broadcasting.
+Sudan: drones knock out the power.
+
 [EN]
-A large rally in Prague opposed a government plan to scrap the licence fee that funds Czech public broadcasters. Critics say the change would give ministers more leverage over newsrooms, following a pattern of eroding public media freedom across central Europe.
+Waves of drone strikes on Sudan's power stations are plunging cities into darkness, Al Jazeera reports. The Guardian documents how drones are reshaping the war and killing civilians, including a double strike on a crowded transport hub in West Kordofan.
+
 [EN]
-Sources: The Guardian.
+Covered by: Al Jazeera, Guardian.
+
+[ITEM]
+[EN]
+UK: rate rises look inevitable as inflation heads to 5%.
+
+[EN]
+The Bank of England's chief economist says rates will probably need to rise next month and again in early 2027, with inflation forecast to hit 5% next spring. Around 2.3 million homeowners face higher mortgage payments, even as AI services helped push Q3 growth to 0.7%.
+
+[EN]
+Covered by: Guardian.
+
+[ITEM]
+[EN]
+Germany passes the hat: a record €561bn budget.
+
+[EN]
+Berlin's 2027 federal budget proposal is finally ready for a parliamentary vote, at a record €561 billion and with a mountain of new debt for defence and infrastructure. Experts quoted by DW warn the country is heading for a budget crisis.
+
+[EN]
+Covered by: DW.
+
+[ITEM]
+[EN]
+Norway, from NRK: Paralympian Birgit Skarstein nominated for Oslo mayor.
+
+[EN]
+Oslo Labour's nominating committee has united behind former Paralympic rower Birgit Skarstein as its mayoral candidate. She says she's ready to serve if confirmed, adding that "fortunately it's allowed to think it over." Translated from Norwegian.
+
+[EN]
+Covered by: NRK.
+
 [EN]
 Tech and Niche.
+
 [ITEM]
 [EN]
-Microsoft's global outage may rival CrowdStrike.
+SpaceX catches Starship's upper stage for the first time.
+
 [EN]
-A global Microsoft outage took down Outlook, Teams and other 365 services, and one expert tells Ars Technica it may prove worse than the Amazon and CrowdStrike meltdowns, hitting governments, hospitals and courts. Microsoft blames failed server health checks rather than hackers; in Sweden, SvD reports courts and companies were hit and recovery could take days.
+After more than 22 hours in orbit and a Starlink deployment, Starship's ship came back to Starbase and was caught by the tower's "chopsticks", a first that's key to Musk's plan for full reusability. The booster catch was aborted, but Ars Technica says it still "felt like stepping into the future". It was Hacker News's top story of the day by a wide margin.
+
 [EN]
-Sources: AP, Ars Technica, SvD.
+Covered by: Ars Technica, Space.com, BBC, DW, Hacker News, Infobae, Aftonbladet.
+
 [ITEM]
 [EN]
-Nvidia's China chip problem deepens.
+Lovable-built apps leak passports and 200k private messages.
+
 [EN]
-TechCrunch reports that export-banned Nvidia chips are behind China's most powerful AI models, and Treasury Secretary Scott Bessent is blaming Howard Lutnick's Commerce Department for failing to restrict them. Separately, a widely shared Hacker News thread discusses allegations that Nvidia engineered GPU scarcity by funding AI startups that then bought its chips, a fresh headache for a company already without its founder at the helm.
+Researchers analysed 159,041 projects built with the AI app-builder Lovable. They found Supabase databases that served personal data to anyone loading the page, including passport numbers, contracts, invoices and chat logs, with 7,403 sites returning records that contained email addresses. They caution this isn't a confirmed leak rate. It's a sobering look at "vibe-coded" software in production.
+
 [EN]
-Sources: TechCrunch, AP, Hacker News (TechPowerUp).
+Covered by: Hacker News, Crissyfield research, via Handelsblatt.
+
 [ITEM]
 [EN]
-Starship flight 15 reaches orbit, but the booster is lost.
+Microsoft 365 is back after a day-long global outage.
+
 [EN]
-SpaceX's latest Starship reached orbit and deployed 26 Starlink satellites, but the booster exploded over the Gulf of Mexico instead of returning to the launch site, for reasons not yet clear. The upper stage is due back on Saturday, when SpaceX will try to catch it with mechanical arms for the first time.
+Microsoft says Outlook, Teams and Copilot are fully restored after an outage of more than 21 hours that sent NHS hospitals back to paper records and hit courts, schools and governments worldwide. The company blamed a technical issue "not related to cyber or AI / agents" and said it was "deeply sorry". The episode has revived worries about relying on so few tech providers.
+
 [EN]
-Sources: DW, Ars Technica.
+Covered by: BBC, Guardian.
+
 [ITEM]
 [EN]
-AI squeezes young job-seekers and rattles publishing.
+Italy fines Meta €805m over users' photos.
+
 [EN]
-A new Guardian series follows young people shut out of careers (one graduate has sent more than 1,000 applications), and a computer science graduate argues that one AI-assisted hire can now do "the work of 10." In publishing, accusations of AI use are costing authors deals and prize nominations, in what the Guardian calls a literary wild west.
+Italy's authority says Meta failed to tell 20 million users it had access to their photos. It's among the largest penalties Italy has ever imposed on a tech giant.
+
 [EN]
-Sources: The Guardian.
+Covered by: BBC, NZ Herald.
+
 [ITEM]
 [EN]
-AI agents get a wallet.
+The FAA quietly expands AI air-traffic advice nationwide.
+
 [EN]
-OpenAI's new ChatGPT Wallet lets AI agents shop and check out on your behalf, and agent-tooling startup LangChain has hit a $3 billion valuation. Even the FAA is expanding AI advice for managing congestion across all US airspace, a move airlines praised, though the controllers' union wasn't involved.
+In the same week as the ground stop, the FAA expanded an AI advisory tool for managing congestion across all US airspace. Airlines praise it, but the air traffic controllers' union wasn't involved.
+
 [EN]
-Sources: TechCrunch, Ars Technica.
+Covered by: Ars Technica.
+
 [ITEM]
 [EN]
-ggml hits 1.0.
+Could universal basic income fit an AI economy?
+
 [EN]
-ggml, the open-source tensor library underneath llama.cpp and much of the local-AI scene, has tagged its 1.0.0 release, and it's near the top of Hacker News. On the same front page, Unsloth published updated dynamic quantizations for the new Qwen3.8-27B model, another sign that running capable models on your own hardware keeps getting easier.
+The scale of AI-driven disruption has even conservative politicians talking about UBI, DW reports. Economists remain unconvinced, and campaigners say the deeper questions are about who owns the gains.
+
 [EN]
-Sources: Hacker News, GitHub, Unsloth.
+Covered by: DW.
+
 [SV]
 Sverige.
+
 [ITEM]
 [SV]
-Regeringsfrågan: Centerpartiet har fått båda "totalpaketen".
+Ödesdag för Centerpartiet i regeringsfrågan.
+
 [SV]
-Fredagens deadline har passerat och Centerpartiet har tagit emot både Moderaternas och Socialdemokraternas "totalpaket", planer för hur respektive parti vill regera med C:s stöd. Partiledaren Elisabeth Thand Ringqvist säger att fokus är att Sverige ska få en handlingskraftig regering, medan Ulf Kristersson vill bilda en borgerlig minoritetsregering av M, C, KD och L. Internt varnar källor för splittring i C, och enligt DN menar en L-källa att en borgerlig regering ändå måste samtala med SD.
+C-ledningen har träffat samtliga partidistrikt, och under dagen möts även riksdagsgruppen och partistyrelsen på hemlig plats, med mobilförbud. Enligt Aftonbladets källor vill partiledaren Elisabeth Thand Ringqvist dra partiet högerut mot Ulf Kristersson, medan distrikten är splittrade och en källa talar om ett "kuppförsök". Beskedet om vilket "totalpaket", Kristerssons eller Magdalena Anderssons, som C väljer väntas nästa vecka.
+
 [SV]
-Källor: SVT, SvD, DN.
+Källor: Aftonbladet, SvD, Arbetet, SVT.
+
 [ITEM]
 [SV]
-Skott mot lägenhetsdörr på Östermalm.
+Nya kreditlagen: Klarna-köp kräver uppgifter om lön och boende.
+
 [SV]
-Skott avlossades mot en lägenhetsdörr i ett flerfamiljshus vid Gärdet på Östermalm i Stockholm på fredagskvällen. Ingen skadades, och polisen utreder försök till mord och söker en gärningsperson.
+Den 20 november träder den nya konsumentkreditlagen i kraft, och betalföretag som Klarna och Qliro måste nu fråga efter årsinkomst, antal barn och anställningsform. Den som inte lämnar uppgifterna riskerar att stoppas från att handla på faktura. Konsumentverket säger att syftet är att motverka överskuldsättning.
+
 [SV]
-Källor: SVT, DN, Aftonbladet, GP.
+Källor: DN, TT, SvD.
+
 [ITEM]
 [SV]
-Damkronorna klara för VM-semifinal efter 17 år.
+Över 100 000 väntas protestera i Tjeckien.
+
 [SV]
-Sverige slog Schweiz med 1–0 i VM-kvartsfinalen i Esbjerg och är klart för semifinal för första gången på 17 år. Det är en revansch efter förlusten i OS-bronsmatchen tidigare i år, och Sverige har inte tagit någon VM-medalj sedan bronset 2007.
+Över 100 000 demonstranter väntas på söndagen protestera till stöd för ett oberoende public service i Tjeckien. Bakom demokratirörelsen finns ett bredare motstånd mot premiärminister Andrej Babiš.
+
 [SV]
-Källor: SVT, Aftonbladet.
+Källa: DN.
+
 [ITEM]
 [SV]
-Nationellt prov läckte på TikTok.
+SvD-ledare: Generation Z gör uppror mot 68-generationens nota.
+
 [SV]
-Delar av ett nationellt prov har spridits på TikTok via ett anonymt konto. Skolverket beskriver händelsen som allvarlig.
+Studentprotesterna i Europa, med över en halv miljon på gatorna i Frankrike, handlar enligt SvD:s ledarsida i grunden om ekonomiskt missnöje: boomers har sett sina tillgångar växa medan unga ärver skulderna. OECD räknar med nästan 70 procent fler äldre per person i arbetsför ålder år 2060.
+
 [SV]
-Källor: SVT.
-[ITEM]
-[SV]
-Miljardbygge sågas: fyra öre per skattekrona.
-[SV]
-En ny rapport sågar ett miljardbygge som enligt SvD bara ger fyra öre i samhällsnytta per skattekrona. Kritiken gäller att Sverige lägger infrastrukturpengarna på fel saker.
-[SV]
-Källor: SvD.
+Källa: SvD.
+
 [SECTION connecting_dots]
 [EN]
 Connecting the Dots.
+
 [EN]
 This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+
 [EN]
-Patricio, the thread I can't stop pulling today is fragility. In a single day the US air traffic system fell over because new tech was bolted onto old switches, Microsoft's cloud went down hard enough to silence courts and hospitals, and the most powerful executive in AI was gone within a week of one letter. None of these is a collapse on its own, but together they hint that the systems we lean on are more concentrated, and more brittle, than they look. Worth watching whether "resilience" becomes the next big spending theme the way "AI" was this year.
+Patricio, today's common thread is fragility at the chokepoints. A router swap at one contractor grounded US aviation. A single Microsoft fault sent hospitals on three continents back to paper. One man's private life knocked the most important company of the AI boom off balance. And an AI app-builder's default settings left passports open to anyone who loaded a page. None of these were malicious. They're what happens when enormous amounts of activity run through very few nodes. I'd watch whether "concentration risk" becomes the political frame for AI and cloud regulation in 2027, alongside the safety frame.
+
 [EN]
-The energy picture is the one that lands closest to home. Four ships hit near Hormuz in a day is exactly the kind of thing that keeps oil prices jumpy, and Chile's answer this week is a fuel-price freeze through February plus diesel relief for the truckers. That buys calm at the pump, but someone pays for it, likely the fiscal accounts, and it locks in a political deadline right in the middle of summer. If Rubio is right that Washington is done escalating, the pressure could ease; if the mines keep going off, the freeze gets more expensive to maintain.
+For you in Chile, the most direct transmission is copper. Traders are now explicitly pricing copper off AI sentiment ("every time AI takes a hit, copper comes under pressure"), so the metal behind a big share of Chile's exports and fiscal revenue is partly a bet on Nvidia's boardroom. Firm physical demand in China is a cushion, but a weaker copper price usually means a softer peso and a tighter fiscal picture. That lands just as La Moneda has agreed to freeze fuel prices until March 2027. The IEA's oil surplus is the hopeful counterweight. If it holds and Gulf strikes don't escalate, the cost of that freeze could shrink. If Bahrain-style flare-ups spread, it could grow fast.
+
 [EN]
-Then there's the big-power theatre in Shenzhen. A Trump–Xi–Putin table, Kast heading to Asia, CEPAL talking up Chinese cooperation in Santiago, and a fresh tariff threat against Mexico all point the same way: Latin America is being asked, more bluntly, to pick lanes. For a copper exporter, US–China détente is generally good news (calmer demand, steadier peso), while a breakdown would bite. The Nvidia story ties in too: AI data centres eat copper, and anything that slows AI investment, a funding gap or tighter chip controls, ripples down to Chilean mines eventually. Not a prediction, just the transmission belt to keep in mind.
+Geopolitically, next week in Shenzhen matters a lot for Chile. Kast will be in the room with Xi on the same trip where Trump, Xi and Putin sit down together, a meeting Kyiv fears could become a spheres-of-influence carve-up. A world that settles into blocs would raise the stakes of Chile's long habit of trading with everyone. Kast's Vietnam and Japan stops look like hedging, and that's worth noticing. Closer to home, Paraguay's bank-and-president collapse is a reminder that "stable, low-tax neighbour" can change in a week. Exposure is concentrated in real estate and a few big Chilean groups.
+
 [EN]
-Finally, the politics. Spain heads to the polls on 29-N with the right reportedly near 190 seats, Sweden is still assembling a government, and young American voters lurched left in the midterms. Spanish banks, utilities and builders are big players in Chile, so a policy shift in Madrid can matter here more than it seems. And the pattern of electorates swinging hard, fast and in different directions in different places is itself the story: mandates feel shorter-lived than they used to.
+Finally, a quieter pattern: generational economics is becoming the organising grievance across Europe, from French student blockades to SvD calling it the 68ers leaving the bill to their grandchildren, while AI squeezes entry-level work and UBI enters mainstream debate. Chile has its own version of this (pensions, the AFP Fondo E backlash, youth jobs). If it takes hold, it could reshape coalitions in ways today's left/right maps don't capture. That's something to watch, not a prediction.
+
 [SECTION hypothesis_watch]
 [EN]
 Hypothesis Watch.
+
 [EN]
-An ongoing daily scan on your standing hypothesis, read against the recent trend in the log rather than today's stories alone, not a full re-argument.
+A daily scan on your standing hypothesis, (a) shrinking authority cycles, leading to (b) a stronger internal voice, leading to (c) a move away from individualism, leading to (d) more collaboration and cohesion, read against the recent trend in the log rather than today's stories alone; not a full re-argument.
+
 [EN]
-The log now holds 52 days of readings, and the pattern is stark: (a) has been "support" every single day, (b) on all but six, (c) has never moved off neutral, and (d) has picked up only five scattered supports, the most recent on 26 October. There's no prior integral review on file yet to frame things against. Today extends the streaks rather than breaking them. For (a), the fastest authority collapse imaginable just happened: Jensen Huang, arguably the single most important figure in the AI economy, went from untouchable to out in about four days (TechCrunch), alongside government churn in Sweden and a snap election in Spain. For (b), the Guardian's job-seekers describe a broken social contract that leaves them navigating alone (The Guardian), and the literary world's AI-authorship fights are turning "is this your own voice?" into a literal professional question. One complication worth flagging: ChatGPT's new Wallet (TechCrunch) pushes the other way, handing everyday decisions to an agent rather than strengthening one's own judgment.
+(a) gets another clear supporting signal, and the Nvidia story has now run through the log for a week. What's new today is the counter-movement: Musk and other tech leaders petitioning the board to reinstate Huang shows authority being contested in real time rather than simply replaced. Paraguay ousting its president within days of a bank intervention, France's fragmenting race (Mélenchon rising, Teddy Riner appearing from nowhere) and Centerpartiet's internal "coup" talk all add to the churn, as reported by TechCrunch, La Tercera and the BBC. That makes (a) unbroken since the log began in September: every dated entry is a support. (b) is supported more modestly. Independent researchers auditing "vibe-coded" Lovable apps, and the "looks like we'll have to talk to people" mood during the Microsoft outage, both point people back toward their own scrutiny and judgment rather than default trust in the platform, as reported by Crissyfield and the Guardian. That continues (b)'s long run of mostly-supporting days.
+
 [EN]
-(c) and (d) stay stuck. The Czech rally to defend public media (The Guardian) is real collective action, but it's issue-based, the same kind the log has repeatedly declined to count as a shift away from individualism. And the cohesion visible today is at the level of states, the Qatar–Türkiye defence pact and Europe's united front for Ukraine talks, rather than people turning toward one another. That makes this the 53rd logged day in a row with the chain's first link strong and the last two silent, which is starting to look like a pattern in itself, something the first integral review in December should weigh carefully.
+(c) and (d) stay where the log has kept them: neutral. Europe's Gen Z protests, the Czech public-service rally and Swiss men marching against violence toward women are collective, but they're issue-driven, not a cultural turn away from individualism. Cohesion signals are still state-level (EU's five-nation Ukraine team, APEC/ASEAN diplomacy) and offset by the Gulf, Sudan and Ukraine. The long-run pattern is unchanged after two months: the first two links fire almost daily, while (c) has never registered a supporting day and (d) only occasionally. No integral review has been published yet, so there's no prior verdict to weigh this against. The first one is due on the first brief of December.
