@@ -1,0 +1,245 @@
+[ES]
+Resumen Diario — domingo 15 de noviembre de 2026
+
+[ES]
+¡Buenos días! Este es tu resumen del domingo: una cumbre inédita entre Washington, Pekín y Moscú en el horizonte, nuevas señales sobre el precio de la paz en Ucrania, un Golfo que vuelve a calentarse y un fin de semana en que la tecnología mostró a la vez su cara más espectacular y su cara más frágil.
+
+[ES]
+Titulares.
+
+[ES]
+Trump, Xi y Putin se reunirán juntos en China la próxima semana.
+
+[ES]
+La Casa Blanca anunció que Donald Trump, Xi Jinping y Vladimir Putin celebrarán un encuentro trilateral al margen de la cumbre de APEC en Shenzhen, que se celebra el 18 y 19 de noviembre. Según la portavoz Olivia Wales, Trump quiere hablar de la reducción de armas nucleares; también podría tratarse Irán, pero no Ucrania, y un alto funcionario estadounidense dijo que no se espera ningún acuerdo. Rusia confirmó la reunión y Pekín, por ahora, guarda silencio, mientras Xinhua informa que los preparativos de APEC están listos y que China y EE. UU. acaban de celebrar la primera reunión de su nuevo consejo de comercio. En La Tercera ya hay quien habla de una “nueva Yalta”.
+
+[ES]
+Fuentes: BBC News, Xinhua Español, La Tercera, The Guardian.
+
+[ES]
+Zelensky: EE. UU. planteó que Ucrania ceda el Donbás a cambio de entrar en la OTAN.
+
+[ES]
+Volodímir Zelensky aseguró que los enviados estadounidenses Jared Kushner y Steve Witkoff, tras pasar por Moscú, le preguntaron qué pasaría si Ucrania entrara en la OTAN a cambio de retirarse del Donbás; dijo que era la primera vez que se planteaba algo así y que solo lo sometería a referendo con garantías de seguridad y recursos para la reconstrucción. Washington no lo ha confirmado: un funcionario dijo a la BBC que “se siguen discutiendo muchas ideas”. Mientras, The Washington Post informa que Rusia volvió en la mesa a sus viejos ultimátums de repliegue de la OTAN, y El País advierte que tanto Moscú como Washington quieren empezar por rediseñar la seguridad europea.
+
+[ES]
+Fuentes: BBC News Mundo, BBC News, The Washington Post, Reuters, AP News, El País.
+
+[ES]
+Un viejo cable de cobre paralizó todos los vuelos de Estados Unidos.
+
+[ES]
+La FAA levantó la suspensión nacional de despegues más larga desde el 11 de septiembre de 2001: más de cuatro horas en tierra el viernes, con unos 8.000 vuelos cancelados y 8.500 retrasados solo ese día, y más de 14.000 afectados el sábado. El secretario de Transportes, Sean Duffy, atribuyó la falla a la sustitución de un antiguo cable de cobre y dijo que investigan si hubo “incompetencia” del contratista o un fallo de equipos; la FAA aseguró que no hay “ninguna evidencia” de que tenga que ver con la IA. Las aerolíneas esperan volver a la normalidad a última hora de este domingo, y en Chile los controladores aéreos ya piden anticiparse a riesgos similares.
+
+[ES]
+Fuentes: BBC News Mundo, The New York Times, Reuters, AP News, DW en Español, TechCrunch, Ars Technica, Emol, El País.
+
+[ES]
+El Golfo vuelve a encenderse: drones iraníes sobre Baréin y tanqueros en llamas en Ormuz.
+
+[ES]
+La Guardia Revolucionaria de Irán dijo haber atacado con seis drones un radar de defensa aérea estadounidense en la base de Al Riffa, en Baréin, cuyo ejército asegura haberlos interceptado todos; Teherán amenazó con ampliar la guerra si EE. UU. vuelve a atacar. El sábado, según medios estatales iraníes citados por Reuters, tres petroleros se incendiaron tras chocar con minas navales en el estrecho de Ormuz, por donde Irán restringe el paso. Para completar el cuadro, la coalición saudí interceptó misiles hutíes lanzados contra Riad.
+
+[ES]
+Fuentes: DW en Español, Reuters.
+
+[ES]
+SpaceX atrapa por primera vez la nave Starship con los brazos de su torre.
+
+[ES]
+En su vuelo 15, la etapa superior de Starship regresó de la órbita, encendió tres motores Raptor en el último momento y fue “pescada” por los brazos de la torre de lanzamiento en Starbase, Texas, sujetándose solo de dos pequeños salientes de unos 30 centímetros. Es un paso clave hacia un cohete totalmente reutilizable, el objetivo con el que SpaceX quiere abaratar radicalmente el acceso al espacio. Fue además la noticia más votada del día en Hacker News.
+
+[ES]
+Fuentes: Ars Technica, BBC News, DW en Español, AP News, BBC News Mundo, Hacker News.
+
+[ES]
+España y Latinoamérica.
+
+[ES]
+España: PSOE y PP recrudecen la pelea por el primer puesto a dos semanas del 29-N.
+
+[ES]
+A dos semanas de las generales, Alberto Núñez Feijóo ya se ve en La Moncloa y apuesta por el discurso de la corrupción y su perfil de gestor, mientras Pedro Sánchez intenta movilizar a la izquierda con su política social y el miedo a la ultraderecha, citando a Lula y a los demócratas estadounidenses. Quedan dos debates decisivos, un cara a cara este jueves y otro a cuatro con Vox y Frente Amplio, que buscan no ser absorbidos por el voto útil. El tercer tracking de El País indica que el PSOE gana por la izquierda lo que pierde por la derecha, y la campaña, por primera vez, se juega también en los pódcast.
+
+[ES]
+Fuentes: El País.
+
+[ES]
+Récord de cayucos en El Hierro: más de 6.000 llegadas solo en noviembre.
+
+[ES]
+La isla canaria menos poblada vive un aluvión sin precedentes: más de 15.000 migrantes han llegado a Canarias en cayuco desde mediados de octubre, y 6.000 de ellos en lo que va de noviembre al puerto de La Restinga. Los expertos apuntan a la crisis en Senegal, de donde sale la mayoría, y a factores como los vientos alisios y la relajación de los controles. El reportaje sigue a tres jóvenes que pagaron unos 730 euros por el pasaje y resumen su motivo en dos palabras: “Futuro. Otro”.
+
+[ES]
+Fuentes: El País.
+
+[ES]
+León XIV denuncia en Perú la discriminación de los afrodescendientes.
+
+[ES]
+En su regreso a su antigua diócesis de Chiclayo, donde más de 1,5 millones de personas salieron a recibirlo, el papa León XIV visitó Zaña y evocó a las generaciones de africanos “sometidos a la esclavitud” y a quienes “padecen todavía la discriminación”. Activistas afroperuanos celebraron que hable de derechos y no solo de folclore, en un país con racismo estructural según denuncian. En días anteriores también condenó el machismo y la violencia que golpea a Perú.
+
+[ES]
+Fuentes: El País, Emol, AP News, The Washington Post, BBC News.
+
+[ES]
+Chile: el acuerdo con los camioneros, ¿un precedente peligroso?
+
+[ES]
+Tras cuatro días de paro, el Gobierno de José Antonio Kast cerró un acuerdo con los camioneros sobre combustibles, y académicos consultados por Emol advierten que pactar bajo presión podría animar a otros gremios justo antes de negociar el reajuste del sector público, que parte con una petición del 6,3%. La Tercera relata que La Moneda impuso una salida política por sobre el criterio fiscal, fortaleciendo al biministro Claudio Alvarado frente al ministro de Hacienda, Jorge Quiroz. Algunos economistas, eso sí, ven menos presión inflacionaria tras el pacto.
+
+[ES]
+Fuentes: Emol, La Tercera.
+
+[ES]
+La IA inunda el Congreso chileno: 2.242 indicaciones al Presupuesto hechas con IA.
+
+[ES]
+El debate del Presupuesto 2027 batió récords con más de 3.000 indicaciones, de las cuales 2.242 fueron identificadas como redactadas con inteligencia artificial; el año anterior no hubo más de 1.500 en total. Parlamentarios como Iván Moreira hablan de un “uso indiscriminado” que entorpece el trabajo legislativo, y en los pasillos se comentan discursos que “suenan robóticos”. El Senado pidió a Contraloría un reglamento para el uso de IA y prepara su propia herramienta, SenIA, entrenada solo con información del Congreso.
+
+[ES]
+Fuentes: La Tercera.
+
+[ES]
+Kast inicia en Vietnam su gira por Asia rumbo a APEC.
+
+[ES]
+El presidente José Antonio Kast aterrizó en Hanói, primera escala de una gira que culminará en la cumbre de APEC en China, acompañado de ministros, parlamentarios y una delegación empresarial. La presidenta de la CPC, Susana Jiménez, destacó el potencial de un mercado de cerca de 100 millones de personas para exportaciones chilenas como salmones, frutas y productos agroindustriales. La gira coincide con la semana en que Shenzhen reunirá a Trump, Xi y Putin.
+
+[ES]
+Fuentes: La Tercera.
+
+[ES]
+Asere, corillo, chuchaqui: el nuevo Diccionario de la lengua española abraza a América Latina.
+
+[ES]
+La 24.ª edición del Diccionario de la lengua española, la primera “nativa digital”, incorpora más de 6.000 nuevas entradas, entre ellas 1.570 voces de uso exclusivo en distintos países hispanohablantes y 1.490 gentilicios. Junto a americanismos como asere o chuchaqui llegan palabras de época como influencer, pódcast, inteligencia artificial, ecoansiedad o narcolancha. Es la primera renovación completa desde 2014.
+
+[ES]
+Fuentes: BBC News Mundo.
+
+[ES]
+Mundo.
+
+[ES]
+Un “súper El Niño” histórico sobrevuela la COP31 en Turquía.
+
+[ES]
+Mientras se negocia en la cumbre climática de la ONU en Turquía, el fenómeno de El Niño más fuerte en al menos mil años ya alimenta incendios y malas cosechas en Indonesia, sequía en Sudán e inundaciones severas en países como Ecuador y Somalia. “El Niño será un multiplicador de riesgo”, advirtió Celeste Saulo, secretaria general de la Organización Meteorológica Mundial. La urgencia se cuela en la pelea por la financiación climática para los países más vulnerables, y AP informa que la coalición para abandonar los combustibles fósiles sigue adelante sin Colombia, su impulsora original.
+
+[ES]
+Fuentes: The Guardian, AP News.
+
+[ES]
+Israel mata en Gaza a un comandante de Hamás vinculado al 7 de octubre.
+
+[ES]
+Un bombardeo israelí mató en Al-Mawasi, en el sur de Gaza, a Samir Abu Younis, recién nombrado comandante de la Brigada de Rafah y señalado como uno de los planificadores del ataque del 7 de octubre de 2023; tanto Hamás como el ejército israelí confirmaron su muerte. Testigos dicen que cuatro misiles impactaron una tienda en un campamento que alberga a cientos de desplazados. El País describe, en paralelo, cómo la reconstrucción de Gaza sigue bloqueada más de un año después del alto el fuego.
+
+[ES]
+Fuentes: BBC News, DW en Español, Xinhua Español, El País.
+
+[ES]
+Francia, en ebullición: Mélenchon se consolida y Teddy Riner sacude la carrera.
+
+[ES]
+Jean-Luc Mélenchon sigue creciendo en las encuestas impulsado por los jóvenes y las periferias, y hoy parece encaminado a disputarle la segunda vuelta a Marine Le Pen en las presidenciales de abril. Al mismo tiempo, el judoca Teddy Riner, cinco veces campeón olímpico y uno de los franceses más populares, anunció una candidatura sin partido ni programa, con el lema “La France qu'on aime”; uno de cada cinco votantes dice que podría apoyarlo.
+
+[ES]
+Fuentes: El País, BBC News.
+
+[ES]
+Italia multa a Meta con 805 millones de euros por acceder a fotos de usuarios.
+
+[ES]
+La autoridad italiana de protección de datos sancionó a Meta por no informar adecuadamente a unos 20 millones de usuarios de Android de que la app de Facebook accedía a sus galerías para sugerir publicaciones. Le dio 60 días para desactivar la función por defecto y pedir un consentimiento separado. Es una de las multas más grandes que un regulador italiano ha impuesto a una tecnológica.
+
+[ES]
+Fuentes: BBC News.
+
+[ES]
+La ASEAN se reúne en Manila con la crisis energética en el centro.
+
+[ES]
+Los líderes del sudeste asiático abrieron su cumbre en Manila, del 15 al 17 de noviembre, con la región golpeada por la escasez de petróleo derivada de la guerra de EE. UU. e Israel contra Irán y por la rivalidad entre Washington y Pekín. Trump asistirá antes de viajar a Shenzhen. Los analistas ven muy difícil cerrar este año el código de conducta para el mar de China Meridional, y Filipinas y Australia firmaron un pacto de defensa con la vista puesta en China.
+
+[ES]
+Fuentes: Al Jazeera, DW en Español, Reuters, Xinhua Español.
+
+[ES]
+Tecnología y Nicho.
+
+[ES]
+Nvidia sin Jensen Huang: petición masiva para su regreso y un agujero en la financiación de startups.
+
+[ES]
+Una petición para que Nvidia restituya a Huang superó las 115.000 firmas, entre ellas casi 6.000 empleados y figuras como Elon Musk, Tim Sweeney y Garry Tan, que reclaman “debido proceso, no justicia de la turba”. Huang renunció el jueves tras confesar una relación con una ejecutiva sospechosa de espionaje para China, y la directora financiera Colette Kress es CEO interina. Inversores dicen a TechCrunch que su salida “es como una bomba”: Nvidia participó este año en 105 rondas de financiación y muchas decisiones dependían de él personalmente.
+
+[ES]
+Fuentes: TechCrunch, The New York Times, BBC News.
+
+[ES]
+Microsoft restablece Outlook, Teams y Copilot tras un apagón global.
+
+[ES]
+Microsoft dio por resuelta la caída que afectó a más de 70 países y a productos usados por más de 430 millones de personas, y que golpeó desde gobiernos y tribunales hasta hospitales. La empresa la atribuyó a una “ampliación de capacidad de red” y descartó un ciberataque o un agente de IA. Expertos lo ven como un recordatorio de cuánto dependemos de un puñado de grandes proveedores.
+
+[ES]
+Fuentes: BBC News, DW en Español, Ars Technica, AP News.
+
+[ES]
+Apps hechas con Lovable exponen pasaportes y más de 200.000 mensajes privados.
+
+[ES]
+Investigadores revisaron 159.041 proyectos creados con Lovable, la plataforma sueca que convierte descripciones en lenguaje natural en aplicaciones web, y encontraron numerosos casos de datos personales y confidenciales accesibles sin iniciar sesión. Subrayan la brecha entre la promesa de “no necesitas saber programar” y unos términos de uso que dejan la seguridad en manos del cliente. Fue una de las historias más comentadas en Hacker News.
+
+[ES]
+Fuentes: Crissyfield (vía Hacker News).
+
+[ES]
+“SignDrop”: un investigador molesto con Microsoft publica otro fallo de día cero en Windows.
+
+[ES]
+El investigador conocido como Nightmare Eclipse divulgó SignDrop, una vulnerabilidad en el sistema de registros CLFS de Windows que permite a un usuario común obtener privilegios de System. El truco consiste en forzar a un proceso privilegiado, como Windows Defender, a abrir un contenedor manipulado. Llega en una semana en que Microsoft ya estaba bajo la lupa por su apagón global.
+
+[ES]
+Fuentes: Ars Technica.
+
+[ES]
+Tesla abre la preventa del Cybercab “para uso personal”, con cuota de 299 dólares al mes.
+
+[ES]
+Algunos clientes ya pueden reservar el Cybercab autónomo por 29.990 dólares, con entrega estimada en diciembre en ciudades de Texas y operación limitada a zonas delimitadas, más una cuota mensual de 299 dólares. El propio Elon Musk dijo que esa cuota es “demasiado alta” y que debería rondar los 115 dólares. Tesla dejará de fabricar el Cybertruck el próximo año para producir más Cybercabs.
+
+[ES]
+Fuentes: TechCrunch.
+
+[ES]
+Conectando los Puntos.
+
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+
+[ES]
+Si miras juntas las historias de tecnología de este fin de semana, aparece un hilo común: la fragilidad de los puntos únicos de falla. Un cable de cobre detuvo todo el tráfico aéreo de Estados Unidos, una “ampliación de red” tumbó Outlook y Teams en más de 70 países, y la salida de una sola persona, Jensen Huang, deja a medio ecosistema de startups de IA preguntándose de dónde vendrá el dinero. Vale la pena vigilar si esto empuja a gobiernos y empresas a pagar por redundancia —más proveedores, más respaldo local— aunque eso sea más caro y menos eficiente.
+
+[ES]
+En geopolítica, el contraste es llamativo: mientras Trump, Xi y Putin preparan una foto a tres en Shenzhen, el Golfo vuelve a encenderse con drones sobre Baréin y petroleros que chocan con minas en Ormuz. Si la tensión en el estrecho se prolonga, el efecto más directo para ti probablemente llegue por el surtidor y la factura de la luz. Chile acaba de vivir un paro de camioneros por los combustibles, y la ASEAN se reúne con la escasez de petróleo como tema central; no es una predicción segura, pero el riesgo de nuevas presiones sobre el precio de la energía en América Latina y España parece alto.
+
+[ES]
+La cumbre de APEC también es una oportunidad para la región. Kast viaja a Asia con empresarios buscando mercados para el salmón y la fruta, Xinhua celebra el puerto de Chancay en Perú y Pekín y Washington estrenan un consejo de comercio. Si de Shenzhen sale algo parecido a una distensión comercial, eso podría favorecer a los exportadores de materias primas —cobre, litio, alimentos— y a las monedas que dependen de ellos. Si sale una “nueva Yalta” de esferas de influencia, como especulan algunos analistas, América Latina corre el riesgo de quedar como terreno de disputa más que como actor.
+
+[ES]
+El clima añade otra capa. Un súper El Niño de los que no se ven en mil años ya está provocando inundaciones en Ecuador, y la costa del Pacífico sudamericano —pesca, agricultura, infraestructura— suele estar entre las primeras afectadas. Combinado con la energía cara, es una receta clásica de presión inflacionaria sobre los alimentos en 2027. Y en España, con unas generales el 29-N y un récord de llegadas a Canarias, la migración y el costo de la vida probablemente pesen más que cualquier otro tema en las urnas.
+
+[ES]
+Vigilancia de la Hipótesis.
+
+[ES]
+Seguimiento diario de la hipótesis de fondo: un barrido ligero de las noticias de hoy, leído a la luz de la tendencia reciente del registro, no una nueva argumentación completa.
+
+[ES]
+Recordatorio de los eslabones: (a) los ciclos de liderazgo de pensamiento y autoridad se acortan; (b) eso empuja a las personas a fortalecer su voz interior; (c) lo que a su vez las aleja del individualismo; (d) y desemboca en más colaboración humana y cohesión social. Hoy (a) recibe otra señal de apoyo clara: la caída de Jensen Huang tras 33 años al frente de Nvidia sigue reordenando la industria (TechCrunch), la lista de proyectos de IA fracasados crece semana a semana (TechCrunch) y Joe Rogan dice que el movimiento MAGA ha perdido a los “podcast bros” (The New York Times). Es el séptimo día seguido con apoyo para (a), una racha que ya es la norma del registro más que la excepción.
+
+[ES]
+Para (b), la señal de hoy va en contra: en el Congreso chileno, 2.242 indicaciones al Presupuesto fueron redactadas con IA (La Tercera), y el caso Lovable muestra a personas que construyen aplicaciones sin entender lo que exponen (Crissyfield). Es la segunda jornada consecutiva con desafío para (b), tras la de ayer con ChatGPT Wallet. (c) suma otro desafío —la pelea PSOE–PP y la polarización francesa entre Mélenchon y Le Pen (El País)— y prolonga una larga racha negativa; (d), en cambio, vuelve al apoyo tras el neutral de ayer, con multitudes en la visita del Papa a Chiclayo (The Washington Post) y más de 115.000 personas organizándose en torno a una petición (TechCrunch). Nada de esto mueve el veredicto de la revisión integral de noviembre, net challenge: la cadena sigue atascada en los primeros eslabones, con (a) y (d) moviéndose por su cuenta.
