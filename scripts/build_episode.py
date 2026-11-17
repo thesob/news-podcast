@@ -648,9 +648,20 @@ def update_feed(mp3_path: Path, episode_date: str, duration_seconds: int):
     base_url = site_url + EDITION_URL_PREFIX  # this edition's feed/episode root
     # Profile wins over the env var so one workflow-wide PODCAST_TITLE can't
     # rename every edition; an edition without a title falls back to it.
-    title = PROFILE.get("title") or os.environ.get("PODCAST_TITLE", "Daily News Brief")
-    author = PROFILE.get("author") or os.environ.get("PODCAST_AUTHOR", "Patricio Sobrado")
-    email = os.environ.get("PODCAST_EMAIL", "patricio.sobrado@gmail.com")
+    title = (
+        PROFILE.get("title")
+        or os.environ.get("PODCAST_TITLE")
+        or "Daily News Brief"
+    )
+    # `or` rather than a get() default: the workflow passes unset repo
+    # variables as empty strings, which get() would return as-is and feedgen
+    # would then silently omit the author/owner tags Spotify requires.
+    author = (
+        PROFILE.get("author")
+        or os.environ.get("PODCAST_AUTHOR")
+        or "Patricio Sobrado"
+    )
+    email = os.environ.get("PODCAST_EMAIL") or "patricio.sobrado@gmail.com"
     language = PROFILE.get("language", "en")
     description = PROFILE.get(
         "description", f"{title} — automatically generated multilingual news brief"
