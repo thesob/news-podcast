@@ -168,15 +168,24 @@ should work, since auth is now a query parameter and needs no header.
    padding it.
 5. Language: write the ENTIRE brief in Spanish — every subsection, including
    the two closing sections and all section titles — even when a story
-   originated from an English-language source (translate and summarize it; keep
-   outlet and person names as they are). Use clear, neutral international
-   Spanish. This is a hard requirement, not something to infer from the source
-   list or the language-tag menu in step C below.
+   originated from an English-language, Swedish or Norwegian source (translate
+   and summarize it; keep outlet and person names as they are). Use clear,
+   neutral international Spanish. This is a hard requirement, not something to
+   infer from the source list or the language-tag menu in step C below.
+
+   The **Suecia y Noruega** subsection is REQUIRED every day, never optional and
+   never merged into Mundo: 2–4 stories from the Swedish and Norwegian sources
+   (dn.se, aftonbladet.se, svd.se, SVT Nyheter, NRK), read in the original and
+   written up in Spanish. If a source is unreachable, work through the fallback
+   chain and name it in the sources note; do not omit the section. Only if the
+   whole chain fails for every Swedish/Norwegian source may the section be
+   shortened, and then say so in one line under its heading.
 6. Organize into: a short **sources note** at the very top only if any source
    was unreachable today (name which ones, and how you covered that gap —
    e.g. a backup outlet), then **Titulares** (Top Stories: biggest 3–5, deduplicated
    across ALL sources), then **España y Latinoamérica**, **Mundo**, **Tecnología
-   y Nicho**, **Suecia y Noruega** for anything not already in Top Stories, and finally the two
+   y Nicho**, **Suecia y Noruega** (required every day, see the language rules
+   above; only avoid repeating a story already in Titulares), and finally the two
    closing sections below (Connecting the Dots, Hypothesis Watch). Use exactly
    these Spanish titles as the visible section headings; the closing sections
    are also written in Spanish, like everything else in this edition.
