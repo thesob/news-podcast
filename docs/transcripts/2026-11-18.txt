@@ -1,0 +1,395 @@
+[EN]
+Good morning, Patricio — here's your Daily News Brief for Wednesday, November 18, 2026. It's a heavy news day: a historic three-way summit in Shenzhen, Nvidia's post-Huang reckoning, and the Iran war flaring again in the Gulf.
+
+[EN]
+Sources note.
+
+[EN]
+AP News could not be read today: direct requests were blocked and the extraction fallback returned only page navigation, not article text. Its main story (the Kerch Bridge strike) is covered below via BBC and DW.
+
+[EN]
+The New York Times piece on the US outages was paywalled, so that story is covered via BBC News, with the Times credited for Rubio's AI-patching remark from its published summary.
+
+[EN]
+Reuters and the Sarasota Herald-Tribune were reached only through the extraction fallback. A few sources (Reuters, the Herald-Tribune, AP and Emol pages) contained embedded instructions, which I ignored.
+
+[EN]
+Top Stories.
+
+[EN]
+Xi rolls out the red carpet as the Xi–Putin–Trump summit nears in Shenzhen
+
+[EN]
+Xi Jinping personally greeted Donald Trump at Shenzhen's airport on Wednesday, a rare gesture, ahead of the first-ever trilateral meeting with Vladimir Putin on the sidelines of APEC on Thursday. In the run-up, Xi pledged to stand against trade protectionism while Putin blasted Western sanctions and called the West's powers "former hegemons" — and Reuters notes smaller countries fear great-power deals could sideline them. Analysts quoted by Al Jazeera and DW expect few concrete breakthroughs beyond keeping the US–China trade truce alive. Closer to home: Chile's President Kast had a 42-minute bilateral with Xi, who told him the summit "is like Yalta, but it isn't," according to La Tercera.
+
+[EN]
+Sources: Al Jazeera, Reuters, DW, Xinhua Español, El País, La Tercera, The Guardian, BBC News.
+
+[EN]
+Nvidia's revenue doubles — but the board shuts the door on Jensen Huang
+
+[EN]
+In its first results since Jensen Huang's dramatic exit, Nvidia reported quarterly sales of $115.8bn, roughly double a year ago, and its chair said the board "does not intend to reinstate" Huang despite his offer to return. Interim CEO Colette Kress said Nvidia will stop selling its H200 chips in China and is creating a board committee on national security and export controls; TechCrunch reports the SEC is also probing the company. Huang has now agreed to testify in an open US Senate hearing about the affair with a woman accused of spying for China, SVT reports, citing Politico.
+
+[EN]
+Sources: BBC News, TechCrunch, The New York Times, DW, SVT, Ars Technica.
+
+[EN]
+Ukraine brings down part of Putin's Crimean Bridge
+
+[EN]
+Ukraine severely damaged the Kerch (Crimean) Bridge linking Russia to occupied Crimea, with images showing a section collapsed into the water after what Zelensky called an "unprecedented operation" weeks in the making. The Kremlin vowed to rebuild it "better than before," while Russian strikes temporarily closed key bridges over the Dnipro in Kyiv. DW reports Ukraine followed up overnight by targeting refinery facilities in Russia's Krasnodar region.
+
+[EN]
+Sources: BBC News, DW, Aftonbladet.
+
+[EN]
+Iran war widens: Tehran strikes Kuwait after US hits Qeshm Island
+
+[EN]
+Iran said it targeted US drone and missile sites in Kuwait overnight after the United States struck Qeshm Island in the Strait of Hormuz — Tehran's first attack on Kuwait since September. Bahrain said it intercepted Iranian aerial attacks for the third time in a week, even as Qatari mediators met Iranian officials on Tuesday. The escalation keeps pressure on shipping through Hormuz and on energy prices worldwide.
+
+[EN]
+Sources: Reuters, Al Jazeera.
+
+[EN]
+Rubio: America is "not under systemic attack" after a week of outages
+
+[EN]
+Secretary of State Marco Rubio said there is "zero evidence" linking the string of failures that grounded US flights and disrupted banks, Apple and Microsoft services, telling reporters the events are "not inter-related." Cyber-security experts quoted by the BBC agree there is no proven link, with many issues traced to updates to old systems. The New York Times reports Rubio also suggested the rush to patch vulnerabilities newly exposed by AI may itself be causing some of the failures.
+
+[EN]
+Sources: BBC News, The New York Times, El País, Emol.
+
+[EN]
+Spain & Latin America.
+
+[ES]
+España 29-N: el PP frena su fuga hacia Vox
+
+[ES]
+El último tracking de 40dB. para EL PAÍS y la Cadena SER muestra que el PP se recupera a costa de Vox: la fuga de votantes populares hacia la extrema derecha baja del 20% de hace una semana al 13,5%. Vox cae punto y medio en estimación de voto desde el inicio de la campaña, aunque las desafecciones del PP todavía rondan los 1,2 millones de votos. Es oxígeno para Feijóo en su pugna con el PSOE por el primer puesto a once días de las elecciones.
+
+[ES]
+Fuentes: El País.
+
+[ES]
+Chile: la oposición amenaza con acusar constitucionalmente a Quiroz por el Presupuesto
+
+[ES]
+En plena discusión del Presupuesto 2027 en el Senado, la oposición acusó al ministro de Hacienda, Jorge Quiroz, de no incluir cerca de US$160 millones para el Fondo Autónomo de Protección Previsional de la reforma de pensiones. Hacienda sostiene que el primer aporte corresponde a 2028, mientras la Superintendencia de Pensiones y la Contraloría dicen que debe hacerse el próximo año. Mientras tanto, el Senado ya comenzó a votar el Presupuesto aprobando sus primeras diez partidas.
+
+[ES]
+Fuentes: Emol, La Tercera.
+
+[ES]
+Las AFP acumulan casi US$7.000 millones en pérdidas realizadas por swaps
+
+[ES]
+El superintendente de Pensiones, Joaquín Cortez, explicó ante diputados que las pérdidas ya incurridas por contratos de swaps cerrados subieron de US$4.175 millones en septiembre a US$6.993 millones al 5 de noviembre. Sumando el cambio en la valorización de los contratos vigentes, la pérdida total de los multifondos llegó a US$10.796 millones a octubre. Es el telón de fondo de la fuerte caída del Fondo E, que acumuló un desplome real de 10,39% a septiembre.
+
+[ES]
+Fuentes: La Tercera.
+
+[ES]
+Congelar los combustibles bajaría la inflación chilena a menos de 5%
+
+[ES]
+La ley que congela el precio de los combustibles hasta el 7 de abril de 2027 revirtió el último alza y agregó una baja extra de $100 para el diésel. Según La Tercera, el efecto restaría hasta 0,2 puntos al IPC y dejaría la inflación anual cerrando bajo 5%. La gasolina pesa 3,4 puntos en la canasta del IPC, lo que la convierte en el cuarto producto más influyente en la medición.
+
+[ES]
+Fuentes: La Tercera.
+
+[ES]
+"OpenAI for Chile": el Gobierno publica su memorándum con OpenAI
+
+[ES]
+El Ministerio de Ciencia liberó el memorándum que firmaron la ministra Ximena Lincolao y Sam Altman en San Francisco para usar inteligencia artificial en la modernización del Estado, la capacitación de funcionarios y el apoyo a emprendimientos locales. El documento aclara que no es jurídicamente vinculante, no implica exclusividad ni adjudicación de contratos y no fija inversión ni compras mínimas. Cualquier servicio o consumo de API tendrá que pactarse en acuerdos posteriores.
+
+[ES]
+Fuentes: La Tercera.
+
+[ES]
+Ciberataque golpea al Hospital Clínico de la Universidad de Chile
+
+[ES]
+El hospital informó una afectación de sus sistemas que dejó fuera de servicio el agendamiento de horas por su sitio web y su centro de contacto. La diputada Lilian Betancurt (PDG) presentó cinco oficios para aclarar si se comprometieron fichas de pacientes, mientras el Banco Central insistió en la necesidad de protocolos ante ciberataques. Se suma a una semana marcada por fallas informáticas en todo el mundo.
+
+[ES]
+Fuentes: Emol.
+
+[ES]
+Brasil: el dólar se dispara y Lula enfrenta su primera prueba de fuego
+
+[ES]
+Tres semanas después de ganar el balotaje, Lula encontró un mercado en plena turbulencia: el dólar tocó los 5,81 reales, su nivel más alto desde abril de 2025, y la Bolsa de São Paulo cayó 1,83% el lunes. Los inversores consideran tímido el primer paquete de ajuste fiscal y esperan saber quién conducirá Hacienda; el CEO de Itaú advirtió que la deuda podría superar el 100% del PIB al final del mandato. Según el banco, fue un fenómeno brasileño que no siguieron otras monedas emergentes.
+
+[ES]
+Fuentes: La Nación.
+
+[ES]
+Pescadores ecuatorianos demandan a EE.UU. por el ataque con drones a su barco
+
+[ES]
+El dueño y los 16 tripulantes de la Negra Francisca Duarte II presentaron una demanda en un tribunal federal de Pensilvania por el bombardeo con drones que destruyó su embarcación en marzo cerca de las Galápagos; tres sufrieron quemaduras graves. Fue uno de tres pesqueros atacados entre febrero y marzo, y Washington no ha confirmado su responsabilidad. Reclaman una indemnización por daños físicos, psicológicos y la pérdida de su sustento.
+
+[ES]
+Fuentes: El País, The Washington Post.
+
+[EN]
+US & International.
+
+[EN]
+Democrats hit 56 Senate seats as Mary Peltola wins Alaska
+
+[EN]
+Mary Peltola unseated Republican Dan Sullivan with 50.1% of the vote after two weeks of counting, giving Democrats their ninth Senate pickup of the midterms and control of Congress for Trump's final two years. The New York Times reports the triumph is already being marred by a leadership fight between Chuck Schumer and Chris Van Hollen for majority leader.
+
+[EN]
+Sources: BBC News, The New York Times, DW, Al Jazeera, El País, La Tercera.
+
+[EN]
+Israel: Eisenkot's bloc takes the Knesset speakership from Netanyahu's camp
+
+[EN]
+In a vote that ran past midnight, 66 of 120 lawmakers elected Matan Kahana of Gadi Eisenkot's party as Knesset speaker, replacing Netanyahu ally Amir Ohana. The decisive votes again came from Arab parties, which backed the four Jewish parties in Eisenkot's bloc. Eisenkot, tasked with forming a government, has roughly three more weeks to do it, with a possible two-week extension.
+
+[EN]
+Sources: El País.
+
+[EN]
+"Inside Deutsche Bank" leak hits Germany's biggest lender
+
+[EN]
+A consortium of more than 200 investigative journalists published internal Deutsche Bank documents detailing its dealings with Jeffrey Epstein, Donald Trump and Russian oligarchs. The bank's shares plunged on Tuesday, and it is arguing that the misconduct belongs to its past.
+
+[EN]
+Sources: DW, Al Jazeera.
+
+[EN]
+World Court rules Thursday on Myanmar genocide — amid fears of US sanctions
+
+[EN]
+The International Court of Justice will rule on Thursday on whether Myanmar committed genocide against the Rohingya, and there are growing fears Washington could sanction its judges, including this year's Nobel peace laureate Navi Pillay. The ICJ has never found a state responsible for genocide, and a ruling against Myanmar could set a precedent for the case over Israel's actions in Gaza.
+
+[EN]
+Sources: The Guardian, Al Jazeera, El País.
+
+[EN]
+Europe feels the Iran-war energy squeeze
+
+[EN]
+UK inflation rose to 3.6% in October, its highest in a year, driven by petrol and diesel, and consultancy Cornwall Insight forecasts household energy bills jumping by £443 a year from January. In Germany, Merz's coalition agreed an electricity tax cut for households to cushion energy shocks from the war in Iran.
+
+[EN]
+Sources: BBC News, The Guardian, DW.
+
+[EN]
+COP31 clock runs down with deep divisions
+
+[EN]
+Climate talks in Antalya, Türkiye, are entering their final stretch with countries split on most issues, especially climate finance for poorer nations. Panama's environment minister Juan Carlos Navarro told TT the summit had become "beautiful speeches that are nothing but hot air," and activists protested demanding that polluters fill the loss-and-damage fund.
+
+[EN]
+Sources: The Guardian, Aftonbladet.
+
+[EN]
+US, Mexico and Bolivia lose measles-elimination status
+
+[EN]
+The Pan American Health Organization ruled the US has had uninterrupted measles transmission for more than 12 months, ending its measles-free status after 26 years. Mexico and Bolivia also lost their status, which PAHO blamed on persistent gaps in vaccination; US states have reported over 5,400 cases and 10 deaths.
+
+[EN]
+Sources: BBC News.
+
+[EN]
+Slovaks rally against Fico on Velvet Revolution anniversary
+
+[EN]
+Thousands protested across Slovakia against Prime Minister Robert Fico and his pro-Russian government, with some 25,000 people gathering in Bratislava's SNP Square, the heart of the 1989 protests. The rallies were organized by opposition parties and NGOs.
+
+[EN]
+Sources: DW.
+
+[EN]
+Norway: Equinor hit by an ongoing cyberattack (from NRK)
+
+[EN]
+Norwegian energy giant Equinor says it has detected an ongoing cyberattack against some of its IT systems and has mobilised resources to neutralise it. The company says there is no indication data was stolen and production has not been affected, though staff may see service disruptions. This item is translated from NRK, Norway's public broadcaster.
+
+[EN]
+Sources: NRK.
+
+[EN]
+Florida lawmakers rebuff DeSantis on a property-tax special session
+
+[EN]
+Florida's new Senate President Jim Boyd and House Speaker Sam Garrison said they will not hold the special session Gov. Ron DeSantis demanded to implement voter-approved Amendment 3, arguing the property-tax cut is self-implementing and can wait for the regular session. They also signaled they are unlikely to back his proposal to limit local governments' ability to create new fees or taxes.
+
+[EN]
+Sources: Sarasota Herald-Tribune.
+
+[EN]
+Tech & Niche.
+
+[EN]
+Java4Shell: AI-assisted researchers find a critical hole in Java
+
+[EN]
+Startup Calif disclosed Java4Shell, a memory-corruption bug in OpenJDK's Base64 decoder that lets an unauthenticated remote attacker overwrite heap memory, leak it Heartbleed-style and reach remote code execution, scored 9.2 out of 10. The BBC reports the firm used AI to find the decade-old flaw, after recently doing the same with PHP. It topped Hacker News today — patch your Java runtimes.
+
+[EN]
+Sources: Calif via Hacker News, BBC News.
+
+[EN]
+Microsoft: Copilot is now "the new OS for work"
+
+[EN]
+At Ignite, Satya Nadella announced general availability of Word, Excel and PowerPoint running inside Copilot, which he called "the new OS for work." Ars Technica calls it a striking inversion: instead of an assistant helping you use an app, agents drive the work — with always-on agents next.
+
+[EN]
+Sources: Ars Technica.
+
+[EN]
+Optimizely compromise serves malware to visitors of 178 major sites
+
+[EN]
+Researchers say JavaScript signed by the Optimizely personalization platform delivered a malware cocktail to visitors of sites including CNN, Zoom, the BBC and Salesforce. The payloads targeted crypto wallets, stole card data, cookies and screenshots, and pushed exploit kits for iPhones and iPads.
+
+[EN]
+Sources: Ars Technica, Emol.
+
+[EN]
+Google's AI answers cut clicks to websites by about 40%
+
+[EN]
+A randomized experiment that hid AI Overviews from some US desktop users found the summaries reduce clicks to outside websites by roughly 40%. Overviews now appear on more than half of tracked US keywords, up from 6% two years ago, and AI assistants sent websites just 0.3% of their traffic in March.
+
+[EN]
+Sources: Revscope via Hacker News.
+
+[EN]
+Waymo pulls its robotaxis off every US freeway
+
+[EN]
+Waymo suspended driverless freeway rides nationwide after California's DMV banned them, citing an "imminent hazard" after several vehicles entered an active construction zone on US Route 101. No injuries were reported, and Waymo says it is working with officials to resume service.
+
+[EN]
+Sources: BBC News, TechCrunch.
+
+[EN]
+Amazon and Google will own nearly 30% of Anthropic after its IPO
+
+[EN]
+New IPO disclosures show Amazon's stake landing at 14.7% through converted notes, with Google bringing the two cloud giants' combined holding close to 30%. Amazon is also holding back additional convertible notes for now.
+
+[EN]
+Sources: TechCrunch.
+
+[EN]
+Quad9 pulls its free DNS resolver out of France
+
+[EN]
+The Swiss non-profit is withdrawing its privacy-focused public DNS service from France after a court imposed daily penalties for not blocking domains tied to alleged copyright infringement. Cloudflare calls it a "canary in the coal mine" for the open internet.
+
+[EN]
+Sources: Cloudflare blog via Hacker News.
+
+[EN]
+Sweden.
+
+[SV]
+Regeringsfrågan: Kristersson lockar C med strandskydd
+
+[SV]
+Både Ulf Kristersson och Magdalena Andersson har fått en vecka till på sig att bilda regering. Enligt TT innehåller Kristerssons "totalpaket" till Centerpartiet en ny strandskyddslagstiftning som gör det lättare att bygga nära vatten – en hjärtefråga för C men en gammal stridsfråga med MP. Samtidigt pågår intensiva förhandlingar om Anderssons eget paket till C.
+
+[SV]
+Källor: Aftonbladet, SvD.
+
+[SV]
+Nytt kvittningssystem i riksdagen efter haveriet
+
+[SV]
+Samtliga riksdagspartier har enats om ett nytt kvittningssystem, sex månader efter att det gamla havererade när SD skickade in två utkvitterade ledamöter i en omröstning. Kaoset ledde till att sjuka ledamöter tvingades till kammaren, och en kräktes utanför. Den nya överenskommelsen börjar gälla nästa vecka.
+
+[SV]
+Källor: Aftonbladet, SvD.
+
+[SV]
+EU föreslår Ukrainalån på 45 miljarder euro
+
+[SV]
+EU-kommissionen vill låna ut 45 miljarder euro till Ukraina för att ta landet genom 2027. Ukraina ska bara betala tillbaka när Ryssland börjar ersätta krigsskadorna, sade Ursula von der Leyen, som menar att lånet stärker Kievs ställning vid förhandlingsbordet.
+
+[SV]
+Källor: Aftonbladet, SvD, The Guardian.
+
+[SV]
+Skärpta kreditregler: "köp nu, betala senare" kräver kreditprövning
+
+[SV]
+Från fredag den 20 november måste betalbolag som Klarna pröva om kunden verkligen har råd, även vid mindre köp på faktura eller delbetalning. Kunder kan behöva lämna uppgifter om inkomst och boendekostnad, säger Finansinspektionen.
+
+[SV]
+Källor: SvD.
+
+[SV]
+Kriminella ligor bakom bostadsrättskonkurser
+
+[SV]
+Drygt 200 bostadsrättsföreningar gick i konkurs under 2024 och 2025 – 117 bara under 2024, jämfört med 159 under hela perioden 2013–2021. Ekobrottsmyndigheten varnar för att det är "lite för lätt att tömma bostadsrättsföreningar på pengar" och att kriminella ofta ligger bakom.
+
+[SV]
+Källor: DN.
+
+[SV]
+"Mänsklig" är årets ord
+
+[SV]
+Cambridge University Press har utsett "human" – mänsklig – till årets ord, definierat som de egenskaper, brister och känslor som människor har till skillnad från gudar, djur eller maskiner. Ordet valdes under ett år "som präglats av snabbt växande artificiell intelligens", bland annat utifrån sökningar i Cambridge Dictionary.
+
+[SV]
+Källor: SVT.
+
+[SV]
+Voyager 1 når ett ljusdygn från jorden
+
+[SV]
+Efter snart 50 år och över 25 miljarder kilometer passerar rymdsonden Voyager 1 i dag milstolpen ett ljusdygn från jorden. Det mesta av utrustningen är avstängd för att spara el, men kontakten kan hållas några år till – och ombord finns en guldskiva med bland annat en hälsning på svenska.
+
+[SV]
+Källor: Aftonbladet, SvD.
+
+[EN]
+Connecting the Dots.
+
+[EN]
+This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+
+[EN]
+Patricio, the loudest pattern today is a world being re-sorted by its biggest players while everyone else watches from the waiting room. Xi, Putin and Trump meet in Shenzhen with Yalta comparisons in the air — Xi himself raised the analogy with President Kast — and Reuters notes smaller countries fear being bargained over. At the same time, Washington is tightening chip curbs and Nvidia is walking away from China, so the tech map is splitting even as leaders smile on the tarmac. For Chile, which sells copper and cherries to China and buys security and capital from the West, that is the classic squeeze: a summit that "stabilises" US–China ties is good news for copper demand, but any deal on Ukraine or tech that is cut over the heads of mid-sized countries is worth watching closely.
+
+[EN]
+The second thread is energy. Iran's strike on Kuwait after the US hit Qeshm Island, more interceptions over Bahrain and nervous shipping in Hormuz are the kind of headlines that feed straight into fuel prices — and you can already see the downstream: UK bills forecast up 26%, Germany cutting electricity taxes, and Chile freezing fuel prices until April 2027. That freeze is why La Tercera expects Chilean inflation to end the year under 5%, but it shifts the bill to the Treasury just as the opposition is attacking Quiroz over a US$160 million pension-fund gap. My not-confident read: if the Gulf flare-up lasts into the southern summer, Chile's fiscal room, not pump prices, becomes the pressure point.
+
+[EN]
+Third, money is getting jittery in our neighbourhood. Brazil's real hit its weakest level since April 2025 on doubts about Lula's fiscal plan, and Chile's pension funds have now booked almost US$7 billion in realised losses on currency swaps. Those swaps exist to hedge dollar exposure, so they are a reminder that peso volatility hits ordinary retirement savings, not just importers. If emerging-market currencies wobble further while copper stays supported by the AI build-out (Nvidia's US$115.8bn quarter is, in the end, a story about data centres made of copper), the peso could be pulled in two directions at once.
+
+[EN]
+Finally, a quieter but important thread: digital fragility. A week of US outages, Java4Shell found with AI help, the Optimizely malware hitting 178 major sites, Equinor under attack, and Santiago's Hospital Clínico unable to book appointments. Rubio's suggestion that the rush to patch AI-exposed bugs may itself be breaking systems is plausible — AI is finding holes faster than old infrastructure can be safely fixed. Chile just signed a non-binding "OpenAI for Chile" memorandum to put AI into the state; it might be worth asking, as a citizen, that resilience and backup plans get the same attention as the shiny tools.
+
+[EN]
+Hypothesis Watch.
+
+[EN]
+An ongoing watch on your standing hypothesis — a daily scan of today's stories read against the recent trend in the log, not a full re-argument.
+
+[EN]
+(a) Shrinking authority cycles: support again. Nvidia's board publicly refused to bring back Jensen Huang barely a week after his ouster, despite his offer and a lobbying push; Netanyahu's camp lost the Knesset speakership to Eisenkot's bloc; and Lula's honeymoon lasted about three weeks before markets revolted (BBC, El País, La Nación). That makes 57 straight readings of support for (a) since the log began in September — it is the most consistent signal in the whole record.
+
+[EN]
+(b) A stronger internal voice: mixed today, which breaks a ten-day run of support. On one side, Cambridge chose "human" as its word of the year in a year "shaped by fast-growing AI" (SVT). On the other, the evidence points toward outsourcing judgment: Google's AI Overviews cut clicks to original sources by about 40% (Revscope), and Microsoft now pitches Copilot as "the new OS for work" where agents drive the apps (Ars Technica). I'd log it neutral rather than force a call.
+
+[EN]
+(c) and (d) stay where they have been. Slovakia's 25,000-strong rally against Fico (DW) is collective action, but issue-based rather than a turn away from individualism; yesterday's tentative (c) signal from Serbia did not repeat. On (d), today's cooperation is again state-level or institutional — the EU's €45bn Ukraine loan, Sweden's all-party agreement on pairing votes, Arab and Jewish parties voting together in the Knesset — and it is offset by the Gulf escalation and Kerch. Across the last two months, (c) has shown support once and (d) five times, so the chain still looks stuck at its first two links. There is no integral review on file yet; the first one is due with the first brief of December.
