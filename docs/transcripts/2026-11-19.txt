@@ -1,0 +1,215 @@
+[EN]
+Daily News Brief. Thursday, November 19, 2026.
+
+[EN]
+Good morning, Patricio! Here's your brief for today.
+
+[EN]
+Sources note. Several named sources couldn't be read from this environment today: BBC News, El País, Reuters, AP News, DW, The New York Times, the Herald-Tribune, Ars Technica, Dagens Nyheter, Svenska Dagbladet and Aftonbladet were blocked at the access level. The Washington Post only served a stale, years-old page, and NRK and La Tercera failed on direct fetch and timed out on the extraction fallback. To fill the gaps I used Al Jazeera, Xinhua Español, Emol, SVT, TechCrunch and the headlines proxy, which brought in the Guardian, SvD, TV4, EFN, GP and PBS. El País coverage of Spain is missing today, so the Spanish-language section leans toward Chile and Latin America. Norway is not covered.
+
+[EN]
+Top Stories.
+
+[EN]
+Trump, Xi and Putin meet as a trio for the first time at APEC in Shenzhen.
+
+[EN]
+Leaders of the US, China and Russia are sitting down together today on the sidelines of the APEC forum in Shenzhen. It's the first-ever trilateral summit of the three powers, and Trump and Putin will also hold their first one-on-one since their August 2025 Alaska talks, which didn't end the war in Ukraine. Xi welcomed Trump at the airport and used his APEC speech to cast China as the "defender, promoter and pioneer" of Asia-Pacific economic cooperation. Meanwhile, US envoys Witkoff and Kushner are due in Berlin to discuss post-war security guarantees for Ukraine with Ukrainian and European officials. UK Conservative leader Kemi Badenoch called the trilateral unsettling.
+
+[EN]
+Sources: Al Jazeera, Xinhua Español, SVT Nyheter, The Guardian.
+
+[EN]
+The Iran war spreads across the Gulf: strikes on Kuwait and Bahrain, mines in Hormuz.
+
+[EN]
+After US forces hit what they called a missile launch site on Iran's Qeshm Island in the Strait of Hormuz, Iran launched new drone attacks on Kuwait and Bahrain. Kuwait switched on its air defences for the first time since early September, and Bahrain, home to the US Fifth Fleet, has now reported four attacks in six days. Iran says three vessels are on fire after hitting mines in the strait, and attacks on a UAE tanker and an ADNOC ship were also reported. Saudi Arabia, the GCC and the Arab League all condemned the strikes, with Riyadh singling out the disruption to shipping lanes.
+
+[EN]
+Sources: Al Jazeera, CNN en Español.
+
+[EN]
+Anthropic prices what is set to be the largest IPO ever.
+
+[EN]
+Anthropic, the company behind the Claude AI models, has reportedly priced its Nasdaq listing at 83 dollars a share, above its earlier 70 to 78 dollar range, and trading is expected to start today. According to TT and TV4, the offering raises at least 68 billion dollars, and a 26 billion dollar direct share placement pushes the total above 94 billion, a record. The Guardian reports that about 1.1 billion dollars of stock was sold to UK and European retail investors. TechCrunch notes that Amazon and Google together will own nearly 30 percent of the company afterward. Disclosure: Anthropic makes Claude, the AI writing this brief.
+
+[EN]
+Sources: TV4 and TT, SvD, The Guardian, TechCrunch.
+
+[EN]
+The Fed signals more rate hikes and names the AI build-out as an inflation risk.
+
+[EN]
+Minutes from the Federal Reserve's October meeting, when it raised rates a quarter point to 3.75 to 4 percent, show officials seeing broad inflation pressure and expecting to act again in December. Markets put the odds of a December hike at about 95 percent, and Governor Waller personally favours a half-point move. The minutes flag AI infrastructure spending as a growing inflation driver and warn that AI-related debt is piling up fast, often through opaque financing. In the same session Nvidia beat its earnings forecasts and raised its growth outlook, but its shares still fell.
+
+[EN]
+Sources: EFN, GP.
+
+[EN]
+Israel launches its first announced ground offensive in Gaza since the ceasefire.
+
+[EN]
+Israeli forces pushed west of the "Yellow Line" in central Gaza toward Salah al-Din Street, forcing already-displaced families to flee again. It's the first major ground operation Israel has publicly announced since the October 2025 ceasefire. It follows a warning from the US-backed Board of Peace that the deal was at risk of collapse. Israel says it is targeting Hamas infrastructure in response to violations, and Hamas calls the operation a flagrant breach. Gaza's Health Ministry counts 1,658 Palestinians killed since the truce began.
+
+[EN]
+Source: Al Jazeera.
+
+[ES]
+España y América Latina.
+
+[ES]
+Kast en China: cerezas, "socio serio" y una relación de 55 mil millones de dólares.
+
+[ES]
+En su segunda jornada en China, el presidente José Antonio Kast lanzó en Shenzhen una exhibición de cerezas chilenas y se definió como "un socio serio y confiable", recordando que la superficie de cerezos pasó de unas 7.000 a cerca de 80.000 hectáreas en dos décadas. Según Xinhua, el intercambio bilateral sumó 55.460 millones de dólares entre enero y septiembre, un alza de 11,6%. Ambos países celebran 20 años del TLC y buscan diversificar hacia servicios, tecnología, energías renovables e inteligencia artificial, ya que los servicios apenas representan el 0,18% de las exportaciones chilenas a China.
+
+[ES]
+Fuentes: Emol, Xinhua Español.
+
+[ES]
+El acuerdo con los camioneros le cuesta 820 millones de dólares al fisco.
+
+[ES]
+El Gobierno puso fin al paro de camioneros con un acuerdo que, según la Dipres, tendrá un impacto fiscal de 820 millones de dólares. El ministro Jorge Quiroz reconoció "varias concesiones políticas y económicas" y las defendió como pragmatismo. Economistas como Alejandro Micco advierten que el aumento de los reintegros del impuesto al diésel "es un gasto permanente" y que ceder bajo presión sienta un precedente, aunque se valora que el déficit haya bajado de 2,8% a 1,8% del PIB.
+
+[ES]
+Fuente: Emol.
+
+[ES]
+Hegseth sella en Caracas una nueva alianza militar con Venezuela.
+
+[ES]
+El secretario de Defensa de EE.UU., Pete Hegseth, anunció en una visita sorpresa a Caracas un acuerdo de cooperación militar con el gobierno interino de Delcy Rodríguez, que incluye intercambio de inteligencia y entrenamiento conjunto. Hegseth lo describió como el "restablecimiento" de la alianza de defensa, diez meses después de la operación estadounidense que sacó a Nicolás Maduro del poder. En paralelo, el gobierno de Trump apeló ante la Corte Suprema para bloquear un fallo que ordenaba restituir el TPS a cientos de miles de venezolanos en EE.UU.
+
+[ES]
+Fuentes: Al Jazeera, Univision.
+
+[ES]
+Colombia: el petrismo sale hoy a las calles.
+
+[ES]
+Los seguidores del expresidente Gustavo Petro marchan este 19 de noviembre, tras semanas en que Petro ha enfrentado denuncias de corrupción. Abelardo de la Espriella criticó las movilizaciones y dijo que protestan contra "problemas que ellos generaron". La jornada pone a prueba la fuerza del Pacto Histórico en un clima político muy polarizado.
+
+[ES]
+Fuente: El Colombiano.
+
+[EN]
+US and International.
+
+[EN]
+Democrats' historic Senate haul is complete, and Jeffries is nominated as the first Black House speaker.
+
+[EN]
+Mary Peltola's win over Dan Sullivan in Alaska gives Democrats their ninth flipped Senate seat, their biggest midterm gain since 1958 and a 56 to 44 majority when the new Congress convenes. They also gained 42 House seats, and on Wednesday the caucus nominated Hakeem Jeffries for speaker by 251 votes to 11. He would be the first Black lawmaker to hold the post. Seven of the dissenters were newly elected Democrats who want firmer commitments on progressive priorities, and the full House votes on January 3.
+
+[EN]
+Sources: PBS NewsHour, Al Jazeera.
+
+[EN]
+Ukraine partly collapses the Kerch bridge ahead of peace talks.
+
+[EN]
+Part of the Kerch bridge linking Crimea to Russia collapsed after Ukrainian strikes on Monday and Tuesday, and the rail section was hit again overnight, halting trains. Zelensky says Ukraine first took apart Russian air defences and then used its home-built Flamingo missile. A Swedish Defence University analyst told SVT the strike raises the pressure on Moscow just before negotiations. Separately, Denmark's parliament unanimously ratified a security agreement with the US covering Greenland.
+
+[EN]
+Sources: SVT Nyheter, The Guardian.
+
+[EN]
+Tech and Niche.
+
+[EN]
+After Huang's ouster, Nvidia exits China as new US chip rules take effect.
+
+[EN]
+Interim CEO Colette Kress says Nvidia will stop selling H200 chips in China, closing its part in a loophole around the US export ban. The move comes a week after Jensen Huang left the CEO job, and Nvidia says it doesn't plan to bring him back. New US rules now require licences for foreign data centres that give Chinese firms access to large amounts of American compute, and Jefferies estimates they could cut 44 to 62 billion dollars from Nvidia's data-centre revenue next year. Nvidia has set up a board committee on export compliance, and the SEC is reportedly investigating.
+
+[EN]
+Sources: TechCrunch, EFN.
+
+[EN]
+Patch your servers: unauthenticated remote code execution in NGINX's HTTP/2.
+
+[EN]
+Wiz disclosed two critical flaws in NGINX's HTTP/2 handling, a use-after-free and an integer underflow, each scored 9.2 and exploitable without authentication. Affected versions go back as far as 1.9.5, from 2015, and run through 1.31.8. The fixes are in 1.30.7 stable and 1.31.9 mainline, with matching NGINX Plus releases. If you can't upgrade yet, turning off HTTP/2 is the stopgap. It was the top story on Hacker News, with nearly 1,000 points.
+
+[EN]
+Sources: Wiz, via Hacker News.
+
+[EN]
+The model glut continues: Gemini 4 Neon and seven new Microsoft models land the same day.
+
+[EN]
+Google launched Gemini 4 Neon, a mid-tier model it positions between Carbon and Hydrogen. It costs 3 dollars per million input tokens and 15 dollars per million output tokens, has a 1-million-token context window, and Google claims it ranks number 3 on the Artificial Analysis Intelligence Index. At Ignite, Microsoft AI unveiled seven models covering cybersecurity, coding, images and real-time speech. It also announced its Maia 200 accelerator is now in production and introduced "MAI Licensed Weights," which lets customers run customised models in their own Azure environment. Both launches sat near the top of Hacker News.
+
+[EN]
+Sources: Google Blog, Microsoft AI, via Hacker News.
+
+[SV]
+Sverige.
+
+[SV]
+Rödgröna förhandlar om makten – partitoppar skippade omröstning.
+
+[SV]
+Flera rödgröna partitoppar var frånvarande vid onsdagens riksdagsomröstning eftersom de sitter i förhandlingar om regeringsmakten. Enligt SVT pågår samtal mellan S, C, MP och V för att lösa upp låsningarna inför en S-ledd regering, och Magdalena Andersson har under veckan träffat partiledarna för V, C och MP. Talmannen har gett partiledarna en veckas paus inför en ny talmansrunda.
+
+[SV]
+Källa: SVT Nyheter.
+
+[SV]
+Varning för tomma mackar inför skattehöjningen på bensin.
+
+[SV]
+Branschorganisationen Drivkraft Sverige varnar för köer och tomma mackar inför skattehöjningen på bensin och diesel den 1 december, då priserna väntas stiga med cirka tre kronor per liter. Det kan drabba blåljusfordon, hemtjänst och transporter, särskilt på landsbygden. Lagren är goda nationellt, och Energimyndigheten säger att ransonering inte är aktuell.
+
+[SV]
+Källa: SVT Nyheter.
+
+[SV]
+Kustbevakningen vill avveckla sju fartyg – trots skärpt läge i Östersjön.
+
+[SV]
+Enligt SVT:s uppgifter planerar Kustbevakningen att av besparingsskäl avveckla sju fartyg och båtar, bland dem ett stort miljöräddningsfartyg och fyra övervakningsfartyg. En källa inom myndigheten kallar beslutet ”obegripligt”, eftersom regeringen samtidigt vill öka närvaron till sjöss och övervakningen av Rysslands skuggflotta. Facket Tull-Kust beskriver läget som kritiskt.
+
+[SV]
+Källa: SVT Nyheter.
+
+[SV]
+Inga ryska idrottare på svensk mark inför skid-VM i Falun.
+
+[SV]
+Regeringen vill inte att ryska idrottare ska få tävla i Sverige inför skid-VM i Falun i slutet av februari. SVT:s längdexpert Anders Blomquist välkomnar beskedet och menar att det underlättar för både skidförbundet och de aktiva.
+
+[SV]
+Källa: SVT Sport.
+
+[EN]
+Connecting the Dots.
+
+[EN]
+This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+
+[EN]
+Patricio, today's stories have a common thread: AI is now big enough to move macroeconomic numbers. The Fed's minutes name the AI build-out as an inflation driver and warn about opaque AI debt. On the same day, Anthropic is pricing a listing bigger than any before it, Nvidia beat its forecasts and still sold off, and Google and Microsoft shipped eight models between them. Hype doesn't usually make a central bank reach for that kind of language. When capex is large enough to show up in rate decisions, the boom has become a policy problem. Worth watching whether December's hike is the first that markets explicitly blame on AI.
+
+[EN]
+The second thread is energy and chokepoints. Mines in Hormuz, attacks on tankers and Kuwait's air defences switching back on all point to more pressure on oil prices and shipping insurance. For Chile, which imports almost all its fuel, that runs straight into the diesel bill. That's exactly where Quiroz just gave truckers a permanent increase in diesel-tax refunds worth 820 million dollars. If oil climbs, the cost of that concession climbs with it, just as Hacienda is trying to protect the drop in the deficit to 1.8 percent of GDP. Sweden's warnings about empty petrol stations before its own fuel-tax rise are a reminder that fuel prices are politically explosive everywhere.
+
+[EN]
+Then there's the geopolitics. Trump, Xi and Putin are at one table in Shenzhen, Washington is rebuilding a military alliance in Caracas, and new US rules are cutting Chinese access to American compute. Kast, meanwhile, is in the same city handing out cherries and calling Chile "a serious partner" to China, its largest trading partner by far, with 55 billion dollars in trade through September. Chile's room to manoeuvre may come down to selling copper, lithium and fruit to both blocs without being forced to pick one, while the US gets more assertive in its own hemisphere. That balance looks workable today, but it could narrow quickly if chip-style restrictions spread to other strategic inputs. This is speculation, not a prediction.
+
+[EN]
+The net effect on your pocket is mixed. Data centres need a lot of copper, which supports Chile's main export. A Fed that keeps hiking tends to strengthen the dollar and weaken the peso, so imported goods and fuel get more expensive even while copper earnings hold up. I'd watch the peso around the December Fed meeting and how the copper price reacts to Hormuz headlines in the meantime.
+
+[EN]
+Hypothesis Watch.
+
+[EN]
+An ongoing daily scan on your standing hypothesis about AI, internal voice and social cohesion, read against the recent trend in the log rather than today's stories alone. It is not a full re-argument.
+
+[EN]
+A, shrinking authority cycles: support. The Nvidia saga keeps compressing. A week after Huang's ouster, the interim CEO is reversing his China strategy, the board has said there's no way back for him, and the SEC is reportedly looking in, according to TechCrunch. Google and Microsoft launched eight models in a day, and US political authority flipped harder than at any midterm since 1958, as PBS reports. That makes A a support signal on essentially every entry in the log since mid-September. At this point it's the background condition, not news.
+
+[EN]
+B, C, D: no strong signal. The closest thing to B is the seven freshman Democrats voting against Jeffries to demand firmer commitments, as Al Jazeera reports, but that's caucus bargaining, not individuals finding an internal voice. So B stays neutral for a second day after a long run of support, which is worth noticing but not yet a break. C is neutral: Colombia's marches and the Swedish coalition talks are partisan and institutional. Yesterday's log already noted that the Serbian student-movement signal for C on November 17 hadn't repeated, and it still hasn't. D is neutral too: the Shenzhen trilateral is state-level, and the widening Gulf war and Gaza offensive cut against cohesion. As in almost every entry since mid-September, the evidence piles up at the first link while C and D barely move. No integral review has been published yet, so there's no prior verdict to frame today's reading.
