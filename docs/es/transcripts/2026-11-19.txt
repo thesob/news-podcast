@@ -1,0 +1,174 @@
+[ES]
+Resumen Diario — jueves 19 de noviembre de 2026.
+[ES]
+Nota sobre las fuentes: la nota de AP sobre la escalada con Irán no se pudo leer ni directamente ni mediante el extractor, así que esa historia se cubre con The New York Times, BBC News y Al Jazeera. Una fuente contenía instrucciones incrustadas (pasajes marcados como eliminados por el proxy), que ignoré.
+[ES]
+Titulares.
+[ES]
+Xi, Trump y Putin se sientan a la misma mesa en Shenzhen.
+[ES]
+La primera cumbre a tres bandas entre los líderes de China, Estados Unidos y Rusia arrancó este jueves en una villa de Shenzhen, al cierre del foro APEC. Xi pidió que las tres potencias nucleares den ejemplo en la defensa de la paz y advirtió que "cuando las grandes potencias se enfrentan, el mundo cae en el caos"; Trump, que antes se reunió 40 minutos con Putin y lo llamó "amigo", dijo que quiere que Washington y Pekín ayuden a terminar la guerra en Ucrania. Los analistas no esperan grandes acuerdos sobre Ucrania, Irán, los arsenales nucleares o el comercio, pero en Europa y en países más pequeños inquieta la idea de un reparto de esferas de influencia.
+[ES]
+Fuentes: El País, Reuters, DW en Español, BBC News Mundo, Al Jazeera, Xinhua Español, DN.
+[ES]
+Anthropic protagoniza la mayor salida a bolsa de la historia.
+[ES]
+La empresa creadora de Claude fijó el precio de sus acciones en 83 dólares, por encima del rango previsto de 70 a 78, y recaudó 81.300 millones de dólares, superando el récord de SpaceX. La operación la valora en unos 1,5 billones de dólares y la convierte en una de las doce mayores compañías del mundo; la demanda multiplicó por seis las acciones disponibles. Empieza a cotizar hoy en el Nasdaq con el símbolo "ANT", y su debut se leerá como un termómetro del apetito inversor por la IA tras la sacudida por la salida de Jensen Huang de Nvidia.
+[ES]
+Fuentes: The New York Times, TechCrunch, Al Jazeera, BBC News, NRK, Hacker News.
+[ES]
+La AIE: la crisis de Ormuz es el mayor golpe a la seguridad energética de la historia.
+[ES]
+En su informe anual de referencia, la Agencia Internacional de la Energía afirma que el bloqueo del estrecho de Ormuz eclipsa las crisis petroleras de los años setenta y que el mundo energético no volverá a ser como antes. El mismo informe prevé que los centros de datos dupliquen su consumo eléctrico para 2030 y emitan un 70 % más de carbono, porque Estados Unidos y China recurren a combustibles fósiles para alimentar la IA. Según la AIE, el shock también podría acelerar la adopción de fuentes alternativas, ahora que seguridad y asequibilidad energética están en el centro de la agenda política.
+[ES]
+Fuentes: DW en Español, The Guardian, The New York Times.
+[ES]
+La Corte Internacional de Justicia decide hoy si Myanmar cometió genocidio contra los rohinyás.
+[ES]
+Tras siete años de proceso, los jueces de La Haya leen este jueves su veredicto en la demanda de Gambia contra Myanmar. Ningún Estado ha sido declarado culpable de genocidio por un tribunal internacional, así que un fallo condenatorio sería histórico y podría sentar precedente para el caso contra Israel por Gaza. The Guardian informa además de temores a que Estados Unidos sancione a jueces del tribunal tras la decisión.
+[ES]
+Fuentes: BBC News, El País, Reuters, The New York Times, Al Jazeera, The Guardian, DN.
+[ES]
+España: Sánchez y Feijóo, cara a cara esta noche a diez días de las elecciones.
+[ES]
+El único debate entre los dos principales candidatos llega con el PP dos puntos por delante del PSOE (32,4 % frente a 30,4 %) en el sondeo diario de 40dB. para EL PAÍS y la SER, y con PP y Vox sumando 192 escaños, 14 por encima de la mayoría absoluta. Los bloques parecen bastante definidos, pero aún hay un porcentaje relevante de indecisos, sobre todo en la izquierda, y la experiencia dice que en estos debates no equivocarse pesa más que acertar.
+[ES]
+Fuente: El País.
+[ES]
+España y Latinoamérica.
+[ES]
+Hegseth presume en Caracas de la captura de Maduro y firma un acuerdo militar.
+[ES]
+Pete Hegseth hizo la primera visita de un secretario de Defensa de EE. UU. a Venezuela en décadas y se reunió con la presidenta interina, Delcy Rodríguez, para firmar un acuerdo de cooperación militar. En su discurso calificó la captura de Maduro del 3 de enero como "la operación militar más sofisticada en la historia de América Latina". La visita, parte de una gira regional, reaviva las preguntas sobre la influencia de Washington y la seguridad en la región.
+[ES]
+Fuentes: BBC News Mundo, The Guardian, The Washington Post, Al Jazeera.
+[ES]
+Chile: la Cámara aprueba la Sala Cuna Universal con amplio respaldo.
+[ES]
+Los diputados aprobaron y despacharon al Senado, en tercer trámite, el proyecto que elimina la exigencia de que una empresa tenga 20 o más trabajadoras para estar obligada a ofrecer sala cuna, y crea un fondo solidario para financiarla. El informe general salió con 132 votos a favor, ninguno en contra y 12 abstenciones, en su mayoría de la izquierda, que critica que se haya quitado el enfoque de derecho de los niños. El Gobierno celebró el avance.
+[ES]
+Fuente: Emol.
+[ES]
+Orrego acusa a Kast de "jugar con fuego" con sus promesas incumplidas.
+[ES]
+El gobernador de la Región Metropolitana, Claudio Orrego, dijo que el Gobierno "decía tener un plan para todo y no tenía un plan para nada, salvo reducir impuestos". Advirtió que el malestar de quien "no llega a fin de mes y paga el doble por la bencina" está "arando el campo para un nivel de populismo que Chile no ha conocido". Mientras, Kast cerró su gira asiática destacando en APEC el encuentro entre Trump, Xi y Putin.
+[ES]
+Fuente: La Tercera.
+[ES]
+Trump pide al Supremo bloquear el TPS de cientos de miles de venezolanos.
+[ES]
+El Departamento de Justicia solicitó a la Corte Suprema anular la orden de un tribunal de apelaciones que obliga a restablecer el Estatus de Protección Temporal a venezolanos que lo habían perdido. El Gobierno alega que devolver el beneficio supondría "dejar en libertad dentro del país a extranjeros sujetos a deportación". La suspensión temporal que había autorizado el Supremo expira este viernes.
+[ES]
+Fuente: DW en Español.
+[ES]
+Mundo.
+[ES]
+Irán: Trump sopesa nuevos ataques mientras el Golfo vuelve a arder.
+[ES]
+Según The New York Times, la Casa Blanca estudia nuevos bombardeos contra Irán, presionada por Israel y por advertencias de que Teherán reconstruye su arsenal de misiles, un debate que divide a la Administración. Kuwait dijo haber repelido el primer ataque iraní en dos meses, y Bahréin también fue atacado tras un bombardeo estadounidense sobre la isla iraní de Qeshm. Además, la coalición liderada por Arabia Saudí interceptó misiles hutíes lanzados contra Riad, con daños materiales por los restos.
+[ES]
+Fuentes: The New York Times, BBC News, Al Jazeera, The Washington Post.
+[ES]
+El puente de Crimea, atacado por tercera vez en una semana.
+[ES]
+El jefe de Crimea designado por Moscú, Serguéi Aksiónov, informó de un nuevo ataque que obligó a suspender el tráfico en el puente que une Rusia con la península ocupada. Los golpes anteriores de esta semana derribaron parte de la estructura; según Ars Technica, Ucrania usó drones repetidores de fabricación propia para esquivar los límites de Starlink. The Washington Post añade que los ataques ucranianos a refinerías han dejado fuera de servicio cerca de la mitad de la capacidad de refino rusa.
+[ES]
+Fuentes: BBC News, DW en Español, El País, Ars Technica, The Washington Post.
+[ES]
+Israel lanza una rara operación terrestre en Gaza más allá de la "línea amarilla".
+[ES]
+Tanques israelíes avanzaron al este del campo de refugiados de Nuseirat, en una zona fuera de su control, tras ordenar evacuaciones; el ejército dice que busca destruir un "túnel terrorista". Hamás lo calificó de "violación flagrante" del alto el fuego de octubre de 2025. La operación llega mientras crecen las advertencias de que Netanyahu, ante unas elecciones difíciles, presiona por una nueva escalada con Irán.
+[ES]
+Fuentes: BBC News, NRK, Al Jazeera, The Washington Post.
+[ES]
+Hungría desentierra, literalmente, la corrupción de la era Orbán.
+[ES]
+El Gobierno de Péter Magyar acelera su ofensiva anticorrupción: tres exministros están en prisión preventiva, el hermano de Orbán ha sido detenido y hay más de 850 millones de euros de dinero público bajo sospecha. Funcionarios del Tesoro necesitaron ocho horas y cinco máquinas para contar 17,7 millones de euros en efectivo hallados enterrados en bosques y escondidos en naves agrícolas, vinculados a un exministro de Desarrollo.
+[ES]
+Fuente: El País.
+[ES]
+Musk se siente "bastante tonto" por gastar 445 millones en las elecciones de EE. UU.
+[ES]
+El magnate admitió que gastó "tanto dinero sin ver mucho a cambio", tras la debacle republicana en las legislativas del 3 de noviembre, y se desmarcó del movimiento MAGA. Buena parte de esos fondos se canalizó a través de su comité America PAC para apoyar a candidatos republicanos.
+[ES]
+Fuentes: DW en Español, BBC News.
+[ES]
+Tecnología y Nicho.
+[ES]
+Dos fallos críticos permiten tomar el control de servidores Nginx sin autenticación.
+[ES]
+Investigadores de Wiz y otros cuatro equipos descubrieron dos vulnerabilidades de ejecución remota de código en Nginx, el servidor web de código abierto más usado del mundo, con más de 225 millones de sitios. Ambas tienen puntuación crítica (9,2), requieren que HTTP/2 esté activado y una de ellas afecta a versiones desde 2015, así que conviene actualizar ya. Es otra pieza de una semana inquietante: BBC Mundo informa de que la startup Calif usó IA para encontrar un fallo grave en la gestión de memoria de Java.
+[ES]
+Fuentes: Hacker News, Wiz, BBC News Mundo.
+[ES]
+Google y Microsoft lanzan nuevos modelos en el mismo día.
+[ES]
+Google presentó Gemini 4 Neon, un modelo que promete inteligencia de frontera a menor coste (3 dólares por millón de tokens de entrada) y que ocupa el tercer puesto del índice de Artificial Analysis. Microsoft, por su parte, lanzó en su conferencia Ignite una familia de siete modelos MAI, entre ellos uno de ciberseguridad un 86 % más barato que su predecesor, pensado para agentes que vigilen y parcheen sistemas sin descanso.
+[ES]
+Fuentes: Hacker News, Google, Microsoft.
+[ES]
+Nadella explica por qué ofreció la salida voluntaria a 60.000 empleados.
+[ES]
+El consejero delegado de Microsoft dijo en la DealBook Summit que no pretende reemplazar a sus trabajadores con IA, sino reorganizar la empresa para que todos trabajen con IA y su labor pase a ser dirigirla. Ofreció indemnizaciones en lugar de despidos para que "todos sintieran que tenían agencia para elegir", y sostuvo que la ingeniería de software, lejos de morir, "va a prosperar".
+[ES]
+Fuente: TechCrunch.
+[ES]
+"GTA VI" llega tras 13 años de espera y bate récords.
+[ES]
+La nueva entrega de Grand Theft Auto salió a medianoche para PlayStation 5 y Xbox Series, con una puntuación récord en Metacritic y preventas que superan los 1.500 millones de dólares. Es el videojuego más caro jamás producido, y la crítica lo describe como una "épica americana asombrosa"; en Noruega también hubo fans esperando el lanzamiento en vela.
+[ES]
+Fuentes: DW en Español, Al Jazeera, SVT Nyheter, NRK.
+[ES]
+Will Wright, creador de "Los Sims", prepara un juego hecho con tus recuerdos.
+[ES]
+"MyMems", previsto para el año que viene, usará IA generativa para crear personajes digitales a partir de los recuerdos y las personas reales que el jugador aporte, y ponerlos a resolver retos juntos. Wright dice que quiere "volver la simulación hacia dentro" y captar matices de la vida real que "Los Sims" nunca lograron.
+[ES]
+Fuente: Ars Technica.
+[ES]
+Suecia y Noruega.
+[ES]
+Suecia: seis alumnos acusados por una "cultura de violencia" en el internado de Sigtuna.
+[ES]
+La fiscalía acusó a seis alumnos del prestigioso internado Sigtunaskolan por delitos como lesiones graves, coacción grave y acoso sexual grave contra compañeros más jóvenes, cometidos entre junio y octubre. La fiscal Lisa dos Santos habla de una "cultura de violencia y humillación" en la que alumnos mayores ejercían poder sobre los menores, y entre las pruebas figura un libro que describía cómo debían aplicarse los "castigos". Algunos abogados defensores sostienen que la responsabilidad recae también en los adultos y la dirección del centro.
+[ES]
+Fuentes: SVT Nyheter, DN, SvD, Aftonbladet.
+[ES]
+Suecia: la gasolina subirá unas tres coronas por litro el 1 de diciembre.
+[ES]
+Al restablecerse los impuestos sobre gasolina y diésel, los precios subirán de golpe unas tres coronas por litro, y la patronal Drivkraft Sverige pide llenar el depósito con tiempo para evitar que se vacíen las gasolineras a final de mes. Al frente eléctrico tampoco llegan buenas noticias: Vattenfall vuelve a retrasar el arranque del reactor Ringhals 3, ahora al 20 de diciembre, por una fuga en una válvula.
+[ES]
+Fuentes: DN, SVT Nyheter.
+[ES]
+Suecia sigue sin gobierno: Lars Ohly carga contra la exigencia de ministerios de su partido.
+[ES]
+El ex líder del Partido de la Izquierda (Vänsterpartiet) cree que Nooshi Dadgostar se equivoca al escudarse en un mandato del congreso del partido para exigir carteras ministeriales a cambio de apoyar a Magdalena Andersson. Según Ohly, los votantes están "frustrados" porque las negociaciones siguen bloqueadas, mientras el partido se niega a políticas por las que hizo campaña solo por no obtener ministros.
+[ES]
+Fuente: Aftonbladet.
+[ES]
+Noruega gana a la mayor pesquera rusa en los tribunales.
+[ES]
+El tribunal de distrito de Oslo dio la razón al Estado noruego en la demanda de Norebo, el mayor grupo pesquero de Rusia, que reclamaba licencia para faenar en la zona económica noruega pese a las sanciones de la UE y de Noruega de 2025. El abogado del Estado dijo que el tribunal le dio la razón "en todos los puntos"; aún no está claro si Norebo recurrirá.
+[ES]
+Fuente: NRK.
+[ES]
+Conectando los Puntos.
+[ES]
+"Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes."
+[ES]
+El hilo más grueso de hoy es la energía. La AIE dice que el bloqueo de Ormuz supera a las crisis de los setenta, Suecia sube los combustibles tres coronas de golpe, un reactor sueco vuelve a retrasarse y, en Chile, Orrego habla de gente que paga "el doble por la bencina". Para ti, en Latinoamérica o España, la pregunta práctica es de qué lado de la balanza está tu país: exportadores de petróleo o cobre y litio pueden salir ganando, mientras importadores netos de energía sufren inflación y presión sobre la moneda. Vale la pena vigilar si esa presión acaba alimentando el populismo que el propio Orrego advierte.
+[ES]
+El segundo hilo es la IA como devoradora de capital y de electricidad. El mismo día en que Anthropic recauda 81.300 millones, la AIE calcula que los centros de datos emitirán un 70 % más de carbono para 2030, y Google y Microsoft lanzan modelos más baratos para correr agentes sin parar. Hay una tensión evidente: más demanda eléctrica justo cuando la energía es más cara e insegura. Para países con sol, viento y espacio, como Chile o España, eso podría convertirse en una oportunidad para atraer centros de datos, aunque no es una predicción segura y depende de redes eléctricas que hoy no siempre dan abasto.
+[ES]
+El tercer hilo es geopolítico. La foto de Shenzhen sugiere un mundo de grandes potencias que negocian entre ellas, y la visita de Hegseth a Caracas recuerda que, en ese esquema, América Latina queda dentro de la órbita de Washington. Que Kast celebre la cumbre mientras Europa la mira con alarma dice mucho de cómo cada región lee su margen de maniobra.
+[ES]
+Y un apunte más incómodo: fallos críticos en Nginx y en Java, uno de ellos hallado con IA, en la misma semana en que Microsoft vende modelos de ciberseguridad para defenderse "de atacantes con herramientas ofensivas baratas". Si la IA abarata tanto el ataque como la defensa, la ventaja será de quien actualice antes, y eso suele dejar atrás a pymes y administraciones públicas con pocos recursos, también en nuestra región.
+[ES]
+Vigilancia de la Hipótesis.
+[ES]
+Seguimiento continuo de la hipótesis de fondo: un escaneo diario de las noticias de hoy, leído junto a la tendencia reciente del registro, no una nueva argumentación completa.
+[ES]
+(a) Ciclos de autoridad más cortos — apoyo. La salida a bolsa récord de Anthropic llega días después de la caída de Jensen Huang en Nvidia, y Google y Microsoft lanzan modelos nuevos el mismo día (TechCrunch, Google). Son 23 lecturas seguidas con apoyo para (a); a estas alturas es la serie más estable del registro. (b) Voz interior — neutral. Nadella dice que ofreció salidas voluntarias para que la gente "sintiera que tenía agencia" (TechCrunch), pero el trabajo que queda consiste en dirigir IA, y el juego de Will Wright entrega a la IA los propios recuerdos (Ars Technica). Señal ambigua que corta, sin revertirla, una racha reciente de desafíos (cuatro de los últimos cinco días).
+[ES]
+(c) Alejarse del individualismo — desafío. El debate español llega con bloques muy fijos (El País) y la cumbre de Shenzhen huele a esferas de influencia. Es el día 14 seguido de desafío para (c). (d) Colaboración y cohesión — apoyo. La Sala Cuna Universal salió en Chile con 132 votos a favor y ninguno en contra (Emol), y en Canadá hay familias que compran casa junto a desconocidos para poder pagarla (BBC News Mundo), una colaboración nacida de la necesidad. Quinta lectura seguida de apoyo para (d).
+[ES]
+Nada de hoy mueve el veredicto de la revisión integral de noviembre (net challenge, sin enlace en la cadena): (a) y (d) siguen avanzando cada una por su lado, mientras (b) y (c) no se propagan.
