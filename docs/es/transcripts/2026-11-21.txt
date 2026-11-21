@@ -1,0 +1,174 @@
+[ES]
+Resumen Diario, sábado 21 de noviembre de 2026.
+[ES]
+¡Buenos días! Ayer fue un viernes intenso: los mercados castigaron con fuerza a las tecnológicas, la IA reclamó su mayor logro matemático y la COP31 se alarga sin acuerdo. Aquí va lo esencial.
+[ES]
+Titulares.
+[ES]
+Wall Street entra en corrección y Anthropic vuelve casi a su precio de salida.
+[ES]
+El viernes fue un día rojo: el S&P 500 cayó un 3,7 %, el Nasdaq se desplomó un 5,3 % y tanto el S&P como el Dow Jones entraron en "corrección", es decir, más de un 10 % por debajo de su máximo reciente. Las acciones de Anthropic, que habían brillado en su estreno récord, llegaron a caer más de un 12 % hasta rondar los 85 dólares, muy cerca de su precio de salida de 83. Detrás hay dudas sobre el ritmo del gasto en IA (más de un billón de dólares en un año), el temor a que la contundente victoria demócrata en las elecciones de mitad de mandato frene la expansión, una investigación de la SEC sobre la contabilidad de Nvidia —cuyas acciones cayeron cerca de un 13 %— y la amenaza de Trump de castigar los centros de datos en el extranjero. En Suecia, Svenska Dagbladet ya lo llama "el viernes sangriento".
+[ES]
+Fuentes: BBC News, The New York Times, Reuters, BBC News Mundo y Svenska Dagbladet.
+[ES]
+Un matemático de Anthropic asegura haber demostrado la hipótesis de Riemann con ayuda de Claude.
+[ES]
+Levent Alpöge, matemático de Anthropic, afirma que durante unas seis semanas usó una versión no pública de Claude para construir una demostración de la hipótesis de Riemann (en su versión generalizada, según el documento que circula en Hacker News), el célebre problema de casi 170 años sobre el orden oculto de los números primos. La prueba está formalizada en Lean, un lenguaje que permite verificar matemáticas por computadora, y los especialistas ya la desmenuzan en foros, aunque la verificación completa llevará tiempo. El propio Alpöge admitió que el momento, justo después de la salida a bolsa de su empresa, es "horrible". TechCrunch subraya además que, en paralelo, circuló otra solución propuesta por un matemático humano.
+[ES]
+Fuentes: BBC News, The New York Times, TechCrunch, Dagens Nyheter y Hacker News.
+[ES]
+La COP31 se estanca en Antalya por los combustibles fósiles.
+[ES]
+Las negociaciones de la cumbre climática de la ONU en Turquía siguieron toda la noche sin acuerdo. Un bloque liderado por Francia y Panamá, junto a Estados insulares y países de la UE como España, Suecia y Finlandia, rechaza un borrador que ni siquiera menciona reducir la demanda de petróleo, gas y carbón, después de que los productores encabezados por Arabia Saudita presionaran para quitar esa referencia. El grupo africano, por su parte, exige más dinero para adaptación y advierte que "no vino a mendigar"; se espera un nuevo texto, quizá definitivo, este sábado.
+[ES]
+Fuentes: BBC News, The Guardian, Reuters y Aftonbladet.
+[ES]
+Misiles rusos caen en Polonia en plenas maniobras europeas.
+[ES]
+Dos misiles de crucero Kh-101 y un dron Geran-5 rusos cayeron el viernes en el este de Polonia mientras casi 3.000 soldados de 11 países europeos, España entre ellos, hacían ejercicios cerca de la frontera ucraniana para preparar una posible misión de posguerra. El primer ministro Donald Tusk lo calificó de "provocación intencionada" y pedirá a la OTAN reforzar el flanco oriental, mientras Ursula von der Leyen condenó la violación del espacio aéreo polaco. En paralelo, Volodímir Zelenski llamó "asesino" a Vladímir Putin después de que Donald Trump lo describiera como un amigo.
+[ES]
+Fuentes: El País, AP News, BBC News Mundo y BBC News.
+[ES]
+España y Latinoamérica.
+[ES]
+España: Sánchez vuelve al ataque tras perder el cara a cara.
+[ES]
+Tras un debate que, según la encuesta de 40dB. para EL PAÍS y la SER, ganó Alberto Núñez Feijóo, Pedro Sánchez dio un mitin lleno a rebosar en Santiago de Compostela, la tierra de su rival, y volvió a hablarle a la izquierda desde la emoción: el exilio republicano y la ley de eutanasia, que Feijóo quiere derogar. La misma encuesta indica que, pese al tropiezo, el PSOE sigue creciendo y se acerca al PP. Feijóo prometió "desplegar las Fuerzas Armadas" frente a la inmigración y Santiago Abascal subió la apuesta con un "no puede entrar nadie más", a una semana de las elecciones del 29-N.
+[ES]
+Fuentes: El País.
+[ES]
+Colombia sale a la calle contra la reforma fiscal de De la Espriella.
+[ES]
+Miles de colombianos marcharon el 19 de noviembre contra la llamada Ley de Rescate Económico del presidente Abelardo de la Espriella, que busca reducir el déficit con recortes de gasto y más impuestos. Jóvenes, estudiantes y familias campesinas temen que el ajuste caiga sobre quienes viven con el salario mínimo, y llama la atención que la protesta llegue apenas tres meses después de su llegada al poder.
+[ES]
+Fuentes: DW en Español.
+[ES]
+Mueren tres soldados salvadoreños en Haití mientras Bukele busca un tercer mandato.
+[ES]
+Tres soldados de El Salvador murieron y uno resultó herido por una detonación mientras manipulaban explosivos en un campamento en Haití, las primeras bajas que reconoce el Ejército desde que Nayib Bukele desplegó más de 2.000 efectivos para rescatar a cuatro técnicos salvadoreños desaparecidos tras una emboscada de pandillas. Bukele había presumido un día antes de que sus tropas les estaban dando una "lección" a las bandas. En paralelo, The Washington Post informa de que el mandatario formalizó sus planes para un tercer mandato que podría mantenerlo en el poder hasta 2033.
+[ES]
+Fuentes: BBC News Mundo y The Washington Post.
+[ES]
+Chile: renuncia la subsecretaria de Ciencia tras chocar con la ministra.
+[ES]
+Carolina Rossi dejó la Subsecretaría de Ciencia después de semanas de discrepancias con la ministra Ximena Lincolao, que se agravaron cuando se despidió a funcionarios de su confianza sin avisarle, mientras ella ejercía como ministra subrogante. El presidente José Antonio Kast aceptó la renuncia y el vicepresidente Claudio Alvarado cerró filas con Lincolao. En entrevista con La Tercera, Rossi resumió su postura: "Apoyo la tecnología, pero faltó conversación profunda con la academia y los científicos".
+[ES]
+Fuentes: Emol y La Tercera.
+[ES]
+Sismo de magnitud 6,8 sacude el centro de Perú.
+[ES]
+Un terremoto de magnitud 6,8 golpeó el viernes la región andina de Junín, a 129 kilómetros de profundidad, y se sintió con fuerza en Lima, donde vecinos e incluso legisladores salieron a la calle. No hubo reportes inmediatos de víctimas ni daños graves, ni alerta de tsunami. Vale la pena seguirlo: en Junín está Toromocho, una de las mayores minas de cobre de Perú, tercer productor mundial del metal.
+[ES]
+Fuentes: Reuters y SVT Nyheter.
+[ES]
+Sheinbaum defiende "otra vía de desarrollo" para México.
+[ES]
+En el desfile por el 116 aniversario de la Revolución Mexicana, y recién llegada de la cumbre de APEC en China, Claudia Sheinbaum afirmó que México demuestra que el éxito económico puede medirse en bienestar y justicia social, no solo en cifras de producción. También advirtió que su Gobierno no tolerará injerencias extranjeras ni intentos de cuestionar la legitimidad de las elecciones de 2027.
+[ES]
+Fuentes: Xinhua Español.
+[ES]
+Mundo.
+[ES]
+Reino Unido y la UE sellan su "reinicio" post-Brexit.
+[ES]
+Diez años después del referéndum, el Gobierno del primer ministro Andy Burnham cerró con Bruselas un acuerdo que cubre exportaciones de alimentos, emisiones de carbono y un programa de movilidad para jóvenes de 18 a 31 años, que podrán vivir, trabajar o estudiar en la UE hasta tres años. Es el deshacer más concreto del divorcio desde 2016, en un momento en que cada vez más británicos creen que salir fue un error. Ed Miliband aseguró que el pacto no depende de rebajar las tasas universitarias a estudiantes europeos, como sugerían fuentes de Bruselas.
+[ES]
+Fuentes: BBC News Mundo, El País, The Washington Post y BBC News.
+[ES]
+Dinamarca acusa a Rusia de planear un asesinato en su territorio.
+[ES]
+Los servicios de inteligencia daneses sospechan que Rusia planeó asesinar en Dinamarca a un rapero ucraniano-estadounidense, a quien Moscú acusa de participar en contrabando de drones; Copenhague expulsó al agregado de defensa ruso. La primera ministra Mette Frederiksen propone endurecer las sanciones y suspender los visados no esenciales a ciudadanos rusos, mientras la embajada rusa niega la acusación.
+[ES]
+Fuentes: DW en Español, El País, BBC News y Dagens Nyheter.
+[ES]
+Culpable el autor del incendio de Palisades en Los Ángeles.
+[ES]
+Un jurado declaró culpable a Jonathan Rinderknecht, de 30 años, de provocar el incendio de enero de 2025 que mató a 12 personas y destruyó más de 6.800 edificios en Los Ángeles. Podría enfrentar hasta 40 años de prisión, y el veredicto ofrece cierta rendición de cuentas por uno de los capítulos más dolorosos de la ciudad.
+[ES]
+Fuentes: BBC News, The New York Times, DW en Español y Dagens Nyheter.
+[ES]
+La ONU no logra cerrar la regulación de los "robots asesinos".
+[ES]
+Las conversaciones de cinco días que debían terminar el viernes se prolongaron mientras 128 países intentan ponerse de acuerdo para iniciar negociaciones formales sobre las armas letales autónomas controladas por IA. Aftonbladet resume que, por ahora, la regulación no llega.
+[ES]
+Fuentes: DW en Español y Aftonbladet.
+[ES]
+Tecnología y Nicho.
+[ES]
+Trump amenaza con prohibir que empresas de EE. UU. construyan centros de datos en el extranjero.
+[ES]
+"Vamos a mantenerlo todo en este país", dijo Trump, que amenazó con un "impuesto tremendo" a las tecnológicas que levanten centros de datos de IA fuera de Estados Unidos, argumentando que "China se los quedará todos". Dio pocos detalles y admitió que ni su propio equipo lo había escuchado antes, así que no está claro si se convertirá en política ni cómo se aplicaría. Meta y Google ya tienen acuerdos para construir centros en otros países, y según Svenska Dagbladet el anuncio aceleró la caída bursátil del viernes.
+[ES]
+Fuentes: BBC News, AP News y Svenska Dagbladet.
+[ES]
+Meta replantea su meta de cero emisiones netas para 2030.
+[ES]
+En su informe de sostenibilidad, Meta admite que está "reevaluando" el plazo de 2030 porque la demanda de infraestructura de IA "creció más rápido de lo que casi nadie proyectó". Sus emisiones totales pasaron de 15,6 a más de 21,7 millones de toneladas de CO₂ equivalente entre 2024 y 2025, una huella comparable a la de todo el estado de Idaho. Es la primera gran tecnológica que reconoce públicamente que podría no cumplir, aunque Amazon, Google y Microsoft también enfrentan la misma tensión.
+[ES]
+Fuentes: Ars Technica.
+[ES]
+Google se despide del botón "Buscar".
+[ES]
+La nueva portada de Google elimina el clásico botón de búsqueda y suma accesos directos a funciones de IA: generar imágenes, analizar archivos y hacer lluvia de ideas con Gemini. Además, una barra lateral muestra tus conversaciones recientes en el Modo IA para retomarlas donde las dejaste. Solo sobrevive el "Voy a tener suerte", símbolo de cuán rápido la búsqueda se está convirtiendo en una experiencia de chat.
+[ES]
+Fuentes: Ars Technica.
+[ES]
+Bending Spoons compra Mailchimp por 3.680 millones de dólares.
+[ES]
+La italiana Bending Spoons compró la plataforma de email marketing a Intuit, que había pagado unos 12.000 millones por ella en 2021, una pérdida que refleja cómo la IA está golpeando a las empresas de software por suscripción. Bending Spoons se ha convertido en una especie de refugio para marcas veteranas de internet: en el último año sumó AOL, Eventbrite, Airtable y Miro, además de Evernote, Meetup y Vimeo.
+[ES]
+Fuentes: TechCrunch.
+[ES]
+Inkling 2 Mini: un modelo potente que cabe en tu portátil.
+[ES]
+Thinking Machines lanzó Inkling 2 Mini, un modelo de pesos abiertos con 26.400 millones de parámetros (3.400 millones activos) que repite sus capas intermedias tres veces por cada token para razonar mejor con menos texto. Según la empresa, lidera a todos los modelos abiertos de menos de 100.000 millones de parámetros en pruebas de programación agéntica, y fue uno de los temas más votados del día en Hacker News.
+[ES]
+Fuentes: Hacker News y Thinking Machines.
+[ES]
+Suecia y Noruega.
+[ES]
+Suecia sigue sin gobierno y Kristersson pide estar "preparados".
+[ES]
+El Partido de la Izquierda (V) insiste en entrar en un gobierno rojiverde con ministerios propios, pese a la creciente presión para que ceda; para el comentarista de SVT Elisabeth Marmorstein, "es ahora o nunca" para el partido, porque los socialdemócratas no se fían de él y temen espantar al votante de centro. Mientras tanto, el líder moderado Ulf Kristersson mantiene contacto "constante" con el Partido del Centro y no descarta unas elecciones extraordinarias: "Be prepared, podemos necesitarlos de nuevo", dijo a las juventudes de su partido.
+[ES]
+Fuentes: SVT Nyheter y Dagens Nyheter.
+[ES]
+Alertas de drones en Finlandia y Estonia; Suecia convoca al embajador ruso.
+[ES]
+Finlandia restringió el tráfico aéreo y marítimo en el este del golfo de Finlandia como precaución ante posibles drones, y en Estonia parte de la población recibió alertas nocturnas mientras despegaban cazas de la OTAN. Las autoridades rusas de la región de Leningrado dicen haber derribado unos 70 drones "hostiles". Suecia, por su parte, convocó al embajador ruso tras los ataques contra Ucrania y las explosiones cerca de su embajada en Kiev, y condenó las amenazas rusas contra diplomáticos.
+[ES]
+Fuentes: Aftonbladet y Dagens Nyheter.
+[ES]
+La policía sueca abrirá una estación en Irak para perseguir a cabecillas de bandas.
+[ES]
+La jefa nacional de policía, Petra Lundh, anunció un plan piloto para abrir a comienzos del próximo año una oficina en Irak, en cooperación con las autoridades locales, para localizar a criminales que dirigen la violencia desde el extranjero; la idea es abrir otras cuatro. Según Lundh, los tiroteos han caído un 80 % en tres años y las explosiones se han reducido a la mitad respecto del año pasado, aunque las redes siguen activas.
+[ES]
+Fuentes: Svenska Dagbladet.
+[ES]
+Noruega mira con lupa el lanzamiento histórico de GTA 6.
+[ES]
+"Grand Theft Auto 6" facturó 3.790 millones de dólares solo en su día de estreno, según recoge NRK, un récord absoluto para la industria. En Noruega el fenómeno abrió debate: un padre del sur del país pide a los adultos "atreverse a tener la conversación" y poner límites, ya que el juego es para mayores de 18 años. En Reino Unido, The Guardian habla incluso de una "gripe GTA" que vació oficinas a final de semana.
+[ES]
+Fuentes: NRK y The Guardian.
+[ES]
+Conectando los Puntos.
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+[ES]
+Fíjate en la paradoja del día: la misma semana en que una IA habría ayudado a demostrar uno de los problemas más famosos de las matemáticas, los inversores le quitaron casi toda la prima al estreno bursátil de Anthropic y empujaron a Wall Street a una corrección. No es contradictorio: una cosa es la capacidad técnica, que sigue sorprendiendo, y otra muy distinta es quién captura el dinero y cuándo. Cuando el gasto supera el billón de dólares al año, basta una combinación de escándalo (Nvidia), política (la victoria demócrata y las amenazas de Trump) y dudas de rentabilidad para que el humor cambie en días.
+[ES]
+El hilo de fondo es la energía. Meta reconoce que sus emisiones se dispararon por los centros de datos, la COP31 se atasca justo en la frase sobre combustibles fósiles, Suecia vive un "shock" en el precio de la electricidad y Trump quiere que los centros de datos se queden en casa. Si la IA es, en el fondo, una industria de electricidad y cobre, la geopolítica de la energía se vuelve geopolítica tecnológica.
+[ES]
+Para América Latina y España esto toca varias fibras. Chile y Perú dependen del cobre, y el sismo en Junín recuerda lo concentrada que está esa oferta; una desaceleración del gasto en IA podría enfriar las expectativas de demanda del metal, mientras que una construcción sostenida las mantendría altas. Si la amenaza de Trump se concretara —no es una predicción segura—, los proyectos de centros de datos que países como Chile, México o España han cortejado podrían quedar en el aire. Y un giro de los mercados hacia el refugio suele traducirse en monedas latinoamericanas más débiles: vale la pena vigilar el peso chileno, el colombiano y el sol peruano en los próximos días.
+[ES]
+En lo político, el patrón es de paciencia corta: Colombia protesta contra un Gobierno de apenas tres meses, España llega al 29-N con bloques muy marcados y Suecia sigue sin gobierno, con la posibilidad de repetir elecciones. Y en el flanco oriental europeo, misiles en Polonia y drones en el Báltico mientras Washington coquetea con Moscú: Europa parece obligada a organizarse sola, como muestran la coalición de maniobras en Polonia y el reinicio con Londres.
+[ES]
+Vigilancia de la Hipótesis.
+[ES]
+Seguimiento continuo de la hipótesis de fondo: un escaneo diario de las noticias de hoy, leído junto a la tendencia reciente del registro, no una nueva argumentación completa.
+[ES]
+(a) Ciclos de liderazgo cada vez más cortos: apoyo, y ya van 24 días seguidos. Anthropic pasó en apenas dos sesiones de estrella del mayor debut bursátil de la historia a cotizar casi a su precio de salida, según BBC News, y Nvidia suma una investigación de la SEC a la caída de Jensen Huang. Que una IA pueda haber resuelto la hipótesis de Riemann, también según BBC News, erosiona además la autoridad tradicional de los expertos: el veredicto ahora pasa por un verificador formal.
+[ES]
+(b) Voz interior más fuerte: neutral, en línea con los tres días anteriores. Google elimina el botón de búsqueda y empuja hacia el chat con IA, según Ars Technica, un paso más en delegar el criterio; en sentido contrario, los fans de Phoebe Bridgers, sin móviles en sus conciertos, están recordándolos dibujando, según BBC News. Señales pequeñas que se compensan.
+[ES]
+(c) Alejarse del individualismo: desafío, una vez más: en todo el registro, (c) nunca ha marcado apoyo. España llega al 29-N en bloques, en Suecia la Izquierda y los socialdemócratas siguen sin confiar el uno en el otro y Zelenski y Trump chocan abiertamente sobre Putin. (d) Más colaboración y cohesión: apoyo, con matices: la coalición de Panamá, Francia, Estados insulares y la UE en la COP31 y las marchas en Colombia son acción colectiva, pero, como advirtió la revisión integral de noviembre, nacen más del agravio que de una voz interior fortalecida. Esa revisión concluyó net challenge para la cadena en conjunto, y nada de hoy cambia ese diagnóstico: (a) y (d) siguen moviéndose solos, sin que (b) y (c) respondan.
