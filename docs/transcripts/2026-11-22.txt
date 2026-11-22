@@ -1,0 +1,314 @@
+[EN]
+Good morning, Patricio! Here's your Sunday brief — a heavy one, with a climate summit on the edge, a famous maths problem apparently solved with AI's help, and more sparks in the Baltic.
+[EN]
+Sources note. AP News and Reuters blocked direct reads today (403/401) and I couldn't pin down a same-day article URL from either to retry through the extraction proxy, so their stories are covered via BBC, DW, The Guardian and Al Jazeera. Xinhua Español didn't respond to direct fetches and no same-day article URL surfaced to retry, so its slot is covered by Al Jazeera and El País. The Herald-Tribune returned a paywall (402), so there's nothing from Sarasota today. NYT article pages were paywalled too; I covered those stories via BBC, TechCrunch and El País, and used only NYT's own headline summaries for context.
+[EN]
+Top Stories
+[EN]
+COP31 on the brink: EU and Germany say no to a deal that won't name fossil fuels
+[EN]
+The UN climate summit in Antalya, Turkey, ran into a second day of overtime on Sunday after a third and supposedly final draft landed around 3am. It leaves out explicit fossil-fuel language and only "recalls" the Cop28 Dubai agreement "in its entirety". That's an indirect nod to the one time a UN deal mentioned fossil fuels. It also drops the $120bn adaptation-finance target that developing countries wanted.
+[EN]
+Germany said it will reject the text, and Ireland, which holds the EU presidency, called it short on ambition. DN reports the EU is preparing a historic no and that Sweden's delegation has already left, so the closing plenary could end in collapse.
+[EN]
+Sources: The Guardian, DW, DN.
+[EN]
+Riemann Hypothesis proof, found with Claude, certified by the Lean community
+[EN]
+On Friday, Anthropic mathematician Levent Alpöge released a proof of the 167-year-old Riemann Hypothesis as a 17-million-line Lean library. He says he built it over about six weeks with a non-public version of Claude. Within a day, the Lean and Mathlib communities issued a joint statement certifying that both the statement and the proof are correct.
+[EN]
+It's the top story on Hacker News, and TechCrunch notes a competing human-claimed solution has also surfaced. The machine check is done. Mathematicians now face the slower human job of understanding the new ideas.
+[EN]
+Sources: Lean community blog, BBC, TechCrunch, Hacker News.
+[EN]
+Baltic tensions spike: drone strike on a Russian ship, missiles in Poland, a foiled plot in Denmark
+[EN]
+A drone strike set fire to the Sparta II, a sanctioned cargo ship bound for Kaliningrad, in the Gulf of Finland. Finnish defence forces say Ukraine was likely behind it, and PM Petteri Orpo warned that "war is spilling over into our immediate vicinity". Finland also suspects a Russian helicopter of violating its airspace afterwards, and SVT reports the ship's cargo is still a mystery as cooling work continues.
+[EN]
+Poland says Russian missiles and a drone crashed in its southeast, which it calls a deliberate provocation; Trump called it a mistake. Separately, Denmark accused Russian intelligence of plotting to kill a Ukrainian-American rapper near Copenhagen and expelled Russia's defence attaché.
+[EN]
+Sources: BBC, DW, The Washington Post, SVT, SvD.
+[EN]
+Mexico captures "El Chapo Isidro", one of the FBI's ten most wanted
+[EN]
+Mexican special forces, acting on US intelligence, arrested Fausto Isidro Meza Flores in Guasave, Sinaloa, after a shoot-out. Seven suspects and four soldiers were killed. The US accuses him of flooding it with fentanyl and other drugs and is seeking his extradition.
+[EN]
+El País describes Guasave waking up "like a war zone", with burned-out trucks on the highway and residents saying gunmen had briefly taken over a hospital. The arrest is a clear win for Mexico's government as it faces mounting pressure from the Trump administration.
+[EN]
+Sources: BBC, The New York Times, The Washington Post, DW, The Guardian, El País.
+[EN]
+South Korea's education minister resigns over an AI-assisted cheating scandal
+[EN]
+Choi Kyo-jin stepped down on Sunday after a week of panic over AI-assisted cheating. It began when the top scorer in a national tax-accountant exam confessed to using a hidden camera and smartphone, just days before the high-stakes suneung university entrance exam.
+[EN]
+Rushed countermeasures, like blocking public wifi near test sites, didn't reassure the public. Choi said he couldn't escape criticism that the government "failed to prepare adequately", and President Lee Jae Myung accepted his resignation.
+[EN]
+Sources: The Guardian, BBC.
+[EN]
+Spain & Latin America (Spanish)
+[ES]
+España, recta final del 29-N: empate técnico arriba, mayoría holgada para la derecha
+[ES]
+La campaña entra en su última semana con un tono cada vez más dramático: Feijóo llenó la plaza de toros de Valencia con un vídeo de anime que lo muestra venciendo a un Sánchez monstruoso, mientras en Tenerife los asistentes al mitin socialista coreaban "¡No pasarán!". Sánchez promete impuestos a la banca y Feijóo, leyes antiocupación.
+[ES]
+El sondeo de 40dB sitúa al PP y al PSOE en empate técnico por el primer puesto, aunque el bloque de derecha mantiene una mayoría absoluta de 185 escaños, por debajo de los 191 de hace dos semanas.
+[ES]
+Fuentes: El País, La Tercera.
+[ES]
+La UE acepta los centros de deportación en Ruanda que antes llamaba inhumanos
+[ES]
+La Comisión Europea ha dado su bendición al acuerdo de Dinamarca, Países Bajos, Austria, Grecia y Alemania con Kigali para abrir centros de retorno para solicitantes de asilo rechazados. Hace apenas cinco años, Bruselas tachó de "ilegal" un plan danés similar.
+[ES]
+Varias ONG lo llaman el "pacto de la vergüenza"; El País lo describe como un cambio de paradigma en una Europa donde la prioridad ya no es acoger, sino expulsar y externalizar las fronteras.
+[ES]
+Fuentes: El País.
+[ES]
+Chile: el Banco Central explica el desplome del PIB — la minería y la inversión decepcionan
+[ES]
+Tras una semana de cifras negativas, la presidenta del Banco Central, Rossana Costa, dijo a El Mercurio que la minería sigue "bastante por debajo de lo esperado" e incluso se ha profundizado su caída, y que la inversión también sorprendió a la baja.
+[ES]
+En la actividad no minera, Costa ve una brecha de alrededor del 1%, que atribuye a golpes como El Niño y a una construcción que sigue rezagada.
+[ES]
+Fuentes: Emol.
+[ES]
+Un gabinete bajo estrés y una oposición que no logra capitalizarlo
+[ES]
+A ocho meses de asumir, el gobierno de José Antonio Kast acumula fisuras internas y baja popularidad, y los partidos oficialistas presionan por un ajuste de gabinete. Desde su gira por Asia, Kast tuvo que volver a respaldar al ministro de Justicia, Fernando Rabat, ante la acusación constitucional por los decretos de rebaja de condenas.
+[ES]
+La oposición, en tanto, está enredada en sus propias peleas: el PS y el PPD chocaron por el retiro de los permisos de los senadores Órdenes y Espinoza para la gira, y la Fiscalía investiga una eventual suplantación de firmas.
+[ES]
+Fuentes: La Tercera, Emol.
+[ES]
+El boom chileno del hidrógeno verde se aleja: TotalEnergies retira H2 Magallanes
+[ES]
+El 12 de noviembre, la francesa TotalEnergies pidió formalmente poner fin a la evaluación ambiental de H2 Magallanes, el mayor proyecto de inversión jamás anunciado en Chile, con US$16 mil millones. El experto Michael Liebreich, que ya en 2025 dudaba de que se construyera, insiste en que el hidrógeno verde sigue siendo demasiado caro frente a las alternativas fósiles.
+[ES]
+Es un golpe para la narrativa de Magallanes como polo energético del futuro.
+[ES]
+Fuentes: La Tercera.
+[ES]
+Chile en alerta climática: deshielos, marejadas y calor
+[ES]
+El Gobierno decretó estado de emergencia preventiva en Atacama y Coquimbo hasta el 31 de enero de 2027, ante una disminución acelerada de la nieve en la cordillera y el riesgo de crecidas por deshielo. En Laguna Verde, Valparaíso, las marejadas anormales y la crecida del estero El Sauce dejaron unas 20 familias afectadas.
+[ES]
+Además, la Dirección Meteorológica emitió un aviso por altas temperaturas desde Coquimbo hasta el Biobío.
+[ES]
+Fuentes: La Tercera, BioBioChile.
+[ES]
+Las tropas de Bukele en Haití generan entusiasmo e inquietud
+[ES]
+Soldados salvadoreños combaten a las pandillas en Puerto Príncipe, donde muchos haitianos los reciben con alivio tras años de control criminal, aunque otros temen que la ofensiva agrave una situación ya volátil.
+[ES]
+Mientras tanto, Nayib Bukele ha formalizado su plan para buscar un tercer mandato que podría mantenerlo en el poder hasta 2033, tras la reforma constitucional impulsada por sus aliados.
+[ES]
+Fuentes: The Guardian, The Washington Post, La Tercera.
+[ES]
+Bolsonaro, hospitalizado de forma indefinida
+[ES]
+El expresidente brasileño fue trasladado de urgencia por fuertes dolores e inflamación abdominal y permanecerá internado en el hospital DF Star mientras se le realizan exámenes.
+[ES]
+Bolsonaro cumple una pena de 27 años por conspiración golpista bajo reclusión domiciliaria humanitaria.
+[ES]
+Fuentes: La Tercera.
+[EN]
+US & International (English)
+[EN]
+Trump moves to fence off federal contractors from a Democratic Congress
+[EN]
+A new executive order tells federal contractors and subcontractors to coordinate with the White House before answering information requests from Congress. Those that don't could lose their contracts and be barred from future federal work.
+[EN]
+It's a pre-emptive move against the investigations the new Democratic majority has promised after the GOP's heavy midterm defeat on November 3.
+[EN]
+Sources: El País, The New York Times.
+[EN]
+Hegseth's secret memo restricts US–Canada defence ties
+[EN]
+Defense Secretary Pete Hegseth has quietly imposed new restrictions on the US–Canada defence relationship through a classified directive, escalating a feud already sharpened by Trump's repeated annexation talk.
+[EN]
+One US official told the Post that Ottawa is sure to see it as a "slap in the face".
+[EN]
+Sources: The Washington Post.
+[EN]
+Zelensky: Washington wants new trilateral peace talks before Christmas
+[EN]
+Zelensky says Trump's team is determined to hold another round of talks with Ukraine and Russia before Christmas. Technical meetings come first to set the agenda, and he has accepted the proposal, saying "the sooner an agreement is reached, the better."
+[EN]
+He has floated joining Trump and Putin at the G20 in Miami on December 14–15, though the White House hasn't decided on Ukraine's attendance. Trump, meanwhile, insists Putin is still "my friend".
+[EN]
+Sources: The Washington Post, La Tercera, Aftonbladet.
+[EN]
+FBI investigating an apparent hack of its national crime database
+[EN]
+The FBI is reportedly investigating a breach of the National Crime Information Center, which police across the US use for warrants and background checks. Trump called it "not good" but mused that "maybe we'll learn things that we would've never learned otherwise."
+[EN]
+It follows a run of unexplained outages hitting banks, including JPMorgan, and air traffic control, plus the firing of National Cyber Director Sean Cairncross.
+[EN]
+Sources: BBC, TechCrunch, The New York Times, La Tercera.
+[EN]
+Iran says it struck US Patriot radars in Bahrain
+[EN]
+Iran's Revolutionary Guards said they hit two US Patriot radar sites at the Al Rifa and Auali bases in Bahrain with missiles and drones. This came after Bahrain reported an Iranian attack that set a factory on fire; no injuries were reported.
+[EN]
+One analyst told Al Jazeera that Trump may need to quietly ease the US naval blockade on Iran if he wants the conflict to wind down.
+[EN]
+Sources: La Tercera, Al Jazeera.
+[EN]
+Red Cross: it will soon be too late to regulate autonomous weapons
+[EN]
+As more than 120 states wrapped up a week of UN weapons talks in Geneva, they only agreed to discuss a possible instrument over the next two years. The ICRC and rights groups called that far short of what's needed.
+[EN]
+"If we leave this unregulated, it will be much more difficult to put the genie back in the bottle," said the ICRC's Cordula Droege, as AI-enabled systems reach the battlefield.
+[EN]
+Sources: The Guardian.
+[EN]
+Theresa May "aghast" as Burnham opens the door to rejoining the EU
+[EN]
+After Friday's UK–EU summit, where PM Andy Burnham secured the biggest step towards closer ties since Brexit, Theresa May told the BBC he should "accept Brexit and move on".
+[EN]
+The Post notes that ten years on, more Britons say leaving was a mistake. Ed Miliband insists the deal doesn't hinge on cutting tuition fees for EU students.
+[EN]
+Sources: The Guardian, The Washington Post, BBC.
+[EN]
+France marches for a sixth weekend over living costs
+[EN]
+Tens of thousands marched across France on Saturday against rising prices, failing public services and inequality. High-school students started the movement in mid-September.
+[EN]
+Organisers counted 150,000 protesters, down from 200,000 last week and about 800,000 at the first weekly march, and more rallies are planned.
+[EN]
+Sources: Al Jazeera.
+[EN]
+Indonesia candy-factory fire leaves three dead and 36 missing
+[EN]
+A blaze at the Fonusa Agung Mulia confectionery factory in Banten province, west of Jakarta, killed at least three people. Another 36 are missing and 15 have been rescued.
+[EN]
+Firefighters were still battling flames in several parts of the three-storey building on Sunday, and the cause isn't known yet.
+[EN]
+Sources: Al Jazeera, BBC, DW, The Guardian.
+[EN]
+Norway: a university builds a "room to mean" for students afraid to speak up (originally from NRK)
+[EN]
+Many students at the University of South-Eastern Norway say they hold back in lectures for fear of saying something wrong or looking stupid, NRK reports.
+[EN]
+The university's response is a project called "Rom for å meine" ("room to mean"), including a physical space where students post their thoughts on sticky notes, to encourage openness and a wider range of opinions.
+[EN]
+Sources: NRK (Norway).
+[EN]
+Tech & Niche
+[EN]
+Signal restricts screenshots, citing the "existential threat" of OS-level AI agents
+[EN]
+Signal is limiting screenshots in its Android and iOS apps. President Meredith Whittaker argues that Windows, Android and macOS/iOS, by letting AI agents scan users' screens, are undermining Signal's ability to guarantee privacy.
+[EN]
+Once an OS agent captures your chats, she says, the data sits in whatever database or server that agent uses, outside Signal's control.
+[EN]
+Sources: TechCrunch.
+[EN]
+2 million planted canaries show the AI supply chain leaks like a sieve
+[EN]
+Researchers seeded 2 million unique, trackable secrets into prompts sent through AI "routers" and gateways, which pass app traffic on to model providers. They found sensitive data escaping at an alarming rate.
+[EN]
+OpenRouter says it wasn't breached itself, but confirms some downstream inference providers had compromised data or didn't follow their data policies. It credits the Dragos report and says it has notified affected users.
+[EN]
+Sources: Ars Technica, OpenRouter, Hacker News.
+[EN]
+A tale of two Nvidias, and Chinese spies who targeted AI chips for years
+[EN]
+Nvidia posted soaring revenue and insists it has no plans to bring back Jensen Huang, even as Elon Musk and others push a petition for his return and Huang says he's ready. The falling share price shows how unsettled investors are.
+[EN]
+The New York Times reports that a Chinese state-security campaign aimed at AI chips had been under way for at least two years before the Nvidia scandal broke.
+[EN]
+Sources: TechCrunch, The New York Times.
+[EN]
+AI's power bill: Meta rethinks net zero, and a gas-heavy outlook for Anthropic
+[EN]
+Meta says it is "re-evaluating" its 2030 net-zero goal after reporting a record percentage jump in emissions from its AI data-centre buildout. That's the biggest increase among its Big Tech peers.
+[EN]
+Separately, a Better Data Center Project analysis that circulated on Hacker News estimates Anthropic's compute commitments could mean up to 32 million tonnes of CO2 in 2028, mostly from gas power.
+[EN]
+Sources: Ars Technica, Better Data Center Project, Hacker News.
+[EN]
+Pancreatic cancer pill hailed as the biggest breakthrough in decades
+[EN]
+In a trial of 61 patients with advanced pancreatic cancer, the pill daraxonrasib stopped tumour growth in almost all of them and made the cancer undetectable in one in 12. After a year, 76.6% were alive, compared with roughly 40–45% on chemotherapy alone.
+[EN]
+Doctors stress it isn't a cure yet, but for one of the deadliest cancers it could buy patients precious time.
+[EN]
+Sources: The Guardian, Hacker News.
+[EN]
+Toyota, Nissan and Honda will standardise parts to fight Chinese competition
+[EN]
+Japan's three biggest carmakers have agreed to standardise parts, starting with common quality criteria for steel, shared protocols for plastics and resins, and a universal colour code for wiring harnesses.
+[EN]
+These are parts buyers don't notice but that cost a lot to make, and the industry body plans to widen the effort over time.
+[EN]
+Sources: Car and Driver, Hacker News.
+[EN]
+Sweden (Swedish)
+[SV]
+Fler C-toppar vill överge Andersson och göra upp högerut
+[SV]
+Centerledaren Elisabeth Thand Ringqvist valde förra helgen Magdalena Anderssons totalpaket för en regering med S, MP och C med stöd av V, men trycket inifrån partiet växer. Nu ansluter sig tidigare tungviktaren Emil Källström till EU-parlamentarikern Emma Ytterell och distriktsordföranden Kristoffer Svensson Sellin, som vill att C i stället förhandlar med Ulf Kristersson.
+[SV]
+Partiledningarna har förhandlat på hemlig ort sedan i onsdags.
+[SV]
+Källor: DN, SvD.
+[SV]
+Ex-generalen Ben Hodges: Europa är inte redo för Rysslands luftkrig
+[SV]
+Natos och Sveriges luftförsvar är oförberedda på den typ av luftkrig Ryssland för mot Ukraina, säger USA:s tidigare arméchef i Europa i en minidokumentär på SVT Play.
+[SV]
+"Föreställ dig vad som händer i Odesa, Kyjiv eller Charkiv varje natt, men byt ut dem mot Bremerhaven, Gdańsk eller Riga", säger han.
+[SV]
+Källor: SVT Nyheter.
+[SV]
+Svenska kyrkans präst i San Francisco: "Jag skulle aldrig vända mig till AI med det"
+[SV]
+Världens främsta AI-forskare har börjat be religiösa tänkare om hjälp, inte för att hitta Gud utan för att lära sina maskiner moral.
+[SV]
+Mitt i AI-boomens huvudstad finns Sabina Koij, ny präst i den svenska församlingen, som pratar AI överallt men själv inte är övertygad.
+[SV]
+Källor: SvD.
+[SV]
+Wegovy i tablettform snart i Sverige – och det blir dyrt
+[SV]
+Novo Nordisk säger att lanseringen av fetmaläkemedlet Wegovy som tablett är "nära förestående", och priset väntas hamna i nivå med GLP-1-injektionerna, alltså några tusenlappar i månaden.
+[SV]
+Tabletten finns redan på vissa apotek via parallellimport, och Novos Sverigechef medger att det "kan röra sig om mycket pengar" för en enskild person.
+[SV]
+Källor: SvD.
+[SV]
+Orange varning för snö och vind längs E4 norr om Uppsala
+[SV]
+SMHI har utfärdat orange varning för kraftigt snöfall och vind kring E4:an strax norr om Tierp, från söndagseftermiddagen till måndag lunch, med risk för mycket besvärliga trafikförhållanden.
+[SV]
+Gul varning gäller också i östra Svealand.
+[SV]
+Källor: Aftonbladet, SvD.
+[SV]
+Älvsjömässan rivs – 7 000 bostäder planeras
+[SV]
+Stockholm planerar att riva Älvsjömässan, flytta idrottsplatsen och göra om Huddingevägen till stadsgata för att ge plats åt 7 000 nya bostäder.
+[SV]
+Det blir en av de största förändringarna i södra Stockholm på decennier, sextio år efter att mässan började byggas.
+[SV]
+Källor: DN.
+[EN]
+Connecting the Dots.
+[EN]
+This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+[EN]
+Patricio, the thread I keep coming back to today is that AI's acceleration and the energy transition are now pulling against each other in public. On the same weekend a Claude-assisted proof of the Riemann Hypothesis gets machine-verified, Meta says it may give up on its 2030 net-zero goal, one analysis sees Anthropic's compute running mostly on gas, and COP31 can't even agree to name fossil fuels. The scramble for AI capability looks like it's winning the near-term argument over decarbonisation. That isn't a prediction that climate policy is dead, but it's worth watching whether AI demand becomes the excuse that keeps fossil capacity online through the 2030s.
+[EN]
+For Chile that cuts two ways. AI data centres, grids and the chips inside them are enormously copper-hungry, which supports the long-run case for Chilean copper and the peso. But today's local news is a reminder that this tailwind isn't arriving on its own: the Central Bank says mining output is falling short and investment has disappointed, and TotalEnergies has walked away from H2 Magallanes, the country's flagship green-hydrogen bet. If global climate diplomacy stalls, the premium for "green" Chilean molecules shrinks too, while copper demand from AI may hold up. That could leave Chile more of a commodity play than the clean-energy hub it hoped to be, which is not a confident forecast but a tension worth tracking.
+[EN]
+The second pattern is how fragile trust has become in digital systems. Within a few days we've seen an FBI crime database apparently hacked, unexplained outages at banks and air traffic control, a study showing AI routers leaking secrets, Signal blocking screenshots against OS-level AI agents, and AI-assisted cheating bringing down a minister in Seoul. The common thread is that the layers between people and their data now include AI agents nobody fully controls. For you that's practical as well as abstract: what you type into AI tools, and which intermediaries carry it, deserves more care than it did a year ago.
+[EN]
+Finally, the geopolitical temperature is rising at the edges while the big powers talk peace. Drone strikes in the Gulf of Finland, missiles landing in Poland, an assassination plot in Denmark, Iran firing at US radars in Bahrain, all while Washington pushes for trilateral talks before Christmas. Chile is far from all of it, but energy prices, shipping insurance and risk appetite for emerging markets all run through these flashpoints. A messy end to COP31 plus Gulf escalation is the kind of mix that can keep fuel costs in Santiago higher for longer, so it's worth keeping an eye on.
+[EN]
+Hypothesis Watch.
+[EN]
+An ongoing daily scan of your standing hypothesis about AI, the internal voice and social cohesion, read against the recent run of entries in the log rather than today's stories alone; not a full re-argument.
+[EN]
+Today extends the streak for (a): every one of the last 60 log entries has read as support, and today adds two vivid cases. A proof of the Riemann Hypothesis, the most famous open problem in maths, was produced with an AI system and certified by the Lean community within roughly a day. And South Korea's education minister fell within a week of an AI-cheating panic. Expertise is being compressed and authority recycled at a speed that would have looked strange a few years ago. For (b), today gives a clean supporting signal, in line with the 52-of-60 support rate. NRK's story about Norwegian students afraid to voice opinions, and a university building a literal "room to mean", is close to a textbook case of institutions trying to rebuild the internal voice. Signal's pushback against OS-level AI agents and the Swedish priest in San Francisco who wouldn't turn to AI for moral questions point the same way.
+[EN]
+(c) stays neutral, as it has on 59 of the last 60 days. France's sixth weekend of protests and the revolt inside Sweden's Centre Party are collective but issue- and party-driven, not a turn away from individualism. For (d) there is a tentative supporting signal, the first since late October's Serbian citizens' movement. The Lean and Mathlib communities rallied to verify an AI-produced proof together in about a day, which is exactly the kind of humans-coordinating-around-AI behaviour the hypothesis predicts. It's one case, though, and today's state-level picture cuts hard the other way: COP31 is on the verge of collapse and the Baltic is escalating. Treat it as a single data point, not a trend.
