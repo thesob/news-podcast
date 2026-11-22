@@ -1,201 +1,192 @@
 [SECTION intro]
 [ES]
-Resumen Diario, sábado 21 de noviembre de 2026.
+Hola, este es tu Resumen Diario del domingo 22 de noviembre de 2026.
 [ES]
-¡Buenos días! Ayer fue un viernes intenso: los mercados castigaron con fuerza a las tecnológicas, la IA reclamó su mayor logro matemático y la COP31 se alarga sin acuerdo. Aquí va lo esencial.
+Nota sobre fuentes: AP News y Reuters bloquearon hoy el acceso automatizado ya desde su portada, así que no hubo un artículo concreto que recuperar por otra vía; sus temas se cubrieron con BBC, DW en Español y The Guardian. The Washington Post (misiles en Polonia) estaba tras muro de pago: lo cubrí con DW en Español. De The New York Times solo usé titulares; los detalles vienen de BBC Mundo, The Guardian y El País.
 [SECTION news]
 [ES]
 Titulares.
 [ITEM]
 [ES]
-Wall Street entra en corrección y Anthropic vuelve casi a su precio de salida.
+La COP31 entra en su segundo día de prórroga con un borrador que no convence a nadie
 [ES]
-El viernes fue un día rojo: el S&P 500 cayó un 3,7 %, el Nasdaq se desplomó un 5,3 % y tanto el S&P como el Dow Jones entraron en "corrección", es decir, más de un 10 % por debajo de su máximo reciente. Las acciones de Anthropic, que habían brillado en su estreno récord, llegaron a caer más de un 12 % hasta rondar los 85 dólares, muy cerca de su precio de salida de 83. Detrás hay dudas sobre el ritmo del gasto en IA (más de un billón de dólares en un año), el temor a que la contundente victoria demócrata en las elecciones de mitad de mandato frene la expansión, una investigación de la SEC sobre la contabilidad de Nvidia —cuyas acciones cayeron cerca de un 13 %— y la amenaza de Trump de castigar los centros de datos en el extranjero. En Suecia, Svenska Dagbladet ya lo llama "el viernes sangriento".
+La cumbre del clima en Antalya (Turquía) sigue sin acuerdo y se acerca a ser la más larga de la historia de las COP. El nuevo borrador, publicado de madrugada, ya no menciona expresamente la "transición para dejar atrás los combustibles fósiles", aunque sí recuerda el compromiso de hace tres años; por primera vez reconoce que el mundo va camino de incumplir el límite de 1,5 °C. La UE lo ve como un paso atrás, Alemania ya dijo que rechaza el texto y el Grupo Africano queda decepcionado porque no fija cifra para la financiación de la adaptación. Si no hay consenso, la negociación podría suspenderse hasta el año que viene, algo que solo ha pasado una vez desde 1995.
 [ES]
-Fuentes: BBC News, The New York Times, Reuters, BBC News Mundo y Svenska Dagbladet.
+Fuentes: BBC News, The Guardian
 [ITEM]
 [ES]
-Un matemático de Anthropic asegura haber demostrado la hipótesis de Riemann con ayuda de Claude.
+Rusia tensa el flanco oriental: misiles en Polonia y un complot de asesinato en Dinamarca
 [ES]
-Levent Alpöge, matemático de Anthropic, afirma que durante unas seis semanas usó una versión no pública de Claude para construir una demostración de la hipótesis de Riemann (en su versión generalizada, según el documento que circula en Hacker News), el célebre problema de casi 170 años sobre el orden oculto de los números primos. La prueba está formalizada en Lean, un lenguaje que permite verificar matemáticas por computadora, y los especialistas ya la desmenuzan en foros, aunque la verificación completa llevará tiempo. El propio Alpöge admitió que el momento, justo después de la salida a bolsa de su empresa, es "horrible". TechCrunch subraya además que, en paralelo, circuló otra solución propuesta por un matemático humano.
+Polonia denunció que dos misiles y un dron rusos violaron su espacio aéreo y cayeron en el sureste del país, y el secretario general de la OTAN, Mark Rutte, prometió en Varsovia defender "cada centímetro" del territorio polaco; Trump lo calificó de error. Al mismo tiempo, Dinamarca acusó a la inteligencia rusa de planear el asesinato del rapero ucraniano-estadounidense Kyivstoner en un concierto en septiembre y expulsó al agregado de defensa ruso; Moscú niega todo. Ambos episodios se suman al ataque con drones, atribuido a Ucrania, contra un carguero ruso en el golfo de Finlandia (más abajo, en Suecia y Noruega).
 [ES]
-Fuentes: BBC News, The New York Times, TechCrunch, Dagens Nyheter y Hacker News.
+Fuentes: DW en Español, The Washington Post, BBC News
 [ITEM]
 [ES]
-La COP31 se estanca en Antalya por los combustibles fósiles.
+Cae el "Chapo Isidro", uno de los diez más buscados por el FBI, tras una noche de guerra en Sinaloa
 [ES]
-Las negociaciones de la cumbre climática de la ONU en Turquía siguieron toda la noche sin acuerdo. Un bloque liderado por Francia y Panamá, junto a Estados insulares y países de la UE como España, Suecia y Finlandia, rechaza un borrador que ni siquiera menciona reducir la demanda de petróleo, gas y carbón, después de que los productores encabezados por Arabia Saudita presionaran para quitar esa referencia. El grupo africano, por su parte, exige más dinero para adaptación y advierte que "no vino a mendigar"; se espera un nuevo texto, quizá definitivo, este sábado.
+Fuerzas especiales mexicanas detuvieron en Guasave (Sinaloa) a Fausto Isidro Meza Flores, líder del Cártel Guasave, a quien Estados Unidos acusa de inundar su territorio de fentanilo y cocaína y cuya extradición ya solicitó. El operativo, guiado por inteligencia estadounidense, derivó en unas cuatro horas de enfrentamientos con helicópteros, drones y bloqueos: El País describe un hospital del IMSS tomado por sicarios, gasolineras incendiadas y camionetas calcinadas, y Emol habla de al menos once muertos. La captura llega en plena presión de Trump sobre México para endurecer la lucha contra el narco.
 [ES]
-Fuentes: BBC News, The Guardian, Reuters y Aftonbladet.
+Fuentes: BBC News Mundo, El País, The New York Times, The Guardian, Emol, DN
 [ITEM]
 [ES]
-Misiles rusos caen en Polonia en plenas maniobras europeas.
+La hipótesis de Riemann, resuelta: la comunidad Lean certifica una prueba de 17 millones de líneas hecha con ayuda de IA
 [ES]
-Dos misiles de crucero Kh-101 y un dron Geran-5 rusos cayeron el viernes en el este de Polonia mientras casi 3.000 soldados de 11 países europeos, España entre ellos, hacían ejercicios cerca de la frontera ucraniana para preparar una posible misión de posguerra. El primer ministro Donald Tusk lo calificó de "provocación intencionada" y pedirá a la OTAN reforzar el flanco oriental, mientras Ursula von der Leyen condenó la violación del espacio aéreo polaco. En paralelo, Volodímir Zelenski llamó "asesino" a Vladímir Putin después de que Donald Trump lo describiera como un amigo.
+El matemático Levent Alpöge, que trabaja en Anthropic, publicó una demostración de la hipótesis de Riemann —el famoso problema de 1859 sobre la estructura oculta de los números primos, uno de los Problemas del Milenio— escrita como biblioteca del verificador formal Lean. En apenas un día, las comunidades de Lean y Mathlib se movilizaron para comprobarla y emitieron un comunicado conjunto en el que certifican que tanto el enunciado como la prueba son correctos. Alpöge cuenta que llegó a ella en una larga colaboración con Claude y admite cierta culpa por publicarla sin una explicación comprensible para humanos, algo que se ha comprometido a elaborar.
 [ES]
-Fuentes: El País, AP News, BBC News Mundo y BBC News.
+Fuentes: Lean prover community (vía Hacker News), TechCrunch
+[ITEM]
+[ES]
+España encara la última semana de campaña entre gritos de "¡A por ellos!" y "¡No pasarán!"
+[ES]
+A una semana de las generales del 29-N, la campaña sube de tono: en un mitin del PP en Valencia el público coreó por primera vez "¡A por ellos!", mientras en Tenerife los asistentes al acto de Pedro Sánchez respondieron con el histórico "¡No pasarán!". El sondeo de 40dB sitúa a PP y PSOE en empate técnico por el primer puesto, aunque el bloque de derecha conserva una mayoría absoluta de 185 escaños, que ha ido bajando desde los 191 de hace dos semanas. La prensa sueca subraya que Vox, inspirado en Trump, podría acabar siendo decisivo.
+[ES]
+Fuentes: El País, La Tercera, Aftonbladet, SvD
 [ES]
 España y Latinoamérica.
 [ITEM]
 [ES]
-España: Sánchez vuelve al ataque tras perder el cara a cara.
+Chile: el gabinete de Kast, bajo estrés tras la gira asiática
 [ES]
-Tras un debate que, según la encuesta de 40dB. para EL PAÍS y la SER, ganó Alberto Núñez Feijóo, Pedro Sánchez dio un mitin lleno a rebosar en Santiago de Compostela, la tierra de su rival, y volvió a hablarle a la izquierda desde la emoción: el exilio republicano y la ley de eutanasia, que Feijóo quiere derogar. La misma encuesta indica que, pese al tropiezo, el PSOE sigue creciendo y se acerca al PP. Feijóo prometió "desplegar las Fuerzas Armadas" frente a la inmigración y Santiago Abascal subió la apuesta con un "no puede entrar nadie más", a una semana de las elecciones del 29-N.
+El presidente José Antonio Kast volvió de Vietnam, China y Japón con un balance que su comitiva califica de "absolutamente positivo": dicen que la reunión con Xi Jinping despejó cualquier sospecha de conflicto y que el mensaje fue que Chile "no busca confrontación con nadie". En casa, sin embargo, La Tercera describe un equipo ministerial con "la moral por el suelo", con roces públicos entre ministros, una acusación constitucional contra el ministro de Justicia, Fernando Rabat, y una popularidad que cae hasta el 18 % en algunos sondeos. Desde el propio oficialismo crece la presión por un cambio de gabinete que Kast, por ahora, resiste.
 [ES]
-Fuentes: El País.
+Fuentes: La Tercera, Emol
 [ITEM]
 [ES]
-Colombia sale a la calle contra la reforma fiscal de De la Espriella.
+Haití celebra —con dudas— a las tropas de Bukele
 [ES]
-Miles de colombianos marcharon el 19 de noviembre contra la llamada Ley de Rescate Económico del presidente Abelardo de la Espriella, que busca reducir el déficit con recortes de gasto y más impuestos. Jóvenes, estudiantes y familias campesinas temen que el ajuste caiga sobre quienes viven con el salario mínimo, y llama la atención que la protesta llegue apenas tres meses después de su llegada al poder.
+Policías haitianos y soldados salvadoreños recuperaron el estadio Sylvio Cator de Puerto Príncipe, que llevaba más de dos años en manos de una banda, y miles de personas salieron a la calle a vitorear a Nayib Bukele. Muchos haitianos ven en la misión salvadoreña una esperanza tras años de control criminal que han desplazado a más de 1,5 millones de personas. Otros temen que una ofensiva al estilo de la de El Salvador, con su alto coste en derechos, agrave una situación ya muy volátil.
 [ES]
-Fuentes: DW en Español.
+Fuentes: The Guardian, La Tercera
 [ITEM]
 [ES]
-Mueren tres soldados salvadoreños en Haití mientras Bukele busca un tercer mandato.
+Un sismo de magnitud 6,7 sacude el centro de Perú
 [ES]
-Tres soldados de El Salvador murieron y uno resultó herido por una detonación mientras manipulaban explosivos en un campamento en Haití, las primeras bajas que reconoce el Ejército desde que Nayib Bukele desplegó más de 2.000 efectivos para rescatar a cuatro técnicos salvadoreños desaparecidos tras una emboscada de pandillas. Bukele había presumido un día antes de que sus tropas les estaban dando una "lección" a las bandas. En paralelo, The Washington Post informa de que el mandatario formalizó sus planes para un tercer mandato que podría mantenerlo en el poder hasta 2033.
+El temblor, con epicentro en los Andes de Junín y a 129 km de profundidad, se sintió en Lima e incluso en Bogotá y Quito. Dejó al menos 15 heridos, cuatro viviendas inhabitables y más de 120 afectadas, además de derrumbes en carreteras y cortes de electricidad en zonas selváticas. La gran profundidad del sismo ayudó a que los daños en superficie fueran limitados.
 [ES]
-Fuentes: BBC News Mundo y The Washington Post.
-[ITEM]
-[ES]
-Chile: renuncia la subsecretaria de Ciencia tras chocar con la ministra.
-[ES]
-Carolina Rossi dejó la Subsecretaría de Ciencia después de semanas de discrepancias con la ministra Ximena Lincolao, que se agravaron cuando se despidió a funcionarios de su confianza sin avisarle, mientras ella ejercía como ministra subrogante. El presidente José Antonio Kast aceptó la renuncia y el vicepresidente Claudio Alvarado cerró filas con Lincolao. En entrevista con La Tercera, Rossi resumió su postura: "Apoyo la tecnología, pero faltó conversación profunda con la academia y los científicos".
-[ES]
-Fuentes: Emol y La Tercera.
-[ITEM]
-[ES]
-Sismo de magnitud 6,8 sacude el centro de Perú.
-[ES]
-Un terremoto de magnitud 6,8 golpeó el viernes la región andina de Junín, a 129 kilómetros de profundidad, y se sintió con fuerza en Lima, donde vecinos e incluso legisladores salieron a la calle. No hubo reportes inmediatos de víctimas ni daños graves, ni alerta de tsunami. Vale la pena seguirlo: en Junín está Toromocho, una de las mayores minas de cobre de Perú, tercer productor mundial del metal.
-[ES]
-Fuentes: Reuters y SVT Nyheter.
-[ITEM]
-[ES]
-Sheinbaum defiende "otra vía de desarrollo" para México.
-[ES]
-En el desfile por el 116 aniversario de la Revolución Mexicana, y recién llegada de la cumbre de APEC en China, Claudia Sheinbaum afirmó que México demuestra que el éxito económico puede medirse en bienestar y justicia social, no solo en cifras de producción. También advirtió que su Gobierno no tolerará injerencias extranjeras ni intentos de cuestionar la legitimidad de las elecciones de 2027.
-[ES]
-Fuentes: Xinhua Español.
+Fuentes: Emol
 [ES]
 Mundo.
 [ITEM]
 [ES]
-Reino Unido y la UE sellan su "reinicio" post-Brexit.
+La UE abraza la línea dura: bendice centros de deportación en Ruanda que antes llamaba inhumanos
 [ES]
-Diez años después del referéndum, el Gobierno del primer ministro Andy Burnham cerró con Bruselas un acuerdo que cubre exportaciones de alimentos, emisiones de carbono y un programa de movilidad para jóvenes de 18 a 31 años, que podrán vivir, trabajar o estudiar en la UE hasta tres años. Es el deshacer más concreto del divorcio desde 2016, en un momento en que cada vez más británicos creen que salir fue un error. Ed Miliband aseguró que el pacto no depende de rebajar las tasas universitarias a estudiantes europeos, como sugerían fuentes de Bruselas.
+Cinco Estados miembros, encabezados por Dinamarca y con Alemania dispuesta a enviar 40 personas, firmarán con Kigali un acuerdo para trasladar a Ruanda a solicitantes de asilo rechazados, con la Comisión Europea como observadora. El País recuerda que hace cinco años Bruselas tachó de "ilegal" un plan danés parecido, y que hoy la prioridad ya no es acoger, sino expulsar. Los países aspiran a que el centro funcione en la primavera de 2027, con rotaciones de unas cuatro semanas y hasta 1.200 personas al año.
 [ES]
-Fuentes: BBC News Mundo, El País, The Washington Post y BBC News.
+Fuentes: El País
 [ITEM]
 [ES]
-Dinamarca acusa a Rusia de planear un asesinato en su territorio.
+Hackean una base de datos clave del FBI, y Trump ve el lado "positivo"
 [ES]
-Los servicios de inteligencia daneses sospechan que Rusia planeó asesinar en Dinamarca a un rapero ucraniano-estadounidense, a quien Moscú acusa de participar en contrabando de drones; Copenhague expulsó al agregado de defensa ruso. La primera ministra Mette Frederiksen propone endurecer las sanciones y suspender los visados no esenciales a ciudadanos rusos, mientras la embajada rusa niega la acusación.
+Trump confirmó un ciberataque contra el Centro Nacional de Información Criminal del FBI, la base de datos que comparten las policías federales, estatales y locales de EE. UU. "No me gusta, pero quizá aprendamos cosas que nunca habríamos sabido", dijo, y lo vinculó con los "engaños" que, según él, se han tramado en su contra. No aclaró cómo se produjo el ataque ni si se extrajeron datos.
 [ES]
-Fuentes: DW en Español, El País, BBC News y Dagens Nyheter.
+Fuentes: DW en Español, BBC News, La Tercera
 [ITEM]
 [ES]
-Culpable el autor del incendio de Palisades en Los Ángeles.
+Trump blinda a sus contratistas frente al nuevo Congreso demócrata
 [ES]
-Un jurado declaró culpable a Jonathan Rinderknecht, de 30 años, de provocar el incendio de enero de 2025 que mató a 12 personas y destruyó más de 6.800 edificios en Los Ángeles. Podría enfrentar hasta 40 años de prisión, y el veredicto ofrece cierta rendición de cuentas por uno de los capítulos más dolorosos de la ciudad.
+Una orden ejecutiva obliga a los contratistas federales a coordinar con la Casa Blanca cualquier respuesta a peticiones de información del Congreso, bajo amenaza de perder sus contratos. Es la última jugada para frenar las investigaciones que prepara la nueva mayoría demócrata en ambas cámaras, que quiere examinar fondos federales que habrían acabado en empresas ligadas a la familia Trump. El País señala que la medida podría chocar con las leyes que protegen a los denunciantes.
 [ES]
-Fuentes: BBC News, The New York Times, DW en Español y Dagens Nyheter.
+Fuentes: El País, The New York Times
 [ITEM]
 [ES]
-La ONU no logra cerrar la regulación de los "robots asesinos".
+Corea del Sur: dimite el ministro de Educación por el escándalo de trampas con IA
 [ES]
-Las conversaciones de cinco días que debían terminar el viernes se prolongaron mientras 128 países intentan ponerse de acuerdo para iniciar negociaciones formales sobre las armas letales autónomas controladas por IA. Aftonbladet resume que, por ahora, la regulación no llega.
+Choi Kyo-jin renunció tras una semana de pánico por el uso de IA para hacer trampa, que estalló cuando el primer puesto de un examen nacional confesó haber usado una minicámara y un móvil, días antes del decisivo suneung, el examen de acceso a la universidad. El Gobierno improvisó medidas como bloquear el wifi público en las sedes, pero los sindicatos docentes las criticaron por tardías, y Choi, de 72 años, provocó indignación al admitir que "por su edad" no confiaba en poder detectar a los tramposos.
 [ES]
-Fuentes: DW en Español y Aftonbladet.
+Fuentes: The Guardian, Xinhua Español
+[ITEM]
+[ES]
+La Cruz Roja avisa: pronto será tarde para regular las armas autónomas
+[ES]
+Al cierre de una conferencia en Ginebra con más de 120 Estados, el CICR advirtió de que el desarrollo de armas con IA va más rápido que los esfuerzos por regularlas, y de que pronto no se podrá "volver a meter al genio en la botella". La conferencia solo acordó seguir discutiendo un instrumento durante dos años, lejos del tratado vinculante que piden Guterres y la Cruz Roja, que propone prohibir su uso contra personas. Ya hay víctimas: tres civiles murieron en julio en Zaporiyia por un dron ruso guiado por IA.
+[ES]
+Fuentes: The Guardian
+[ITEM]
+[ES]
+Incendio en una fábrica de dulces en Indonesia: tres muertos y 36 desaparecidos
+[ES]
+El fuego se declaró en una fábrica de confitería al oeste de Yakarta y los familiares de los desaparecidos se agolpan a sus puertas a la espera de noticias. Los rescatistas han sacado con vida al menos a 15 personas, cuatro de ellas hospitalizadas, y las autoridades aún no saben qué causó el incendio.
+[ES]
+Fuentes: BBC News, Al Jazeera, DW en Español, The Guardian
 [ES]
 Tecnología y Nicho.
 [ITEM]
 [ES]
-Trump amenaza con prohibir que empresas de EE. UU. construyan centros de datos en el extranjero.
+Signal bloquea las capturas de pantalla ante la "amenaza existencial" de los agentes de IA
 [ES]
-"Vamos a mantenerlo todo en este país", dijo Trump, que amenazó con un "impuesto tremendo" a las tecnológicas que levanten centros de datos de IA fuera de Estados Unidos, argumentando que "China se los quedará todos". Dio pocos detalles y admitió que ni su propio equipo lo había escuchado antes, así que no está claro si se convertirá en política ni cómo se aplicaría. Meta y Google ya tienen acuerdos para construir centros en otros países, y según Svenska Dagbladet el anuncio aceleró la caída bursátil del viernes.
+Signal limitará las capturas de pantalla en sus apps de Android e iOS, como ya hacía en Windows. Su presidenta, Meredith Whittaker, explica que los sistemas operativos que integran agentes de IA capaces de "escanear" la pantalla minan la capacidad de la app para garantizar la privacidad, porque los datos acaban en bases locales o servidores fuera de su control. Ella misma reconoce que es una solución "incompleta" y que el usuario puede desactivarla.
 [ES]
-Fuentes: BBC News, AP News y Svenska Dagbladet.
+Fuentes: TechCrunch
 [ITEM]
 [ES]
-Meta replantea su meta de cero emisiones netas para 2030.
+Meta replantea su meta de cero emisiones netas para 2030 por culpa de sus centros de datos de IA
 [ES]
-En su informe de sostenibilidad, Meta admite que está "reevaluando" el plazo de 2030 porque la demanda de infraestructura de IA "creció más rápido de lo que casi nadie proyectó". Sus emisiones totales pasaron de 15,6 a más de 21,7 millones de toneladas de CO₂ equivalente entre 2024 y 2025, una huella comparable a la de todo el estado de Idaho. Es la primera gran tecnológica que reconoce públicamente que podría no cumplir, aunque Amazon, Google y Microsoft también enfrentan la misma tensión.
+En su informe de sostenibilidad de 2026, Meta admite que está "reevaluando" el objetivo, tras registrar el mayor aumento porcentual de emisiones de las grandes tecnológicas en plena carrera por construir centros de datos. "Nuestras ambiciones a largo plazo no han cambiado, pero nuestro entorno operativo sí", escriben sus responsables. Ars Technica se pregunta si otras empresas seguirán el mismo camino.
 [ES]
-Fuentes: Ars Technica.
+Fuentes: Ars Technica
 [ITEM]
 [ES]
-Google se despide del botón "Buscar".
+Una pastilla contra el cáncer de páncreas, celebrada como el mayor avance en décadas
 [ES]
-La nueva portada de Google elimina el clásico botón de búsqueda y suma accesos directos a funciones de IA: generar imágenes, analizar archivos y hacer lluvia de ideas con Gemini. Además, una barra lateral muestra tus conversaciones recientes en el Modo IA para retomarlas donde las dejaste. Solo sobrevive el "Voy a tener suerte", símbolo de cuán rápido la búsqueda se está convirtiendo en una experiencia de chat.
+En un ensayo con 61 pacientes con cáncer de páncreas avanzado, el daraxonrasib, un inhibidor de KRAS, frenó el crecimiento tumoral en el 90 % de los casos, redujo o eliminó los tumores en más del 60 % e hizo indetectable el cáncer en cerca del 8 %. Al año seguía vivo el 76,6 % de los pacientes, frente al 40-45 % habitual con quimioterapia sola. Los médicos insisten en que aún no es una cura, pero el oncólogo que presentó los datos en Barcelona dijo que es "lo más cerca de una cura" que ha visto.
 [ES]
-Fuentes: Ars Technica.
+Fuentes: The Guardian (vía Hacker News)
 [ITEM]
 [ES]
-Bending Spoons compra Mailchimp por 3.680 millones de dólares.
+Toyota, Nissan y Honda estandarizarán piezas para competir con China
 [ES]
-La italiana Bending Spoons compró la plataforma de email marketing a Intuit, que había pagado unos 12.000 millones por ella en 2021, una pérdida que refleja cómo la IA está golpeando a las empresas de software por suscripción. Bending Spoons se ha convertido en una especie de refugio para marcas veteranas de internet: en el último año sumó AOL, Eventbrite, Airtable y Miro, además de Evernote, Meetup y Vimeo.
+Los tres mayores fabricantes japoneses empezarán por unificar criterios de calidad del acero, protocolos para plásticos y resinas y un código de colores común para el cableado, partes que el cliente no ve pero que pesan mucho en los costes. La patronal japonesa del automóvil quiere extender después la estandarización a más componentes, primero con proveedores locales y luego internacionales.
 [ES]
-Fuentes: TechCrunch.
-[ITEM]
-[ES]
-Inkling 2 Mini: un modelo potente que cabe en tu portátil.
-[ES]
-Thinking Machines lanzó Inkling 2 Mini, un modelo de pesos abiertos con 26.400 millones de parámetros (3.400 millones activos) que repite sus capas intermedias tres veces por cada token para razonar mejor con menos texto. Según la empresa, lidera a todos los modelos abiertos de menos de 100.000 millones de parámetros en pruebas de programación agéntica, y fue uno de los temas más votados del día en Hacker News.
-[ES]
-Fuentes: Hacker News y Thinking Machines.
+Fuentes: Car and Driver (vía Hacker News)
 [ES]
 Suecia y Noruega.
 [ITEM]
 [ES]
-Suecia sigue sin gobierno y Kristersson pide estar "preparados".
+Sigue sin apagarse el carguero ruso atacado en el golfo de Finlandia
 [ES]
-El Partido de la Izquierda (V) insiste en entrar en un gobierno rojiverde con ministerios propios, pese a la creciente presión para que ceda; para el comentarista de SVT Elisabeth Marmorstein, "es ahora o nunca" para el partido, porque los socialdemócratas no se fían de él y temen espantar al votante de centro. Mientras tanto, el líder moderado Ulf Kristersson mantiene contacto "constante" con el Partido del Centro y no descarta unas elecciones extraordinarias: "Be prepared, podemos necesitarlos de nuevo", dijo a las juventudes de su partido.
+El Sparta II, sancionado por EE. UU. y Ucrania por transportar armas para el ejército ruso y propiedad de una empresa del Ministerio de Defensa de Rusia, sigue con focos de calor en sus contenedores tras el ataque con drones, presuntamente ucraniano, del sábado. Las autoridades finlandesas no han podido descartar que lleve material militar, y el barco, que iba de San Petersburgo a Kaliningrado, será sacado de aguas finlandesas cuando acabe la extinción. Los 16 tripulantes fueron evacuados a un buque de rescate ruso.
 [ES]
-Fuentes: SVT Nyheter y Dagens Nyheter.
+Fuentes: SVT Nyheter, Aftonbladet, SvD, DN
 [ITEM]
 [ES]
-Alertas de drones en Finlandia y Estonia; Suecia convoca al embajador ruso.
+Suecia: el Gobierno en funciones recorta un tercio el dinero para proteger la naturaleza
 [ES]
-Finlandia restringió el tráfico aéreo y marítimo en el este del golfo de Finlandia como precaución ante posibles drones, y en Estonia parte de la población recibió alertas nocturnas mientras despegaban cazas de la OTAN. Las autoridades rusas de la región de Leningrado dicen haber derribado unos 70 drones "hostiles". Suecia, por su parte, convocó al embajador ruso tras los ataques contra Ucrania y las explosiones cerca de su embajada en Kiev, y condenó las amenazas rusas contra diplomáticos.
+El presupuesto de transición para 2027 deja la partida de protección de la naturaleza en 776 millones de coronas, un tercio menos que en 2026 y la mitad que en 2024, pese a que la norma de un presupuesto de transición es mantener el nivel del año anterior. Gobiernos provinciales y ONG ecologistas advierten de que el trabajo "se paralizará" y de que Suecia incumplirá el objetivo internacional de proteger el 30 % del medio marino. La ministra Romina Pourmokhtari sostiene que el recorte ya estaba previsto.
 [ES]
-Fuentes: Aftonbladet y Dagens Nyheter.
+Fuentes: SVT Nyheter
 [ITEM]
 [ES]
-La policía sueca abrirá una estación en Irak para perseguir a cabecillas de bandas.
+La policía sueca prueba a detener, interrogar e investigar en el mismo lugar
 [ES]
-La jefa nacional de policía, Petra Lundh, anunció un plan piloto para abrir a comienzos del próximo año una oficina en Irak, en cooperación con las autoridades locales, para localizar a criminales que dirigen la violencia desde el extranjero; la idea es abrir otras cuatro. Según Lundh, los tiroteos han caído un 80 % en tres años y las explosiones se han reducido a la mitad respecto del año pasado, aunque las redes siguen activas.
+Un nuevo método, que se está probando en varias regiones, encarga a agentes uniformados en la calle buena parte de la investigación de delitos sencillos: detener, tomar declaración y cerrar el caso para la fiscalía sin pasar por los investigadores de comisaría. La jefa nacional de policía, Petra Lundh, dice que el objetivo es esclarecer más delitos y liberar a los investigadores para casos complejos, aunque el sindicato policial reconoce reacciones mixtas por la carga de trabajo.
 [ES]
-Fuentes: Svenska Dagbladet.
+Fuentes: Aftonbladet, SvD
 [ITEM]
 [ES]
-Noruega mira con lupa el lanzamiento histórico de GTA 6.
+Noruega: un ataque DDoS tumba durante horas el acceso digital ID-porten
 [ES]
-"Grand Theft Auto 6" facturó 3.790 millones de dólares solo en su día de estreno, según recoge NRK, un récord absoluto para la industria. En Noruega el fenómeno abrió debate: un padre del sur del país pide a los adultos "atreverse a tener la conversación" y poner límites, ya que el juego es para mayores de 18 años. En Reino Unido, The Guardian habla incluso de una "gripe GTA" que vació oficinas a final de semana.
+ID-porten, el servicio de identificación que los noruegos usan para entrar en los trámites públicos en línea, tuvo problemas el sábado desde las 13:15 tras un ataque de denegación de servicio. Hacia las 17:15, según la agencia NTB, volvía a funcionar con normalidad.
 [ES]
-Fuentes: NRK y The Guardian.
+Fuentes: NRK
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
 [ES]
-Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+"Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes."
 [ES]
-Fíjate en la paradoja del día: la misma semana en que una IA habría ayudado a demostrar uno de los problemas más famosos de las matemáticas, los inversores le quitaron casi toda la prima al estreno bursátil de Anthropic y empujaron a Wall Street a una corrección. No es contradictorio: una cosa es la capacidad técnica, que sigue sorprendiendo, y otra muy distinta es quién captura el dinero y cuándo. Cuando el gasto supera el billón de dólares al año, basta una combinación de escándalo (Nvidia), política (la victoria demócrata y las amenazas de Trump) y dudas de rentabilidad para que el humor cambie en días.
+Hoy la IA aparece en todas partes a la vez, y no siempre con buena cara. La misma tecnología que ayudó a resolver un problema matemático de 167 años obliga a Signal a bloquear capturas, empuja a Meta a aflojar sus compromisos climáticos, tumba a un ministro en Corea y entra en el campo de batalla más rápido de lo que la diplomacia puede regularla. El patrón es que la capacidad avanza a saltos y las instituciones (exámenes, tratados, metas de emisiones) reaccionan tarde y a la defensiva. Vale la pena vigilar si esto se queda en fricción o si empieza a romper normas que dábamos por estables.
 [ES]
-El hilo de fondo es la energía. Meta reconoce que sus emisiones se dispararon por los centros de datos, la COP31 se atasca justo en la frase sobre combustibles fósiles, Suecia vive un "shock" en el precio de la electricidad y Trump quiere que los centros de datos se queden en casa. Si la IA es, en el fondo, una industria de electricidad y cobre, la geopolítica de la energía se vuelve geopolítica tecnológica.
+El hilo energético-climático conecta varias piezas: una COP31 que no logra ni nombrar los combustibles fósiles, un Meta que admite que sus centros de datos disparan emisiones y un Gobierno sueco que recorta la protección de la naturaleza. Si la demanda eléctrica de la IA sigue creciendo y la ambición climática se diluye, para América Latina eso puede significar dos cosas a la vez: más demanda (y mejores precios) de cobre, litio y energía renovable para Chile, Perú o Argentina, y menos financiación para la adaptación, justo lo que el Grupo Africano y muchos países del sur echan en falta en Antalya. No es una predicción segura, pero sí una tensión que conviene seguir.
 [ES]
-Para América Latina y España esto toca varias fibras. Chile y Perú dependen del cobre, y el sismo en Junín recuerda lo concentrada que está esa oferta; una desaceleración del gasto en IA podría enfriar las expectativas de demanda del metal, mientras que una construcción sostenida las mantendría altas. Si la amenaza de Trump se concretara —no es una predicción segura—, los proyectos de centros de datos que países como Chile, México o España han cortejado podrían quedar en el aire. Y un giro de los mercados hacia el refugio suele traducirse en monedas latinoamericanas más débiles: vale la pena vigilar el peso chileno, el colombiano y el sol peruano en los próximos días.
+En lo geopolítico, Rusia prueba los límites de la OTAN en Polonia, Dinamarca y el Báltico mientras Washington mira hacia otro lado, y la UE responde endureciéndose hacia dentro, con deportaciones a Ruanda. Para el mundo hispano esto llega por dos vías: la elección española del 29-N, donde el debate migratorio y un posible papel decisivo de Vox pueden cambiar la voz de España en Bruselas (y en la relación UE-Latinoamérica), y una Europa más volcada en su defensa, con menos atención y presupuesto para el sur global.
 [ES]
-En lo político, el patrón es de paciencia corta: Colombia protesta contra un Gobierno de apenas tres meses, España llega al 29-N con bloques muy marcados y Suecia sigue sin gobierno, con la posibilidad de repetir elecciones. Y en el flanco oriental europeo, misiles en Polonia y drones en el Báltico mientras Washington coquetea con Moscú: Europa parece obligada a organizarse sola, como muestran la coalición de maniobras en Polonia y el reinicio con Londres.
+Y en casa, la seguridad manda. La captura del "Chapo Isidro" bajo presión de Trump, la exportación del modelo Bukele a Haití y un Kast que paga en las encuestas los tropiezos de su gabinete muestran que la región sigue votando y aplaudiendo según quién promete orden. La pregunta de fondo es si ese orden llega con instituciones más fuertes o con atajos que se pagan después, como el propio Guasave en llamas sugiere.
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
 [ES]
-Seguimiento continuo de la hipótesis de fondo: un escaneo diario de las noticias de hoy, leído junto a la tendencia reciente del registro, no una nueva argumentación completa.
+Seguimiento continuo de la hipótesis de fondo: un barrido diario de las noticias de hoy, leído a la luz de la tendencia reciente del registro, no una nueva argumentación completa.
 [ES]
-(a) Ciclos de liderazgo cada vez más cortos: apoyo, y ya van 24 días seguidos. Anthropic pasó en apenas dos sesiones de estrella del mayor debut bursátil de la historia a cotizar casi a su precio de salida, según BBC News, y Nvidia suma una investigación de la SEC a la caída de Jensen Huang. Que una IA pueda haber resuelto la hipótesis de Riemann, también según BBC News, erosiona además la autoridad tradicional de los expertos: el veredicto ahora pasa por un verificador formal.
+Hoy (a) vuelve a recibir apoyo, y la racha ya es casi ininterrumpida desde principios de mes: un ministro surcoreano cae en cuestión de días por no anticipar las trampas con IA, y la hipótesis de Riemann, un "trono" intelectual de 167 años, se resuelve en una colaboración entre un matemático y un modelo de IA, con la comunidad verificándola en 24 horas (Lean, The Guardian). Para (b), la señal es ambigua, en línea con la serie mayoritariamente neutral de la última semana: Alpöge dice que actuó por una obsesión personal que no podía aplazar, lo que se parece a seguir la voz interior, pero publicó una prueba que todavía nadie entiende, y el caso coreano es puro criterio delegado en la IA.
 [ES]
-(b) Voz interior más fuerte: neutral, en línea con los tres días anteriores. Google elimina el botón de búsqueda y empuja hacia el chat con IA, según Ars Technica, un paso más en delegar el criterio; en sentido contrario, los fans de Phoebe Bridgers, sin móviles en sus conciertos, están recordándolos dibujando, según BBC News. Señales pequeñas que se compensan.
-[ES]
-(c) Alejarse del individualismo: desafío, una vez más: en todo el registro, (c) nunca ha marcado apoyo. España llega al 29-N en bloques, en Suecia la Izquierda y los socialdemócratas siguen sin confiar el uno en el otro y Zelenski y Trump chocan abiertamente sobre Putin. (d) Más colaboración y cohesión: apoyo, con matices: la coalición de Panamá, Francia, Estados insulares y la UE en la COP31 y las marchas en Colombia son acción colectiva, pero, como advirtió la revisión integral de noviembre, nacen más del agravio que de una voz interior fortalecida. Esa revisión concluyó net challenge para la cadena en conjunto, y nada de hoy cambia ese diagnóstico: (a) y (d) siguen moviéndose solos, sin que (b) y (c) respondan.
+(c) sigue en desafío, prolongando una racha que no se ha roto en todo el registro: los coros de "¡A por ellos!" y "¡No pasarán!" en España y el giro de la UE hacia las deportaciones en Ruanda refuerzan los bloques, no los disuelven (El País). (d) suma apoyo por la movilización colectiva de las comunidades de Lean y Mathlib para verificar la prueba en un día, un ejemplo nítido de colaboración humana organizada. El cuadro de hoy coincide con la revisión integral de noviembre, que concluyó net challenge: (a) y (d) avanzan, pero (b) y (c) no se mueven, así que la cadena sigue sin propagarse.
