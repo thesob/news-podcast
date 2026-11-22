@@ -1,327 +1,353 @@
 [SECTION intro]
 [EN]
-Daily News Brief — Saturday, November 21, 2026.
-
+Good morning, Patricio! Here's your Sunday brief — a heavy one, with a climate summit on the edge, a famous maths problem apparently solved with AI's help, and more sparks in the Baltic.
 [EN]
-Good morning, Patricio! It's a heavy one: Wall Street had a brutal Friday, a mathematician says he cracked the Riemann hypothesis with an AI, and Europe's eastern flank is jumpy again. Here's what matters.
-
-[EN]
-Sources note: Reuters and AP News blocked automated access today, and I couldn't get specific article links from them to retry, so I covered world news through BBC, DW, Al Jazeera and the headlines proxy instead. The Washington Post, the New York Times and the Herald Tribune were behind paywalls; I used their public summaries and covered those stories mainly through BBC, DW and TechCrunch. SvD articles were paywalled too, so the Swedish section leans on SVT, DN and Aftonbladet.
-
+Sources note. AP News and Reuters blocked direct reads today (403/401) and I couldn't pin down a same-day article URL from either to retry through the extraction proxy, so their stories are covered via BBC, DW, The Guardian and Al Jazeera. Xinhua Español didn't respond to direct fetches and no same-day article URL surfaced to retry, so its slot is covered by Al Jazeera and El País. The Herald-Tribune returned a paywall (402), so there's nothing from Sarasota today. NYT article pages were paywalled too; I covered those stories via BBC, TechCrunch and El País, and used only NYT's own headline summaries for context.
 [SECTION news]
 [EN]
-Top Stories.
-
+Top Stories
 [ITEM]
 [EN]
-AI selloff pushes Wall Street into a correction, and Anthropic gives back half its debut gains
-
+COP31 on the brink: EU and Germany say no to a deal that won't name fossil fuels
 [EN]
-Friday was rough: the S&P 500 fell 3.7% and the tech-heavy Nasdaq dropped about 5.3%. Both the S&P and the Dow are now in correction territory, meaning 10% or more below their recent highs, and NPR notes the Nasdaq is now down for the year. Worries about whether more than $1 trillion of AI spending will ever pay off combined with company-specific trouble. Anthropic, which listed on Thursday at $83 and closed its first day at $97.17, fell 8.5% on its second day. Nvidia is reportedly facing an SEC probe into its accounting, and California's attorney general has subpoenaed the company over former CEO Jensen Huang's alleged China ties. Swedish papers are already calling it "den blodiga fredagen".
-
+The UN climate summit in Antalya, Turkey, ran into a second day of overtime on Sunday after a third and supposedly final draft landed around 3am. It leaves out explicit fossil-fuel language and only "recalls" the Cop28 Dubai agreement "in its entirety". That's an indirect nod to the one time a UN deal mentioned fossil fuels. It also drops the $120bn adaptation-finance target that developing countries wanted.
 [EN]
-Sources: BBC News, The New York Times, NPR (via GNews), TechCrunch, DN, SvD
-
+Germany said it will reject the text, and Ireland, which holds the EU presidency, called it short on ambition. DN reports the EU is preparing a historic no and that Sweden's delegation has already left, so the closing plenary could end in collapse.
+[EN]
+Sources: The Guardian, DW, DN.
 [ITEM]
 [EN]
-An Anthropic mathematician says he proved the Riemann hypothesis with Claude, and a human-only rival proof surfaced the same day
-
+Riemann Hypothesis proof, found with Claude, certified by the Lean community
 [EN]
-Levent Alpöge says he spent about six weeks working with a non-public version of Claude to build a proof of the 167-year-old Riemann hypothesis, written in the Lean proof language and running to more than 250,000 pages. Several mathematicians, including MIT's Andrew Sutherland, say the Lean code compiles, but Terence Tao and others stress that it will take a long time for humans to actually understand and check it. On the same day, Stanford's Ravi Vakil posted a separate, entirely human proof of the Generalized Riemann Hypothesis by postdoc Alessandro Masullo, the result of 12 years of work. Masullo's message to mathematicians: "we are still here." (A note on bias: the AI writing this brief is Claude, so keep that in mind when reading my framing.) This was Hacker News's top story of the day by a wide margin.
-
+On Friday, Anthropic mathematician Levent Alpöge released a proof of the 167-year-old Riemann Hypothesis as a 17-million-line Lean library. He says he built it over about six weeks with a non-public version of Claude. Within a day, the Lean and Mathlib communities issued a joint statement certifying that both the statement and the proof are correct.
 [EN]
-Sources: BBC News, TechCrunch, The New York Times, DN, Hacker News
-
+It's the top story on Hacker News, and TechCrunch notes a competing human-claimed solution has also surfaced. The machine check is done. Mathematicians now face the slower human job of understanding the new ideas.
+[EN]
+Sources: Lean community blog, BBC, TechCrunch, Hacker News.
 [ITEM]
 [EN]
-Europe on edge after the Shenzhen summit: missiles in Poland, drone alerts in the Baltics, and a Russian plot in Denmark
-
+Baltic tensions spike: drone strike on a Russian ship, missiles in Poland, a foiled plot in Denmark
 [EN]
-Two Russian missiles and a drone came down in eastern Poland while 2,800 troops from 11 European armies were exercising nearby. Prime Minister Donald Tusk called it a "deliberate provocation" and will ask NATO to strengthen the eastern flank. On Saturday, Finland restricted air and sea traffic in the eastern Gulf of Finland and Estonia warned residents about possible drones. Denmark separately accused Russian intelligence of plotting to kill a Ukrainian-American rapper near Copenhagen and expelled Russia's defence attaché. Meanwhile, Zelensky called Putin a "killer" after Trump called him a "friend" in China, and EU members are still arguing over who speaks for Europe at future talks with the Kremlin.
-
+A drone strike set fire to the Sparta II, a sanctioned cargo ship bound for Kaliningrad, in the Gulf of Finland. Finnish defence forces say Ukraine was likely behind it, and PM Petteri Orpo warned that "war is spilling over into our immediate vicinity". Finland also suspects a Russian helicopter of violating its airspace afterwards, and SVT reports the ship's cargo is still a mystery as cooling work continues.
 [EN]
-Sources: El País, BBC News, Aftonbladet, DN
-
+Poland says Russian missiles and a drone crashed in its southeast, which it calls a deliberate provocation; Trump called it a mistake. Separately, Denmark accused Russian intelligence of plotting to kill a Ukrainian-American rapper near Copenhagen and expelled Russia's defence attaché.
+[EN]
+Sources: BBC, DW, The Washington Post, SVT, SvD.
 [ITEM]
 [EN]
-COP31 runs into overtime, deadlocked over fossil fuels
-
+Mexico captures "El Chapo Isidro", one of the FBI's ten most wanted
 [EN]
-The UN climate talks in Antalya ran through the night with no deal. The latest draft doesn't mention cutting fossil fuel demand at all, which prompted a late push from a bloc led by France and Panama, while the Africa Group says it "did not come to beg" for adaptation money. On the sidelines, China's delegation committed to rapid low-carbon electrification and promised to help other countries do the same. Campaigners warn this could become one of the most disappointing COPs ever.
-
+Mexican special forces, acting on US intelligence, arrested Fausto Isidro Meza Flores in Guasave, Sinaloa, after a shoot-out. Seven suspects and four soldiers were killed. The US accuses him of flooding it with fentanyl and other drugs and is seeking his extradition.
 [EN]
-Sources: BBC News, The Guardian, DW, Aftonbladet
-
+El País describes Guasave waking up "like a war zone", with burned-out trucks on the highway and residents saying gunmen had briefly taken over a hospital. The arrest is a clear win for Mexico's government as it faces mounting pressure from the Trump administration.
+[EN]
+Sources: BBC, The New York Times, The Washington Post, DW, The Guardian, El País.
 [ITEM]
 [EN]
-Hormuz stays hot: Iran downs another US drone and sets a uranium red line
-
+South Korea's education minister resigns over an AI-assisted cheating scandal
 [EN]
-Iran's Revolutionary Guards say they shot down a US MQ-9 Reaper over the Strait of Hormuz, which they count as the 58th such drone. The UK navy's monitoring service reported attacks on two more tankers, and Saudi Arabia intercepted Houthi missiles aimed at Riyadh. Foreign Minister Abbas Araghchi says a "fair solution" is still possible, but enriched uranium will not leave Iran. Washington added sanctions on four alleged Iranian "oil trustees." The strait carried about a fifth of the world's oil and gas in peacetime, so this keeps energy prices high everywhere.
-
+Choi Kyo-jin stepped down on Sunday after a week of panic over AI-assisted cheating. It began when the top scorer in a national tax-accountant exam confessed to using a hidden camera and smartphone, just days before the high-stakes suneung university entrance exam.
 [EN]
-Sources: Al Jazeera, Aftonbladet, NRK, Xinhua Español, The Jerusalem Post (via GNews)
-
-[ES]
-España y Latinoamérica.
-
+Rushed countermeasures, like blocking public wifi near test sites, didn't reassure the public. Choi said he couldn't escape criticism that the government "failed to prepare adequately", and President Lee Jae Myung accepted his resignation.
+[EN]
+Sources: The Guardian, BBC.
+[EN]
+Spain & Latin America (Spanish)
 [ITEM]
 [ES]
-Chile: la minería arrastra a la economía, que ya roza la recesión
-
+España, recta final del 29-N: empate técnico arriba, mayoría holgada para la derecha
 [ES]
-El PIB chileno cayó 1,1% anual en el tercer trimestre y la minería se contrajo 14,7%; entre enero y septiembre el país produjo 3,63 millones de toneladas de cobre, 8,5% menos que en 2025. El ministro de Hacienda, Jorge Quiroz, admitió que "técnicamente" se puede hablar de recesión y culpa al "lastre minero", mientras la oposición habla de un ciclo "autoinfligido". Con el desempleo en 9,8%, su nivel más alto en cinco años, los expertos temen que la encuesta Casen 2026 muestre la segunda alza de la pobreza desde 1990. La demanda por los subsidios de emergencia al empleo duplica los cupos que quedan, y el presidente Kast usó su gira por Asia para prometer un mejor 2027.
-
+La campaña entra en su última semana con un tono cada vez más dramático: Feijóo llenó la plaza de toros de Valencia con un vídeo de anime que lo muestra venciendo a un Sánchez monstruoso, mientras en Tenerife los asistentes al mitin socialista coreaban "¡No pasarán!". Sánchez promete impuestos a la banca y Feijóo, leyes antiocupación.
 [ES]
-Fuente: La Tercera
-
-[ITEM]
+El sondeo de 40dB sitúa al PP y al PSOE en empate técnico por el primer puesto, aunque el bloque de derecha mantiene una mayoría absoluta de 185 escaños, por debajo de los 191 de hace dos semanas.
 [ES]
-Contraloría pide explicaciones por el acuerdo del Ministerio de Ciencia con OpenAI
-
-[ES]
-La Contraloría ofició al ministerio que encabeza Ximena Lincolao para conocer el detalle del acuerdo firmado con OpenAI, y le dio diez días para responder. El oficio lo pidió el diputado Jaime Araya, en medio de dudas opositoras sobre el uso de datos personales, aunque una encuesta citada por Emol muestra que un 63% apoya el acuerdo. Todo esto llega justo después de la salida de la subsecretaria de Ciencia, Carolina Rossi.
-
-[ES]
-Fuente: Emol
-
+Fuentes: El País, La Tercera.
 [ITEM]
 [ES]
-El Senado despacha el Presupuesto 2027, salvo Agricultura
-
+La UE acepta los centros de deportación en Ruanda que antes llamaba inhumanos
 [ES]
-Tras una sesión de casi 15 horas, el Senado despachó de madrugada el Presupuesto 2027 a su tercer trámite en la Cámara. Repuso las siete partidas que se habían rechazado antes y aprobó el endeudamiento del Gobierno, pero rechazó la partida de Agricultura, que se resolverá en Comisión Mixta. Mientras tanto, la Fiscalía de Valparaíso abrió una investigación por la posible falsificación de firmas en permisos de viaje de senadores.
-
+La Comisión Europea ha dado su bendición al acuerdo de Dinamarca, Países Bajos, Austria, Grecia y Alemania con Kigali para abrir centros de retorno para solicitantes de asilo rechazados. Hace apenas cinco años, Bruselas tachó de "ilegal" un plan danés similar.
 [ES]
-Fuente: Emol
-
-[ITEM]
+Varias ONG lo llaman el "pacto de la vergüenza"; El País lo describe como un cambio de paradigma en una Europa donde la prioridad ya no es acoger, sino expulsar y externalizar las fronteras.
 [ES]
-Cerezas a China y un tratado con India: Chile diversifica su comercio
-
-[ES]
-La temporada de cerezas chilenas ya arrancó, y el primer envío del "Expreso de la Cereza" llegará a Guangzhou a principios de diciembre, tras unos 20.000 kilómetros con la cadena de frío intacta. En paralelo, la subsecretaria Paula Estévez viajará a India la próxima semana: ya están cerrados 15 de los 17 capítulos del tratado comercial, y quedan pendientes el acceso a mercados y los minerales críticos.
-
-[ES]
-Fuentes: Xinhua Español, Emol
-
+Fuentes: El País.
 [ITEM]
 [ES]
-España, rumbo al 29-N: Feijóo saca ventaja del cara a cara
-
+Chile: el Banco Central explica el desplome del PIB — la minería y la inversión decepcionan
 [ES]
-Según el sondeo de 40dB para EL PAÍS y la SER, Alberto Núñez Feijóo ganó por diez puntos el único debate cara a cara con Pedro Sánchez. El presidente intentó pasar página con un mitin lleno en Santiago de Compostela, la tierra de su rival, mientras Feijóo prometió "desplegar las Fuerzas Armadas" frente a la inmigración y Abascal subió la apuesta. El Frente Amplio, por su parte, recuerda que "el PSOE solo no llega".
-
+Tras una semana de cifras negativas, la presidenta del Banco Central, Rossana Costa, dijo a El Mercurio que la minería sigue "bastante por debajo de lo esperado" e incluso se ha profundizado su caída, y que la inversión también sorprendió a la baja.
 [ES]
-Fuente: El País
-
+En la actividad no minera, Costa ve una brecha de alrededor del 1%, que atribuye a golpes como El Niño y a una construcción que sigue rezagada.
+[ES]
+Fuentes: Emol.
 [ITEM]
 [ES]
-Bukele formaliza su búsqueda de un tercer mandato
-
+Un gabinete bajo estrés y una oposición que no logra capitalizarlo
 [ES]
-Después de que sus aliados cambiaran la Constitución, Nayib Bukele formalizó sus planes para seguir en el poder, posiblemente hasta 2033. Al mismo tiempo, tres soldados salvadoreños murieron en un accidente con explosivos en Haití, donde un contingente que llegó para rescatar a cuatro aviadores desaparecidos ahora participa en una operación contra las pandillas.
-
+A ocho meses de asumir, el gobierno de José Antonio Kast acumula fisuras internas y baja popularidad, y los partidos oficialistas presionan por un ajuste de gabinete. Desde su gira por Asia, Kast tuvo que volver a respaldar al ministro de Justicia, Fernando Rabat, ante la acusación constitucional por los decretos de rebaja de condenas.
 [ES]
-Fuentes: The Washington Post, DW
-
+La oposición, en tanto, está enredada en sus propias peleas: el PS y el PPD chocaron por el retiro de los permisos de los senadores Órdenes y Espinoza para la gira, y la Fiscalía investiga una eventual suplantación de firmas.
+[ES]
+Fuentes: La Tercera, Emol.
+[ITEM]
+[ES]
+El boom chileno del hidrógeno verde se aleja: TotalEnergies retira H2 Magallanes
+[ES]
+El 12 de noviembre, la francesa TotalEnergies pidió formalmente poner fin a la evaluación ambiental de H2 Magallanes, el mayor proyecto de inversión jamás anunciado en Chile, con US$16 mil millones. El experto Michael Liebreich, que ya en 2025 dudaba de que se construyera, insiste en que el hidrógeno verde sigue siendo demasiado caro frente a las alternativas fósiles.
+[ES]
+Es un golpe para la narrativa de Magallanes como polo energético del futuro.
+[ES]
+Fuentes: La Tercera.
+[ITEM]
+[ES]
+Chile en alerta climática: deshielos, marejadas y calor
+[ES]
+El Gobierno decretó estado de emergencia preventiva en Atacama y Coquimbo hasta el 31 de enero de 2027, ante una disminución acelerada de la nieve en la cordillera y el riesgo de crecidas por deshielo. En Laguna Verde, Valparaíso, las marejadas anormales y la crecida del estero El Sauce dejaron unas 20 familias afectadas.
+[ES]
+Además, la Dirección Meteorológica emitió un aviso por altas temperaturas desde Coquimbo hasta el Biobío.
+[ES]
+Fuentes: La Tercera, BioBioChile.
+[ITEM]
+[ES]
+Las tropas de Bukele en Haití generan entusiasmo e inquietud
+[ES]
+Soldados salvadoreños combaten a las pandillas en Puerto Príncipe, donde muchos haitianos los reciben con alivio tras años de control criminal, aunque otros temen que la ofensiva agrave una situación ya volátil.
+[ES]
+Mientras tanto, Nayib Bukele ha formalizado su plan para buscar un tercer mandato que podría mantenerlo en el poder hasta 2033, tras la reforma constitucional impulsada por sus aliados.
+[ES]
+Fuentes: The Guardian, The Washington Post, La Tercera.
+[ITEM]
+[ES]
+Bolsonaro, hospitalizado de forma indefinida
+[ES]
+El expresidente brasileño fue trasladado de urgencia por fuertes dolores e inflamación abdominal y permanecerá internado en el hospital DF Star mientras se le realizan exámenes.
+[ES]
+Bolsonaro cumple una pena de 27 años por conspiración golpista bajo reclusión domiciliaria humanitaria.
+[ES]
+Fuentes: La Tercera.
 [EN]
-US and International.
-
+US & International (English)
 [ITEM]
 [EN]
-UK and EU seal their biggest post-Brexit deal, and Miliband says rejoining is "on the table"
-
+Trump moves to fence off federal contractors from a Democratic Congress
 [EN]
-Prime Minister Andy Burnham signed a deal in Brussels covering food exports, emissions trading and a youth experience scheme, which the Treasury says could add up to £17bn a year to the UK economy. Foreign Secretary Ed Miliband says "all options," including rejoining the EU, could come up in informal talks. Kemi Badenoch says the deal "isn't fair," and Nigel Farage calls it a "betrayal."
-
+A new executive order tells federal contractors and subcontractors to coordinate with the White House before answering information requests from Congress. Those that don't could lose their contracts and be barred from future federal work.
 [EN]
-Sources: BBC News, The Guardian, The Washington Post, El País
-
+It's a pre-emptive move against the investigations the new Democratic majority has promised after the GOP's heavy midterm defeat on November 3.
+[EN]
+Sources: El País, The New York Times.
 [ITEM]
 [EN]
-US cyber shake-up: cyber chief fired, FBI crime database reportedly hacked
-
+Hegseth's secret memo restricts US–Canada defence ties
 [EN]
-Trump fired National Cyber Director Sean Cairncross after last week's string of outages hit banking and air traffic control, saying he was "not good enough." Officials insist the outages weren't cyberattacks. Separately, the FBI is reportedly investigating an apparent breach of its National Crime Information Center, which police use for warrants and background checks.
-
+Defense Secretary Pete Hegseth has quietly imposed new restrictions on the US–Canada defence relationship through a classified directive, escalating a feud already sharpened by Trump's repeated annexation talk.
 [EN]
-Sources: BBC News, TechCrunch, DN, Xinhua Español
-
+One US official told the Post that Ottawa is sure to see it as a "slap in the face".
+[EN]
+Sources: The Washington Post.
 [ITEM]
 [EN]
-Secret Hegseth memo restricts US–Canada defence ties
-
+Zelensky: Washington wants new trilateral peace talks before Christmas
 [EN]
-A classified directive from Defense Secretary Pete Hegseth limits the US–Canada defence relationship, the latest escalation in Washington's feud with Ottawa. One US official told the Post it is sure to be seen as a "slap in the face."
-
+Zelensky says Trump's team is determined to hold another round of talks with Ukraine and Russia before Christmas. Technical meetings come first to set the agenda, and he has accepted the proposal, saying "the sooner an agreement is reached, the better."
 [EN]
-Source: The Washington Post
-
+He has floated joining Trump and Putin at the G20 in Miami on December 14–15, though the White House hasn't decided on Ukraine's attendance. Trump, meanwhile, insists Putin is still "my friend".
+[EN]
+Sources: The Washington Post, La Tercera, Aftonbladet.
 [ITEM]
 [EN]
-UN "killer robots" talks end without a ban
-
+FBI investigating an apparent hack of its national crime database
 [EN]
-After a week of talks in Geneva, the 128 states party to the UN weapons convention failed to agree on a legally binding ban on lethal autonomous weapons, even though nearly 100 nations wanted one. Instead, they agreed to keep talking and aim for new rules by 2028, an outcome campaigners call "weakened."
-
+The FBI is reportedly investigating a breach of the National Crime Information Center, which police across the US use for warrants and background checks. Trump called it "not good" but mused that "maybe we'll learn things that we would've never learned otherwise."
 [EN]
-Sources: DW, Aftonbladet
-
+It follows a run of unexplained outages hitting banks, including JPMorgan, and air traffic control, plus the firing of National Cyber Director Sean Cairncross.
+[EN]
+Sources: BBC, TechCrunch, The New York Times, La Tercera.
 [ITEM]
 [EN]
-Man convicted of starting the deadly Palisades fire
-
+Iran says it struck US Patriot radars in Bahrain
 [EN]
-A Los Angeles jury convicted 30-year-old Jonathan Rinderknecht of arson over the January 2025 fire, which killed 12 people and destroyed more than 6,800 buildings. The verdict came at a retrial and gives some accountability for one of the most destructive fires in the city's history.
-
+Iran's Revolutionary Guards said they hit two US Patriot radar sites at the Al Rifa and Auali bases in Bahrain with missiles and drones. This came after Bahrain reported an Iranian attack that set a factory on fire; no injuries were reported.
 [EN]
-Sources: BBC News, The New York Times, DW
-
+One analyst told Al Jazeera that Trump may need to quietly ease the US naval blockade on Iran if he wants the conflict to wind down.
+[EN]
+Sources: La Tercera, Al Jazeera.
 [ITEM]
 [EN]
-Bayer's $7.25bn Roundup settlement approved
-
+Red Cross: it will soon be too late to regulate autonomous weapons
 [EN]
-A US judge approved Bayer's class-action settlement over claims that its Roundup weedkiller causes non-Hodgkin lymphoma, which should end tens of thousands of lawsuits. Some plaintiffs' lawyers say the payouts are too low.
-
+As more than 120 states wrapped up a week of UN weapons talks in Geneva, they only agreed to discuss a possible instrument over the next two years. The ICRC and rights groups called that far short of what's needed.
 [EN]
-Sources: DW, The New York Times
-
+"If we leave this unregulated, it will be much more difficult to put the genie back in the bottle," said the ICRC's Cordula Droege, as AI-enabled systems reach the battlefield.
+[EN]
+Sources: The Guardian.
 [ITEM]
 [EN]
-Norway's budget talks run past the deadline (originally from NRK, Norway)
-
+Theresa May "aghast" as Burnham opens the door to rejoining the EU
 [EN]
-Labour's finance spokesperson Tuva Moflag told NRK that negotiations with the red-green parties would go on past Friday's 11pm deadline. She said it is "completely natural" for disagreements to drag on in some areas.
-
+After Friday's UK–EU summit, where PM Andy Burnham secured the biggest step towards closer ties since Brexit, Theresa May told the BBC he should "accept Brexit and move on".
 [EN]
-Source: NRK
-
+The Post notes that ten years on, more Britons say leaving was a mistake. Ed Miliband insists the deal doesn't hinge on cutting tuition fees for EU students.
 [EN]
-Tech and Niche.
-
+Sources: The Guardian, The Washington Post, BBC.
 [ITEM]
 [EN]
-Trump threatens to ban US firms from building AI data centres abroad
-
+France marches for a sixth weekend over living costs
 [EN]
-The president promised a "tremendous tax" on tech companies that build data centres overseas ("we're going to keep it all in this country") but gave few details, and said his own cabinet was hearing about it for the first time. Meta and Google already have deals to build abroad, and nobody yet knows how such a ban would be enforced.
-
+Tens of thousands marched across France on Saturday against rising prices, failing public services and inequality. High-school students started the movement in mid-September.
 [EN]
-Source: BBC News
-
+Organisers counted 150,000 protesters, down from 200,000 last week and about 800,000 at the first weekly march, and more rallies are planned.
+[EN]
+Sources: Al Jazeera.
 [ITEM]
 [EN]
-Meta reconsiders its 2030 net-zero goal as AI emissions hit a record
-
+Indonesia candy-factory fire leaves three dead and 36 missing
 [EN]
-Meta's new sustainability report says it is "re-evaluating" the timeline for its 2030 net-zero target after posting the biggest percentage rise in emissions of any Big Tech company. The reason it gives: AI infrastructure demand "has grown faster than almost anyone projected."
-
+A blaze at the Fonusa Agung Mulia confectionery factory in Banten province, west of Jakarta, killed at least three people. Another 36 are missing and 15 have been rescued.
 [EN]
-Source: Ars Technica
-
+Firefighters were still battling flames in several parts of the three-storey building on Sunday, and the cause isn't known yet.
+[EN]
+Sources: Al Jazeera, BBC, DW, The Guardian.
 [ITEM]
 [EN]
-Inkling 2 Mini: a laptop-sized model that thinks in loops
-
+Norway: a university builds a "room to mean" for students afraid to speak up (originally from NRK)
 [EN]
-Thinking Machines released Inkling 2 Mini, a "looped transformer" that runs its middle layers three times per token to reason more with fewer tokens. The company says it leads all open-weights models under 100B parameters on agentic coding benchmarks like DeepSWE. It was one of Hacker News's top stories of the day.
-
+Many students at the University of South-Eastern Norway say they hold back in lectures for fear of saying something wrong or looking stupid, NRK reports.
 [EN]
-Source: Hacker News
-
+The university's response is a project called "Rom for å meine" ("room to mean"), including a physical space where students post their thoughts on sticky notes, to encourage openness and a wider range of opinions.
+[EN]
+Sources: NRK (Norway).
+[EN]
+Tech & Niche
 [ITEM]
 [EN]
-"We promoted developers into architects without telling them"
-
+Signal restricts screenshots, citing the "existential threat" of OS-level AI agents
 [EN]
-A popular essay on Hacker News argues that AI is taking over the coding but not the judgment. The author's example is AI-generated code that piled try/catch blocks on top of a privacy-restricted API instead of questioning the requirement, because AI "won't push back on your requirements." His advice to developers: stop missing the coding and learn to be the architect.
-
+Signal is limiting screenshots in its Android and iOS apps. President Meredith Whittaker argues that Windows, Android and macOS/iOS, by letting AI agents scan users' screens, are undermining Signal's ability to guarantee privacy.
 [EN]
-Source: Hacker News
-
+Once an OS agent captures your chats, she says, the data sits in whatever database or server that agent uses, outside Signal's control.
+[EN]
+Sources: TechCrunch.
 [ITEM]
 [EN]
-GTA 6 makes $3.8bn in a single day
-
+2 million planted canaries show the AI supply chain leaks like a sieve
 [EN]
-Grand Theft Auto VI brought in about $3.79bn on launch day, beating every video game launch and every single-day film box office record. Norwegian couples are even signing "GTA contracts" to get ten days off chores.
-
+Researchers seeded 2 million unique, trackable secrets into prompts sent through AI "routers" and gateways, which pass app traffic on to model providers. They found sensitive data escaping at an alarming rate.
 [EN]
-Sources: BBC News, NRK, The Guardian
-
-[SV]
-Sverige.
-
+OpenRouter says it wasn't breached itself, but confirms some downstream inference providers had compromised data or didn't follow their data policies. It credits the Dragos report and says it has notified affected users.
+[EN]
+Sources: Ars Technica, OpenRouter, Hacker News.
 [ITEM]
-[SV]
-Rödgröna förhandlingar låsta – V kräver ministerposter
-
-[SV]
-S, V, C och MP har förhandlat på hemlig ort sedan i onsdags, men läget är fortsatt låst: enligt SVT har V sagt nej till ett S-bud om tjänstemän på Regeringskansliet. Statsvetare menar att S inte litar på V och fruktar att V-ministrar skrämmer bort mittenväljare, medan V ser det som "nu eller aldrig". Ulf Kristersson har redan uppmanat till beredskap för ett extraval: "Be prepared".
-
-[SV]
-Källor: SVT Nyheter, DN, SvD, Aftonbladet
-
+[EN]
+A tale of two Nvidias, and Chinese spies who targeted AI chips for years
+[EN]
+Nvidia posted soaring revenue and insists it has no plans to bring back Jensen Huang, even as Elon Musk and others push a petition for his return and Huang says he's ready. The falling share price shows how unsettled investors are.
+[EN]
+The New York Times reports that a Chinese state-security campaign aimed at AI chips had been under way for at least two years before the Nvidia scandal broke.
+[EN]
+Sources: TechCrunch, The New York Times.
 [ITEM]
-[SV]
-Drönarlarm i Finland och Estland – svenska Gripen över Polen
-
-[SV]
-Finland har infört begränsningar för flyg- och sjötrafik i östra Finska viken, och invånare i Estland varnades för ett möjligt drönarhot under natten. Turkiska Natoplan skickades upp. Svenska JAS Gripen deltog samtidigt i flera timmar i en luftförsvarsinsats för att skydda polskt luftrum.
-
-[SV]
-Källor: Aftonbladet, Försvarsmakten (via GNews)
-
+[EN]
+AI's power bill: Meta rethinks net zero, and a gas-heavy outlook for Anthropic
+[EN]
+Meta says it is "re-evaluating" its 2030 net-zero goal after reporting a record percentage jump in emissions from its AI data-centre buildout. That's the biggest increase among its Big Tech peers.
+[EN]
+Separately, a Better Data Center Project analysis that circulated on Hacker News estimates Anthropic's compute commitments could mean up to 32 million tonnes of CO2 in 2028, mostly from gas power.
+[EN]
+Sources: Ars Technica, Better Data Center Project, Hacker News.
 [ITEM]
-[SV]
-Snöovädret drar in – SMHI utökar varningen igen
-
-[SV]
-SMHI har återinfört snövarningen för östra Svealand fram till måndag, bara timmar efter att den drogs tillbaka. Under natten har halkan redan orsakat flera trafikolyckor i Stockholms- och Uppsalaområdet.
-
-[SV]
-Källor: DN, SvD
-
+[EN]
+Pancreatic cancer pill hailed as the biggest breakthrough in decades
+[EN]
+In a trial of 61 patients with advanced pancreatic cancer, the pill daraxonrasib stopped tumour growth in almost all of them and made the cancer undetectable in one in 12. After a year, 76.6% were alive, compared with roughly 40–45% on chemotherapy alone.
+[EN]
+Doctors stress it isn't a cure yet, but for one of the deadliest cancers it could buy patients precious time.
+[EN]
+Sources: The Guardian, Hacker News.
+[ITEM]
+[EN]
+Toyota, Nissan and Honda will standardise parts to fight Chinese competition
+[EN]
+Japan's three biggest carmakers have agreed to standardise parts, starting with common quality criteria for steel, shared protocols for plastics and resins, and a universal colour code for wiring harnesses.
+[EN]
+These are parts buyers don't notice but that cost a lot to make, and the industry body plans to widen the effort over time.
+[EN]
+Sources: Car and Driver, Hacker News.
+[EN]
+Sweden (Swedish)
 [ITEM]
 [SV]
-Nedlagda flyg slår mot BAE Systems i Örnsköldsvik
-
+Fler C-toppar vill överge Andersson och göra upp högerut
 [SV]
-Sedan Populair lade ner trafiken till Örnsköldsviks flygplats i somras kan BAE Systems, som bygger Stridsfordon 90, inte flyga in kunder och personal. Företaget kallar läget "pinsamt", mitt i en period med stor internationell efterfrågan på försvarsmateriel.
-
+Centerledaren Elisabeth Thand Ringqvist valde förra helgen Magdalena Anderssons totalpaket för en regering med S, MP och C med stöd av V, men trycket inifrån partiet växer. Nu ansluter sig tidigare tungviktaren Emil Källström till EU-parlamentarikern Emma Ytterell och distriktsordföranden Kristoffer Svensson Sellin, som vill att C i stället förhandlar med Ulf Kristersson.
 [SV]
-Källor: DN (via Omni/GNews)
-
+Partiledningarna har förhandlat på hemlig ort sedan i onsdags.
+[SV]
+Källor: DN, SvD.
+[ITEM]
+[SV]
+Ex-generalen Ben Hodges: Europa är inte redo för Rysslands luftkrig
+[SV]
+Natos och Sveriges luftförsvar är oförberedda på den typ av luftkrig Ryssland för mot Ukraina, säger USA:s tidigare arméchef i Europa i en minidokumentär på SVT Play.
+[SV]
+"Föreställ dig vad som händer i Odesa, Kyjiv eller Charkiv varje natt, men byt ut dem mot Bremerhaven, Gdańsk eller Riga", säger han.
+[SV]
+Källor: SVT Nyheter.
+[ITEM]
+[SV]
+Svenska kyrkans präst i San Francisco: "Jag skulle aldrig vända mig till AI med det"
+[SV]
+Världens främsta AI-forskare har börjat be religiösa tänkare om hjälp, inte för att hitta Gud utan för att lära sina maskiner moral.
+[SV]
+Mitt i AI-boomens huvudstad finns Sabina Koij, ny präst i den svenska församlingen, som pratar AI överallt men själv inte är övertygad.
+[SV]
+Källor: SvD.
+[ITEM]
+[SV]
+Wegovy i tablettform snart i Sverige – och det blir dyrt
+[SV]
+Novo Nordisk säger att lanseringen av fetmaläkemedlet Wegovy som tablett är "nära förestående", och priset väntas hamna i nivå med GLP-1-injektionerna, alltså några tusenlappar i månaden.
+[SV]
+Tabletten finns redan på vissa apotek via parallellimport, och Novos Sverigechef medger att det "kan röra sig om mycket pengar" för en enskild person.
+[SV]
+Källor: SvD.
+[ITEM]
+[SV]
+Orange varning för snö och vind längs E4 norr om Uppsala
+[SV]
+SMHI har utfärdat orange varning för kraftigt snöfall och vind kring E4:an strax norr om Tierp, från söndagseftermiddagen till måndag lunch, med risk för mycket besvärliga trafikförhållanden.
+[SV]
+Gul varning gäller också i östra Svealand.
+[SV]
+Källor: Aftonbladet, SvD.
+[ITEM]
+[SV]
+Älvsjömässan rivs – 7 000 bostäder planeras
+[SV]
+Stockholm planerar att riva Älvsjömässan, flytta idrottsplatsen och göra om Huddingevägen till stadsgata för att ge plats åt 7 000 nya bostäder.
+[SV]
+Det blir en av de största förändringarna i södra Stockholm på decennier, sextio år efter att mässan började byggas.
+[SV]
+Källor: DN.
 [SECTION connecting_dots]
 [EN]
 Connecting the Dots.
-
 [EN]
-"This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above."
-
+This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
 [EN]
-Patricio, the big thread today is that AI's money story and its scientific story pulled in opposite directions within hours of each other. Markets are punishing the AI trade: a correction, Anthropic losing half its debut pop, Nvidia under regulatory fire. Yet the same week produced a claimed proof of math's most famous open problem. My read is that investors aren't doubting what the technology can do; they're doubting who captures the value and when. Add Trump's threat to tax overseas data centres and Meta quietly backing off its climate goals, and the AI build-out looks more and more like a national-industrial project: energy-hungry, politically managed, and increasingly kept onshore in the US.
-
+Patricio, the thread I keep coming back to today is that AI's acceleration and the energy transition are now pulling against each other in public. On the same weekend a Claude-assisted proof of the Riemann Hypothesis gets machine-verified, Meta says it may give up on its 2030 net-zero goal, one analysis sees Anthropic's compute running mostly on gas, and COP31 can't even agree to name fossil fuels. The scramble for AI capability looks like it's winning the near-term argument over decarbonisation. That isn't a prediction that climate policy is dead, but it's worth watching whether AI demand becomes the excuse that keeps fossil capacity online through the 2030s.
 [EN]
-For Chile, that matters in a few concrete ways, and none of this is a confident prediction. A risk-off mood on Wall Street usually means a stronger dollar and weaker appetite for emerging-market assets, which tends to put pressure on the peso. That lands on an economy already running on one engine: mining fell 14.7% last quarter, and copper output is down for structural reasons (ageing mines), not just prices. The long-run copper story still looks good on paper. China at COP31 is promising rapid electrification, and data centres and grids run on copper. But Chile can only cash in if it produces more, and right now it is producing less. The cherry route to Guangzhou and the near-finished India deal are the right kind of hedge: spreading export dependence across more than one giant buyer.
-
+For Chile that cuts two ways. AI data centres, grids and the chips inside them are enormously copper-hungry, which supports the long-run case for Chilean copper and the peso. But today's local news is a reminder that this tailwind isn't arriving on its own: the Central Bank says mining output is falling short and investment has disappointed, and TotalEnergies has walked away from H2 Magallanes, the country's flagship green-hydrogen bet. If global climate diplomacy stalls, the premium for "green" Chilean molecules shrinks too, while copper demand from AI may hold up. That could leave Chile more of a commodity play than the clean-energy hub it hoped to be, which is not a confident forecast but a tension worth tracking.
 [EN]
-On energy, Hormuz is the quiet tax on everything. As long as tankers keep getting hit and talks stay stuck on uranium, imported fuel and freight stay expensive, which feeds into Chile's 4.5% inflation and limits how fast the Banco Central can cut rates to help a stalling economy. A deadlocked COP31 weakens the global push to move off oil, but in Chile's case that's partly offset by its own solar build-out. Watch whether cheap domestic renewables can soften the import bill.
-
+The second pattern is how fragile trust has become in digital systems. Within a few days we've seen an FBI crime database apparently hacked, unexplained outages at banks and air traffic control, a study showing AI routers leaking secrets, Signal blocking screenshots against OS-level AI agents, and AI-assisted cheating bringing down a minister in Seoul. The common thread is that the layers between people and their data now include AI agents nobody fully controls. For you that's practical as well as abstract: what you type into AI tools, and which intermediaries carry it, deserves more care than it did a year ago.
 [EN]
-Politically, two things stand out. Europe is building its own security posture under real pressure (Poland, the Baltics, Denmark) while the US, China and Russia sort out a "new Yalta" without it. Spain may be heading for a right-leaning turn on 29-N. Both point to a world where middle powers, Chile included, have to manage several big partners at once instead of relying on one. At home, the Contraloría's questions about the OpenAI–Ministry of Science deal are a small but telling case: how a state with limited bargaining power negotiates with an AI giant over citizens' data is likely to become a recurring question in Chile, and it's worth following closely.
-
+Finally, the geopolitical temperature is rising at the edges while the big powers talk peace. Drone strikes in the Gulf of Finland, missiles landing in Poland, an assassination plot in Denmark, Iran firing at US radars in Bahrain, all while Washington pushes for trilateral talks before Christmas. Chile is far from all of it, but energy prices, shipping insurance and risk appetite for emerging markets all run through these flashpoints. A messy end to COP31 plus Gulf escalation is the kind of mix that can keep fuel costs in Santiago higher for longer, so it's worth keeping an eye on.
 [SECTION hypothesis_watch]
 [EN]
 Hypothesis Watch.
-
 [EN]
-A daily scan of your standing hypothesis on AI, the internal voice and social cohesion, read against the recent trend in the log rather than today's stories alone. This isn't a full re-argument.
-
+An ongoing daily scan of your standing hypothesis about AI, the internal voice and social cohesion, read against the recent run of entries in the log rather than today's stories alone; not a full re-argument.
 [EN]
-(a) Shrinking authority cycles: Strong support again today, and the log shows (a) supporting on essentially every entry of the last two months, so this is a sustained run, not a blip. The sharpest example is the Riemann claim: if it holds, one of the most prestigious problems in human thought was cracked by a single researcher working with an AI in six weeks, unsettling who holds intellectual authority in mathematics (TechCrunch). Markets re-pricing Anthropic within 48 hours of its debut, Nvidia's post-Huang turmoil, and the firing of the US cyber chief all point the same way.
-
+Today extends the streak for (a): every one of the last 60 log entries has read as support, and today adds two vivid cases. A proof of the Riemann Hypothesis, the most famous open problem in maths, was produced with an AI system and certified by the Lean community within roughly a day. And South Korea's education minister fell within a week of an AI-cheating panic. Expertise is being compressed and authority recycled at a speed that would have looked strange a few years ago. For (b), today gives a clean supporting signal, in line with the 52-of-60 support rate. NRK's story about Norwegian students afraid to voice opinions, and a university building a literal "room to mean", is close to a textbook case of institutions trying to rebuild the internal voice. Signal's pushback against OS-level AI agents and the Swedish priest in San Francisco who wouldn't turn to AI for moral questions point the same way.
 [EN]
-(b) A stronger internal voice: Support, continuing the mostly unbroken (b) streak (with brief neutral days on Nov 18–19). Masullo's human-only proof, framed as "we are still here," and Tao's insistence that humans must actually digest the AI proof both assert human judgment over machine output. So do the developer-to-architect essay ("AI won't push back") and Chile's Contraloría questioning the state's OpenAI deal. (c) and (d) remain neutral. The Swedish coalition talks, the UK–EU deal and European defence coordination are collective, but they're institutional and state-level, not a cultural shift away from individualism or toward grassroots cohesion. Today doesn't repeat the one-off (c) signal from Serbia on Nov 17. As in the log's overall pattern, the evidence keeps piling up on the first two links and hasn't moved further down the chain. The integral-review history has no reviews on file yet, so there's no prior monthly verdict to weigh against.
+(c) stays neutral, as it has on 59 of the last 60 days. France's sixth weekend of protests and the revolt inside Sweden's Centre Party are collective but issue- and party-driven, not a turn away from individualism. For (d) there is a tentative supporting signal, the first since late October's Serbian citizens' movement. The Lean and Mathlib communities rallied to verify an AI-produced proof together in about a day, which is exactly the kind of humans-coordinating-around-AI behaviour the hypothesis predicts. It's one case, though, and today's state-level picture cuts hard the other way: COP31 is on the verge of collapse and the Baltic is escalating. Treat it as a single data point, not a trend.
