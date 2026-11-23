@@ -1,192 +1,185 @@
 [SECTION intro]
 [ES]
-Hola, este es tu Resumen Diario del domingo 22 de noviembre de 2026.
+Resumen Diario, lunes 23 de noviembre de 2026.
 [ES]
-Nota sobre fuentes: AP News y Reuters bloquearon hoy el acceso automatizado ya desde su portada, así que no hubo un artículo concreto que recuperar por otra vía; sus temas se cubrieron con BBC, DW en Español y The Guardian. The Washington Post (misiles en Polonia) estaba tras muro de pago: lo cubrí con DW en Español. De The New York Times solo usé titulares; los detalles vienen de BBC Mundo, The Guardian y El País.
+Nota sobre las fuentes: The New York Times estaba tras su muro de pago hoy, así que sus historias principales (la mayoría demócrata en la Cámara y los contactos de Alice Huang con el espionaje chino) se cubren con BBC News, AP News y Aftonbladet. The Washington Post solo se pudo leer en parte; donde faltó el texto, se usaron otros medios. Reuters, AP News, TechCrunch y Xinhua Español se leyeron a través del extractor de respaldo.
 [SECTION news]
 [ES]
 Titulares.
 [ITEM]
 [ES]
-La COP31 entra en su segundo día de prórroga con un borrador que no convence a nadie
+La COP31 fracasa: la cumbre climática más larga de la historia termina sin acuerdo.
 [ES]
-La cumbre del clima en Antalya (Turquía) sigue sin acuerdo y se acerca a ser la más larga de la historia de las COP. El nuevo borrador, publicado de madrugada, ya no menciona expresamente la "transición para dejar atrás los combustibles fósiles", aunque sí recuerda el compromiso de hace tres años; por primera vez reconoce que el mundo va camino de incumplir el límite de 1,5 °C. La UE lo ve como un paso atrás, Alemania ya dijo que rechaza el texto y el Grupo Africano queda decepcionado porque no fija cifra para la financiación de la adaptación. Si no hay consenso, la negociación podría suspenderse hasta el año que viene, algo que solo ha pasado una vez desde 1995.
+Tras dos semanas en Antalya (Turquía) y una prórroga hasta el domingo, los países no lograron cerrar un acuerdo: la UE, las islas del Pacífico y Panamá rechazaron un texto final que ni siquiera mencionaba los "combustibles fósiles", y los países más pobres protestaron por la falta de compromisos financieros para adaptarse. Es el primer colapso así desde Copenhague 2009. António Guterres, en su última COP, acusó a los "poderosos intereses fósiles" de seguir "el manual de las tabacaleras", mientras el primer ministro australiano, Anthony Albanese, coanfitrión, lo atribuyó a "tiempos geopolíticos difíciles".
 [ES]
-Fuentes: BBC News, The Guardian
+Fuentes: BBC News, DW en Español, The Washington Post, Reuters, Xinhua Español, Emol.
 [ITEM]
 [ES]
-Rusia tensa el flanco oriental: misiles en Polonia y un complot de asesinato en Dinamarca
+Ucrania reivindica el hundimiento de un buque de guerra ruso en Libia.
 [ES]
-Polonia denunció que dos misiles y un dron rusos violaron su espacio aéreo y cayeron en el sureste del país, y el secretario general de la OTAN, Mark Rutte, prometió en Varsovia defender "cada centímetro" del territorio polaco; Trump lo calificó de error. Al mismo tiempo, Dinamarca acusó a la inteligencia rusa de planear el asesinato del rapero ucraniano-estadounidense Kyivstoner en un concierto en septiembre y expulsó al agregado de defensa ruso; Moscú niega todo. Ambos episodios se suman al ataque con drones, atribuido a Ucrania, contra un carguero ruso en el golfo de Finlandia (más abajo, en Suecia y Noruega).
+Volodímir Zelenski asumió la autoría del ataque que hundió la corbeta rusa Merkury en la base naval de Bengasi, con siete drones navales de fabricación ucraniana, y también de un ataque contra el carguero Angara. Lo llamó "una operación ucraniana ejemplar en respuesta a la guerra de Rusia"; el gobierno del este de Libia dice que el buque solo había parado a repostar de regreso a Rusia. Mientras tanto, un bombardeo ruso sobre Dýmer, en la región de Kiev, dejó entre 11 y 15 muertos según las fuentes, y los rescatistas sacaron con vida a un niño de 7 años de los escombros.
 [ES]
-Fuentes: DW en Español, The Washington Post, BBC News
+Fuentes: The Guardian, El País, Al Jazeera, BBC News, DW en Español, Reuters, AP News.
 [ITEM]
 [ES]
-Cae el "Chapo Isidro", uno de los diez más buscados por el FBI, tras una noche de guerra en Sinaloa
+Asia sale al rescate de sus bolsas tras el desplome tecnológico ligado a la IA.
 [ES]
-Fuerzas especiales mexicanas detuvieron en Guasave (Sinaloa) a Fausto Isidro Meza Flores, líder del Cártel Guasave, a quien Estados Unidos acusa de inundar su territorio de fentanilo y cocaína y cuya extradición ya solicitó. El operativo, guiado por inteligencia estadounidense, derivó en unas cuatro horas de enfrentamientos con helicópteros, drones y bloqueos: El País describe un hospital del IMSS tomado por sicarios, gasolineras incendiadas y camionetas calcinadas, y Emol habla de al menos once muertos. La captura llega en plena presión de Trump sobre México para endurecer la lucha contra el narco.
+Después de una semana de fuertes caídas, Corea del Sur preparó su fondo de estabilización del mercado, y Taiwán y China anunciaron medidas para frenar la sangría; el índice coreano tocó igualmente su nivel más bajo en diez meses. La venta masiva se modera este lunes, aunque algunos analistas ya hablan abiertamente de que "la burbuja de la IA ha estallado". El trasfondo: el escándalo de Nvidia y la volatilidad de Anthropic tras su salida a bolsa.
 [ES]
-Fuentes: BBC News Mundo, El País, The New York Times, The Guardian, Emol, DN
+Fuentes: The Guardian, Xinhua Español, BBC News.
 [ITEM]
 [ES]
-La hipótesis de Riemann, resuelta: la comunidad Lean certifica una prueba de 17 millones de líneas hecha con ayuda de IA
+Los demócratas logran su mayor mayoría en la Cámara de EE. UU. desde 1992.
 [ES]
-El matemático Levent Alpöge, que trabaja en Anthropic, publicó una demostración de la hipótesis de Riemann —el famoso problema de 1859 sobre la estructura oculta de los números primos, uno de los Problemas del Milenio— escrita como biblioteca del verificador formal Lean. En apenas un día, las comunidades de Lean y Mathlib se movilizaron para comprobarla y emitieron un comunicado conjunto en el que certifican que tanto el enunciado como la prueba son correctos. Alpöge cuenta que llegó a ella en una larga colaboración con Claude y admite cierta culpa por publicarla sin una explicación comprensible para humanos, algo que se ha comprometido a elaborar.
+Con la victoria de Chuck Hubbard sobre la veterana republicana Virginia Foxx en Carolina del Norte, por apenas 330 votos tras un recuento, los demócratas suman al menos 258 escaños frente a 173 republicanos, con cuatro carreras aún por decidir. Es la cifra más alta para cualquier partido desde 1992, y llega junto con el control del Senado. El resultado deja al presidente Trump frente a un Congreso claramente opositor en la segunda mitad de su mandato.
 [ES]
-Fuentes: Lean prover community (vía Hacker News), TechCrunch
-[ITEM]
-[ES]
-España encara la última semana de campaña entre gritos de "¡A por ellos!" y "¡No pasarán!"
-[ES]
-A una semana de las generales del 29-N, la campaña sube de tono: en un mitin del PP en Valencia el público coreó por primera vez "¡A por ellos!", mientras en Tenerife los asistentes al acto de Pedro Sánchez respondieron con el histórico "¡No pasarán!". El sondeo de 40dB sitúa a PP y PSOE en empate técnico por el primer puesto, aunque el bloque de derecha conserva una mayoría absoluta de 185 escaños, que ha ido bajando desde los 191 de hace dos semanas. La prensa sueca subraya que Vox, inspirado en Trump, podría acabar siendo decisivo.
-[ES]
-Fuentes: El País, La Tercera, Aftonbladet, SvD
+Fuentes: BBC News, DW en Español, AP News (sustituyen a The New York Times, con muro de pago).
 [ES]
 España y Latinoamérica.
 [ITEM]
 [ES]
-Chile: el gabinete de Kast, bajo estrés tras la gira asiática
+España: la derecha mantiene su ventaja a seis días del 29-N.
 [ES]
-El presidente José Antonio Kast volvió de Vietnam, China y Japón con un balance que su comitiva califica de "absolutamente positivo": dicen que la reunión con Xi Jinping despejó cualquier sospecha de conflicto y que el mensaje fue que Chile "no busca confrontación con nadie". En casa, sin embargo, La Tercera describe un equipo ministerial con "la moral por el suelo", con roces públicos entre ministros, una acusación constitucional contra el ministro de Justicia, Fernando Rabat, y una popularidad que cae hasta el 18 % en algunos sondeos. Desde el propio oficialismo crece la presión por un cambio de gabinete que Kast, por ahora, resiste.
+La última encuesta de 40dB. para EL PAÍS y la SER, antes de la veda legal de sondeos, muestra que diez días de campaña apenas han movido el tablero: PP, Vox y UPN suman algo menos de 190 escaños, pero aún con más de diez de margen sobre la mayoría absoluta. Lo que sí se ha estrechado es la pelea por el primer puesto: el PP marca 31,8 % frente al 30,9 % del PSOE, con Vox en 17,3 %. Tres de cada cuatro electores dicen que irán a votar casi con seguridad, cinco puntos más que en 2023.
 [ES]
-Fuentes: La Tercera, Emol
+Fuentes: El País, Al Jazeera.
 [ITEM]
 [ES]
-Haití celebra —con dudas— a las tropas de Bukele
+Chile: Kast vuelve de Asia a una semana crítica.
 [ES]
-Policías haitianos y soldados salvadoreños recuperaron el estadio Sylvio Cator de Puerto Príncipe, que llevaba más de dos años en manos de una banda, y miles de personas salieron a la calle a vitorear a Nayib Bukele. Muchos haitianos ven en la misión salvadoreña una esperanza tras años de control criminal que han desplazado a más de 1,5 millones de personas. Otros temen que una ofensiva al estilo de la de El Salvador, con su alto coste en derechos, agrave una situación ya muy volátil.
+El presidente José Antonio Kast retoma hoy su agenda en La Moneda tras nueve días de gira por Vietnam, China y Japón, y se encuentra con la acusación constitucional contra el ministro de Justicia, Fernando Rabat, la tramitación del Presupuesto 2027 y la renuncia de la subsecretaria de Ciencias. La economía no ayuda: se proyecta un crecimiento del PIB de 0 % este año y un desempleo cercano al 10 %. Según Cadem, Rabat cayó 11 puntos y es el ministro peor evaluado (24 %), mientras Kast sube a 28 % de aprobación; Criteria lo sitúa en 23 %, con 68 % de desaprobación.
 [ES]
-Fuentes: The Guardian, La Tercera
+Fuentes: La Tercera, Emol.
 [ITEM]
 [ES]
-Un sismo de magnitud 6,7 sacude el centro de Perú
+México captura al "Chapo Isidro", uno de los diez más buscados por el FBI.
 [ES]
-El temblor, con epicentro en los Andes de Junín y a 129 km de profundidad, se sintió en Lima e incluso en Bogotá y Quito. Dejó al menos 15 heridos, cuatro viviendas inhabitables y más de 120 afectadas, además de derrumbes en carreteras y cortes de electricidad en zonas selváticas. La gran profundidad del sismo ayudó a que los daños en superficie fueran limitados.
+Fuerzas especiales mexicanas detuvieron en Guasave (Sinaloa) a Fausto Isidro Meza Flores, líder del Cártel Guasave, tras un enfrentamiento armado y semanas de cooperación con la inteligencia estadounidense. El FBI lo acusa de "inundar Estados Unidos con fentanilo, cocaína y heroína", y Washington ya pidió su extradición. La captura se suma a otras detenciones recientes de capos, que algunos expertos leen como un nuevo capítulo de México frente a la presión de Trump.
 [ES]
-Fuentes: Emol
+Fuentes: BBC News Mundo, The Washington Post, The Guardian.
+[ITEM]
+[ES]
+Colombia pide a X suspender la cuenta del expresidente Petro.
+[ES]
+El Ministerio TIC del gobierno colombiano envió una carta a la red social X para suspender la cuenta de Gustavo Petro por "posible incitación a la violencia". Según Emol, Petro exigió la renuncia del presidente De la Espriella, en medio de un paro nacional en el que miles de personas protestaron contra el gobierno. Es un pulso abierto entre un gobierno y un exmandatario por el control de su voz en redes.
+[ES]
+Fuentes: Emol (con EFE).
 [ES]
 Mundo.
 [ITEM]
 [ES]
-La UE abraza la línea dura: bendice centros de deportación en Ruanda que antes llamaba inhumanos
+El gas se dispara en Europa ante una ola de frío.
 [ES]
-Cinco Estados miembros, encabezados por Dinamarca y con Alemania dispuesta a enviar 40 personas, firmarán con Kigali un acuerdo para trasladar a Ruanda a solicitantes de asilo rechazados, con la Comisión Europea como observadora. El País recuerda que hace cinco años Bruselas tachó de "ilegal" un plan danés parecido, y que hoy la prioridad ya no es acoger, sino expulsar. Los países aspiran a que el centro funcione en la primavera de 2027, con rotaciones de unas cuatro semanas y hasta 1.200 personas al año.
+El contrato holandés de referencia llegó a subir un 8,6 %, hasta 96 euros por megavatio hora, antes de cerrar con un alza del 4 %, ante el pronóstico de frío intenso en el noroeste de Europa. Las reservas están en torno al 69 %, frente al 80 % habitual, por la menor llegada de gas de Qatar debido a la guerra en Oriente Medio y por el consumo extra durante las olas de calor del verano. Se anticipa un invierno caro para los hogares.
 [ES]
-Fuentes: El País
+Fuentes: The Guardian.
 [ITEM]
 [ES]
-Hackean una base de datos clave del FBI, y Trump ve el lado "positivo"
+Bélgica paralizada por una huelga nacional contra el costo de vida.
 [ES]
-Trump confirmó un ciberataque contra el Centro Nacional de Información Criminal del FBI, la base de datos que comparten las policías federales, estatales y locales de EE. UU. "No me gusta, pero quizá aprendamos cosas que nunca habríamos sabido", dijo, y lo vinculó con los "engaños" que, según él, se han tramado en su contra. No aclaró cómo se produjo el ataque ni si se extrajeron datos.
+Los tres grandes sindicatos belgas (CSC, FGTB y Synova) unieron fuerzas en una jornada nacional de protesta este lunes contra el alza del costo de vida y la pérdida de seguridad laboral. El paro en Skeyes, el controlador aéreo estatal, cerró por completo el espacio aéreo belga, y el transporte público también sufre cortes. Al Jazeera enmarca estas protestas en un "otoño caliente" europeo que refleja un malestar económico más profundo.
 [ES]
-Fuentes: DW en Español, BBC News, La Tercera
+Fuentes: Aftonbladet (con Le Soir), Al Jazeera.
 [ITEM]
 [ES]
-Trump blinda a sus contratistas frente al nuevo Congreso demócrata
+Israel: ataques de colonos y negociaciones de poder.
 [ES]
-Una orden ejecutiva obliga a los contratistas federales a coordinar con la Casa Blanca cualquier respuesta a peticiones de información del Congreso, bajo amenaza de perder sus contratos. Es la última jugada para frenar las investigaciones que prepara la nueva mayoría demócrata en ambas cámaras, que quiere examinar fondos federales que habrían acabado en empresas ligadas a la familia Trump. El País señala que la medida podría chocar con las leyes que protegen a los denunciantes.
+Colonos israelíes quemaron coches y pintaron grafitis en al menos cuatro pueblos de Cisjordania durante la noche del sábado, lo que llevó a abrir una investigación y a que el ejército se quejara de tener que desviar recursos. El líder opositor Gadi Eisenkot habló de "terrorismo judío", mientras los partidarios de Netanyahu lo acusan de cortejar a los partidos árabes. En paralelo, Netanyahu y Eisenkot negocian sin acuerdo por ahora una fórmula para formar gobierno.
 [ES]
-Fuentes: El País, The New York Times
+Fuentes: The Washington Post, El País, Emol.
 [ITEM]
 [ES]
-Corea del Sur: dimite el ministro de Educación por el escándalo de trampas con IA
+Reino Unido se acerca de nuevo a la UE, diez años después del Brexit.
 [ES]
-Choi Kyo-jin renunció tras una semana de pánico por el uso de IA para hacer trampa, que estalló cuando el primer puesto de un examen nacional confesó haber usado una minicámara y un móvil, días antes del decisivo suneung, el examen de acceso a la universidad. El Gobierno improvisó medidas como bloquear el wifi público en las sedes, pero los sindicatos docentes las criticaron por tardías, y Choi, de 72 años, provocó indignación al admitir que "por su edad" no confiaba en poder detectar a los tramposos.
+El primer ministro Andy Burnham presentará hoy ante el Parlamento el acuerdo "histórico" alcanzado el viernes con Bruselas, que abre oportunidades para que los jóvenes vivan, estudien y viajen por el continente y vincula los mercados de emisiones. Burnham lo plantea como "una elección entre un statu quo roto o el cambio". Pero el entusiasmo choca con la realidad política: conservadores y laboristas reabren el debate sobre hasta dónde acercarse.
 [ES]
-Fuentes: The Guardian, Xinhua Español
+Fuentes: BBC News, El País, La Tercera.
 [ITEM]
 [ES]
-La Cruz Roja avisa: pronto será tarde para regular las armas autónomas
+Indonesia: al menos 24 muertos en el incendio de una fábrica de dulces.
 [ES]
-Al cierre de una conferencia en Ginebra con más de 120 Estados, el CICR advirtió de que el desarrollo de armas con IA va más rápido que los esfuerzos por regularlas, y de que pronto no se podrá "volver a meter al genio en la botella". La conferencia solo acordó seguir discutiendo un instrumento durante dos años, lejos del tratado vinculante que piden Guterres y la Cruz Roja, que propone prohibir su uso contra personas. Ya hay víctimas: tres civiles murieron en julio en Zaporiyia por un dron ruso guiado por IA.
+El fuego arrasó el sábado la fábrica de PT Fonusa Agung Mulia en Cikande, a unos 50 kilómetros de Jakarta, y unas 30 personas siguen desaparecidas. Los primeros informes apuntan a un cortocircuito en un aire acondicionado, y el gobierno revisará si se cumplían los protocolos de seguridad. Los cuerpos están tan dañados que las familias deben aportar muestras de ADN para identificarlos.
 [ES]
-Fuentes: The Guardian
-[ITEM]
-[ES]
-Incendio en una fábrica de dulces en Indonesia: tres muertos y 36 desaparecidos
-[ES]
-El fuego se declaró en una fábrica de confitería al oeste de Yakarta y los familiares de los desaparecidos se agolpan a sus puertas a la espera de noticias. Los rescatistas han sacado con vida al menos a 15 personas, cuatro de ellas hospitalizadas, y las autoridades aún no saben qué causó el incendio.
-[ES]
-Fuentes: BBC News, Al Jazeera, DW en Español, The Guardian
+Fuentes: The Guardian, Reuters, BBC News.
 [ES]
 Tecnología y Nicho.
 [ITEM]
 [ES]
-Signal bloquea las capturas de pantalla ante la "amenaza existencial" de los agentes de IA
+Nvidia: la pareja de Jensen Huang habría estado en contacto con el espionaje chino.
 [ES]
-Signal limitará las capturas de pantalla en sus apps de Android e iOS, como ya hacía en Windows. Su presidenta, Meredith Whittaker, explica que los sistemas operativos que integran agentes de IA capaces de "escanear" la pantalla minan la capacidad de la app para garantizar la privacidad, porque los datos acaban en bases locales o servidores fuera de su control. Ella misma reconoce que es una solución "incompleta" y que el usuario puede desactivarla.
+Según revela The New York Times, Alice Huang mantuvo contactos con un funcionario del Ministerio de Seguridad del Estado chino durante más de un año, desde la primavera de 2025 hasta este otoño, justo mientras duraba su relación secreta con el entonces CEO de Nvidia. Antes había sido alta ejecutiva de Megaspeed, empresa que compró grandes cantidades de chips avanzados de Nvidia, parte de los cuales habría acabado en China. Funcionarios estadounidenses advierten de que podría ser parte de un plan más amplio, y el escándalo sigue arrastrando a las tecnológicas en bolsa.
 [ES]
-Fuentes: TechCrunch
+Fuentes: Aftonbladet (citando a The New York Times, con muro de pago), TechCrunch.
 [ITEM]
 [ES]
-Meta replantea su meta de cero emisiones netas para 2030 por culpa de sus centros de datos de IA
+La prueba de Riemann con IA: correcta según las máquinas, incomprensible para los humanos.
 [ES]
-En su informe de sostenibilidad de 2026, Meta admite que está "reevaluando" el objetivo, tras registrar el mayor aumento porcentual de emisiones de las grandes tecnológicas en plena carrera por construir centros de datos. "Nuestras ambiciones a largo plazo no han cambiado, pero nuestro entorno operativo sí", escriben sus responsables. Ars Technica se pregunta si otras empresas seguirán el mismo camino.
+El matemático de Anthropic Levent Alpöge anunció el viernes que, junto a Claude, demostró la hipótesis de Riemann, un problema abierto desde hace 167 años, pero la prueba existe sobre todo como 17 millones de líneas de código en Lean. Los equipos de Lean y Mathlib la dan por verificada y James Maynard cree que se sostendrá, aunque el Instituto Clay aún la lista como sin resolver; Alpöge dijo que, al final, Claude lo "dejó atrás". El mismo día apareció una prueba humana rival de 940 páginas, de Alessandro Masullo, que John Baez intenta explicar en un post muy comentado en Hacker News.
 [ES]
-Fuentes: Ars Technica
+Fuentes: SvD, BBC News, TechCrunch, Hacker News (blog de John Baez).
 [ITEM]
 [ES]
-Una pastilla contra el cáncer de páncreas, celebrada como el mayor avance en décadas
+Signal bloquea las capturas de pantalla ante los agentes de IA del sistema operativo.
 [ES]
-En un ensayo con 61 pacientes con cáncer de páncreas avanzado, el daraxonrasib, un inhibidor de KRAS, frenó el crecimiento tumoral en el 90 % de los casos, redujo o eliminó los tumores en más del 60 % e hizo indetectable el cáncer en cerca del 8 %. Al año seguía vivo el 76,6 % de los pacientes, frente al 40-45 % habitual con quimioterapia sola. Los médicos insisten en que aún no es una cura, pero el oncólogo que presentó los datos en Barcelona dijo que es "lo más cerca de una cura" que ha visto.
+Signal empezará a limitar las capturas de pantalla en Android e iOS, como ya hacía en Windows, porque los sistemas operativos con agentes de IA que "leen" la pantalla amenazan su capacidad de garantizar la privacidad. Su presidenta, Meredith Whittaker, lo llamó una "amenaza existencial" y admitió que es una solución "incompleta". Los usuarios pueden desactivar la función, aunque eso "rompe" las garantías de privacidad.
 [ES]
-Fuentes: The Guardian (vía Hacker News)
+Fuentes: TechCrunch.
 [ITEM]
 [ES]
-Toyota, Nissan y Honda estandarizarán piezas para competir con China
+OpenAI propone cómo medir la velocidad de la IA para poder frenarla.
 [ES]
-Los tres mayores fabricantes japoneses empezarán por unificar criterios de calidad del acero, protocolos para plásticos y resinas y un código de colores común para el cableado, partes que el cliente no ve pero que pesan mucho en los costes. La patronal japonesa del automóvil quiere extender después la estandarización a más componentes, primero con proveedores locales y luego internacionales.
+El científico jefe de OpenAI, Jakub Pachocki, publicó un texto, el más votado hoy en Hacker News, en el que propone la "perplejidad" (qué tan bien predice un modelo la siguiente palabra) como métrica estable para fijar límites al ritmo de desarrollo. Llega después de que Dario Amodei, de Anthropic, propusiera "marcar el paso de la frontera" con estándares de seguridad comunes, una idea que Sam Altman y Elon Musk parecen apoyar. Altman lo definió como "lo más importante que OpenAI ha publicado en un tiempo".
 [ES]
-Fuentes: Car and Driver (vía Hacker News)
+Fuentes: TechCrunch, Hacker News.
+[ITEM]
+[ES]
+Los centros de datos, en el centro de la reacción contra las grandes tecnológicas.
+[ES]
+En su libro Hyperscale, el periodista Paris Marx sostiene que la expansión de los centros de datos es "fundamentalmente insostenible", y TechCrunch señala que el rechazo a estas instalaciones fue uno de los motores de la ola demócrata en las elecciones de mitad de mandato. Marx lo explica por lo concreto del impacto: la factura de la luz, el agua y el ruido se notan "sin importar de qué lado político estés". Mientras tanto, la BBC retrata un San Francisco en pleno auge de la IA donde crece el miedo a un estallido.
+[ES]
+Fuentes: TechCrunch, BBC News.
 [ES]
 Suecia y Noruega.
 [ITEM]
 [ES]
-Sigue sin apagarse el carguero ruso atacado en el golfo de Finlandia
+Suecia: "momento decisivo" en las negociaciones de gobierno.
 [ES]
-El Sparta II, sancionado por EE. UU. y Ucrania por transportar armas para el ejército ruso y propiedad de una empresa del Ministerio de Defensa de Rusia, sigue con focos de calor en sus contenedores tras el ataque con drones, presuntamente ucraniano, del sábado. Las autoridades finlandesas no han podido descartar que lleve material militar, y el barco, que iba de San Petersburgo a Kaliningrado, será sacado de aguas finlandesas cuando acabe la extinción. Los 16 tripulantes fueron evacuados a un buque de rescate ruso.
+Socialdemócratas, Centro y Verdes ofrecieron al Partido de la Izquierda un "paquete inicial", con un gabinete interno de líderes y oficinas propias en el gobierno, a través de un artículo de opinión en Expressen. La líder de la Izquierda, Ida Gabrielsson, respondió "gracias, pero no gracias" y dijo que habían pedido no publicarlo y que se sintieron atropellados. El socialdemócrata Mikael Damberg advirtió que "es un momento decisivo" y que sin negociación es muy difícil construir una cooperación, más de dos meses después de las elecciones del 13 de septiembre.
 [ES]
-Fuentes: SVT Nyheter, Aftonbladet, SvD, DN
+Fuentes: Aftonbladet, SvD, SVT Nyheter.
 [ITEM]
 [ES]
-Suecia: el Gobierno en funciones recorta un tercio el dinero para proteger la naturaleza
+Sospecha de brote de sarampión en Estocolmo.
 [ES]
-El presupuesto de transición para 2027 deja la partida de protección de la naturaleza en 776 millones de coronas, un tercio menos que en 2026 y la mitad que en 2024, pese a que la norma de un presupuesto de transición es mantener el nivel del año anterior. Gobiernos provinciales y ONG ecologistas advierten de que el trabajo "se paralizará" y de que Suecia incumplirá el objetivo internacional de proteger el 30 % del medio marino. La ministra Romina Pourmokhtari sostiene que el recorte ya estaba previsto.
+Entre 200 y 250 personas están siendo contactadas para hacerse pruebas después de que un paciente con sarampión confirmado pasara varias horas en urgencias del hospital Södersjukhuset. El hospital abrió una clínica temporal de vacunación para quienes necesiten una dosis de refuerzo. Las autoridades sanitarias siguen la cadena de contagios.
 [ES]
-Fuentes: SVT Nyheter
+Fuentes: SVT Nyheter, Aftonbladet, SvD.
 [ITEM]
 [ES]
-La policía sueca prueba a detener, interrogar e investigar en el mismo lugar
+Noruega: Vår Energi compra el negocio noruego de ConocoPhillips, incluido Ekofisk.
 [ES]
-Un nuevo método, que se está probando en varias regiones, encarga a agentes uniformados en la calle buena parte de la investigación de delitos sencillos: detener, tomar declaración y cerrar el caso para la fiscalía sin pasar por los investigadores de comisaría. La jefa nacional de policía, Petra Lundh, dice que el objetivo es esclarecer más delitos y liberar a los investigadores para casos complejos, aunque el sindicato policial reconoce reacciones mixtas por la carga de trabajo.
+La petrolera estadounidense ConocoPhillips, presente desde el inicio de la aventura petrolera noruega, vende sus operaciones en el país a Vår Energi, que se queda con Ekofisk, el primer campo que entró en producción en la plataforma continental noruega, descubierto en 1969. Los sindicatos celebran que el comprador tenga sede en Noruega, pero piden garantías de que no habrá despidos forzosos y de que se mantendrán los convenios y las pensiones de unos 1.600 empleados.
 [ES]
-Fuentes: Aftonbladet, SvD
-[ITEM]
-[ES]
-Noruega: un ataque DDoS tumba durante horas el acceso digital ID-porten
-[ES]
-ID-porten, el servicio de identificación que los noruegos usan para entrar en los trámites públicos en línea, tuvo problemas el sábado desde las 13:15 tras un ataque de denegación de servicio. Hacia las 17:15, según la agencia NTB, volvía a funcionar con normalidad.
-[ES]
-Fuentes: NRK
+Fuentes: NRK.
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
 [ES]
 "Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes."
 [ES]
-Hoy la IA aparece en todas partes a la vez, y no siempre con buena cara. La misma tecnología que ayudó a resolver un problema matemático de 167 años obliga a Signal a bloquear capturas, empuja a Meta a aflojar sus compromisos climáticos, tumba a un ministro en Corea y entra en el campo de batalla más rápido de lo que la diplomacia puede regularla. El patrón es que la capacidad avanza a saltos y las instituciones (exámenes, tratados, metas de emisiones) reaccionan tarde y a la defensiva. Vale la pena vigilar si esto se queda en fricción o si empieza a romper normas que dábamos por estables.
+Si juntas el fracaso de la COP31 con el salto del gas en Europa, aparece un mismo hilo: la energía vuelve a ser un asunto de seguridad nacional más que de clima. Con el gas de Qatar frenado por la guerra en Oriente Medio y los almacenes europeos por debajo de lo normal, es difícil que los gobiernos firmen compromisos de abandonar los fósiles justo cuando temen un invierno caro. Para ti, en América Latina o en España, esto puede traducirse en precios de energía e importaciones más altos, pero también en oportunidad para los exportadores de gas, cobre y litio de la región, que vale la pena vigilar.
 [ES]
-El hilo energético-climático conecta varias piezas: una COP31 que no logra ni nombrar los combustibles fósiles, un Meta que admite que sus centros de datos disparan emisiones y un Gobierno sueco que recorta la protección de la naturaleza. Si la demanda eléctrica de la IA sigue creciendo y la ambición climática se diluye, para América Latina eso puede significar dos cosas a la vez: más demanda (y mejores precios) de cobre, litio y energía renovable para Chile, Perú o Argentina, y menos financiación para la adaptación, justo lo que el Grupo Africano y muchos países del sur echan en falta en Antalya. No es una predicción segura, pero sí una tensión que conviene seguir.
+El segundo hilo es la fragilidad del auge de la IA. Una semana de caídas obliga a Corea, Taiwán y China a preparar redes de seguridad, el escándalo de Nvidia mezcla chips con espionaje, y en EE. UU. el rechazo a los centros de datos ya pesa en las urnas. Si la corrección sigue, los fondos podrían retirarse de los mercados emergentes, con presión sobre monedas como el peso chileno o el colombiano; si se estabiliza, la demanda de cobre chileno y de energía para centros de datos seguiría firme. No es una predicción segura, pero el péndulo entre euforia y miedo se mueve cada vez más rápido.
 [ES]
-En lo geopolítico, Rusia prueba los límites de la OTAN en Polonia, Dinamarca y el Báltico mientras Washington mira hacia otro lado, y la UE responde endureciéndose hacia dentro, con deportaciones a Ruanda. Para el mundo hispano esto llega por dos vías: la elección española del 29-N, donde el debate migratorio y un posible papel decisivo de Vox pueden cambiar la voz de España en Bruselas (y en la relación UE-Latinoamérica), y una Europa más volcada en su defensa, con menos atención y presupuesto para el sur global.
+El tercer hilo es la política de bloques y de bolsillo. España llega al 29-N con la derecha por delante, Suecia sigue sin gobierno, Bélgica se paraliza por el costo de vida y en EE. UU. los demócratas ganan con fuerza. El malestar económico parece estar castigando a quien gobierna, sea de izquierda o de derecha, y eso incluye el caso de Kast en Chile, con su aprobación por debajo de su voto en primera vuelta. Si te preguntas qué sigue en la región, vale la pena mirar menos la ideología y más el desempleo y la inflación.
 [ES]
-Y en casa, la seguridad manda. La captura del "Chapo Isidro" bajo presión de Trump, la exportación del modelo Bukele a Haití y un Kast que paga en las encuestas los tropiezos de su gabinete muestran que la región sigue votando y aplaudiendo según quién promete orden. La pregunta de fondo es si ese orden llega con instituciones más fuertes o con atajos que se pagan después, como el propio Guasave en llamas sugiere.
+Por último, la prueba de Riemann y la decisión de Signal hablan de lo mismo desde dos lados: ¿qué pasa cuando las máquinas pueden "ver" y "pensar" más allá de lo que los humanos podemos verificar o controlar? La propuesta de OpenAI de medir y limitar el ritmo de la IA sugiere que incluso la industria empieza a buscar frenos. Para los países hispanohablantes, que en su mayoría importan esta tecnología, la pregunta es si tendrán voz en esas reglas o solo las recibirán.
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
 [ES]
-Seguimiento continuo de la hipótesis de fondo: un barrido diario de las noticias de hoy, leído a la luz de la tendencia reciente del registro, no una nueva argumentación completa.
+Seguimiento continuo de la hipótesis de fondo: un escaneo diario que lee las noticias de hoy a la luz de la tendencia reciente, no una nueva argumentación completa.
 [ES]
-Hoy (a) vuelve a recibir apoyo, y la racha ya es casi ininterrumpida desde principios de mes: un ministro surcoreano cae en cuestión de días por no anticipar las trampas con IA, y la hipótesis de Riemann, un "trono" intelectual de 167 años, se resuelve en una colaboración entre un matemático y un modelo de IA, con la comunidad verificándola en 24 horas (Lean, The Guardian). Para (b), la señal es ambigua, en línea con la serie mayoritariamente neutral de la última semana: Alpöge dice que actuó por una obsesión personal que no podía aplazar, lo que se parece a seguir la voz interior, pero publicó una prueba que todavía nadie entiende, y el caso coreano es puro criterio delegado en la IA.
+Hoy (a), el acortamiento de los ciclos de autoridad, vuelve a encontrar apoyo, y ya suma 27 días seguidos. La caída de Jensen Huang, de ícono de la industria a figura salpicada por sospechas de espionaje (Aftonbladet), y la frase de Levent Alpöge de que Claude lo "dejó atrás" en la prueba de Riemann (SvD) muestran lo rápido que se desplaza quién "sabe" y quién manda. (b), la voz interior, rompe una racha de cuatro días neutrales con una señal de apoyo débil: Signal elige proteger el criterio y la privacidad de sus usuarios frente a los agentes de IA (TechCrunch), y la reacción ciudadana contra los centros de datos nace de experiencias concretas, no de consignas (TechCrunch). Es una señal institucional más que personal, así que conviene no sobrevalorarla.
 [ES]
-(c) sigue en desafío, prolongando una racha que no se ha roto en todo el registro: los coros de "¡A por ellos!" y "¡No pasarán!" en España y el giro de la UE hacia las deportaciones en Ruanda refuerzan los bloques, no los disuelven (El País). (d) suma apoyo por la movilización colectiva de las comunidades de Lean y Mathlib para verificar la prueba en un día, un ejemplo nítido de colaboración humana organizada. El cuadro de hoy coincide con la revisión integral de noviembre, que concluyó net challenge: (a) y (d) avanzan, pero (b) y (c) no se mueven, así que la cadena sigue sin propagarse.
+(c) sigue estancado en el desafío por decimoctavo día consecutivo: bloques fijos en España (El País), el choque público entre la Izquierda y los socialdemócratas en Suecia (Aftonbladet) y el colapso de la COP31 (BBC News). (d) suma su noveno día seguido de apoyo con la huelga conjunta de los tres grandes sindicatos belgas (Aftonbladet), aunque, como en días anteriores, es una acción colectiva por agravios económicos más que el fruto de una voz interior fortalecida. La revisión integral de noviembre concluyó net challenge, sin enlace en la cadena, y nada de lo de hoy cambia ese veredicto: (a) y (d) siguen fuertes por su lado, mientras (b) apenas se mueve y (c) no despega.
