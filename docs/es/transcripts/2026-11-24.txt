@@ -1,0 +1,154 @@
+[ES]
+Hola, este es tu Resumen Diario del martes 24 de noviembre de 2026.
+[ES]
+Nota sobre las fuentes: hoy no se pudieron leer, ni directamente ni con el extractor, BBC News Mundo, AP News, The New York Times, los feeds RSS de BBC News, Ars Technica, Aftonbladet y NRK (la extracción de NRK devolvió una página vacía); The Washington Post solo entregó una portada antigua en caché. Cubrí esos huecos con Reuters, The Guardian, Al Jazeera, DW en Español, Emol, La Tercera, TechCrunch, Hacker News, SVT, DN y SvD. El País, The Guardian, Reuters, DW, DN y SvD se leyeron mediante el extractor.
+[ES]
+Titulares.
+[ES]
+Jensen Huang vuelve a Nvidia y Wall Street vive su mejor día desde 2025.
+[ES]
+Once días después de aceptar su renuncia, la junta de Nvidia devolvió por unanimidad a Jensen Huang el cargo de consejero delegado, y la acción se disparó un 31,5 %, sumando unos 950.000 millones de dólares en una sola jornada; el Nasdaq cerró con +6,5 % y el S&P 500 con +4,7 %. Trump dijo a CNBC que él "convenció" a la junta, y según The Guardian podría haber ganado hasta 15 millones de dólares con sus acciones de Nvidia, lo que ha desatado una fuerte reacción política. En paralelo, Washington añadió a Megaspeed, la empresa en el centro del escándalo de presunto espionaje chino, a su lista negra de exportaciones, y Huang testificará ante el Senado el 3 de diciembre. Citi advierte de señales parecidas a las previas a la burbuja puntocom.
+[ES]
+Fuentes: The Guardian, Al Jazeera, Emol (AFP), TechCrunch, SVT.
+[ES]
+España, a cinco días del 29-N: la derecha mantiene ventaja y el debate se juega en bloques.
+[ES]
+Los últimos sondeos permitidos antes de la veda sitúan al PP primero, con entre un 30 % y un 32 %, y la suma con Vox por encima de los 176 escaños; el CIS, en cambio, da al PSOE casi diez puntos de ventaja. En el debate a ocho de RTVE, la izquierda y el PNV cargaron contra un posible Gobierno de PP y Vox ("con Vox no, nada, nunca", dijo Maribel Vaquero), mientras PP y Vox acusaron a la izquierda de la "legislatura del muro"; vivienda e impuestos marcaron el choque. Pedro Sánchez, por su parte, propuso un impuesto a los patrimonios de más de 100 millones de euros para financiar crianza y vivienda.
+[ES]
+Fuentes: El País, Emol (EFE y AFP).
+[ES]
+La guerra de Ucrania se extiende al Mediterráneo y al Báltico.
+[ES]
+Zelenski confirmó que drones navales ucranianos atacaron cerca de Bengasi, en Libia, la corbeta rusa Merkury y un carguero, y Finlandia atribuye a Ucrania el incendio del buque Sparta II, rumbo a Kaliningrado. Moscú acusó a Estonia de estar "al borde de desatar una guerra abierta" por cerrar su frontera desde el 1 de diciembre, Medvédev volvió a mencionar el arma nuclear, y Polonia investiga una nueva violación de su espacio aéreo por un dron ruso. El canciller alemán Friedrich Merz pidió a Rusia frenar sus "peligrosas provocaciones", mientras el Financial Times informa de que el Pentágono retrasa la entrega de unos 60 interceptores Patriot a Kiev.
+[ES]
+Fuentes: La Tercera, Al Jazeera, The Guardian, DN.
+[ES]
+La COP31 termina en Turquía sin consenso.
+[ES]
+La cumbre climática de la ONU en Antalya cerró el domingo tras unas 48 horas extra de negociación sin acuerdo sobre el "Pacto de Antalya", por lo que sus decisiones no fueron adoptadas. El jefe climático de la ONU, Simon Stiell, rescató avances en transición justa y electrificación, pero António Guterres se declaró decepcionado y pidió "hacer mucho más".
+[ES]
+Fuente: Xinhua Español.
+[ES]
+España y Latinoamérica.
+[ES]
+Chile: el Presupuesto 2027 va a comisión mixta.
+[ES]
+La Cámara rechazó en tercer trámite varias partidas que el Senado había modificado, entre ellas las de Interior, Agricultura, Serviu, Mujer, Culturas y Deporte, además de las asignaciones a expresidentes. El proyecto pasa ahora a una comisión mixta de cinco diputados y cinco senadores, que deberá zanjar las diferencias antes de una nueva votación.
+[ES]
+Fuente: Emol.
+[ES]
+Kast se da 100 días para mostrar resultados.
+[ES]
+Tras su décimo consejo de gabinete, el presidente José Antonio Kast fijó un plazo hasta el 11 de marzo, cuando cumple un año de gobierno, con foco en empleo y seguridad. Llega en un momento delicado: caída en las encuestas, una economía débil y frentes abiertos como la acusación constitucional contra el ministro de Justicia, Rabat, cuya defensa sostuvo que las rebajas de condena responden a tratados internacionales.
+[ES]
+Fuente: La Tercera.
+[ES]
+Colombia: atentado frente a la Gobernación del Meta.
+[ES]
+Una explosión la noche del lunes frente a la sede de la Gobernación del Meta, en Villavicencio, dejó al menos 19 heridos; testigos hablan de un posible coche bomba, aún sin confirmar. El presidente Abelardo de la Espriella lo atribuyó al narcoterrorismo y descartó dialogar con esos grupos, y la principal hipótesis apunta a disidencias de las FARC como represalia por una operación militar.
+[ES]
+Fuente: La Tercera.
+[ES]
+Mundo.
+[ES]
+"Sputnik-S": el temor a un arma nuclear rusa en órbita.
+[ES]
+Medios alemanes informan de que Rusia tendría construido un satélite con carga nuclear y podría lanzarlo en unos 60 días; Merz calificó esos informes de "chocantes". DW explica que una explosión así generaría un pulso electromagnético capaz de inutilizar satélites a cientos de kilómetros, con efectos en navegación, banca y telecomunicaciones, aunque expertos como Pavel Podvig consideran muy baja la probabilidad de que Moscú dé ese paso. El Tratado del Espacio Ultraterrestre de 1967 prohíbe colocar armas nucleares en órbita.
+[ES]
+Fuentes: DW en Español, DN, NRK.
+[ES]
+Ormuz, minas y hambre: las rutas del comercio se estrechan.
+[ES]
+La Guardia Revolucionaria iraní dice que tres petroleros se incendiaron tras chocar con minas navales en el estrecho de Ormuz, y el primer ministro de Catar advirtió que la región no resiste otra escalada entre EE. UU. e Irán. Ante el Consejo de Seguridad, el Programa Mundial de Alimentos alertó de un "triple cuello de botella" (Ormuz, Bab el-Mandeb y el mar Negro) que podría poner en riesgo la ayuda para 7,3 millones de personas.
+[ES]
+Fuente: Al Jazeera.
+[ES]
+La Fed apunta a otra subida de tipos en diciembre.
+[ES]
+John Williams, presidente de la Reserva Federal de Nueva York, dijo que la inflación sigue "demasiado alta" y que "aún queda trabajo por hacer" para volver al 2 %. Los mercados esperan una subida de un cuarto de punto desde el rango actual de 3,75 %–4,00 % en la reunión del 8 y 9 de diciembre, y Williams no descartó subir en reuniones consecutivas.
+[ES]
+Fuente: Reuters.
+[ES]
+Sheikh Hasina anuncia su regreso a Bangladesh.
+[ES]
+La ex primera ministra, condenada a muerte en ausencia, dice que volverá desde India el 16 de diciembre, aniversario del fin de la guerra de 1971. El Gobierno bangladesí responde que solo podrá regresar extraditada, como condenada; la ONU cifra en hasta 1.400 los muertos en las protestas de 2024.
+[ES]
+Fuente: Al Jazeera.
+[ES]
+Tecnología y Nicho.
+[ES]
+CrowdStrike comprará Zscaler por 44.000 millones de dólares.
+[ES]
+La operación, íntegramente en acciones, une la protección de dispositivos de CrowdStrike con la plataforma "zero trust" de Zscaler, que tiene unos 8.000 clientes corporativos. Necesita aprobación regulatoria y se espera que cierre dentro de aproximadamente un año.
+[ES]
+Fuente: TechCrunch.
+[ES]
+Anthropic lanza Claude Ship: agentes que revisan y aprueban código.
+[ES]
+Es un conjunto de agentes de IA que revisan cambios de código, corrigen problemas y aprueban cambios rutinarios; la revisión ya está disponible y los agentes de aprobación están en beta. Las políticas de aprobación se escriben en lenguaje natural dentro del repositorio, y Anthropic sugiere empezar en modo solo observación.
+[ES]
+Fuente: TechCrunch.
+[ES]
+Ladybird, el navegador hecho desde cero, entra en alfa.
+[ES]
+El proyecto de Andreas Kling publicó versiones alfa para macOS y Linux con un motor propio, no derivado de Chrome ni de Firefox. Advierten que algunos sitios fallarán y que aún no hay garantías de seguridad, pero fue la noticia más votada de Hacker News del día.
+[ES]
+Fuentes: Ladybird, Hacker News.
+[ES]
+Stalwart quiere sustituir a Microsoft Exchange.
+[ES]
+El servidor de correo de código abierto Stalwart 1.2.0 incorpora los protocolos de Exchange (MAPI, EWS, ActiveSync y Autodiscover), de modo que Outlook clásico, Apple Mail y los móviles pueden conectarse como a un Exchange. La función viene en la edición comunitaria AGPL, desactivada por defecto.
+[ES]
+Fuentes: Stalwart, Hacker News.
+[ES]
+Linux completo dentro del navegador.
+[ES]
+Farid Zakaria describe  que arranca entornos Linux basados en Nix dentro del navegador gracias a "unkernel", un kernel Linux compilado a WebAssembly. Funcionan gráficos, sonido y red, y llegó a ejecutar Firefox dentro de Firefox, aunque tardó más de una hora en renderizar.
+[ES]
+Fuentes:  Hacker News.
+[ES]
+Suecia y Noruega.
+[ES]
+Suecia: el Centro vuelve a negociar con la derecha.
+[ES]
+La líder de Centerpartiet, Elisabeth Thand Ringqvist, anunció que retoma las conversaciones con Moderaterna, Kristdemokraterna y Liberalerna, después de que el Partido de la Izquierda rechazara el "paquete inicial" ofrecido por socialdemócratas, verdes y Centro. Según el comentarista de SVT Mats Knutson, a la Izquierda le faltaban temas clave y le pesaba el valor simbólico de tener ministros; este martes todos los líderes se reúnen con el presidente del Riksdag, Andreas Norlén.
+[ES]
+Fuente: SVT Nyheter.
+[ES]
+Sospecha de brote de sarampión en Estocolmo.
+[ES]
+Una persona con sarampión confirmado pasó varias horas en urgencias del hospital Södersjukhuset, y entre 200 y 250 personas han sido contactadas para el rastreo de contactos. El hospital abrió un punto temporal de vacunación para quienes necesiten una dosis de refuerzo.
+[ES]
+Fuente: SVT Nyheter.
+[ES]
+Advierten de tarifas eléctricas "injustificadamente altas".
+[ES]
+La autoridad de competencia sueca, Konkurrensverket, alerta de que hogares y empresas podrían pagar durante años tarifas de red eléctrica excesivas. El motivo es la nueva propuesta del regulador energético para 2028–2031, que según Konkurrensverket mantiene una "sobrerrentabilidad" para las distribuidoras.
+[ES]
+Fuente: SvD.
+[ES]
+Karolina Ramqvist gana el Premio August.
+[ES]
+La autora se llevó el principal galardón literario sueco en ficción por "Nattsäsong", en una gala en el teatro Dramaten de Estocolmo. Per Svensson recibió a título póstumo el premio de no ficción por "När jag dog", y Moa Backe Åstot ganó en literatura infantil y juvenil.
+[ES]
+Fuente: SVT Nyheter.
+[ES]
+Conectando los Puntos.
+[ES]
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
+[ES]
+El regreso de Jensen Huang dice mucho sobre cómo funciona hoy el poder económico: una sola persona, un llamado presidencial y casi un billón de dólares de valor que aparece en un día. Que el presidente de EE. UU. diga que "hizo el trato" y a la vez gane dinero con la acción mezcla Estado, mercado y tecnología de un modo que antes habría sido escándalo mayor. Vale la pena vigilar si esto marca un nuevo estándar: empresas consideradas "demasiado estratégicas" cuyo gobierno corporativo se negocia en la Casa Blanca.
+[ES]
+Mientras tanto, la Fed sigue apuntando a subir tipos. Para ti, en Latinoamérica o España, esa combinación de euforia en la bolsa tecnológica y tipos más altos en EE. UU. suele traducirse en un dólar firme, presión sobre monedas como el peso chileno o el colombiano y financiamiento más caro. Si además Ormuz sigue minado y el PMA habla de un triple cuello de botella, el riesgo es que la energía y los alimentos vuelvan a encarecerse justo cuando presupuestos como el chileno se discuten con poco margen.
+[ES]
+La seguridad también se está volviendo más difusa: drones ucranianos frente a Libia, amenazas a Estonia, temores de un arma nuclear en órbita. El mensaje de fondo es que la infraestructura que damos por sentada (satélites, rutas marítimas, cables) es ahora parte del tablero. No es una predicción segura, pero una región tan dependiente del GPS, del comercio marítimo y de las exportaciones de materias primas como la nuestra tiene motivos para seguir esto de cerca.
+[ES]
+Y en política, el patrón de bloques se repite: el debate español de "con Vox nunca" frente a la "legislatura del muro", el Centro sueco cambiando de mesa de negociación, Kast intentando recuperar la agenda. Que la COP31 haya terminado sin consenso encaja en el mismo cuadro: cuesta cada vez más acordar algo entre muchos. Lo esperanzador, quizá, viene de lo pequeño: comunidades de código abierto que construyen un navegador o un servidor de correo propios, sin esperar a los gigantes.
+[ES]
+Vigilancia de la Hipótesis.
+[ES]
+Seguimiento continuo de la hipótesis de fondo: un escaneo diario informado por la tendencia reciente del registro, no solo por las noticias de hoy, y no una reargumentación completa.
+[ES]
+Para (a), el ciclo de autoridad más corto del año sigue escribiéndose: Huang salió y volvió a Nvidia en once días (The Guardian). Es apoyo, pero con un matiz: el líder caído fue restituido por presión política y del mercado, lo que también muestra cuánto resiste una figura de autoridad. Con esto, (a) suma más de dos semanas seguidas de señales de apoyo en el registro. Para (b), la señal es mixta: Claude Ship lleva la delegación del criterio a la IA hasta la aprobación de código (TechCrunch), mientras que proyectos como Ladybird o Stalwart apuestan por la autonomía frente a las grandes plataformas; queda en neutral, tras el apoyo de ayer, en línea con un (b) que sigue oscilando sin consolidarse.
+[ES]
+Para (c), el desafío continúa: el debate a ocho en España fue, según El País, sobre todo un choque de bloques (El País), y Rusia habla de "guerra abierta" con Estonia. Es la misma racha de casi un mes de desafíos en (c). Para (d), hay apoyo moderado: el Centro sueco vuelve a la mesa para que la formación de gobierno no se estanque (SVT) y las comunidades de código abierto colaboran para crear alternativas. Nada de hoy mueve el veredicto de la revisión integral de noviembre (net challenge, sin propagación en la cadena): (a) y (d) siguen fuertes, pero (b) y (c) no acompañan.
