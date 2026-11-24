@@ -1,185 +1,178 @@
 [SECTION intro]
 [ES]
-Resumen Diario, lunes 23 de noviembre de 2026.
+Hola, este es tu Resumen Diario del martes 24 de noviembre de 2026.
 [ES]
-Nota sobre las fuentes: The New York Times estaba tras su muro de pago hoy, así que sus historias principales (la mayoría demócrata en la Cámara y los contactos de Alice Huang con el espionaje chino) se cubren con BBC News, AP News y Aftonbladet. The Washington Post solo se pudo leer en parte; donde faltó el texto, se usaron otros medios. Reuters, AP News, TechCrunch y Xinhua Español se leyeron a través del extractor de respaldo.
+Nota sobre las fuentes: hoy no se pudieron leer, ni directamente ni con el extractor, BBC News Mundo, AP News, The New York Times, los feeds RSS de BBC News, Ars Technica, Aftonbladet y NRK (la extracción de NRK devolvió una página vacía); The Washington Post solo entregó una portada antigua en caché. Cubrí esos huecos con Reuters, The Guardian, Al Jazeera, DW en Español, Emol, La Tercera, TechCrunch, Hacker News, SVT, DN y SvD. El País, The Guardian, Reuters, DW, DN y SvD se leyeron mediante el extractor.
 [SECTION news]
 [ES]
 Titulares.
 [ITEM]
 [ES]
-La COP31 fracasa: la cumbre climática más larga de la historia termina sin acuerdo.
+Jensen Huang vuelve a Nvidia y Wall Street vive su mejor día desde 2025.
 [ES]
-Tras dos semanas en Antalya (Turquía) y una prórroga hasta el domingo, los países no lograron cerrar un acuerdo: la UE, las islas del Pacífico y Panamá rechazaron un texto final que ni siquiera mencionaba los "combustibles fósiles", y los países más pobres protestaron por la falta de compromisos financieros para adaptarse. Es el primer colapso así desde Copenhague 2009. António Guterres, en su última COP, acusó a los "poderosos intereses fósiles" de seguir "el manual de las tabacaleras", mientras el primer ministro australiano, Anthony Albanese, coanfitrión, lo atribuyó a "tiempos geopolíticos difíciles".
+Once días después de aceptar su renuncia, la junta de Nvidia devolvió por unanimidad a Jensen Huang el cargo de consejero delegado, y la acción se disparó un 31,5 %, sumando unos 950.000 millones de dólares en una sola jornada; el Nasdaq cerró con +6,5 % y el S&P 500 con +4,7 %. Trump dijo a CNBC que él "convenció" a la junta, y según The Guardian podría haber ganado hasta 15 millones de dólares con sus acciones de Nvidia, lo que ha desatado una fuerte reacción política. En paralelo, Washington añadió a Megaspeed, la empresa en el centro del escándalo de presunto espionaje chino, a su lista negra de exportaciones, y Huang testificará ante el Senado el 3 de diciembre. Citi advierte de señales parecidas a las previas a la burbuja puntocom.
 [ES]
-Fuentes: BBC News, DW en Español, The Washington Post, Reuters, Xinhua Español, Emol.
+Fuentes: The Guardian, Al Jazeera, Emol (AFP), TechCrunch, SVT.
 [ITEM]
 [ES]
-Ucrania reivindica el hundimiento de un buque de guerra ruso en Libia.
+España, a cinco días del 29-N: la derecha mantiene ventaja y el debate se juega en bloques.
 [ES]
-Volodímir Zelenski asumió la autoría del ataque que hundió la corbeta rusa Merkury en la base naval de Bengasi, con siete drones navales de fabricación ucraniana, y también de un ataque contra el carguero Angara. Lo llamó "una operación ucraniana ejemplar en respuesta a la guerra de Rusia"; el gobierno del este de Libia dice que el buque solo había parado a repostar de regreso a Rusia. Mientras tanto, un bombardeo ruso sobre Dýmer, en la región de Kiev, dejó entre 11 y 15 muertos según las fuentes, y los rescatistas sacaron con vida a un niño de 7 años de los escombros.
+Los últimos sondeos permitidos antes de la veda sitúan al PP primero, con entre un 30 % y un 32 %, y la suma con Vox por encima de los 176 escaños; el CIS, en cambio, da al PSOE casi diez puntos de ventaja. En el debate a ocho de RTVE, la izquierda y el PNV cargaron contra un posible Gobierno de PP y Vox ("con Vox no, nada, nunca", dijo Maribel Vaquero), mientras PP y Vox acusaron a la izquierda de la "legislatura del muro"; vivienda e impuestos marcaron el choque. Pedro Sánchez, por su parte, propuso un impuesto a los patrimonios de más de 100 millones de euros para financiar crianza y vivienda.
 [ES]
-Fuentes: The Guardian, El País, Al Jazeera, BBC News, DW en Español, Reuters, AP News.
+Fuentes: El País, Emol (EFE y AFP).
 [ITEM]
 [ES]
-Asia sale al rescate de sus bolsas tras el desplome tecnológico ligado a la IA.
+La guerra de Ucrania se extiende al Mediterráneo y al Báltico.
 [ES]
-Después de una semana de fuertes caídas, Corea del Sur preparó su fondo de estabilización del mercado, y Taiwán y China anunciaron medidas para frenar la sangría; el índice coreano tocó igualmente su nivel más bajo en diez meses. La venta masiva se modera este lunes, aunque algunos analistas ya hablan abiertamente de que "la burbuja de la IA ha estallado". El trasfondo: el escándalo de Nvidia y la volatilidad de Anthropic tras su salida a bolsa.
+Zelenski confirmó que drones navales ucranianos atacaron cerca de Bengasi, en Libia, la corbeta rusa Merkury y un carguero, y Finlandia atribuye a Ucrania el incendio del buque Sparta II, rumbo a Kaliningrado. Moscú acusó a Estonia de estar "al borde de desatar una guerra abierta" por cerrar su frontera desde el 1 de diciembre, Medvédev volvió a mencionar el arma nuclear, y Polonia investiga una nueva violación de su espacio aéreo por un dron ruso. El canciller alemán Friedrich Merz pidió a Rusia frenar sus "peligrosas provocaciones", mientras el Financial Times informa de que el Pentágono retrasa la entrega de unos 60 interceptores Patriot a Kiev.
 [ES]
-Fuentes: The Guardian, Xinhua Español, BBC News.
+Fuentes: La Tercera, Al Jazeera, The Guardian, DN.
 [ITEM]
 [ES]
-Los demócratas logran su mayor mayoría en la Cámara de EE. UU. desde 1992.
+La COP31 termina en Turquía sin consenso.
 [ES]
-Con la victoria de Chuck Hubbard sobre la veterana republicana Virginia Foxx en Carolina del Norte, por apenas 330 votos tras un recuento, los demócratas suman al menos 258 escaños frente a 173 republicanos, con cuatro carreras aún por decidir. Es la cifra más alta para cualquier partido desde 1992, y llega junto con el control del Senado. El resultado deja al presidente Trump frente a un Congreso claramente opositor en la segunda mitad de su mandato.
+La cumbre climática de la ONU en Antalya cerró el domingo tras unas 48 horas extra de negociación sin acuerdo sobre el "Pacto de Antalya", por lo que sus decisiones no fueron adoptadas. El jefe climático de la ONU, Simon Stiell, rescató avances en transición justa y electrificación, pero António Guterres se declaró decepcionado y pidió "hacer mucho más".
 [ES]
-Fuentes: BBC News, DW en Español, AP News (sustituyen a The New York Times, con muro de pago).
+Fuente: Xinhua Español.
 [ES]
 España y Latinoamérica.
 [ITEM]
 [ES]
-España: la derecha mantiene su ventaja a seis días del 29-N.
+Chile: el Presupuesto 2027 va a comisión mixta.
 [ES]
-La última encuesta de 40dB. para EL PAÍS y la SER, antes de la veda legal de sondeos, muestra que diez días de campaña apenas han movido el tablero: PP, Vox y UPN suman algo menos de 190 escaños, pero aún con más de diez de margen sobre la mayoría absoluta. Lo que sí se ha estrechado es la pelea por el primer puesto: el PP marca 31,8 % frente al 30,9 % del PSOE, con Vox en 17,3 %. Tres de cada cuatro electores dicen que irán a votar casi con seguridad, cinco puntos más que en 2023.
+La Cámara rechazó en tercer trámite varias partidas que el Senado había modificado, entre ellas las de Interior, Agricultura, Serviu, Mujer, Culturas y Deporte, además de las asignaciones a expresidentes. El proyecto pasa ahora a una comisión mixta de cinco diputados y cinco senadores, que deberá zanjar las diferencias antes de una nueva votación.
 [ES]
-Fuentes: El País, Al Jazeera.
+Fuente: Emol.
 [ITEM]
 [ES]
-Chile: Kast vuelve de Asia a una semana crítica.
+Kast se da 100 días para mostrar resultados.
 [ES]
-El presidente José Antonio Kast retoma hoy su agenda en La Moneda tras nueve días de gira por Vietnam, China y Japón, y se encuentra con la acusación constitucional contra el ministro de Justicia, Fernando Rabat, la tramitación del Presupuesto 2027 y la renuncia de la subsecretaria de Ciencias. La economía no ayuda: se proyecta un crecimiento del PIB de 0 % este año y un desempleo cercano al 10 %. Según Cadem, Rabat cayó 11 puntos y es el ministro peor evaluado (24 %), mientras Kast sube a 28 % de aprobación; Criteria lo sitúa en 23 %, con 68 % de desaprobación.
+Tras su décimo consejo de gabinete, el presidente José Antonio Kast fijó un plazo hasta el 11 de marzo, cuando cumple un año de gobierno, con foco en empleo y seguridad. Llega en un momento delicado: caída en las encuestas, una economía débil y frentes abiertos como la acusación constitucional contra el ministro de Justicia, Rabat, cuya defensa sostuvo que las rebajas de condena responden a tratados internacionales.
 [ES]
-Fuentes: La Tercera, Emol.
+Fuente: La Tercera.
 [ITEM]
 [ES]
-México captura al "Chapo Isidro", uno de los diez más buscados por el FBI.
+Colombia: atentado frente a la Gobernación del Meta.
 [ES]
-Fuerzas especiales mexicanas detuvieron en Guasave (Sinaloa) a Fausto Isidro Meza Flores, líder del Cártel Guasave, tras un enfrentamiento armado y semanas de cooperación con la inteligencia estadounidense. El FBI lo acusa de "inundar Estados Unidos con fentanilo, cocaína y heroína", y Washington ya pidió su extradición. La captura se suma a otras detenciones recientes de capos, que algunos expertos leen como un nuevo capítulo de México frente a la presión de Trump.
+Una explosión la noche del lunes frente a la sede de la Gobernación del Meta, en Villavicencio, dejó al menos 19 heridos; testigos hablan de un posible coche bomba, aún sin confirmar. El presidente Abelardo de la Espriella lo atribuyó al narcoterrorismo y descartó dialogar con esos grupos, y la principal hipótesis apunta a disidencias de las FARC como represalia por una operación militar.
 [ES]
-Fuentes: BBC News Mundo, The Washington Post, The Guardian.
-[ITEM]
-[ES]
-Colombia pide a X suspender la cuenta del expresidente Petro.
-[ES]
-El Ministerio TIC del gobierno colombiano envió una carta a la red social X para suspender la cuenta de Gustavo Petro por "posible incitación a la violencia". Según Emol, Petro exigió la renuncia del presidente De la Espriella, en medio de un paro nacional en el que miles de personas protestaron contra el gobierno. Es un pulso abierto entre un gobierno y un exmandatario por el control de su voz en redes.
-[ES]
-Fuentes: Emol (con EFE).
+Fuente: La Tercera.
 [ES]
 Mundo.
 [ITEM]
 [ES]
-El gas se dispara en Europa ante una ola de frío.
+"Sputnik-S": el temor a un arma nuclear rusa en órbita.
 [ES]
-El contrato holandés de referencia llegó a subir un 8,6 %, hasta 96 euros por megavatio hora, antes de cerrar con un alza del 4 %, ante el pronóstico de frío intenso en el noroeste de Europa. Las reservas están en torno al 69 %, frente al 80 % habitual, por la menor llegada de gas de Qatar debido a la guerra en Oriente Medio y por el consumo extra durante las olas de calor del verano. Se anticipa un invierno caro para los hogares.
+Medios alemanes informan de que Rusia tendría construido un satélite con carga nuclear y podría lanzarlo en unos 60 días; Merz calificó esos informes de "chocantes". DW explica que una explosión así generaría un pulso electromagnético capaz de inutilizar satélites a cientos de kilómetros, con efectos en navegación, banca y telecomunicaciones, aunque expertos como Pavel Podvig consideran muy baja la probabilidad de que Moscú dé ese paso. El Tratado del Espacio Ultraterrestre de 1967 prohíbe colocar armas nucleares en órbita.
 [ES]
-Fuentes: The Guardian.
+Fuentes: DW en Español, DN, NRK.
 [ITEM]
 [ES]
-Bélgica paralizada por una huelga nacional contra el costo de vida.
+Ormuz, minas y hambre: las rutas del comercio se estrechan.
 [ES]
-Los tres grandes sindicatos belgas (CSC, FGTB y Synova) unieron fuerzas en una jornada nacional de protesta este lunes contra el alza del costo de vida y la pérdida de seguridad laboral. El paro en Skeyes, el controlador aéreo estatal, cerró por completo el espacio aéreo belga, y el transporte público también sufre cortes. Al Jazeera enmarca estas protestas en un "otoño caliente" europeo que refleja un malestar económico más profundo.
+La Guardia Revolucionaria iraní dice que tres petroleros se incendiaron tras chocar con minas navales en el estrecho de Ormuz, y el primer ministro de Catar advirtió que la región no resiste otra escalada entre EE. UU. e Irán. Ante el Consejo de Seguridad, el Programa Mundial de Alimentos alertó de un "triple cuello de botella" (Ormuz, Bab el-Mandeb y el mar Negro) que podría poner en riesgo la ayuda para 7,3 millones de personas.
 [ES]
-Fuentes: Aftonbladet (con Le Soir), Al Jazeera.
+Fuente: Al Jazeera.
 [ITEM]
 [ES]
-Israel: ataques de colonos y negociaciones de poder.
+La Fed apunta a otra subida de tipos en diciembre.
 [ES]
-Colonos israelíes quemaron coches y pintaron grafitis en al menos cuatro pueblos de Cisjordania durante la noche del sábado, lo que llevó a abrir una investigación y a que el ejército se quejara de tener que desviar recursos. El líder opositor Gadi Eisenkot habló de "terrorismo judío", mientras los partidarios de Netanyahu lo acusan de cortejar a los partidos árabes. En paralelo, Netanyahu y Eisenkot negocian sin acuerdo por ahora una fórmula para formar gobierno.
+John Williams, presidente de la Reserva Federal de Nueva York, dijo que la inflación sigue "demasiado alta" y que "aún queda trabajo por hacer" para volver al 2 %. Los mercados esperan una subida de un cuarto de punto desde el rango actual de 3,75 %–4,00 % en la reunión del 8 y 9 de diciembre, y Williams no descartó subir en reuniones consecutivas.
 [ES]
-Fuentes: The Washington Post, El País, Emol.
+Fuente: Reuters.
 [ITEM]
 [ES]
-Reino Unido se acerca de nuevo a la UE, diez años después del Brexit.
+Sheikh Hasina anuncia su regreso a Bangladesh.
 [ES]
-El primer ministro Andy Burnham presentará hoy ante el Parlamento el acuerdo "histórico" alcanzado el viernes con Bruselas, que abre oportunidades para que los jóvenes vivan, estudien y viajen por el continente y vincula los mercados de emisiones. Burnham lo plantea como "una elección entre un statu quo roto o el cambio". Pero el entusiasmo choca con la realidad política: conservadores y laboristas reabren el debate sobre hasta dónde acercarse.
+La ex primera ministra, condenada a muerte en ausencia, dice que volverá desde India el 16 de diciembre, aniversario del fin de la guerra de 1971. El Gobierno bangladesí responde que solo podrá regresar extraditada, como condenada; la ONU cifra en hasta 1.400 los muertos en las protestas de 2024.
 [ES]
-Fuentes: BBC News, El País, La Tercera.
-[ITEM]
-[ES]
-Indonesia: al menos 24 muertos en el incendio de una fábrica de dulces.
-[ES]
-El fuego arrasó el sábado la fábrica de PT Fonusa Agung Mulia en Cikande, a unos 50 kilómetros de Jakarta, y unas 30 personas siguen desaparecidas. Los primeros informes apuntan a un cortocircuito en un aire acondicionado, y el gobierno revisará si se cumplían los protocolos de seguridad. Los cuerpos están tan dañados que las familias deben aportar muestras de ADN para identificarlos.
-[ES]
-Fuentes: The Guardian, Reuters, BBC News.
+Fuente: Al Jazeera.
 [ES]
 Tecnología y Nicho.
 [ITEM]
 [ES]
-Nvidia: la pareja de Jensen Huang habría estado en contacto con el espionaje chino.
+CrowdStrike comprará Zscaler por 44.000 millones de dólares.
 [ES]
-Según revela The New York Times, Alice Huang mantuvo contactos con un funcionario del Ministerio de Seguridad del Estado chino durante más de un año, desde la primavera de 2025 hasta este otoño, justo mientras duraba su relación secreta con el entonces CEO de Nvidia. Antes había sido alta ejecutiva de Megaspeed, empresa que compró grandes cantidades de chips avanzados de Nvidia, parte de los cuales habría acabado en China. Funcionarios estadounidenses advierten de que podría ser parte de un plan más amplio, y el escándalo sigue arrastrando a las tecnológicas en bolsa.
+La operación, íntegramente en acciones, une la protección de dispositivos de CrowdStrike con la plataforma "zero trust" de Zscaler, que tiene unos 8.000 clientes corporativos. Necesita aprobación regulatoria y se espera que cierre dentro de aproximadamente un año.
 [ES]
-Fuentes: Aftonbladet (citando a The New York Times, con muro de pago), TechCrunch.
+Fuente: TechCrunch.
 [ITEM]
 [ES]
-La prueba de Riemann con IA: correcta según las máquinas, incomprensible para los humanos.
+Anthropic lanza Claude Ship: agentes que revisan y aprueban código.
 [ES]
-El matemático de Anthropic Levent Alpöge anunció el viernes que, junto a Claude, demostró la hipótesis de Riemann, un problema abierto desde hace 167 años, pero la prueba existe sobre todo como 17 millones de líneas de código en Lean. Los equipos de Lean y Mathlib la dan por verificada y James Maynard cree que se sostendrá, aunque el Instituto Clay aún la lista como sin resolver; Alpöge dijo que, al final, Claude lo "dejó atrás". El mismo día apareció una prueba humana rival de 940 páginas, de Alessandro Masullo, que John Baez intenta explicar en un post muy comentado en Hacker News.
+Es un conjunto de agentes de IA que revisan cambios de código, corrigen problemas y aprueban cambios rutinarios; la revisión ya está disponible y los agentes de aprobación están en beta. Las políticas de aprobación se escriben en lenguaje natural dentro del repositorio, y Anthropic sugiere empezar en modo solo observación.
 [ES]
-Fuentes: SvD, BBC News, TechCrunch, Hacker News (blog de John Baez).
+Fuente: TechCrunch.
 [ITEM]
 [ES]
-Signal bloquea las capturas de pantalla ante los agentes de IA del sistema operativo.
+Ladybird, el navegador hecho desde cero, entra en alfa.
 [ES]
-Signal empezará a limitar las capturas de pantalla en Android e iOS, como ya hacía en Windows, porque los sistemas operativos con agentes de IA que "leen" la pantalla amenazan su capacidad de garantizar la privacidad. Su presidenta, Meredith Whittaker, lo llamó una "amenaza existencial" y admitió que es una solución "incompleta". Los usuarios pueden desactivar la función, aunque eso "rompe" las garantías de privacidad.
+El proyecto de Andreas Kling publicó versiones alfa para macOS y Linux con un motor propio, no derivado de Chrome ni de Firefox. Advierten que algunos sitios fallarán y que aún no hay garantías de seguridad, pero fue la noticia más votada de Hacker News del día.
 [ES]
-Fuentes: TechCrunch.
+Fuentes: Ladybird, Hacker News.
 [ITEM]
 [ES]
-OpenAI propone cómo medir la velocidad de la IA para poder frenarla.
+Stalwart quiere sustituir a Microsoft Exchange.
 [ES]
-El científico jefe de OpenAI, Jakub Pachocki, publicó un texto, el más votado hoy en Hacker News, en el que propone la "perplejidad" (qué tan bien predice un modelo la siguiente palabra) como métrica estable para fijar límites al ritmo de desarrollo. Llega después de que Dario Amodei, de Anthropic, propusiera "marcar el paso de la frontera" con estándares de seguridad comunes, una idea que Sam Altman y Elon Musk parecen apoyar. Altman lo definió como "lo más importante que OpenAI ha publicado en un tiempo".
+El servidor de correo de código abierto Stalwart 1.2.0 incorpora los protocolos de Exchange (MAPI, EWS, ActiveSync y Autodiscover), de modo que Outlook clásico, Apple Mail y los móviles pueden conectarse como a un Exchange. La función viene en la edición comunitaria AGPL, desactivada por defecto.
 [ES]
-Fuentes: TechCrunch, Hacker News.
+Fuentes: Stalwart, Hacker News.
 [ITEM]
 [ES]
-Los centros de datos, en el centro de la reacción contra las grandes tecnológicas.
+Linux completo dentro del navegador.
 [ES]
-En su libro Hyperscale, el periodista Paris Marx sostiene que la expansión de los centros de datos es "fundamentalmente insostenible", y TechCrunch señala que el rechazo a estas instalaciones fue uno de los motores de la ola demócrata en las elecciones de mitad de mandato. Marx lo explica por lo concreto del impacto: la factura de la luz, el agua y el ruido se notan "sin importar de qué lado político estés". Mientras tanto, la BBC retrata un San Francisco en pleno auge de la IA donde crece el miedo a un estallido.
+Farid Zakaria describe https://www.google.com/url?q=http://trynix.dev&source=gmail&ust=1795598248595000&sa=E, que arranca entornos Linux basados en Nix dentro del navegador gracias a "unkernel", un kernel Linux compilado a WebAssembly. Funcionan gráficos, sonido y red, y llegó a ejecutar Firefox dentro de Firefox, aunque tardó más de una hora en renderizar.
 [ES]
-Fuentes: TechCrunch, BBC News.
+Fuentes: https://www.google.com/url?q=http://fzakaria.com&source=gmail&ust=1795598248595000&sa=E, Hacker News.
 [ES]
 Suecia y Noruega.
 [ITEM]
 [ES]
-Suecia: "momento decisivo" en las negociaciones de gobierno.
+Suecia: el Centro vuelve a negociar con la derecha.
 [ES]
-Socialdemócratas, Centro y Verdes ofrecieron al Partido de la Izquierda un "paquete inicial", con un gabinete interno de líderes y oficinas propias en el gobierno, a través de un artículo de opinión en Expressen. La líder de la Izquierda, Ida Gabrielsson, respondió "gracias, pero no gracias" y dijo que habían pedido no publicarlo y que se sintieron atropellados. El socialdemócrata Mikael Damberg advirtió que "es un momento decisivo" y que sin negociación es muy difícil construir una cooperación, más de dos meses después de las elecciones del 13 de septiembre.
+La líder de Centerpartiet, Elisabeth Thand Ringqvist, anunció que retoma las conversaciones con Moderaterna, Kristdemokraterna y Liberalerna, después de que el Partido de la Izquierda rechazara el "paquete inicial" ofrecido por socialdemócratas, verdes y Centro. Según el comentarista de SVT Mats Knutson, a la Izquierda le faltaban temas clave y le pesaba el valor simbólico de tener ministros; este martes todos los líderes se reúnen con el presidente del Riksdag, Andreas Norlén.
 [ES]
-Fuentes: Aftonbladet, SvD, SVT Nyheter.
+Fuente: SVT Nyheter.
 [ITEM]
 [ES]
 Sospecha de brote de sarampión en Estocolmo.
 [ES]
-Entre 200 y 250 personas están siendo contactadas para hacerse pruebas después de que un paciente con sarampión confirmado pasara varias horas en urgencias del hospital Södersjukhuset. El hospital abrió una clínica temporal de vacunación para quienes necesiten una dosis de refuerzo. Las autoridades sanitarias siguen la cadena de contagios.
+Una persona con sarampión confirmado pasó varias horas en urgencias del hospital Södersjukhuset, y entre 200 y 250 personas han sido contactadas para el rastreo de contactos. El hospital abrió un punto temporal de vacunación para quienes necesiten una dosis de refuerzo.
 [ES]
-Fuentes: SVT Nyheter, Aftonbladet, SvD.
+Fuente: SVT Nyheter.
 [ITEM]
 [ES]
-Noruega: Vår Energi compra el negocio noruego de ConocoPhillips, incluido Ekofisk.
+Advierten de tarifas eléctricas "injustificadamente altas".
 [ES]
-La petrolera estadounidense ConocoPhillips, presente desde el inicio de la aventura petrolera noruega, vende sus operaciones en el país a Vår Energi, que se queda con Ekofisk, el primer campo que entró en producción en la plataforma continental noruega, descubierto en 1969. Los sindicatos celebran que el comprador tenga sede en Noruega, pero piden garantías de que no habrá despidos forzosos y de que se mantendrán los convenios y las pensiones de unos 1.600 empleados.
+La autoridad de competencia sueca, Konkurrensverket, alerta de que hogares y empresas podrían pagar durante años tarifas de red eléctrica excesivas. El motivo es la nueva propuesta del regulador energético para 2028–2031, que según Konkurrensverket mantiene una "sobrerrentabilidad" para las distribuidoras.
 [ES]
-Fuentes: NRK.
+Fuente: SvD.
+[ITEM]
+[ES]
+Karolina Ramqvist gana el Premio August.
+[ES]
+La autora se llevó el principal galardón literario sueco en ficción por "Nattsäsong", en una gala en el teatro Dramaten de Estocolmo. Per Svensson recibió a título póstumo el premio de no ficción por "När jag dog", y Moa Backe Åstot ganó en literatura infantil y juvenil.
+[ES]
+Fuente: SVT Nyheter.
 [SECTION connecting_dots]
 [ES]
 Conectando los Puntos.
 [ES]
-"Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes."
+Esta sección es interpretación y especulación informada, no noticias reportadas: son reflexiones en voz alta sobre patrones en las historias de hoy, no una afirmación de hechos. Tómala como punto de partida para tu propio pensamiento, distinta de todo lo anterior, que sí cita fuentes.
 [ES]
-Si juntas el fracaso de la COP31 con el salto del gas en Europa, aparece un mismo hilo: la energía vuelve a ser un asunto de seguridad nacional más que de clima. Con el gas de Qatar frenado por la guerra en Oriente Medio y los almacenes europeos por debajo de lo normal, es difícil que los gobiernos firmen compromisos de abandonar los fósiles justo cuando temen un invierno caro. Para ti, en América Latina o en España, esto puede traducirse en precios de energía e importaciones más altos, pero también en oportunidad para los exportadores de gas, cobre y litio de la región, que vale la pena vigilar.
+El regreso de Jensen Huang dice mucho sobre cómo funciona hoy el poder económico: una sola persona, un llamado presidencial y casi un billón de dólares de valor que aparece en un día. Que el presidente de EE. UU. diga que "hizo el trato" y a la vez gane dinero con la acción mezcla Estado, mercado y tecnología de un modo que antes habría sido escándalo mayor. Vale la pena vigilar si esto marca un nuevo estándar: empresas consideradas "demasiado estratégicas" cuyo gobierno corporativo se negocia en la Casa Blanca.
 [ES]
-El segundo hilo es la fragilidad del auge de la IA. Una semana de caídas obliga a Corea, Taiwán y China a preparar redes de seguridad, el escándalo de Nvidia mezcla chips con espionaje, y en EE. UU. el rechazo a los centros de datos ya pesa en las urnas. Si la corrección sigue, los fondos podrían retirarse de los mercados emergentes, con presión sobre monedas como el peso chileno o el colombiano; si se estabiliza, la demanda de cobre chileno y de energía para centros de datos seguiría firme. No es una predicción segura, pero el péndulo entre euforia y miedo se mueve cada vez más rápido.
+Mientras tanto, la Fed sigue apuntando a subir tipos. Para ti, en Latinoamérica o España, esa combinación de euforia en la bolsa tecnológica y tipos más altos en EE. UU. suele traducirse en un dólar firme, presión sobre monedas como el peso chileno o el colombiano y financiamiento más caro. Si además Ormuz sigue minado y el PMA habla de un triple cuello de botella, el riesgo es que la energía y los alimentos vuelvan a encarecerse justo cuando presupuestos como el chileno se discuten con poco margen.
 [ES]
-El tercer hilo es la política de bloques y de bolsillo. España llega al 29-N con la derecha por delante, Suecia sigue sin gobierno, Bélgica se paraliza por el costo de vida y en EE. UU. los demócratas ganan con fuerza. El malestar económico parece estar castigando a quien gobierna, sea de izquierda o de derecha, y eso incluye el caso de Kast en Chile, con su aprobación por debajo de su voto en primera vuelta. Si te preguntas qué sigue en la región, vale la pena mirar menos la ideología y más el desempleo y la inflación.
+La seguridad también se está volviendo más difusa: drones ucranianos frente a Libia, amenazas a Estonia, temores de un arma nuclear en órbita. El mensaje de fondo es que la infraestructura que damos por sentada (satélites, rutas marítimas, cables) es ahora parte del tablero. No es una predicción segura, pero una región tan dependiente del GPS, del comercio marítimo y de las exportaciones de materias primas como la nuestra tiene motivos para seguir esto de cerca.
 [ES]
-Por último, la prueba de Riemann y la decisión de Signal hablan de lo mismo desde dos lados: ¿qué pasa cuando las máquinas pueden "ver" y "pensar" más allá de lo que los humanos podemos verificar o controlar? La propuesta de OpenAI de medir y limitar el ritmo de la IA sugiere que incluso la industria empieza a buscar frenos. Para los países hispanohablantes, que en su mayoría importan esta tecnología, la pregunta es si tendrán voz en esas reglas o solo las recibirán.
+Y en política, el patrón de bloques se repite: el debate español de "con Vox nunca" frente a la "legislatura del muro", el Centro sueco cambiando de mesa de negociación, Kast intentando recuperar la agenda. Que la COP31 haya terminado sin consenso encaja en el mismo cuadro: cuesta cada vez más acordar algo entre muchos. Lo esperanzador, quizá, viene de lo pequeño: comunidades de código abierto que construyen un navegador o un servidor de correo propios, sin esperar a los gigantes.
 [SECTION hypothesis_watch]
 [ES]
 Vigilancia de la Hipótesis.
 [ES]
-Seguimiento continuo de la hipótesis de fondo: un escaneo diario que lee las noticias de hoy a la luz de la tendencia reciente, no una nueva argumentación completa.
+Seguimiento continuo de la hipótesis de fondo: un escaneo diario informado por la tendencia reciente del registro, no solo por las noticias de hoy, y no una reargumentación completa.
 [ES]
-Hoy (a), el acortamiento de los ciclos de autoridad, vuelve a encontrar apoyo, y ya suma 27 días seguidos. La caída de Jensen Huang, de ícono de la industria a figura salpicada por sospechas de espionaje (Aftonbladet), y la frase de Levent Alpöge de que Claude lo "dejó atrás" en la prueba de Riemann (SvD) muestran lo rápido que se desplaza quién "sabe" y quién manda. (b), la voz interior, rompe una racha de cuatro días neutrales con una señal de apoyo débil: Signal elige proteger el criterio y la privacidad de sus usuarios frente a los agentes de IA (TechCrunch), y la reacción ciudadana contra los centros de datos nace de experiencias concretas, no de consignas (TechCrunch). Es una señal institucional más que personal, así que conviene no sobrevalorarla.
+Para (a), el ciclo de autoridad más corto del año sigue escribiéndose: Huang salió y volvió a Nvidia en once días (The Guardian). Es apoyo, pero con un matiz: el líder caído fue restituido por presión política y del mercado, lo que también muestra cuánto resiste una figura de autoridad. Con esto, (a) suma más de dos semanas seguidas de señales de apoyo en el registro. Para (b), la señal es mixta: Claude Ship lleva la delegación del criterio a la IA hasta la aprobación de código (TechCrunch), mientras que proyectos como Ladybird o Stalwart apuestan por la autonomía frente a las grandes plataformas; queda en neutral, tras el apoyo de ayer, en línea con un (b) que sigue oscilando sin consolidarse.
 [ES]
-(c) sigue estancado en el desafío por decimoctavo día consecutivo: bloques fijos en España (El País), el choque público entre la Izquierda y los socialdemócratas en Suecia (Aftonbladet) y el colapso de la COP31 (BBC News). (d) suma su noveno día seguido de apoyo con la huelga conjunta de los tres grandes sindicatos belgas (Aftonbladet), aunque, como en días anteriores, es una acción colectiva por agravios económicos más que el fruto de una voz interior fortalecida. La revisión integral de noviembre concluyó net challenge, sin enlace en la cadena, y nada de lo de hoy cambia ese veredicto: (a) y (d) siguen fuertes por su lado, mientras (b) apenas se mueve y (c) no despega.
+Para (c), el desafío continúa: el debate a ocho en España fue, según El País, sobre todo un choque de bloques (El País), y Rusia habla de "guerra abierta" con Estonia. Es la misma racha de casi un mes de desafíos en (c). Para (d), hay apoyo moderado: el Centro sueco vuelve a la mesa para que la formación de gobierno no se estanque (SVT) y las comunidades de código abierto colaboran para crear alternativas. Nada de hoy mueve el veredicto de la revisión integral de noviembre (net challenge, sin propagación en la cadena): (a) y (d) siguen fuertes, pero (b) y (c) no acompañan.
