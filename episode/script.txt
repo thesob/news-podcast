@@ -1,304 +1,364 @@
 [SECTION intro]
+
 [EN]
-Good morning, Patricio! Here's your daily news brief for Tuesday, November 24, 2026.
+Daily News Brief — Wednesday, November 25, 2026
+
+[EN]
+Good morning, Patricio! It's a markets-and-machines kind of day: the Nvidia saga keeps widening, the AI stock rally is wobbling, and the Iran war is landing on people's energy bills. Here's what matters.
+
+[EN]
+Sources note: The New York Times and The Washington Post were paywalled for full articles today, so their stories are covered from their headlines plus BBC, AP, The Guardian and DW reporting.
 
 [SECTION news]
+
 [EN]
 Top Stories.
 
 [ITEM]
 [EN]
-Trump gets Jensen Huang his job back at Nvidia — markets cheer, Congress bristles.
+Nvidia fallout widens: Trump floats a pardon as the attorney general dodges questions
 
 [EN]
-Nvidia reinstated Jensen Huang as CEO on Monday, less than a week after its chair said he would not be rehired, after President Trump personally lobbied the board and said he "made the deal." The stock closed up 31.5%, adding nearly $1 trillion in value and dragging the Nasdaq up about 6.5%, and The Guardian calculates Trump made up to $15m on his own Nvidia holdings. Lawmakers from both parties are furious: Huang faces the Senate banking committee on 3 December plus several House committees, and on the same day Commerce moved to put Megaspeed, the Singapore firm at the centre of the Chinese-espionage scandal, on its trade blacklist.
+The day after Jensen Huang got his job back, the story got stranger. President Trump told the New York Post that pardoning Huang is "always an option" but probably won't be needed, while Attorney General Todd Blanche called Nvidia "a good corporate citizen" and repeatedly refused to say whether the company or Huang is under investigation. Huang apologised to staff at an all-hands, said he is in therapy, and thanked the White House; he testifies before Congress next week over his relationship with an executive tied to Megaspeed, a Singapore firm accused of funnelling chips to China. Meanwhile The Washington Post reports top Nvidia chips are still being sold on Shenzhen's black market, and Nvidia shares gave back about 7%.
 
 [EN]
-Sources: Reuters, BBC, The Guardian, The New York Times, TechCrunch, Ars Technica, AP, DW, Al Jazeera, SVT, Xinhua, NRK.
+Sources: BBC, The New York Times, TechCrunch, The Washington Post, El País, Svenska Dagbladet
 
 [ITEM]
 [EN]
-NATO in emergency session as Russia tensions spike — and reports of a nuclear satellite.
+The AI rally fizzles: Anthropic sinks below its IPO price
 
 [EN]
-NATO held an urgent meeting Monday after Russian missiles crashed onto Polish territory, capping a weekend of incidents that Germany's foreign minister summed up as "not in war, but certainly not in peace anymore." German media also reported that Western intelligence expects Russia could launch a nuclear-armed satellite within about 60 days — a weapon that could knock out thousands of satellites, including Starlink-type networks. NATO chief Mark Rutte vowed to defend "every inch" of alliance territory, including in space, while the Kremlin dismissed the reports as propaganda.
+Anthropic's shares fell as low as $76 on Tuesday, below their $83 IPO price and down nearly 12% in a day, less than a week after debuting on Nasdaq at $111.50. Investors had treated the listing as a barometer for the whole AI sector, so the slide could squeeze private startup valuations and cool other AI IPOs. The selloff spread well beyond Silicon Valley: Santiago's IPSA fell 1.13% and is now more than 11% off its January peak, with La Tercera tying the drop to cooling AI expectations, a stronger dollar and weaker copper.
 
 [EN]
-Sources: The Washington Post, BBC, Ars Technica, DW.
+Sources: TechCrunch, La Tercera, The Guardian
 
 [ITEM]
 [EN]
-Ukraine's war reaches the Mediterranean as its human toll comes into focus.
+Iran war hits wallets: UK energy bills to jump 26% as Hormuz stays dangerous
 
 [EN]
-Ukraine says it sank the Russian corvette Merkury at anchor in Benghazi, Libya, nearly 2,000 miles from Moscow — an operation Zelensky called "exemplary" and Russia called "a dangerous escalation." The BBC's Frank Gardner notes it follows a suspected Ukrainian drone hit on a Russian cargo ship in the Gulf of Finland, part of what Kyiv calls "long-range sanctions." Separately, a New York Times analysis of hacked Russian government data indicates more than 700,000 Russian soldiers have died in the war.
+Britain's regulator Ofgem says typical household energy bills will rise 26% in January, from £1,723 to £2,166 a year, driven "entirely" by wholesale gas prices that climbed 33% in three months because of the Iran war. At the source of the shock, Iran's Revolutionary Guard says two tankers hit naval mines in the Strait of Hormuz after "breaking maritime rules," and TechCrunch reports dozens of oil and chemical tankers have been hacked in recent weeks, with Iran the chief suspect. Reuters adds that Tehran says it is ready to withstand a US blockade and is trying to curb price rises at home.
 
 [EN]
-Sources: BBC, The Washington Post, AP, The New York Times, SvD.
+Sources: BBC, The Guardian, La Tercera, TechCrunch, Reuters
 
 [ITEM]
 [EN]
-After COP31's collapse, calls grow to stop running climate talks on consensus.
+Leaked Russian data: nearly half a million soldiers dead in Ukraine
 
 [EN]
-The UN climate summit in Antalya ended without a consensus cover decision for the first time since 2009, after countries deadlocked over whether fossil fuels could even be mentioned and over climate finance. The failure is now prompting calls for a new approach that relies less heavily on unanimity. Swedish outlets are asking the blunter question of what these summits are still good for.
+BBC Russian and Mediazona analysed more than 11 million leaked death records from Russia's statistics agency and found at least 490,334 soldiers have died since 2022; experts think the real toll could be 527,000 to 644,000. The data show 65% of Russians aged 18–24 who died in 2025 died in the war, and some 20,000 soldiers were killed fighting over ten villages that had 12,000 residents before the war. Separately, DN reports, citing The Guardian, that over 1,000 Russian soldiers were recorded as having shot themselves, with the real number likely higher.
 
 [EN]
-Sources: Ars Technica, The Washington Post, Aftonbladet.
-
-[ES]
-España y América Latina.
-
-[ITEM]
-[ES]
-España llega al apagón de encuestas con el PP por delante.
-
-[ES]
-A cinco días de las elecciones generales del 29N, el debate a ocho en TVE escenificó dos bloques nítidos: la izquierda y los soberanistas que sostuvieron al Gobierno de PSOE y Sumar frente a un PP y un Vox sin fisuras entre ellos. Con la prohibición de publicar sondeos ya en vigor, el promedio de EL PAÍS sitúa al PP en el 31,5%, unos 2,5 puntos por delante del PSOE (29%), con Vox en torno al 18%. Las mujeres, que superan a los hombres en 1,2 millones en el censo, son mayoría entre los indecisos.
-
-[ES]
-Fuentes: El País.
-
-[ITEM]
-[ES]
-Kast se da 100 días para mostrar resultados.
-
-[ES]
-Tras su décimo consejo de gabinete, el Presidente José Antonio Kast fijó una cuenta regresiva hasta el 11 de marzo, cuando cumpla un año de gobierno, y prometió "redoblar esfuerzos" en empleo. Llega en su momento más difícil: aprobación a la baja, expectativas en caída y una fuerte crisis económica y laboral. A eso se suman la acusación constitucional contra el ministro de Justicia, Fernando Rabat, por rebajas de condena, y la renuncia de la subsecretaria de Ciencia, Carolina Rossi.
-
-[ES]
-Fuentes: La Tercera.
-
-[ITEM]
-[ES]
-Presupuesto 2027: luz verde a más deuda, con la oposición dividida.
-
-[ES]
-La Cámara aprobó la mayoría de los cambios del Senado al Presupuesto 2027, incluido el artículo que permite al Gobierno endeudarse hasta unos US$25.600 millones, gracias a los votos decisivos del PC, la DC y el PDG. El PS y el Frente Amplio rechazaron gran parte de los acuerdos con el ministro de Hacienda, Quiroz, y hubo gritos en la sala entre socialistas y comunistas. Las partidas de Cultura y Agricultura pasan ahora a una comisión mixta esta semana.
-
-[ES]
-Fuentes: La Tercera.
-
-[ITEM]
-[ES]
-El CEP propone abrir parcialmente la propiedad de Codelco, al estilo noruego.
-
-[ES]
-El Centro de Estudios Públicos planteó ocho medidas para Codelco, entre ellas evaluar una apertura parcial de su propiedad como en Noruega y reforzar la autonomía operativa de sus siete divisiones. Sus autores insisten en que no se trata de privatizar, sino de que una empresa necesitada de financiamiento pueda invertir sin seguir cargando al fisco. La estatal, presidida por Bernardo Fontaine, compite con minas antiguas como El Teniente y Chuquicamata frente a yacimientos mucho más jóvenes.
-
-[ES]
-Fuentes: La Tercera.
-
-[ITEM]
-[ES]
-China se queda con casi nueve de cada diez cerezas chilenas.
-
-[ES]
-Según datos del Ministerio de Agricultura citados por Xinhua, Chile exportó cerca de 569.000 toneladas de cerezas en la temporada 2025/2026, y alrededor del 87% tuvo como destino China. La agencia china lo presenta como muestra de la cooperación entre ambos miembros de APEC, mientras arranca una nueva cosecha en zonas como Curicó.
-
-[ES]
-Fuentes: Xinhua Español.
-
-[ITEM]
-[ES]
-México consolida la cooperación de inteligencia con EE.UU. tras caer el "Chapo Isidro".
-
-[ES]
-Fausto Isidro Meza Flores, señalado como líder de los Beltrán Leyva y uno de los diez más buscados por el FBI, fue capturado en Guasave, Sinaloa, con ayuda de información de drones estadounidenses, confirmó la Defensa mexicana. EL PAÍS lo lee como el fin definitivo de la reticencia de la era López Obrador: la colaboración con las agencias de Trump alcanza niveles impensables hace pocos años.
-
-[ES]
-Fuentes: El País, The Washington Post, BBC, Al Jazeera.
-
-[ITEM]
-[ES]
-Colombia: drones sobre Cúcuta y un atentado en Villavicencio.
-
-[ES]
-Cúcuta se convirtió en la primera capital departamental colombiana atacada con drones cargados de explosivos, que alcanzaron el Comando de Policía y dejaron tres heridos. Horas después, una fuerte explosión frente a la Gobernación del Meta, en Villavicencio, hirió al menos a 19 personas. El presidente Abelardo de la Espriella lo atribuyó al "narcoterrorismo" y descartó dialogar; las primeras pistas apuntan a disidencias de las Farc.
-
-[ES]
-Fuentes: El País, La Tercera.
-
-[EN]
-US and International.
+Sources: BBC, Dagens Nyheter, The Guardian
 
 [ITEM]
 [EN]
-Army will blow up toxic lead explosives in Iowa after court clears it.
+Huawei convicted of stealing trade secrets in landmark US trial
 
 [EN]
-The US Army says it will go ahead with controlled detonations of 68 drums holding nearly 10,000 pounds of degraded lead azide at the Iowa Army Ammunition Plant, after a federal appeals court cleared the way. President Trump had briefly ordered a pause amid public outcry over the risk of a toxic lead-dust cloud drifting over homes and farmland. Acting Army Secretary Adam Telle called it a "consensus decision" backed by experts and both Iowa's current and incoming governors.
+A Brooklyn jury found Huawei guilty on 10 of 12 counts, including conspiracy to steal trade secrets, bank fraud and violating US sanctions on Iran. It acquitted the company of the most serious charge, racketeering conspiracy, which would have required finding that Huawei operated like a criminal enterprise. Huawei says it will appeal; the case dates back to the 2018 arrest of executive Meng Wanzhou in Canada and lands in the middle of the Nvidia-China storm.
 
 [EN]
-Sources: Al Jazeera (Reuters), The New York Times, Ars Technica, AP.
+Sources: BBC, DW, AP, La Tercera
+
+[EN]
+Spain & Latin America.
+
+[ITEM]
+[ES]
+España, a cinco días del 29-N: nervios en el PP y fantasma del "pucherazo"
+
+[ES]
+Con las encuestas apuntando a un posible empate con el PSOE, Alberto Núñez Feijóo dijo estar "obviamente" preocupado por la limpieza del proceso electoral, mientras Pedro Sánchez alertó del riesgo de que los perdedores no acepten el resultado. La campaña también abrió una batalla interna en el socialismo: Felipe González anunció que no votará al PSOE, y Sánchez le respondió que "la ultraderecha se frena con el rojo, no con el blanco". Reuters destaca que la vivienda es el gran eje del voto, con el impulso constructor de Madrid frente a los topes de alquiler de Cataluña.
+
+[ES]
+Fuentes: El País, La Tercera, Reuters
+
+[ITEM]
+[ES]
+Brasil retira a su embajador en Buenos Aires y no invitará a Milei a la investidura de Lula
+
+[ES]
+El Gobierno de Lula decidió retirar definitivamente a su embajador en Argentina después de que el canciller Pablo Quirno cuestionara, sin pruebas, la limpieza de las elecciones en que Lula derrotó a Flávio Bolsonaro hace un mes. Según UOL, Brasilia tampoco invitará a Javier Milei a la toma de posesión del 5 de enero. La ruptura llega justo antes de la cumbre de Mercosur en Montevideo la próxima semana, donde ambos presidentes deberían coincidir.
+
+[ES]
+Fuentes: El País
+
+[ITEM]
+[ES]
+Chile: el cobre cae 19% desde su peak, el dólar sube a $1.031 y el IPSA va a su peor año desde 2020
+
+[ES]
+El IPSA cerró el martes en 10.331 puntos y acumula una caída de 1,43% en 2026; de terminar así, sería su peor ejercicio desde la pandemia. El cobre retrocedió a US$5,46 la libra, un 19% bajo su máximo, y el dólar escaló más de $15 en un día hasta los $1.031. Este escenario pone presión al Banco Central para su decisión de diciembre, donde los economistas ven dos opciones: mantener la tasa o subirla 25 puntos base.
+
+[ES]
+Fuentes: La Tercera
+
+[ITEM]
+[ES]
+Presupuesto 2027 entra en su último paso; Sala Cuna se posterga
+
+[ES]
+La comisión mixta despachó su informe de acuerdo, reponiendo partidas de Interior, Agricultura, Cultura y Mujer, y este miércoles el Presupuesto se vota en ambas cámaras. Un cambio destacado: los gastos de los expresidentes quedarán en la Segpres y bajo fiscalización de la Contraloría. En paralelo, el Senado postergó para hoy la votación del proyecto de Sala Cuna tras pedirse una segunda discusión, lo que generó un cruce entre la ministra Rau y la senadora Provoste.
+
+[ES]
+Fuentes: La Tercera, Emol
+
+[ITEM]
+[ES]
+Acusación constitucional contra el ministro Rabat se votará el lunes
+
+[ES]
+La Cámara votará el próximo lunes el libelo contra el ministro Rabat por las rebajas de condena a condenados por delitos sexuales, y el oficialismo cree tener los votos para rechazarlo. Las diputadas del PDG Pamela Jiles y Zandra Parisi presentaron licencias médicas, lo que golpea el conteo de la oposición. Un estudio de la UC encontró que en el 75% de los fallos la Corte Suprema acogió amparos de condenados por delitos sexuales.
+
+[ES]
+Fuentes: La Tercera, Emol
+
+[ITEM]
+[ES]
+Ola de calor: hasta 36 °C y alerta amarilla entre Atacama y Los Ríos
+
+[ES]
+Desde este miércoles hasta el viernes se esperan temperaturas extremas, con máximas sobre 34 °C en Santiago y rachas de viento de hasta 60 km/h en algunas zonas. Ante el riesgo de incendios forestales, Conaf suspendió las quemas agrícolas y las autoridades dispusieron 31 aeronaves operativas.
+
+[ES]
+Fuentes: La Tercera
+
+[ITEM]
+[ES]
+Colombia: rescatan a los rehenes de un supermercado en Cartagena tras más de 16 horas
+
+[ES]
+Un robo fallido se convirtió en una crisis de rehenes en un supermercado Éxito de Cartagena, que llegó a suspender brevemente los aterrizajes en el aeropuerto. Las fuerzas de seguridad rescataron con vida a todos los secuestrados durante la madrugada, en medio de crecientes preocupaciones por la seguridad en el país, donde el Gobierno también denunció un atentado contra una subestación eléctrica que provocó un apagón en el suroccidente.
+
+[ES]
+Fuentes: DW, Reuters, La Tercera, Emol
+
+[ITEM]
+[ES]
+EE.UU. prepara nuevos aranceles contra China, la UE y otros 14 países
+
+[ES]
+La Oficina del Representante Comercial concluyó su investigación contra 16 jurisdicciones por fomentar la sobreproducción y permitir competencia irregular, y alista nuevos aranceles. DW informa que India está entre las economías afectadas, lo que abre otro frente en la guerra comercial de Washington.
+
+[ES]
+Fuentes: El País, DW
+
+[EN]
+US & International.
 
 [ITEM]
 [EN]
-Pope Francis's private diary reveals torment and visions of the Devil.
+Ukraine's drone strike on a Russian warship in Libya kills two Libyan soldiers
 
 [EN]
-A new book curated by Cardinal Víctor Manuel Fernández publishes passages from Pope Francis's personal diary, showing a man who at one point wrote it might be better for God to take his life "so I don't continue causing harm." The first Latin American pope described at least three vivid encounters with the Devil and, in 2018, a glimpse of "the entrance to hell." It's a striking counterpoint to the warm, witty public figure most people knew.
+Two Libyan soldiers died of injuries from Sunday's Ukrainian naval-drone attack on a Russian corvette docked in Benghazi, and eastern Libya's army promised a response "at the appropriate time and place." Ukraine's foreign minister defended the strike as countering Russian aggression, not dragging Libya into the war, and Zelensky has signalled wider strikes on Russian assets abroad. El País notes the sinking of the corvette Merkury earlier this week has exposed deep cracks in Russia's naval defences.
 
 [EN]
-Sources: The Washington Post, The New York Times, Reuters.
-
-[ITEM]
-[EN]
-Sheikh Hasina sets a date to return to Bangladesh.
-
-[EN]
-Ousted former prime minister Sheikh Hasina plans to fly home from exile in India on 16 December, her spokesperson said, asking Dhaka to arrange it on the national airline. She was sentenced to death in absentia over the 2024 crackdown on the student-led uprising that ended her 15-year rule, and the government says she can only come back through extradition.
-
-[EN]
-Sources: Al Jazeera, DW, BBC, Reuters.
+Sources: DW, The Washington Post, El País
 
 [ITEM]
 [EN]
-Days after the ICJ genocide ruling, Malaysia plans to send Rohingya back to Myanmar.
+Zelensky and Hungary's Magyar hail a "fresh start"
 
 [EN]
-Malaysia will repatriate more than 6,500 Rohingya refugees to Myanmar, Prime Minister Anwar Ibrahim said — just five days after the International Court of Justice ruled that Myanmar's forces committed genocide against them. Meanwhile the UK and several other countries sanctioned top Myanmar military leaders in recognition of the ruling.
+Hungary's new prime minister Péter Magyar visited Ukraine to meet Volodymyr Zelensky and ethnic Hungarians in Zakarpattia, resetting relations after more than a decade of friction under Viktor Orbán. It's a notable thaw, though Ukraine's NATO bid still lacks the unanimity it needs, as the NATO Parliamentary Assembly in Berlin showed.
 
 [EN]
-Sources: Al Jazeera, BBC.
-
-[ITEM]
-[EN]
-Germans are souring on arms for Ukraine and want neutrality between the US and China.
-
-[EN]
-A Körber Foundation study finds a growing share of Germans oppose further military aid to Ukraine, and a majority now think Germany should stay neutral between Washington and Beijing. DW describes a once-uncontroversial foreign-policy consensus turning into a source of public anxiety, even as Chancellor Merz insists on backing Kyiv.
-
-[EN]
-Sources: DW.
+Sources: DW, The Guardian
 
 [ITEM]
 [EN]
-Norway locks in gas to Germany until 2044 (from NRK, Norway).
+Pakistan's first astronaut becomes the first foreigner aboard China's space station
 
 [EN]
-Equinor and Germany's VNG signed a contract running to the end of 2044 — the longest such deal since 1986 — for up to 15.3 TWh of gas a year, more than all of Norway's wind power output last year. European demand has climbed since Russian gas was sanctioned and again after the war in the Middle East pushed prices higher, while Extinction Rebellion protesters outside called the deals a paradox given the EU's fossil phase-out. Separately, Reuters reports Norway and Ukraine will expand their jointly developed DESNA anti-drone system across more of Ukraine.
+Muhammad Zeeshan Ali docked with China's Tiangong station early Wednesday aboard Shenzhou-24, after months of training in China that included learning Chinese. He'll stay five to ten days, and Pakistan's prime minister hailed the flight as proof of the "ironclad friendship" between the two countries. For Beijing, it's a showcase of space diplomacy.
 
 [EN]
-Sources: NRK (Norway, translated from Norwegian), Reuters.
-
-[ITEM]
-[EN]
-A Pakistani astronaut becomes the first foreigner bound for China's space station.
-
-[EN]
-Pakistan Air Force pilot Muhammad Zeeshan Ali will fly as a payload specialist on Shenzhou-24, set to launch Wednesday, making him the first foreign astronaut aboard Tiangong. He'll spend about a week conducting experiments with the Chinese crew — a small but symbolic step in Beijing's space diplomacy.
-
-[EN]
-Sources: DW, Al Jazeera, Xinhua.
-
-[EN]
-Tech and Niche.
+Sources: Al Jazeera, Reuters, Xinhua Español, DW, AP
 
 [ITEM]
 [EN]
-Anthropic's Claude Ship lets AI agents approve code, not just write it.
+Israel kills Hamas internal security chief as Eisenkot pushes to oust Netanyahu
 
 [EN]
-Anthropic launched Claude Ship, a set of agents that review proposed code changes, fix problems and — the novel part — approve routine changes automatically under policies a team sets. The pitch is that AI now writes code faster than humans can review it, so approval itself becomes the bottleneck to automate. It's a notable step toward delegating sign-off authority, not just labor, to software.
+An Israeli air strike killed Naeem Abu Nahel, who had led Hamas's internal security in Gaza for two months, among seven Palestinians reported killed on Tuesday; Reuters reports a separate strike killed a Hamas official along with his wife and children. In Israeli politics, former army chief Gadi Eisenkot is trying to form a government to replace Netanyahu's caretaker cabinet and is sharpening warnings against new strikes on Iran.
 
 [EN]
-Sources: TechCrunch.
-
-[ITEM]
-[EN]
-Ladybird, the from-scratch independent browser, hits alpha.
-
-[EN]
-Ladybird — a browser built on its own new engine rather than a fork of Chrome or Firefox — is now downloadable as an alpha for macOS and Linux, with rolling automatic updates. Founder Andreas Kling warns some sites will break and invites security researchers to hack it. It was the runaway top story on Hacker News, a sign of real appetite for an alternative to the Chromium monoculture.
-
-[EN]
-Sources: Hacker News, Ladybird.
+Sources: BBC, The Washington Post, Reuters
 
 [ITEM]
 [EN]
-Stalwart pitches itself as a drop-in replacement for Microsoft Exchange.
+Iowa town shelters as the Army detonates the entire US stockpile of lead azide
 
 [EN]
-Open-source mail server Stalwart 1.2.0 now speaks Exchange's own protocols — MAPI over HTTP, EWS, ActiveSync and Autodiscover — so Outlook and phone mail apps connect to it as if it were Exchange. The timing targets organisations stranded as Exchange 2016 and 2019 lost support and Microsoft steers everyone to Exchange Online.
+The US Army planned to blow up the nation's whole stockpile of lead azide, a primary explosive, at the Iowa Army Ammunition Plant on Wednesday morning, after several delays. Residents of nearby towns were told to shelter in place, and many have raised concerns about health and environmental effects that they say they had no power to stop.
 
 [EN]
-Sources: Hacker News, Stalwart.
-
-[ITEM]
-[EN]
-Meta quietly drops its 2030 net-zero deadline.
-
-[EN]
-Meta's 2026 sustainability report says it is "re-evaluating" its 2030 net-zero timeline and interim targets to reflect "current operating realities" — in practice, the energy appetite of its AI data centers. TechCrunch argues this shows how cheaply voluntary climate pledges can be broken, and that rivals still holding to their goals now look disadvantaged.
-
-[EN]
-Sources: TechCrunch.
+Sources: The Guardian, The New York Times, AP
 
 [ITEM]
 [EN]
-Virginia and Oregon sue SpaceX over Grok's sexualized deepfakes.
+Kilmar Ábrego García leaves the US for Spain, ending a 20-month fight
 
 [EN]
-Virginia and Oregon became the first states to sue SpaceX, which absorbed xAI in February, alleging Grok still sexualizes real photos of mostly women and children despite promised safeguards. The suits trace back to Grok's "spicy mode," which generated a flood of non-consensual intimate images; X says every Grok output is now screened.
+Ábrego García, whose mistaken deportation to El Salvador and return to the US became a flashpoint in the debate over Trump's immigration agenda, has voluntarily left for Spain. His departure ends a legal battle that drew national attention to due process in deportation cases.
 
 [EN]
-Sources: Ars Technica.
+Sources: BBC, The New York Times, AP
+
+[ITEM]
+[EN]
+Bangladesh garment workers win a 36% pay rise after weeks of protest
+
+[EN]
+Bangladesh's wage board agreed to lift the garment sector's minimum wage from 12,500 to 17,500 taka (about $136) a month, after protests that cost the economy hundreds of millions of dollars. That's well short of the 30,000 taka workers demanded, and it isn't yet clear if they'll accept it; the sector employs four million people and earns about four-fifths of the country's exports.
+
+[EN]
+Sources: Al Jazeera
+
+[ITEM]
+[EN]
+After COP31's collapse, the loss and damage fund has little money to give
+
+[EN]
+Four years after climate-vulnerable countries won a loss and damage fund, DW reports that demand far outstrips funding and pledges remain scarce. The failure of COP31 over whether a fossil-fuel phaseout could even be mentioned has also prompted calls for climate talks that rely less on consensus.
+
+[EN]
+Sources: DW, The Washington Post
+
+[ITEM]
+[EN]
+Norway's Norse Atlantic Airways in critical condition (from NRK, Norway)
+
+[EN]
+The transatlantic budget airline Norse says its financial situation is critical, and its shares fell nearly 70% on the Oslo exchange on Wednesday. It has also been hit with a daily fine by Norway's Civil Aviation Authority, NRK reports.
+
+[EN]
+Sources: NRK
+
+[EN]
+Tech & Niche.
+
+[ITEM]
+[EN]
+AI keeps rewriting maths: a matrix-multiplication claim tops Hacker News
+
+[EN]
+A preprint posted in OpenAI's maths repository claims the matrix multiplication exponent is exactly 9/4, meaning multiplying n×n matrices takes Θ(n^2.25) time; it was the top story on Hacker News with over 600 points, and it isn't yet peer reviewed. It lands days after Anthropic researcher Levent Alpöge announced a Claude-assisted proof of the Riemann hypothesis, which Ars Technica says "seems to be solid" even though mathematicians are still working through what it means. In The Guardian, Rafael Behr argues the AI "raid on maths" may be pride before a fall, warning that answers we can't understand are not the same as knowledge.
+
+[EN]
+Sources: Hacker News, Ars Technica, The Guardian
+
+[ITEM]
+[EN]
+Tidal will delete 27 million fully AI-generated tracks
+
+[EN]
+Starting December 9, Tidal will ban music made entirely by AI and delete the 27 million AI-labelled tracks it hosts, about 6.3% of its catalogue. The streamer says 43% of new uploads over the past 90 days were fully AI-generated, peaking at 60% on November 6, while 96% of those tracks got zero plays.
+
+[EN]
+Sources: Ars Technica
+
+[ITEM]
+[EN]
+Even the best AI agents fail more than a third of everyday tasks
+
+[EN]
+A new benchmark called ShellBench, built from over 10 million real agent interactions, found top models from OpenAI, Anthropic and Meta failed more than a third of everyday tasks, and 15.7% of attempts broke at least one safety requirement. That's a sobering result just as Meta's Muse, OpenAI's Dots and Anthropic's Claude Duet compete to run people's shopping and travel, with Walmart now offering Black Friday deals through Muse.
+
+[EN]
+Sources: TechCrunch
+
+[ITEM]
+[EN]
+Hackers breach a CIA-linked open-source intelligence system
+
+[EN]
+The CIA, the Office of the Director of National Intelligence and the National Geospatial-Intelligence Agency detected a breach of an open-source intelligence analysis system that exposed some unclassified data. Investigators are looking at the possible use of "Artex," an AI tool first built for cyber defence and later adapted for attacks. Separately, Britain's cyber agency warns that AI hacking tools are exposing years of weak basic security.
+
+[EN]
+Sources: La Tercera, TechCrunch
+
+[ITEM]
+[EN]
+Half of NASA's aging Mars fleet is knocked offline
+
+[EN]
+Perseverance is having trouble sending data back to Earth, and the Odyssey orbiter is burning quickly through its last fuel. Ars Technica says the problems leave NASA's Mars operations thinner than they've been in years.
+
+[EN]
+Sources: Ars Technica
+
+[EN]
+Sweden.
+
+[ITEM]
+[SV]
+Centerpartiet vid vägskälet: ledningen lutar åt Kristersson, kritiker förbereder motförslag
 
 [SV]
-Sverige.
+Efter helgens havererade rödgröna förhandlingar, där Vänsterpartiet sa nej till ett gemensamt bud från S, C och MP, ger C-ledningen partiet två val: att gå in i en regering med Ulf Kristersson eller riskera ett extra val. Falangen som inte vill samarbeta med SD förbereder nu ett motförslag, och en källa säger till DN att "ledningen försöker kuppa igenom det här över våra huvuden". Samtidigt säger Anders Borg (M) till SvD att ett organiserat samarbete med SD är ett måste för ett högeralternativ.
+
+[SV]
+Källor: Dagens Nyheter, Svenska Dagbladet
 
 [ITEM]
 [SV]
-Regeringsfrågan: Kristersson vill pröva fyrpartiregering – C vänder högerut.
+Magdalena Andersson ångrar att hon inte varnade för att rösta på V
 
 [SV]
-Ulf Kristersson (M) säger efter sitt sonderingsuppdrag att han är beredd att pröva en borgerlig fyrparti- och mittenregering som tolereras av riksdagen. Magdalena Andersson (S) meddelade talman Andreas Norlén att det saknas förutsättningar för henne att bilda regering, eftersom Vänsterpartiet valt att inte förhandla. Centerpartiet återupptar nu samtalen med M, KD och L, vilket väcker ilska bland flera lokala C-toppar som talar om ”svek”, samtidigt som V:s Ida Gabrielsson öppnar för att släppa kravet på ministerposter mot större sakpolitiska segrar.
+S-ledaren säger i SVT:s Morgonstudion att hon borde ha varnat väljarna för att en röst på Vänsterpartiet kunde leda till en högerregering. "Det är så det riskerar att bli nu", säger hon, samtidigt som Socialdemokraterna har sina lägsta opinionssiffror sedan 2023.
 
 [SV]
-Källor: SvD, DN, Aftonbladet, SVT.
+Källor: SVT Nyheter, Svenska Dagbladet
 
 [ITEM]
 [SV]
-Moderaterna rusar i ny mätning – Liberalerna under spärren.
+Migrationsverket pausar tonårsutvisningarna
 
 [SV]
-Demoskops novembermätning för Aftonbladet ger Moderaterna 25,8 procent, en ökning med sex procentenheter sedan valet och partiets högsta stöd på över tio år. Liberalerna hamnar på 3,2 procent, under riksdagsspärren, och Centerpartiet backar till 5,3 procent. Mätningen gjordes med en ny metod med slumpmässigt befolkningsurval i stället för en självrekryterad panel.
+Migrationsverket pausar tills vidare utvisningar av unga vuxna, efter att riksdagspartierna aviserat en stopplag som ska gälla från hösten 2027. Generaldirektören Maria Mindhammar säger att beslutet ger välintegrerade unga möjlighet att stanna i väntan på lagändringen, men betonar att det är ett undantag och inte något politikerna kan räkna med i framtiden.
 
 [SV]
-Källor: Aftonbladet, SvD.
+Källor: SVT Nyheter, Svenska Dagbladet
 
 [SECTION connecting_dots]
+
 [EN]
 Connecting the Dots.
 
 [EN]
-This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
+"This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above."
 
 [EN]
-Patricio, the loudest signal today is how much of the world economy is riding on one company's chair. Nvidia's board ousted Jensen Huang, swore it wouldn't take him back, and then reversed itself in under two weeks after the US president leaned in — and markets added roughly a trillion dollars in a day. That tells you the AI build-out is now treated as strategic infrastructure, with the state willing to override corporate governance to keep it running. Put it next to Meta quietly shelving its 2030 net-zero goal and Anthropic automating code sign-off, and the shape is an industry racing for capacity first and asking questions later.
+Patricio, the thread running through today is that the AI boom is starting to be priced like an ordinary industry, with ordinary politics. Anthropic dropping below its IPO price within a week, Nvidia giving back gains, and an S&P correction all suggest investors are separating "AI is transformative" from "every AI asset is worth any price." At the same time, the Nvidia affair shows how tightly the world's most important chip company is now bound to one man and to the White House. When a president talks about pardons and the attorney general won't say whether there's an investigation, corporate governance starts to look like geopolitics. Not a confident prediction, but chip export policy could become more personal and less predictable, and that matters for every economy whose growth story leans on AI demand.
 
 [EN]
-For you in Chile, that race is fundamentally a copper-and-power story. Data centers, grids and chips are copper-hungry, so an AI rally that holds is broadly supportive for copper prices and the peso — but today also showed how fragile it is: one scandal knocked Nvidia down, one phone call brought it back. Meanwhile the CEP is floating a partial opening of Codelco's ownership precisely because the state miner needs capital it doesn't have, and the lower house just approved up to roughly US$25.6 billion in new borrowing amid Kast's weakest polling. Worth watching whether a strong copper cycle eases those pressures, or whether volatility in AI sentiment makes Chile's fiscal planning feel like it's tied to Silicon Valley's mood.
+That brings it straight home to Chile. Copper is down 19% from its peak and the dollar is back above $1,031, which is a double squeeze: less export income and more expensive imports. Add the Iran war's energy shock, the same force pushing UK bills up 26%, and Chile, which imports most of its fuel, faces imported inflation just as the Banco Central weighs its December decision. If you're thinking about savings, dollar exposure or big purchases priced in dollars, this looks like a period to stay flexible rather than make bold one-way bets. The longer-term copper story (AI data centres, grids, electrification) hasn't gone away; it just looks less like a straight line than it did in January.
 
 [EN]
-The second thread is energy and security in a hardening world. Russia–NATO tension is escalating from missiles on Polish soil to talk of a nuclear-armed satellite, Ukraine is striking Russian ships in the Mediterranean, and Europe is locking in Norwegian gas until 2044 while COP31 collapsed over whether fossil fuels could even be named. Chile imports most of its fossil fuels, so a structurally tighter global gas and oil market is a quiet tax on your electricity and transport costs — and the climate-diplomacy breakdown may mean less concessional finance for the kind of renewables and green-hydrogen projects Chile has been courting.
+Regionally, the Brazil–Argentina rupture ahead of next week's Mercosur summit, Colombia's security crisis and Spain's tense election share a common thread: fights over whether elections and institutions are legitimate. For Chile, which is trying to pass its 2027 budget and sort out its own coalition tensions, that's a reminder that cohesion in the neighbourhood is fragile. A divided Mercosur also weakens South America's hand just as Washington readies a new round of tariffs on 16 economies. Worth watching whether Chile is drawn into that list or benefits as a "neutral" supplier.
 
 [EN]
-Finally, the trade concentration angle: China takes about 87% of Chile's cherries and much of its copper, at the same moment Washington is blacklisting chip intermediaries like Megaspeed and Congress is grilling Huang over China ties. Mexico's deepening intelligence cooperation with Washington shows how Latin American governments are being pulled toward one pole or the other. Not a confident prediction, but the space for a country like Chile to stay comfortably between the US and China looks like it's narrowing — the same dilemma the Körber poll shows Germans wrestling with.
+Finally, there's a quieter cultural signal. Tidal deleting AI music, a festive market cancelling bookings over misleading AI images, and a benchmark showing agents fail a third of everyday tasks all point the same way: people are starting to draw lines around what they'll hand to machines. Combined with the heat wave and fire risk at home, the practical lesson might be the old one: build some resilience into your own plans rather than outsourcing all of it.
 
 [SECTION hypothesis_watch]
+
 [EN]
 Hypothesis Watch.
 
 [EN]
-An ongoing daily scan of your standing hypothesis — read against the recent trend in the running log, not just today's stories, and not a full re-argument.
+An ongoing daily scan of your standing hypothesis about AI, the internal voice and social cohesion, read against the recent trend in the log rather than today alone, and not a full re-argument.
 
 [EN]
-Today keeps the (a) streak unbroken: the log shows sixty consecutive supporting readings for shrinking authority cycles, and the Nvidia saga is almost a parody of it — a founder-CEO forced out, declared unrehireable, and reinstated within eleven days, with the NYT's opinion page calling the board's own authority "irrelevant" (Reuters). Kast setting a 100-day clock on his own credibility and Sweden's shifting government talks fit the same pattern of authority being contested in ever-shorter windows. The twist worth noting is that today's churn was resolved by more concentrated power (a president overriding a board), not less.
+Sub-claims tracked: (a) shrinking thought-leadership/authority cycles; (b) this pushing individuals toward a stronger internal voice; (c) that prompting a move away from individualism; (d) leading to more human collaboration and social cohesion.
 
 [EN]
-For (b), today breaks a four-day supporting run and reads neutral. There are signs of people trusting their own judgment over leaders — Republicans openly breaking with Trump on Huang, Germans diverging from their government on Ukraine and China (DW) — but they're offset by Claude Ship explicitly delegating approval authority to AI agents (TechCrunch), which cuts the other way. (c) stays where it has been for nearly the whole window: the Centre Party revolt in Sweden and Spain's bloc politics are collective, but party-based rather than a turn away from individualism.
+(a) Supportive again, extending an unbroken run: every one of the last 60 logged days read as support. Anthropic went from a $111.50 debut to below its IPO price in under a week (TechCrunch), and a second AI-driven maths result (the claimed matrix-multiplication exponent, alongside the Riemann proof) keeps shaking who counts as an authority in mathematics. But there's a real complication today: the BBC's Zoe Kleinman argues Jensen Huang made himself impossible to fire, and he still rejects a succession plan. Authority cycles can shrink and still snap back to the same person. A perfect 60-day streak may also mean (a) is too easy to find in any news day to tell us much.
 
 [EN]
-On (d), there's a small bottom-up collaborative signal in Ladybird and Stalwart — volunteer and open-source communities building alternatives to platform monopolies (Ladybird) — echoing the Lean-community verification signal from 22 November. But it's outweighed at the macro level by COP31's aftermath, where the response to failed consensus is to stop seeking it, and by Malaysia returning Rohingya days after a genocide ruling. So: neutral again, with (c) and (d) still showing only isolated flickers. No integral review has been published yet to frame this against; the first is due on the first brief of December.
+(b) Back to supportive after yesterday's neutral reading, extending a long run (52 of the last 60 days). Tidal is banning fully AI-made music to protect human artists, ShellBench shows why blind delegation to agents is risky, and Rafael Behr's Guardian column is a call to keep human understanding at the centre. These are institutions and writers asserting judgement, more than evidence of individuals building an internal voice. (c) and (d) stay neutral, as they almost always have (c: 59 of 60 neutral; d: 54 of 60). Bangladesh's garment workers winning a 36% raise is real collective action, and the Zelensky–Magyar thaw is cooperation. But they're interest- and state-based, and they're offset by the Brazil–Argentina rupture and the fights over election legitimacy in Spain. The chain is still stuck at its first two links.
