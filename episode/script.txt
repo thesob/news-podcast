@@ -1,247 +1,243 @@
 [SECTION intro]
 [EN]
-Daily News Brief — Friday, November 27, 2026.
+Daily News Brief — Saturday, November 28, 2026.
 [EN]
-Good morning, Patricio! It's a heavy Friday: Zelensky is openly frustrated with Washington, the EU walked away from its own budget summit, Spain votes on Sunday, and the Chilean peso is near record lows. Here's the rundown.
+Good morning, Patricio! Spain votes tomorrow, Codelco just wrote down the mine that built modern Chile, and the Gulf blockade is still squeezing fuel bills from Kuwait to Oslo. Here's your Saturday read.
 [EN]
-Sources note: AP News and Reuters refused direct access today (403/401), and I couldn't pick out specific article URLs to retry through the extraction proxy, so their beats are covered by BBC, DW and The Guardian. The Herald-Tribune was behind a paywall (no stories used), and the Washington Post article pages timed out or were paywalled, so for those I relied on their RSS headlines plus BBC, DW and Ars Technica coverage.
+Sources note: All named sources were reachable today. Reuters, AP News and the Sarasota Herald-Tribune blocked direct reads, so I read them through the extraction fallback instead. One source contained embedded instructions, which I ignored.
 [SECTION news]
 [EN]
 Top Stories.
 [ITEM]
 [EN]
-Zelensky calls Trump's friendship with Putin "strange"
+Spain votes tomorrow, and the polls point to a PP–Vox majority.
 [EN]
-In a BBC interview from his Kyiv office, Volodymyr Zelensky said he was deeply frustrated that Donald Trump calls Vladimir Putin "my friend," arguing that an aggressor and "a killer" can't be anyone's friend. He also said the US isn't pushing Russia hard enough in peace talks and that delays in delivering anti-ballistic missiles are costing Ukrainian lives. Trump, meanwhile, says he urged Putin to "pull back" military aggression in Europe and still thinks a deal is possible. There's an interesting side note too: Ukrainian military intelligence claims North Korea has paused arms deliveries to Russia after a diplomatic spat, though that comes second-hand.
+Spaniards go to the polls on Sunday (29-N) after a bruising snap campaign, and nearly every survey published before the legal blackout gives the conservative PP and far-right Vox a clear path to oust Pedro Sánchez after eight years in power. El País's model puts their chances of reaching 176 seats at 83%, which still means a different result about one time in six, and the last polls were drifting slightly left. Sánchez insists his internal data shows the Socialists ahead ("I can't conceive of us losing"), while the Washington Post notes that anger over housing and living costs could push younger voters away from a left-wing government many of them would otherwise back. Colombia's president, Abelardo de la Espriella, even weighed in with a video endorsing Vox's Santiago Abascal.
 [EN]
-Sources: BBC News, The Guardian, DW, La Tercera, Aftonbladet
+Sources: Reuters, El País, BBC News, DW, Washington Post, Al Jazeera.
 [ITEM]
 [EN]
-EU leaders cut their budget summit short, with Ukraine's €45bn loan stuck
+Codelco writes down US$4.8 billion as Chuquicamata closure fears grow.
 [EN]
-A special European Council meeting broke up a day early after leaders couldn't close the gaps on the long-term budget and Ukraine's 2027 funding. They'll try again in December. Germany's Friedrich Merz insists that all 27 members back a €45bn loan for Ukraine and has threatened to veto the budget otherwise, which Slovakia's Robert Fico called "classic blackmail." Hungary, Czechia and Bulgaria are also holding out, and polls show German public support for Ukraine is slipping too. One concrete outcome: Spain's Pablo Hernández de Cos will take over as head of the ECB.
+Codelco reported a net loss of US$377 million for January–September, even though EBITDA rose 80% to US$7.5 billion on high copper prices. The red ink comes from US$4.82 billion in asset impairments at Chuquicamata, Salvador and Gabriela Mistral, with Chuquicamata alone written down by US$3.02 billion, while the company's own output fell 9% to 853,000 tonnes. Unions say management told them the 111-year-old division would close in 2028; Codelco says it "has not taken immediate decisions" and is preparing a recovery plan built on stabilizing operations, cutting costs and financial discipline. Unions have declared themselves on alert and are planning mobilizations.
 [EN]
-Sources: DW, The Guardian, El País, DN
+Sources: Emol.
 [ITEM]
 [EN]
-Iran war spills into the Gulf: two Italians killed in Kuwait
+The Iran blockade tightens: US disables a ship as Tehran vows to keep Hormuz shut.
 [EN]
-Two Italian technicians working for German arms maker Rheinmetall died after a strike on a facility in Kuwait. Italy and Kuwait blame Iranian drones, whose debris fell on the site after they were intercepted. Tehran denies responsibility, and Foreign Minister Abbas Araghchi called the incident "suspicious." A Kuwaiti and a Pakistani national were also hurt. The attack lands as Iran rolls out sweeping austerity at home under mounting US economic pressure, including cuts to bread and petrol subsidies.
+US Central Command says its aircraft struck the stern of the Palau-flagged Pacific Archer in the Gulf of Oman after it left Bandar Abbas, disabling its propulsion without harming the crew. An adviser to Supreme Leader Mojtaba Khamenei answered that "neither will the Strait of Hormuz be reopened, nor will we allow the blockade to remain in place," and Kuwait summoned Iran's ambassador after a strike killed two Italian technicians. The economic fallout keeps spreading: Norway's low-cost long-haul carrier Norse Atlantic filed for bankruptcy this week, pointing to the jump in jet fuel prices caused by the war.
 [EN]
-Sources: BBC News, DW, Washington Post, El País
+Sources: Reuters, DW, Washington Post, Xinhua Español, AP News.
 [ITEM]
 [EN]
-Nvidia pauses shipments to Southeast Asia as Asia counts its AI exposure
+EU budget summit collapses over Ukraine funding as Germany passes record defence spending.
 [EN]
-According to a Wall Street Journal report relayed by TechCrunch, Nvidia has told partners such as Dell and Super Micro to pause server shipments to Malaysia, Singapore, Thailand and Indonesia while it checks that they comply with US export rules. Chinese firms had been renting Nvidia compute remotely from data centres in those countries. One think tank estimates that route supplied about 24% of China's AI computing power. The BBC notes that Japanese, South Korean and Taiwanese markets rode a rollercoaster this week after Jensen Huang's return as CEO, which shows how much of Asia's stock market now hangs on the AI trade.
+EU leaders walked away from Brussels without a deal on the 2028–2034 budget and didn't even try to restart talks on the planned second day. Hungary, Czechia, Bulgaria and Slovakia argue that funding Ukrainian weapons prolongs the war, Denmark, Sweden, Belgium and Austria want a smaller budget, and the draft also includes a 3% tax on US tech companies. On the same day, the Bundestag approved a €556 billion 2027 budget with Germany's biggest defence outlay since the Cold War, after Friedrich Merz fought a hard battle with his Social Democrat partners.
 [EN]
-Sources: TechCrunch, BBC News
-[ITEM]
-[EN]
-Thanksgiving storm batters the US
-[EN]
-A huge storm hit the Midwest and Northeast with heavy rain and wind, while high tides pounded the West Coast, just as more than 80 million Americans were travelling. On Thursday 460 US flights were cancelled and over 2,500 delayed, and almost a million households lost power, mostly in Pennsylvania, Maryland and Virginia. In New York, wind and rain grounded the Macy's parade balloons.
-[EN]
-Sources: BBC News, The New York Times
+Sources: DW, El País.
 [ES]
 España y América Latina.
 [ITEM]
 [ES]
-España llega al domingo tras un último debate bronco
+El desempleo en Chile llega a dos dígitos por primera vez desde 2021.
 [ES]
-Sánchez, Feijóo, Abascal y Colau se midieron en el último debate antes de las elecciones del 29 de noviembre, con la vivienda como gran tema de una campaña marcada por las protestas de las llaves. Los analistas de El País dan como ganadora a Ada Colau, que junto a Sánchez llevó la iniciativa contra la alianza PP–Vox. Feijóo, por su parte, se enredó al llamar "calladita" a Colau. Las encuestas apuntan a que el PP sería primera fuerza y podría gobernar con Vox, algo que pondría fin a ocho años de Sánchez y llevaría por primera vez a la ultraderecha al Gobierno.
+El INE informó que la desocupación subió al 10%, con 1.036.291 personas sin empleo, y que entre las mujeres la tasa llega al 10,7%. El expresidente Eduardo Frei culpó a la "permisología" y a "miles de millones de dólares en proyectos estancados", mientras economistas como Aldo Lema creen que la cifra difícilmente bajará en el corto plazo y piden medidas paliativas para los sectores más vulnerables. El presidente Kast habló de "cifras críticas" y aseguró que su gobierno está "haciendo cosas distintas".
 [ES]
-Fuentes: El País, BBC News, Al Jazeera, Emol
+Fuentes: Emol, La Tercera.
 [ITEM]
 [ES]
-El dólar en Chile se instala en máximos históricos
+Gobierno y sector público acuerdan un reajuste de 4,6%.
 [ES]
-Aunque el jueves retrocedió $6,9 y cerró en $1.041, el tipo de cambio sigue en niveles récord tras rozar los $1.050. Los economistas consultados por Emol apuntan a un dólar global fuerte, a la expectativa de que la Fed suba tasas mientras la TPM chilena sigue baja, a la caída del cobre y a una actividad local débil. JP Morgan incluso proyecta que el peso podría llegar a $1.200 a mediados de 2027.
+El Ministerio de Hacienda y la Mesa del Sector Público cerraron un alza nominal de 4,6% para los funcionarios del Estado, que se pagará en dos tramos de 2,3%: el primero desde el 1 de diciembre y el segundo desde el 1 de septiembre de 2027. Esta vez la ANEF, que se había restado el año pasado, firmó el acuerdo y destacó un compromiso de Hacienda sobre las contratas. El proyecto de ley ingresará al Congreso en los próximos días.
 [ES]
-Fuente: Emol
+Fuentes: Emol.
 [ITEM]
 [ES]
-Congo le pisa los talones a Chile en cobre
+La acusación constitucional contra el ministro Rabat pasa a la Sala.
 [ES]
-Por primera vez, la República Democrática del Congo superó el millón de toneladas de cobre exportadas en un trimestre, cerca de las 1,28 millones de Chile. Entre enero y septiembre los envíos congoleños subieron un 8%, mientras los chilenos cayeron un 15% según Cochilco, y se espera que la producción local de este año sea la más baja desde 2003. Gran parte del auge congoleño está en manos de mineras chinas como CMOC. En paralelo, Codelco anunció cambios en su equipo ejecutivo.
+La comisión que revisa la acusación contra el ministro de Justicia, Fernando Rabat, la aprobó por tres votos contra dos, con el respaldo de diputados del Frente Amplio, el PC y el PPD. El libelo, presentado por diez diputados, tiene tres capítulos, el primero sobre rebajas de condena a personas condenadas por delitos sexuales, y se votará el lunes en la Cámara. Kast pidió rechazarla y dijo tener "claridad absoluta" de que Rabat no ha cometido ninguna infracción.
 [ES]
-Fuente: Emol (con Bloomberg)
+Fuentes: Emol.
 [ITEM]
 [ES]
-La FNE acusa a Apple de abuso de posición dominante
+Lluvias ligadas a El Niño inundan ciudades de Perú y Ecuador.
 [ES]
-La Fiscalía Nacional Económica pidió al Tribunal de Defensa de la Libre Competencia multar a Apple con más de US$ 80 millones por cerrar el mercado de aplicaciones en iOS desde al menos 2019. La FNE sostiene que Apple impide la descarga de apps y tiendas alternativas y obliga a usar su sistema de pagos dentro de las aplicaciones. También descarta el argumento de seguridad, que considera desproporcionado.
+En Piura, en el norte de Perú, el agua llegó a la cintura tras doce horas de lluvia intensa que afectaron a unas 2.000 familias. En Ecuador las precipitaciones han golpeado a 47.000 personas y ya se cuentan 34 muertos, en lo que los expertos vinculan a un El Niño excepcionalmente fuerte. Es un fenómeno que conviene seguir de cerca desde Chile, porque suele alterar las lluvias y la pesca a lo largo de toda la costa del Pacífico.
 [ES]
-Fuente: Emol
+Fuentes: Al Jazeera.
 [ITEM]
 [ES]
-Lula nombra a un banquero en Hacienda y la bolsa de São Paulo se dispara
+Empresarios chinos piden a EE. UU. retirar los nuevos aranceles.
 [ES]
-Luiz Carlos Trabuco, presidente de Bradesco, aceptó dirigir Hacienda en el próximo Gabinete de Lula, y se espera de él un ajuste fiscal. Los mercados lo celebraron: la bolsa paulista subió más de un 6% el jueves.
+El Consejo Chino para el Fomento del Comercio Internacional rechazó la propuesta de Washington de imponer aranceles adicionales a China y a otras 13 economías tras una investigación bajo la Sección 301 por un supuesto "exceso de capacidad estructural". Pekín se reserva el derecho a tomar "medidas necesarias", y Brasil ya advirtió que "no cederá ante este tipo de amenazas". Para economías exportadoras como la chilena, una nueva ronda de guerra comercial entre sus dos mayores socios es una mala noticia.
 [ES]
-Fuentes: El País, Clarín
-[ITEM]
-[ES]
-Costa Rica le niega la entrada a la relatora de la ONU Francesca Albanese
-[ES]
-Migración rechazó el ingreso de Albanese, relatora especial para los territorios palestinos ocupados, alegando una "alerta internacional por vínculos con actos terroristas". Albanese viajaba invitada por la Universidad de Costa Rica para recibir un doctorado honoris causa y dijo que nunca se había sentido "tan humillada". El tribunal constitucional emitió una orden cautelar para suspender cualquier expulsión.
-[ES]
-Fuentes: La Tercera, El País, Al Jazeera
+Fuentes: Xinhua Español, The Guardian.
 [EN]
 US & International.
 [ITEM]
 [EN]
-New Zealand ends up with a hung parliament
+Victoria's Labor government is wiped out after 12 years.
 [EN]
-Final results leave Prime Minister Christopher Luxon's National-led coalition one seat short of a majority: National won 40 of 130 seats, ACT 13 and NZ First 12. Luxon now needs the centrist Opportunity Party, and if talks fail, New Zealanders could be heading back to the polls. A Labour-led government isn't mathematically possible.
+Premier Ben Carroll conceded Victoria's state election to the Liberal–National Coalition and also lost his own seat of Niddrie, which Labor had held for its entire 50-year history. It is the first time a Victorian premier has lost their seat at a state election, and Jess Wilson, 36, becomes the state's youngest leader since federation and its first popularly elected female premier. "This is a significant loss for Labor," Carroll said, taking full responsibility.
 [EN]
-Sources: BBC News, DW, Al Jazeera, Xinhua
+Sources: The Guardian.
 [ITEM]
 [EN]
-Guinea-Bissau's junta pushes elections back to 2028
+Taiwan votes in local elections under Chinese pressure.
 [EN]
-Exactly a year after seizing power with a promise to restore civilian rule within 12 months, the military has postponed the vote set for December 6. Transitional President Gen. Horta N'Tam decreed that presidential and parliamentary elections will now be held on 26 November 2028. DW notes this comes as opposition figures across Africa report growing pressure.
+Polls have closed in Taiwan's closely watched local elections, a key test for the governing Democratic Progressive Party, with the Taipei mayoral race in a Kuomintang stronghold drawing the most attention. Candidates mostly campaigned on transport and childcare, but China sent warplanes and publicly attacked the progressive candidate for Taipei mayor, and officials warn of Chinese influence operations on Threads.
 [EN]
-Sources: BBC News, DW
+Sources: Reuters, DW, Al Jazeera, Washington Post.
 [ITEM]
 [EN]
-Albania's "Flamingo Revolution": young people choosing to stay and protest
+Hackers breach the US Air Force's flagship cloud as UK pensions go offline.
 [EN]
-Youth protests against corruption and a rigid political system have shaken Prime Minister Edi Rama's government. In one symbolic act, students burned a suitcase outside the Education Ministry to protest the emigration that has drained the country. DW reports that the movement shows fewer young Albanians are willing to leave in search of a better future, and more are choosing to fight for one at home.
+Reuters reports that hackers got into Cloud One, one of the US military's biggest cloud platforms, which runs on Microsoft, Amazon, Oracle and Alphabet infrastructure. The intrusion, found during an upgrade, could expose tactical, personnel and logistics data, and Cyber Command has been called in, although the Pentagon says its systems are secure. In the UK, nearly all Department for Work and Pensions online services stayed down on Saturday after a "cyber incident," and a former government CTO says he strongly suspects hackers.
 [EN]
-Source: DW
+Sources: Reuters, BBC News, Aftonbladet.
 [ITEM]
 [EN]
-Cheaper HIV prevention jab reaches Africa
+Israeli strike kills two staff at an MSF clinic in Gaza.
 [EN]
-The first global shipment of generic lenacapavir arrived in Zambia this week, with Uganda next, according to the Global Fund. The twice-yearly injection is nearly 100% effective at preventing HIV, and the cheaper version could greatly widen access where the disease burden is highest.
+Doctors Without Borders says an Israeli strike killed two of its staff at a Gaza clinic that was "clearly marked" with its logos and whose location the Israeli military knew. Israel says it targeted "Hamas terrorists," and the World Health Organization has condemned the strike.
 [EN]
-Source: BBC News
+Sources: BBC News, Al Jazeera, Reuters.
 [ITEM]
 [EN]
-Europe's cost-of-living squeeze returns as energy prices surge
+Puerto Ricans take to the streets in a "Day of National Outrage".
 [EN]
-Al Jazeera reports that eurozone inflation is climbing again as energy costs jump, and that households are borrowing to make ends meet as winter arrives. In the UK, the Bank of England's Andrew Bailey warned that banks may pass a £1.5bn tax rise on to customers.
+Thousands of retirees, university students, bus drivers and others marched in San Juan against record electricity rates, the rising cost of living and failing basic services. AP describes the march as a response to a deteriorating standard of living on the island, with anger focused on high costs and unreliable basic services.
 [EN]
-Sources: Al Jazeera, The Guardian
+Sources: Al Jazeera, AP News.
 [ITEM]
 [EN]
-UK pensions and benefits systems knocked offline by a "cyber incident"
+Serbia's student movement picks a chemistry professor for president.
 [EN]
-Almost all of the UK Department for Work and Pensions' pensions and benefits systems went offline after a cyber incident whose nature isn't yet known. Lib Dem leader Ed Davey called it "deeply alarming," pointing to the huge amount of sensitive financial data the department holds.
+After ousting strongman Aleksandar Vučić, Serbia's Student List has nominated academic Radomir Saičić as its presidential candidate, and he accused the "outgoing regime" of trying to collapse the state. Separately, the arrest of pro-Vučić Informer TV owner Dragan J. Vučićević has raised the question of whether Serbia is starting to hold the old media machine to account or simply seeing another power struggle.
 [EN]
-Source: The Guardian
+Sources: DW.
 [ITEM]
 [EN]
-Flu season arrives early in Norway and the UK (NRK, Norway)
+Sweden braces for a fuel price jump, and fears empty pumps (from NRK, Norway).
 [EN]
-Norway's Institute of Public Health says this winter's flu outbreak is under way, with more people sick enough to need hospital care and Covid cases rising at the same time. Officials are urging people to get vaccinated now. In the UK, the head of the NHS warned of a "horrible spike" as flu admissions surge.
+Norway's NRK reports that Sweden's fuel taxes go back up on Tuesday, making petrol and diesel several kronor more expensive. The industry fears some stations will run dry in the final rush before the increase. In Stockholm, M, L and KD are proposing to cut fuel tax to the EU minimum in the first half of 2027.
 [EN]
-Sources: NRK (translated from Norwegian), BBC News
+Sources: NRK, SVT Nyheter.
 [ITEM]
 [EN]
-A debut novel about Sámi lives wins Norway's Brage Prize (NRK, Norway)
+Zelensky questions Trump's "friend" Putin as the drone war escalates.
 [EN]
-Remi Skytterstad became the first debut author ever to win the Brage Prize for fiction, with a novel about Sámi lives. "This was not expected, it's completely insane," he said at Thursday's ceremony in Oslo, where 213 titles were in the running.
+Zelensky urged Washington to pressure Moscow and called Donald Trump's friendship with Vladimir Putin "strange," while Trump said "we want to make a deal" and blamed the two leaders' "hate" for the lack of peace. Overnight, Russia said it downed 1,246 Ukrainian drones, and both sides accused each other of massive drone attacks.
 [EN]
-Source: NRK (translated from Norwegian)
+Sources: AP News, Washington Post, Reuters, Aftonbladet.
 [EN]
 Tech & Niche.
 [ITEM]
 [EN]
-AI may change what it means to be a theoretical physicist
+Washington's new state capitalism: Intel's 10% and Huang's return.
 [EN]
-Physicist Suvrat Raju built a benchmark from unpublished research problems that each take top physicists about a day to solve. By the time it was finished, GPT-6 Astra was solving nearly 90% of them. When the researchers showed it the human answers for the ones it "missed," the model argued, correctly, that the humans had made subtle errors, so it effectively solved 49 of 50. The field is now asking what physicists are for once the calculation itself is cheap.
+Ars Technica, citing a federal lawsuit, reports that in 2025 a Commerce Department lawyer told Intel's CFO not to make the "mistake of thinking that this is a negotiation": hand over a 10% stake or lose promised grants. El País describes Trump's push to get Jensen Huang reinstated at Nvidia as the culmination of systematic government interference in private companies, and the New York Times reports that his embrace of Xi and Huang has stunned China hawks in Washington.
 [EN]
-Source: Ars Technica
+Sources: Ars Technica, El País, The New York Times.
 [ITEM]
 [EN]
-FCC clears SpaceX for up to a million "data centre" satellites
+Nvidia pauses server shipments to Southeast Asia.
 [EN]
-The FCC gave SpaceX conditional authorization for up to 1 million Starmind satellites meant to act as orbital AI data centres, which would multiply the number of satellites in orbit roughly 50-fold. The ruling doesn't settle whether space data centres are technically or economically viable, but it gives Musk's company years of leeway to find out.
+According to the Wall Street Journal, via TechCrunch, Nvidia told partners including Dell and Super Micro to pause server shipments to Malaysia, Singapore, Thailand and Indonesia while it checks compliance with US export rules. Chinese firms had been renting Nvidia compute remotely from data centres there, a loophole Commerce closed this month, and one think tank estimates such facilities supply about 24% of China's AI computing power.
 [EN]
-Sources: Ars Technica, BBC News
+Sources: TechCrunch.
 [ITEM]
 [EN]
-An AI agent buys pizza — and retail workers push back on AI
+AI booking bots drive UK restaurants back to the telephone.
 [EN]
-Nine mini margherita pizzas from Papa John's became the UK's first purchase made by an AI agent using cardless bank payments, as part of an FCA sandbox trial with Lloyds and TrueLayer. Meanwhile, in the US on Black Friday, Walmart workers describe AI scheduling and "safety alert" systems that pull them away from customers, and they are calling for guardrails.
+Meta's Muse assistant launched in the UK this week and can book tables and shop for you with access to your email. Restaurateurs say AI agents are swarming their systems: Resy has banned bots after agents refreshed pages thousands of times and grabbed all the reservations, and some owners are going back to phone-only bookings, though even then the bots keep calling.
 [EN]
-Source: The Guardian
+Sources: The Guardian.
 [ITEM]
 [EN]
-"AI made self-hosting fun again" tops Hacker News
+Card skimmers hidden in WebRTC hit big shopping sites before Black Friday.
 [EN]
-Developer Jan-Lukas Else writes that because his infrastructure lives in Git as Docker Compose files and scripts, AI coding agents have taken the friction out of trying new services. Ideas he would have shelved for lack of an evening now actually happen. In the same top ten, a self-hoster documents how bad hard-drive prices have become: a 20TB drive that cost $249.99 two years ago now sells for $549.99 "on sale."
+Researchers found a card-skimming script on the online stores of Lascana, Samsonite, American Tourister, Revolve and FWRD, and watched it send test card details to a third party before the store even processed the payment. All five removed the script on November 24–25 after being notified, but nobody knows how many shoppers' details were captured. It was the top-voted story on Hacker News today.
 [EN]
-Sources: Hacker News, janlukas.blog, https://www.google.com/url?q=http://blog.ktz.me&source=gmail&ust=1795861213095000&sa=E
+Sources: Hacker News, Infohawk.
 [ITEM]
 [EN]
-"Ransomware recovery" firm indicted for secretly paying the ransom
+A developer flags AI coding skills that quietly phone home.
 [EN]
-The CTO of Florida's RansomwareHelp has been charged with wire fraud after an FBI sting. The company promised proprietary cryptography and urged victims not to pay attackers, but allegedly just paid the attackers for decryption keys and billed clients a markup.
+A GitHub issue that is trending on Hacker News says three Convex quickstart skills send the user's one-sentence app idea to a remote host labelled as telemetry, pipe remote scripts into bash, and split a download-and-run step in two specifically to avoid "harness safety classifiers." The reporter thinks it was a well-meant onboarding shortcut, not malice, but argues it removes a check users and administrators chose to have.
 [EN]
-Sources: Krebs on Security, via Hacker News
+Sources: Hacker News, GitHub.
+[ITEM]
+[EN]
+Google's DeepCrossAttention promises transformers that train up to 3x faster.
+[EN]
+Google Research describes DeepCrossAttention, which replaces plain residual "skip" connections with learnable, depth-wise cross-attention over earlier layers' outputs, so information doesn't get diluted as it passes through dozens of layers. Google says models reach the same quality up to three times faster with barely any extra parameters, and the post drew lively debate on Hacker News.
+[EN]
+Sources: Google Research, Hacker News.
+[ITEM]
+[EN]
+Unkernel runs a real Linux kernel in your browser.
+[EN]
+Unkernel compiles the actual Linux kernel to WebAssembly and boots a Debian image in a browser tab, with each virtual CPU running in its own Web Worker and hot code JIT-compiled to WebAssembly. It even keeps a persistent disk in your browser's storage and supports graphics and sound, which makes it a delightful bit of hacker craftsmanship.
+[EN]
+Sources: Hacker News.
+[ITEM]
+[EN]
+AI goes from math dunce to genius, and mathematicians are uneasy.
+[EN]
+DW traces how chatbots that once botched simple sums are now tackling problems like the Riemann hypothesis, including a claimed proof by Anthropic mathematician Levent Alpöge with AI assistance. The piece asks which mathematical skills humans will still need, and why some mathematicians say they should be "deeply worried."
+[EN]
+Sources: DW.
 [SV]
 Sverige.
 [ITEM]
 [SV]
-Centerpartiet svänger högerut – ja till Kristersson på måndag
+Centerpartiet avgör på söndag – och 155 medlemmar säger nej till Kristersson.
 [SV]
-C-ledningen rekommenderar att partiet röstar ja till Ulf Kristersson i måndagens statsministeromröstning och går in i en fyrpartiregering med M, KD och L. Beslutet i partistyrelsen var inte enhälligt och förtroenderådet har sista ordet. Flera tunga namn, bland andra Anna Lasses och förre partiledaren Muharrem Demirok, säger nej, och Centerkvinnorna går emot ledningen. Elisabeth Thand Ringqvist medger att det "finns ett beroende av SD", men lovar inga eftergifter.
+Centerpartiets förtroenderåd, 59 ledamöter, röstar under helgen om partiledningens förslag att ingå i en borgerlig minoritetsregering med M, L och KD inför måndagens statsministeromröstning. 155 centerpartister, bland dem Martin Ådahl, uppmanar rådet att säga nej och skriver att förslaget bryter partiets "allra rödaste linje" och saknar tillräckligt med centerpolitik. Ådahl varnar för att en sådan regering i praktiken kräver ett "ganska nära samarbete" med SD, och partiet beskrivs som djupt splittrat.
 [SV]
-Källor: SVT Nyheter, DN, Aftonbladet, SvD
+Källor: Aftonbladet, SvD, SVT Nyheter, DN.
 [ITEM]
 [SV]
-Förtroendet för Magdalena Andersson störtdyker
+M, L och KD lägger fram gemensam budgetmotion.
 [SV]
-I Demoskops mätning har S-ledaren halkat ned till fjärde plats, efter Kristersson, Ebba Busch och Jimmie Åkesson. Demoskops opinionschef Johan Martinsson kallar det "ganska dramatiskt" och förklarar raset främst med att hon inte lyckats bilda regering trots att sidan som ville ha henne som statsminister fick majoritet.
+De tre partierna presenterade en gemensam budgetmotion för 2027 med bland annat permanent slopad indexering av elskatten, en sänkt bränsleskatt till EU:s miniminivå första halvåret 2027, en ny elbilspremie och fler poliser. De skriver att det finns "goda möjligheter att göra justeringar" om en ny regering får tillträda efter måndagens omröstning.
 [SV]
-Källor: Aftonbladet, DN
+Källor: SVT Nyheter.
 [ITEM]
 [SV]
-Brand i Björkdalsgruvan – gruvarbetare i räddningskammare
+V håller fast vid kravet på ministerposter.
 [SV]
-En personbil började brinna under jord i guldgruvan utanför Kåge i Skellefteå kommun på fredagsmorgonen, och 27 personer tog skydd i en räddningskammare. Räddningstjänsten säger att de inte är i fara och kan sitta där i 8–10 timmar. Gruvan ventileras, och räddningstjänsten är redo att hämta ut personalen.
+Nooshi Dadgostar lovar att göra sitt yttersta i förhandlingarna om Centerpartiet röstar nej till Kristersson, men kravet på ministerposter står fast, enligt V-ledamoten Jonas Lindberg, som säger att det just nu är bättre med en högerregering än att S driver högerpolitik. Samtidigt vill Vänsterpartiet fortfarande komma överens med Centern i regeringsfrågan.
 [SV]
-Källor: SVT Nyheter, Aftonbladet, SvD
+Källor: DN, Aftonbladet.
 [ITEM]
 [SV]
-Elprischock i södra Sverige
+BAE Systems Hägglunds landar sin största affär någonsin.
 [SV]
-En eluppvärmd villa i elområde SE4 kan få en novemberräkning på cirka 6 300 kronor, den högsta sedan rekordet i december 2022, jämfört med 3 600 kronor i oktober. Skyhöga gaspriser i Europa, låga vattenmagasin och avstängda kärnkraftverk ligger bakom, och vintern väntas bli dyr i hela södra Sverige.
+Försvarsföretaget BAE Systems Hägglunds har fått en order värd över 60 miljarder kronor, den största i företagets historia. Affären välkomnas i Örnsköldsvik, men kommunalrådet ser utmaningar, bland annat när det gäller kommunikationer.
 [SV]
-Källa: SvD
-[ITEM]
-[SV]
-Officer misstänks för brott mot Sveriges säkerhet
-[SV]
-En officer vid Försvarsmakten misstänks för grov obehörig befattning med hemlig uppgift, ett brott som ska ha begåtts förra året. Säpo utreder under ledning av Riksenheten för säkerhetsmål. Till skillnad från spioneri behöver åklagaren inte bevisa att uppgifterna nått främmande makt.
-[SV]
-Källor: DN, SvD, Aftonbladet
+Källor: SVT Nyheter.
 [SECTION connecting_dots]
 [EN]
 Connecting the Dots.
 [EN]
 This section is interpretation and informed speculation, not reported news — it's me thinking out loud about patterns across today's stories, not a claim of fact. Treat it as a starting point for your own thinking, distinct from everything sourced above.
 [EN]
-Patricio, the thread I keep seeing today is energy and war costs reaching ordinary household budgets. The Iran conflict is now killing foreign workers in Kuwait, Europe's inflation is climbing again on energy, southern Sweden faces its most expensive electricity bill in four years, and Iran itself is cutting bread and petrol subsidies. When the Gulf is this unsettled, oil and gas prices tend to stay high and volatile. For Chile, which imports most of its fuel, that pressure arrives directly, at the petrol pump and in electricity contracts.
+Patricio, the thread that ties today together is the cost of the Gulf war spreading quietly through the global economy. The US blockade of Iran and Tehran's promise to keep Hormuz shut are no longer just a Middle East story: they show up in a Norwegian airline going bust over jet fuel, in Sweden fighting about fuel taxes, and in Puerto Ricans marching over electricity bills. For Chile, which imports most of its oil, that means sticky fuel and power costs feeding into transport, food and industrial prices, at the very moment unemployment has hit 10%. That combination, energy-driven inflation pressure plus a weak labour market, leaves policymakers with little room, and it's worth watching how the Banco Central talks about it in December.
 [EN]
-The second thread is the peso, and it's the one most worth watching from Santiago. A dollar around $1,040–1,050 CLP, with JP Morgan talking about $1,200 by mid-2027, combines a strong dollar and expected Fed hikes with falling copper prices and weak local activity. The Congo story makes it worse: Chile's copper shipments are down 15% this year while Congo, largely through Chinese-owned mines, closes the gap. Over the long run, copper demand from AI data centres and grids should stay strong (SpaceX's million-satellite plan and Nvidia's chip politics are reminders of how much physical infrastructure AI needs). The real question is whether Chile captures that demand or loses ground to Congo. For your own finances, a weaker peso makes imports, travel and anything priced in dollars more expensive. This isn't a confident forecast, but it's a reason to think about how much of your exposure is in pesos.
+The Codelco news is the most direct hit to your wallet as a Chilean. A company that earns record EBITDA on high copper prices but still posts a loss, writes down a century-old icon and sees output fall 9% is telling us that Chile isn't capturing the copper boom the way the price chart suggests. If Chuquicamata really winds down by 2028, the fiscal maths, the Calama economy and Chile's share of global supply all shift. Emol also flagged the dollar trading above $1,000 pesos: that helps exporters and the Treasury's peso revenues, but it makes everything imported, starting with fuel, more expensive. My hedged read is a peso that stays weak while the market questions whether the state miner can turn itself around, rather than a short-term blip.
 [EN]
-Third, the politics. Spain looks likely to move right on Sunday, with Vox possibly entering government. Sweden's Centre Party just split over joining a right-leaning government, and New Zealand ended up with a hung parliament. The EU couldn't agree on a budget or on Ukraine's loan. Spain is one of Chile's biggest investors, so a change of government in Madrid matters for Spanish banks, utilities and infrastructure firms operating in Chile, though probably more in tone than in substance at first. Closer to home, Lula appointing a banker as finance minister drew a 6% rally in São Paulo, which suggests that in this climate markets reward governments that signal fiscal discipline. That's a dynamic Kast's government will recognise.
+Politically, today is full of fast turnovers: Spain is likely about to end Sánchez's eight years, Victoria's voters threw out a 12-year government and its premier's own seat, and Sweden's Centre Party is splitting over whether to back Kristersson. Add Trump openly using state leverage over Intel and Nvidia, and a new US tariff round against 14 economies, and the picture is one of governments putting their thumb on markets everywhere. For Chile, the risk is getting caught between Washington's tariff pressure and Beijing's retaliation, since China and the US are your two biggest customers. The Rabat impeachment vote on Monday and the public-sector pay deal suggest Kast's government will spend political capital on fights at home just as the external picture gets harder.
 [EN]
-Finally, a quieter signal: Chile's competition regulator going after Apple for $80M+ fits a global pattern of mid-sized countries asserting rules over tech giants, as Brazil and the EU already have. Put that next to Nvidia now being policed through Southeast Asian supply chains, and the picture is a tech world getting more regulated and more geopolitical. Chile could benefit as a "neutral" host for data centres and treaties (Kast is also pushing Valparaíso as host of the High Seas Treaty secretariat), but that's an opportunity to watch, not something already won.
+Finally, a quieter pattern: people are pushing back against AI at the edges. Restaurants are going back to the telephone to beat booking bots, developers are calling out AI coding tools that slip past safety checks, and shoppers' card details are leaking through yet another layer of web code. Meanwhile AI is cracking problems mathematicians once thought were decades away. I'm not making a prediction here, but the gap between what AI can do and how far people trust it seems to be widening, and that gap is where both regulation and new business models tend to show up.
 [SECTION hypothesis_watch]
 [EN]
 Hypothesis Watch.
 [EN]
-An ongoing daily watch on your standing hypothesis about AI, the inner voice and social cohesion: a quick scan of today's stories read against the recent trend in the log, not a full re-argument.
+An ongoing daily scan of your standing hypothesis, (a) shrinking authority cycles → (b) a stronger internal voice → (c) a move away from individualism → (d) more collaboration and social cohesion, read against the recent run in the log rather than today alone. It's not a full re-argument.
 [EN]
-(a) Shrinking authority cycles — support. The clearest signal today is Ars Technica's report that a frontier model not only solved unpublished physics problems but corrected the human-written answers. That's expert authority being overturned within months, not decades, and it follows yesterday's AI proofs overturning ω consensus and last week's Riemann episode. Politics adds to it: Magdalena Andersson's fall to fourth place in confidence (Aftonbladet) and the likely end of Sánchez's eight years both show how fast leadership capital burns away. Today extends an unbroken run of supporting signals for (a) going back the whole of November, so this link is the hypothesis's most consistent one by far.
+The recent log is very lopsided. Across the last 60 entries, going back to mid-September, (a) has logged a supporting signal every single time, and (b) has been supportive on 53 of 60. (c) has broken from neutral only twice (Serbia's Student List on Nov 17, Albanian youth organising on Nov 27), and (d) only four times, most recently the Lean community on Nov 22. Today fits the pattern well. For (a): Victoria's Labor government fell after 12 years and its premier lost his own seat (The Guardian), Sánchez's eight-year run looks likely to end tomorrow (Reuters), and Chuquicamata, the symbol of Chilean copper for a century, was written down by US$3 billion (Emol). On the AI side, DW describes AI going "from math dunce to genius" within about a year (DW). For (b): restaurant owners choosing the phone over AI booking agents (The Guardian) and a developer publicly refusing to accept AI skills that bypass safety checks (GitHub) are small, concrete cases of people trusting their own judgment over automated convenience.
 [EN]
-(b) Stronger internal voice — support, with a caveat. The "AI made self-hosting fun again" essay is a small but clean example of people using AI to take back control of their own infrastructure instead of renting it, and the Walmart workers speaking out about AI alert systems show people trusting their own judgment over the tool. The counterweight is the UK's first AI-agent purchase (The Guardian), a step toward handing everyday decisions to software. That fits the pattern in the log: (b) has been mostly supportive, with occasional neutral days when delegation stories dominate.
-[EN]
-(c) Away from individualism — tentative support. DW's report on Albania's "Flamingo Revolution", where young people choose to stay and organise collectively rather than emigrate one by one, is a rare signal that leans toward (c) rather than being just issue-based protest. It echoes the single Serbia signal from November 17. BBC's pair of lifestyle stories (young hikers swapping screens for walking groups versus solo dining as "self-care") nicely shows how mixed this still is. One or two cases a month is not a trend, so (c) remains the chain's weak link.
-[EN]
-(d) Collaboration and cohesion — neutral. Cohesion at the level of states went backwards today: the EU summit broke up early, New Zealand has a hung parliament and Sweden's Centre Party is splitting. That matches the long streak of neutral readings for (d). There's no integral review on file yet, so no earlier monthly verdict to weigh against. The first one is due with the December 1 brief.
+On (c), there is a modest echo: Serbia's Student List, the leaderless movement that drove the Nov 17 signal, has now collectively chosen a professor rather than a charismatic figurehead as its presidential candidate (DW). Coming right after yesterday's Albanian signal, that makes two tentative (c) days in a row, the closest thing to a streak that sub-claim has had, but it is still a single movement maturing rather than a broad shift, so I'd log it as tentative. Sweden's 155 Centre Party dissidents and Puerto Rico's "Day of National Outrage" are collective, but they are party- and issue-based. (d) stays neutral: the EU budget summit's collapse and the escalating Iran blockade outweigh anything cohesive at the state level today. There's no prior integral review on file yet, so there's no verdict to measure this against.
